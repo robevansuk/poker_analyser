@@ -1,0 +1,2741 @@
+Game #10935734940 starts.
+
+#Game No : 10935734940 
+***** Hand History for Game 10935734940 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:48:55 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25.60 USD )
+Seat 1: imadeulook11 ( $29.15 USD )
+Seat 3: mwnec ( $15 USD )
+Seat 4: pkrOD ( $25 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+mwnec posts big blind [$0.25 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d As ]
+mwnec checks
+pkrOD checks
+IceF1shing folds
+imadeulook11 folds
+Kuujj checks
+** Dealing Flop ** [ 2c, Qh, 6h ]
+Kuujj checks
+mwnec bets [$0.25 USD]
+pkrOD raises [$1 USD]
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Turn ** [ 8h ]
+mwnec checks
+pkrOD bets [$3 USD]
+mwnec calls [$3 USD]
+** Dealing River ** [ Ah ]
+mwnec checks
+pkrOD bets [$10 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $18.41 USD
+ Game #10935739476 starts.
+
+#Game No : 10935739476 
+***** Hand History for Game 10935739476 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:50:04 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25.35 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $10.75 USD )
+Seat 4: pkrOD ( $29.16 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d 8c ]
+pkrOD folds
+IceF1shing folds
+imadeulook11 raises [$0.75 USD]
+Kuujj folds
+mwnec folds
+imadeulook11 does not show cards.
+imadeulook11 wins $1.10 USD
+ Game #10935741611 starts.
+
+#Game No : 10935741611 
+***** Hand History for Game 10935741611 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:50:38 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25.25 USD )
+Seat 1: imadeulook11 ( $29.40 USD )
+Seat 3: mwnec ( $10.50 USD )
+Seat 4: pkrOD ( $29.16 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Qc ]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.15 USD]
+pkrOD raises [$1.75 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $2.25 USD
+ Game #10935743435 starts.
+
+#Game No : 10935743435 
+***** Hand History for Game 10935743435 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:51:06 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25.25 USD )
+Seat 1: imadeulook11 ( $29.40 USD )
+Seat 3: mwnec ( $10.25 USD )
+Seat 4: pkrOD ( $29.41 USD )
+pkrOD posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 8c ]
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+imadeulook11 checks
+** Dealing Flop ** [ 3d, 6h, Jd ]
+pkrOD bets [$1 USD]
+wilmacht has joined the table.
+imadeulook11 folds
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $1.72 USD
+ Game #10935745555 starts.
+
+#Game No : 10935745555 
+***** Hand History for Game 10935745555 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:51:39 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25.25 USD )
+Seat 1: imadeulook11 ( $29.15 USD )
+Seat 3: mwnec ( $10 USD )
+Seat 4: pkrOD ( $29.88 USD )
+Seat 6: wilmacht ( $10 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 8d ]
+mwnec calls [$0.25 USD]
+pkrOD raises [$1 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ 2c, 3s, Qh ]
+mwnec checks
+pkrOD bets [$1.80 USD]
+mwnec calls [$1.80 USD]
+** Dealing Turn ** [ Ah ]
+mwnec checks
+pkrOD checks
+** Dealing River ** [ 7s ]
+mwnec checks
+pkrOD checks
+mwnec shows [ Ks, Ts ]high card Ace.
+pkrOD shows [ 3c, 8d ]a pair of Threes.
+pkrOD wins $5.66 USD from the main pot with a pair of Threes.
+ Game #10935748336 starts.
+
+#Game No : 10935748336 
+***** Hand History for Game 10935748336 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:52:24 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $7.20 USD )
+Seat 4: pkrOD ( $32.74 USD )
+Seat 6: wilmacht ( $10 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 9d ]
+pkrOD folds
+imadeulook11 folds
+Kuujj folds
+mwnec does not show cards.
+mwnec wins $0.35 USD
+ Game #10935750348 starts.
+
+#Game No : 10935750348 
+***** Hand History for Game 10935750348 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:52:59 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $7.30 USD )
+Seat 4: pkrOD ( $32.74 USD )
+Seat 6: wilmacht ( $10 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 7h ]
+imadeulook11 folds
+Kuujj raises [$0.75 USD]
+mwnec calls [$0.65 USD]
+pkrOD folds
+** Dealing Flop ** [ Jh, 3s, 6s ]
+mwnec checks
+Kuujj checks
+** Dealing Turn ** [ Js ]
+mwnec bets [$0.75 USD]
+Kuujj folds
+mwnec does not show cards.
+mwnec wins $2.42 USD
+ Game #10935753408 starts.
+
+#Game No : 10935753408 
+***** Hand History for Game 10935753408 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:53:50 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $8.22 USD )
+Seat 4: pkrOD ( $32.49 USD )
+Seat 6: wilmacht ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s Td ]
+imadeulook11 raises [$1 USD]
+Kuujj folds
+mwnec folds
+pkrOD folds
+IceF1shing folds
+imadeulook11 does not show cards.
+imadeulook11 wins $1.35 USD
+ Game #10935755346 starts.
+
+#Game No : 10935755346 
+***** Hand History for Game 10935755346 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:54:23 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.64 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $29.40 USD )
+Seat 3: mwnec ( $8.22 USD )
+Seat 4: pkrOD ( $32.39 USD )
+Seat 6: wilmacht ( $10 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 6c ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD folds
+IceF1shing folds
+wilmacht checks
+** Dealing Flop ** [ Ah, Ts, 4c ]
+wilmacht checks
+mwnec checks
+** Dealing Turn ** [ 8h ]
+wilmacht checks
+mwnec bets [$0.25 USD]
+wilmacht folds
+mwnec does not show cards.
+mwnec wins $0.82 USD
+ Game #10935758628 starts.
+
+#Game No : 10935758628 
+***** Hand History for Game 10935758628 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:55:19 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.54 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $29.40 USD )
+Seat 3: mwnec ( $8.54 USD )
+Seat 4: pkrOD ( $32.39 USD )
+Seat 6: wilmacht ( $9.75 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 6c ]
+Kuujj raises [$0.75 USD]
+mwnec calls [$0.75 USD]
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+** Dealing Flop ** [ Th, 9s, Ts ]
+Kuujj bets [$1 USD]
+mwnec folds
+Kuujj does not show cards.
+Kuujj wins $2.76 USD
+ Game #10935761115 starts.
+
+#Game No : 10935761115 
+***** Hand History for Game 10935761115 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:56:04 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.54 USD )
+Seat 2: Kuujj ( $26.01 USD )
+Seat 1: imadeulook11 ( $29.15 USD )
+Seat 3: mwnec ( $7.79 USD )
+Seat 4: pkrOD ( $32.39 USD )
+Seat 6: wilmacht ( $9.65 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 9c ]
+mwnec folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht raises [$2.50 USD]
+imadeulook11 folds
+Kuujj folds
+pkrOD folds
+wilmacht does not show cards.
+wilmacht wins $3.85 USD
+ Game #10935763285 starts.
+
+#Game No : 10935763285 
+***** Hand History for Game 10935763285 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:56:46 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.54 USD )
+Seat 2: Kuujj ( $25.76 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $7.79 USD )
+Seat 4: pkrOD ( $31.39 USD )
+Seat 6: wilmacht ( $11 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 4h ]
+pkrOD folds
+IceF1shing raises [$0.80 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.55 USD]
+** Dealing Flop ** [ Js, 4s, 2s ]
+mwnec checks
+IceF1shing bets [$1.10 USD]
+mwnec folds
+IceF1shing does not show cards.
+IceF1shing wins $2.72 USD
+ Game #10935765498 starts.
+
+#Game No : 10935765498 
+***** Hand History for Game 10935765498 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:57:29 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.36 USD )
+Seat 2: Kuujj ( $25.66 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $6.99 USD )
+Seat 4: pkrOD ( $31.39 USD )
+Seat 6: wilmacht ( $11 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Ks ]
+IceF1shing raises [$0.80 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.70 USD]
+pkrOD raises [$2.75 USD]
+IceF1shing folds
+mwnec is all-In  [$6.19 USD]
+pkrOD calls [$3.99 USD]
+** Dealing Flop ** [ 5c, Kc, Qs ]
+** Dealing Turn ** [ 2s ]
+** Dealing River ** [ Ad ]
+pkrOD shows [ Js, Ks ]a pair of Kings.
+mwnec shows [ Ac, Jh ]a pair of Aces.
+mwnec wins $14.05 USD from the main pot with a pair of Aces.
+ Game #10935767977 starts.
+
+#Game No : 10935767977 
+***** Hand History for Game 10935767977 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:58:18 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.56 USD )
+Seat 2: Kuujj ( $25.66 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $14.05 USD )
+Seat 4: pkrOD ( $24.40 USD )
+Seat 6: wilmacht ( $11 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 2c ]
+wilmacht folds
+imadeulook11 did not respond in time
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+IceF1shing checks
+** Dealing Flop ** [ Kc, 5d, 4s ]
+pkrOD checks
+IceF1shing checks
+mwnec checks
+** Dealing Turn ** [ 9c ]
+pkrOD bets [$1.25 USD]
+IceF1shing folds
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $1.97 USD
+ Game #10935771284 starts.
+
+#Game No : 10935771284 
+***** Hand History for Game 10935771284 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 18:59:26 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.31 USD )
+Seat 2: Kuujj ( $25.66 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $13.80 USD )
+Seat 4: pkrOD ( $24.87 USD )
+Seat 6: wilmacht ( $11 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 6h ]
+imadeulook11 folds
+Kuujj raises [$0.75 USD]
+mwnec folds
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+Kuujj does not show cards.
+Kuujj wins $1.10 USD
+ Game #10935772916 starts.
+
+#Game No : 10935772916 
+***** Hand History for Game 10935772916 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:00:01 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.21 USD )
+Seat 2: Kuujj ( $26.01 USD )
+Seat 1: imadeulook11 ( $29.05 USD )
+Seat 3: mwnec ( $13.80 USD )
+Seat 4: pkrOD ( $24.87 USD )
+Seat 6: wilmacht ( $10.75 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 8c ]
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD folds
+IceF1shing raises [$1 USD]
+wilmacht folds
+imadeulook11 folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ As, 9h, 3h ]
+mwnec checks
+IceF1shing bets [$1.50 USD]
+mwnec calls [$1.50 USD]
+** Dealing Turn ** [ Tc ]
+mwnec checks
+IceF1shing checks
+** Dealing River ** [ 6h ]
+mwnec checks
+IceF1shing bets [$3.50 USD]
+mwnec calls [$3.50 USD]
+IceF1shing shows [ Ah, 4h ]a flush, Ace high.
+mwnec doesn't show [ Ad, 5d ]a pair of Aces.
+IceF1shing wins $11.74 USD from the main pot with a flush, Ace high.
+ Game #10935775012 starts.
+
+#Game No : 10935775012 
+***** Hand History for Game 10935775012 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:00:47 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $30.95 USD )
+Seat 2: Kuujj ( $26.01 USD )
+Seat 1: imadeulook11 ( $28.80 USD )
+Seat 3: mwnec ( $7.80 USD )
+Seat 4: pkrOD ( $24.87 USD )
+Seat 6: wilmacht ( $10.65 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 6h ]
+mwnec calls [$0.25 USD]
+pkrOD raises [$1 USD]
+IceF1shing calls [$1 USD]
+wilmacht folds
+imadeulook11 calls [$0.90 USD]
+Kuujj folds
+mwnec folds
+** Dealing Flop ** [ 3s, 3h, Kh ]
+imadeulook11 checks
+pkrOD bets [$3 USD]
+IceF1shing folds
+imadeulook11 folds
+pkrOD does not show cards.
+pkrOD wins $6.33 USD
+ Game #10935776851 starts.
+
+#Game No : 10935776851 
+***** Hand History for Game 10935776851 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:01:30 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.95 USD )
+Seat 2: Kuujj ( $25.76 USD )
+Seat 1: imadeulook11 ( $27.80 USD )
+Seat 3: mwnec ( $7.55 USD )
+Seat 4: pkrOD ( $27.20 USD )
+Seat 6: wilmacht ( $10.65 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 4s ]
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+imadeulook11 raises [$0.75 USD]
+Kuujj folds
+mwnec calls [$0.50 USD]
+** Dealing Flop ** [ Ks, 7s, 8d ]
+mwnec bets [$0.25 USD]
+imadeulook11 calls [$0.25 USD]
+** Dealing Turn ** [ 8s ]
+mwnec bets [$0.25 USD]
+imadeulook11 calls [$0.25 USD]
+** Dealing River ** [ 8c ]
+mwnec bets [$0.25 USD]
+imadeulook11 raises [$1.25 USD]
+mwnec calls [$1 USD]
+imadeulook11 shows [ Kc, 7c ]a full house, Eights full of Kings.
+mwnec shows [ Kh, 3h ]a full house, Eights full of Kings.
+imadeulook11 wins $2.42 USD from the main pot with a full house, Eights full of Kings.
+mwnec wins $2.43 USD from the main pot with a full house, Eights full of Kings.
+ Game #10935780152 starts.
+
+#Game No : 10935780152 
+***** Hand History for Game 10935780152 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:02:48 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.95 USD )
+Seat 2: Kuujj ( $25.66 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $7.48 USD )
+Seat 4: pkrOD ( $27.20 USD )
+Seat 6: wilmacht ( $10.65 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 3s ]
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+Kuujj raises [$0.75 USD]
+mwnec calls [$0.65 USD]
+pkrOD folds
+** Dealing Flop ** [ Ah, 7d, Th ]
+mwnec checks
+Kuujj bets [$0.75 USD]
+mwnec calls [$0.75 USD]
+** Dealing Turn ** [ 3d ]
+mwnec checks
+Kuujj checks
+** Dealing River ** [ Ks ]
+mwnec checks
+Kuujj checks
+mwnec shows [ Ac, 2c ]a pair of Aces.
+Kuujj doesn't show [ 5d, 5s ]a pair of Fives.
+mwnec wins $3.09 USD from the main pot with a pair of Aces.
+ Game #10935782301 starts.
+
+#Game No : 10935782301 
+***** Hand History for Game 10935782301 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:03:36 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.95 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $9.07 USD )
+Seat 4: pkrOD ( $26.95 USD )
+Seat 6: wilmacht ( $10.65 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 5d ]
+wilmacht folds
+imadeulook11 raises [$1 USD]
+Kuujj folds
+mwnec folds
+pkrOD folds
+IceF1shing folds
+imadeulook11 does not show cards.
+imadeulook11 wins $1.35 USD
+ Game #10935783843 starts.
+
+#Game No : 10935783843 
+***** Hand History for Game 10935783843 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:04:12 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.70 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $28.07 USD )
+Seat 3: mwnec ( $9.07 USD )
+Seat 4: pkrOD ( $26.85 USD )
+Seat 6: wilmacht ( $10.65 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Ah ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht folds
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $1.60 USD
+ Game #10935785274 starts.
+
+#Game No : 10935785274 
+***** Hand History for Game 10935785274 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:04:45 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.60 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $28.07 USD )
+Seat 3: mwnec ( $8.82 USD )
+Seat 4: pkrOD ( $27.45 USD )
+Seat 6: wilmacht ( $10.40 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Kd ]
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD raises [$1.50 USD]
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $2.10 USD
+ Game #10935787158 starts.
+
+#Game No : 10935787158 
+***** Hand History for Game 10935787158 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:05:27 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.60 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $27.82 USD )
+Seat 3: mwnec ( $8.57 USD )
+Seat 4: pkrOD ( $28.05 USD )
+Seat 6: wilmacht ( $10.30 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 8d ]
+mwnec calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+IceF1shing folds
+wilmacht raises [$1 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+pkrOD folds
+** Dealing Flop ** [ 4d, Tc, 3s ]
+mwnec bets [$1 USD]
+wilmacht calls [$1 USD]
+** Dealing Turn ** [ Kd ]
+mwnec bets [$0.25 USD]
+wilmacht calls [$0.25 USD]
+** Dealing River ** [ 5d ]
+mwnec checks
+wilmacht bets [$2.42 USD]
+mwnec calls [$2.42 USD]
+wilmacht shows [ As, Ad ]a pair of Aces.
+mwnec doesn't show [ Td, 9h ]a pair of Tens.
+wilmacht wins $9.45 USD from the main pot with a pair of Aces.
+ Game #10935791152 starts.
+
+#Game No : 10935791152 
+***** Hand History for Game 10935791152 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:06:49 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $29.60 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $3.90 USD )
+Seat 4: pkrOD ( $27.80 USD )
+Seat 6: wilmacht ( $15.08 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Ks ]
+pkrOD raises [$1 USD]
+IceF1shing calls [$1 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ Qh, Js, Kd ]
+mwnec checks
+pkrOD checks
+IceF1shing bets [$2 USD]
+mwnec folds
+pkrOD calls [$2 USD]
+** Dealing Turn ** [ 4h ]
+pkrOD bets [$6 USD]
+IceF1shing raises [$12.50 USD]
+pkrOD calls [$6.50 USD]
+** Dealing River ** [ Ts ]
+pkrOD is all-In  [$12.30 USD]
+IceF1shing calls [$12.30 USD]
+pkrOD shows [ Ah, Ks ]a straight, Ten to Ace.
+IceF1shing shows [ Tc, Ad ]a straight, Ten to Ace.
+pkrOD wins $26.94 USD from the main pot with a straight, Ten to Ace.
+IceF1shing wins $26.93 USD from the main pot with a straight, Ten to Ace.
+ Game #10935796005 starts.
+
+#Game No : 10935796005 
+***** Hand History for Game 10935796005 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:08:27 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $28.73 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $2.90 USD )
+Seat 4: pkrOD ( $26.94 USD )
+Seat 6: wilmacht ( $15.08 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 5h ]
+pkrOD: lol
+IceF1shing folds
+pkrOD: whoops
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.15 USD]
+pkrOD raises [$0.75 USD]
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ Kc, 3c, Td ]
+mwnec is all-In  [$1.90 USD]
+pkrOD calls [$1.90 USD]
+** Dealing Turn ** [ 5d ]
+** Dealing River ** [ 4c ]
+mwnec shows [ Jc, 7c ]a flush, King high.
+pkrOD shows [ Ah, 5h ]a pair of Fives.
+mwnec wins $5.51 USD from the main pot with a flush, King high.
+ Game #10935797859 starts.
+
+#Game No : 10935797859 
+***** Hand History for Game 10935797859 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:09:06 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $28.73 USD )
+Seat 2: Kuujj ( $25 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $5.51 USD )
+Seat 4: pkrOD ( $24.04 USD )
+Seat 6: wilmacht ( $15.08 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 7c ]
+wilmacht folds
+pkrOD: lol.. bluffed a marginal hand and hits
+imadeulook11 folds
+pkrOD: sheesh
+Kuujj raises [$0.75 USD]
+pkrOD: not my day
+mwnec folds
+pkrOD folds
+IceF1shing folds
+Kuujj does not show cards.
+Kuujj wins $1.10 USD
+ Game #10935799354 starts.
+
+#Game No : 10935799354 
+***** Hand History for Game 10935799354 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:09:38 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $28.48 USD )
+Seat 2: Kuujj ( $25.35 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $5.51 USD )
+Seat 4: pkrOD ( $23.94 USD )
+Seat 6: wilmacht ( $15.08 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 5s ]
+imadeulook11 folds
+Kuujj folds
+mwnec folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10935800583 starts.
+
+#Game No : 10935800583 
+***** Hand History for Game 10935800583 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:10:03 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $28.38 USD )
+Seat 2: Kuujj ( $25.35 USD )
+Seat 1: imadeulook11 ( $27.72 USD )
+Seat 3: mwnec ( $5.51 USD )
+Seat 4: pkrOD ( $24.29 USD )
+Seat 6: wilmacht ( $14.83 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 5h ]
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+IceF1shing raises [$1.30 USD]
+wilmacht folds
+imadeulook11 folds
+mwnec folds
+pkrOD calls [$1.05 USD]
+** Dealing Flop ** [ Ad, 4s, Td ]
+pkrOD bets [$3 USD]
+IceF1shing calls [$3 USD]
+** Dealing Turn ** [ 7d ]
+pkrOD checks
+IceF1shing checks
+** Dealing River ** [ 8c ]
+pkrOD bets [$7.50 USD]
+IceF1shing calls [$7.50 USD]
+pkrOD shows [ 6s, 5h ]a straight, Four to Eight.
+IceF1shing doesn't show [ As, Jh ]a pair of Aces.
+pkrOD wins $22.99 USD from the main pot with a straight, Four to Eight.
+ Game #10935804411 starts.
+
+#Game No : 10935804411 
+***** Hand History for Game 10935804411 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:11:26 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.35 USD )
+Seat 1: imadeulook11 ( $27.47 USD )
+Seat 3: mwnec ( $5.26 USD )
+Seat 4: pkrOD ( $35.48 USD )
+Seat 6: wilmacht ( $14.73 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 4d ]
+mwnec folds
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+imadeulook11 calls [$0.15 USD]
+pkrOD: how fast was that called?!
+pkrOD: I should have gone all in!
+Kuujj checks
+** Dealing Flop ** [ Jd, Th, Kc ]
+imadeulook11 checks
+Kuujj checks
+** Dealing Turn ** [ 4h ]
+imadeulook11 checks
+Kuujj checks
+** Dealing River ** [ Ts ]
+imadeulook11 checks
+Kuujj checks
+imadeulook11 shows [ 6c, 5c ]a pair of Tens.
+Kuujj shows [ 9h, 4s ]two pairs, Tens and Fours.
+Kuujj wins $0.48 USD from the main pot with two pairs, Tens and Fours.
+ Game #10935808950 starts.
+
+#Game No : 10935808950 
+***** Hand History for Game 10935808950 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:13:05 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.58 USD )
+Seat 1: imadeulook11 ( $27.22 USD )
+Seat 3: mwnec ( $5.26 USD )
+Seat 4: pkrOD ( $35.48 USD )
+Seat 6: wilmacht ( $14.73 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 5s ]
+pkrOD folds
+IceF1shing folds
+wilmacht raises [$0.75 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.50 USD]
+** Dealing Flop ** [ 9d, 4h, Kh ]
+mwnec checks
+wilmacht bets [$1 USD]
+mwnec folds
+wilmacht does not show cards.
+wilmacht wins $2.52 USD
+ Game #10935810847 starts.
+
+#Game No : 10935810847 
+***** Hand History for Game 10935810847 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:13:47 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.48 USD )
+Seat 1: imadeulook11 ( $27.22 USD )
+Seat 3: mwnec ( $4.51 USD )
+Seat 4: pkrOD ( $35.48 USD )
+Seat 6: wilmacht ( $15.50 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 6s ]
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Kh, Qd, 9s ]
+mwnec checks
+pkrOD bets [$0.50 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $0.98 USD
+ Game #10935812586 starts.
+
+#Game No : 10935812586 
+***** Hand History for Game 10935812586 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:14:27 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.48 USD )
+Seat 1: imadeulook11 ( $27.22 USD )
+Seat 3: mwnec ( $4.26 USD )
+Seat 4: pkrOD ( $35.71 USD )
+Seat 6: wilmacht ( $15.50 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d 4s ]
+wilmacht folds
+imadeulook11 raises [$1 USD]
+Kuujj folds
+mwnec folds
+pkrOD calls [$0.90 USD]
+IceF1shing folds
+** Dealing Flop ** [ Ac, 3h, Qd ]
+pkrOD bets [$2 USD]
+imadeulook11 folds
+pkrOD does not show cards.
+pkrOD wins $4.14 USD
+ Game #10935815461 starts.
+
+#Game No : 10935815461 
+***** Hand History for Game 10935815461 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:15:31 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.48 USD )
+Seat 1: imadeulook11 ( $26.22 USD )
+Seat 3: mwnec ( $4.26 USD )
+Seat 4: pkrOD ( $36.85 USD )
+Seat 6: wilmacht ( $15.50 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 9d ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht calls [$0.75 USD]
+mwnec folds
+** Dealing Flop ** [ Js, 5c, Td ]
+wilmacht checks
+pkrOD bets [$3.25 USD]
+wilmacht folds
+pkrOD does not show cards.
+pkrOD wins $5.49 USD
+ Game #10935818350 starts.
+
+#Game No : 10935818350 
+***** Hand History for Game 10935818350 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:16:37 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.48 USD )
+Seat 1: imadeulook11 ( $26.22 USD )
+Seat 3: mwnec ( $4.01 USD )
+Seat 4: pkrOD ( $38.09 USD )
+Seat 6: wilmacht ( $14.50 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad As ]
+Kuujj folds
+mwnec folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10935819256 starts.
+
+#Game No : 10935819256 
+***** Hand History for Game 10935819256 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:16:59 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.48 USD )
+Seat 1: imadeulook11 ( $25.97 USD )
+Seat 3: mwnec ( $4.01 USD )
+Seat 4: pkrOD ( $38.44 USD )
+Seat 6: wilmacht ( $14.40 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d Kd ]
+mwnec folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht calls [$1 USD]
+imadeulook11 folds
+Kuujj calls [$0.75 USD]
+** Dealing Flop ** [ 7d, 3c, 2s ]
+Kuujj checks
+pkrOD bets [$2 USD]
+wilmacht folds
+Kuujj calls [$2 USD]
+** Dealing Turn ** [ 8c ]
+Kuujj checks
+pkrOD checks
+** Dealing River ** [ 9c ]
+Kuujj bets [$2.50 USD]
+pkrOD calls [$2.50 USD]
+Kuujj shows [ Ts, Tc ]a pair of Tens.
+pkrOD doesn't show [ 9d, Kd ]a pair of Nines.
+Kuujj wins $11.50 USD from the main pot with a pair of Tens.
+ Game #10935821497 starts.
+
+#Game No : 10935821497 
+***** Hand History for Game 10935821497 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:17:52 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.48 USD )
+Seat 1: imadeulook11 ( $25.87 USD )
+Seat 3: mwnec ( $4.01 USD )
+Seat 4: pkrOD ( $32.94 USD )
+Seat 6: wilmacht ( $13.40 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h Js ]
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+imadeulook11 raises [$0.75 USD]
+Kuujj folds
+mwnec calls [$0.50 USD]
+** Dealing Flop ** [ Td, Ac, 9d ]
+mwnec checks
+imadeulook11 bets [$0.75 USD]
+mwnec calls [$0.75 USD]
+** Dealing Turn ** [ 8c ]
+mwnec checks
+imadeulook11 checks
+** Dealing River ** [ 3d ]
+mwnec checks
+imadeulook11 checks
+mwnec shows [ Jh, As ]a pair of Aces.
+imadeulook11 doesn't show [ Ks, Ts ]a pair of Tens.
+mwnec wins $2.95 USD from the main pot with a pair of Aces.
+ Game #10935823943 starts.
+
+#Game No : 10935823943 
+***** Hand History for Game 10935823943 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:18:50 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.38 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $5.46 USD )
+Seat 4: pkrOD ( $32.94 USD )
+Seat 6: wilmacht ( $13.40 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 4h ]
+IceF1shing will be using his time bank for this hand.
+IceF1shing folds
+wilmacht folds
+imadeulook11 did not respond in time
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Td, Qc, 8s ]
+mwnec checks
+pkrOD checks
+** Dealing Turn ** [ 6d ]
+mwnec checks
+pkrOD bets [$0.50 USD]
+mwnec calls [$0.50 USD]
+** Dealing River ** [ 6c ]
+mwnec checks
+pkrOD bets [$3 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $4.43 USD
+ Game #10935827682 starts.
+
+#Game No : 10935827682 
+***** Hand History for Game 10935827682 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:20:17 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.38 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $4.71 USD )
+Seat 4: pkrOD ( $33.62 USD )
+Seat 6: wilmacht ( $13.40 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 6s ]
+wilmacht raises [$0.75 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec folds
+pkrOD folds
+IceF1shing folds
+wilmacht does not show cards.
+wilmacht wins $1.10 USD
+ Game #10935829723 starts.
+
+#Game No : 10935829723 
+***** Hand History for Game 10935829723 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:21:05 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.38 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $4.71 USD )
+Seat 4: pkrOD ( $33.52 USD )
+Seat 6: wilmacht ( $13.75 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 4h ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD folds
+IceF1shing folds
+wilmacht checks
+** Dealing Flop ** [ 4s, Kd, 3s ]
+wilmacht checks
+mwnec checks
+** Dealing Turn ** [ 9d ]
+wilmacht bets [$0.50 USD]
+mwnec calls [$0.50 USD]
+** Dealing River ** [ 5d ]
+wilmacht bets [$1 USD]
+mwnec raises [$2 USD]
+wilmacht raises [$3.50 USD]
+mwnec is all-In  [$1.96 USD]
+wilmacht shows [ 4c, Ks ]two pairs, Kings and Fours.
+mwnec shows [ Jd, 7d ]a flush, King high.
+wilmacht wins $0.54 USD from the side pot 1 with two pairs, Kings and Fours.
+mwnec wins $9.05 USD from the main pot with a flush, King high.
+ Game #10935831540 starts.
+
+#Game No : 10935831540 
+***** Hand History for Game 10935831540 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:21:51 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.38 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $9.05 USD )
+Seat 4: pkrOD ( $33.52 USD )
+Seat 6: wilmacht ( $9.04 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 7s ]
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD raises [$0.75 USD]
+IceF1shing folds
+wilmacht is all-In  [$8.94 USD]
+imadeulook11 folds
+mwnec folds
+pkrOD calls [$8.29 USD]
+** Dealing Flop ** [ 7d, Qh, Qd ]
+** Dealing Turn ** [ 3h ]
+** Dealing River ** [ 8h ]
+pkrOD shows [ Js, 7s ]two pairs, Queens and Sevens.
+wilmacht doesn't show [ Jc, As ]a pair of Queens.
+pkrOD wins $17.66 USD from the main pot with two pairs, Queens and Sevens.
+ Game #10935832719 starts.
+
+#Game No : 10935832719 
+***** Hand History for Game 10935832719 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:22:21 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.38 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.80 USD )
+Seat 4: pkrOD ( $42.14 USD )
+Seat 6: wilmacht ( $0 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s Ad ]
+pkrOD raises [$1 USD]
+IceF1shing folds
+pkrOD: know when im being lied to
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ 4c, Ts, Qc ]
+mwnec checks
+pkrOD checks
+** Dealing Turn ** [ 6d ]
+mwnec checks
+pkrOD bets [$2 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $4 USD
+ Game #10935834692 starts.
+
+#Game No : 10935834692 
+***** Hand History for Game 10935834692 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:23:14 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.28 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $7.80 USD )
+Seat 4: pkrOD ( $43.14 USD )
+Seat 6: wilmacht ( $0 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 8d ]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.15 USD]
+pkrOD raises [$0.75 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #10935836112 starts.
+
+#Game No : 10935836112 
+***** Hand History for Game 10935836112 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:23:50 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $31.28 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $7.55 USD )
+Seat 4: pkrOD ( $43.39 USD )
+Seat 6: wilmacht ( $0 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d Ad ]
+imadeulook11 did not respond in time
+imadeulook11 folds
+Kuujj raises [$0.75 USD]
+mwnec folds
+pkrOD raises [$2.40 USD]
+IceF1shing folds
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $3.50 USD
+ Game #10935838313 starts.
+
+#Game No : 10935838313 
+***** Hand History for Game 10935838313 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:24:46 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $30.53 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $7.55 USD )
+Seat 4: pkrOD ( $44.39 USD )
+Seat 6: wilmacht ( $0 USD )
+IceF1shing posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 6d ]
+Kuujj folds
+mwnec raises [$0.50 USD]
+pkrOD calls [$0.50 USD]
+IceF1shing folds
+imadeulook11 folds
+** Dealing Flop ** [ Kh, 6c, Ah ]
+mwnec checks
+pkrOD checks
+** Dealing Turn ** [ 5c ]
+mwnec checks
+pkrOD bets [$1 USD]
+mwnec calls [$1 USD]
+** Dealing River ** [ 8s ]
+mwnec checks
+pkrOD checks
+mwnec shows [ 4c, 4h ]a pair of Fours.
+pkrOD shows [ 7s, 6d ]a pair of Sixes.
+pkrOD wins $3.19 USD from the main pot with a pair of Sixes.
+ Game #10935840576 starts.
+
+#Game No : 10935840576 
+***** Hand History for Game 10935840576 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:25:43 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $30.53 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $6.05 USD )
+Seat 4: pkrOD ( $46.08 USD )
+Seat 6: wilmacht ( $0 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 2c ]
+mwnec folds
+pkrOD raises [$0.75 USD]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $1.10 USD
+ Game #10935841991 starts.
+
+#Game No : 10935841991 
+***** Hand History for Game 10935841991 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:26:20 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $30.28 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $6.05 USD )
+Seat 4: pkrOD ( $46.43 USD )
+Seat 6: wilmacht ( $0 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c As ]
+pkrOD raises [$1 USD]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ Jc, 2s, 8h ]
+mwnec checks
+pkrOD bets [$2 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $4 USD
+ Game #10935843910 starts.
+
+#Game No : 10935843910 
+***** Hand History for Game 10935843910 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:27:07 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $30.18 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $5.05 USD )
+Seat 4: pkrOD ( $47.43 USD )
+Seat 6: wilmacht ( $0 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 4h ]
+IceF1shing raises [$0.80 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.70 USD]
+pkrOD folds
+** Dealing Flop ** [ 8s, 2c, Td ]
+mwnec checks
+IceF1shing bets [$1.10 USD]
+mwnec calls [$1.10 USD]
+** Dealing Turn ** [ 3c ]
+mwnec checks
+IceF1shing checks
+** Dealing River ** [ 8c ]
+mwnec checks
+IceF1shing checks
+mwnec shows [ Jh, 9d ]a pair of Eights.
+IceF1shing shows [ 2d, Ad ]two pairs, Eights and Twos.
+IceF1shing wins $3.85 USD from the main pot with two pairs, Eights and Twos.
+ Game #10935845599 starts.
+
+#Game No : 10935845599 
+***** Hand History for Game 10935845599 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:27:51 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.95 USD )
+Seat 2: Kuujj ( $30.18 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $3.15 USD )
+Seat 4: pkrOD ( $47.18 USD )
+Seat 6: wilmacht ( $0 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 6c ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+IceF1shing checks
+** Dealing Flop ** [ Tc, 2c, 4c ]
+pkrOD bets [$0.50 USD]
+IceF1shing folds
+mwnec calls [$0.50 USD]
+** Dealing Turn ** [ 5h ]
+pkrOD bets [$1.25 USD]
+mwnec calls [$1.25 USD]
+** Dealing River ** [ 8c ]
+pkrOD bets [$0.50 USD]
+mwnec calls [$0.50 USD]
+pkrOD shows [ 6s, 6c ]a flush, Ten high.
+mwnec shows [ Kc, 4h ]a flush, King high.
+mwnec wins $4.99 USD from the main pot with a flush, King high.
+ Game #10935848534 starts.
+
+#Game No : 10935848534 
+***** Hand History for Game 10935848534 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:29:07 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.70 USD )
+Seat 2: Kuujj ( $30.18 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $5.64 USD )
+Seat 4: pkrOD ( $44.68 USD )
+Seat 6: wilmacht ( $0 USD )
+IceF1shing posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh Js ]
+Kuujj raises [$0.75 USD]
+mwnec calls [$0.75 USD]
+pkrOD calls [$0.75 USD]
+IceF1shing calls [$0.65 USD]
+imadeulook11 will be using his time bank for this hand.
+imadeulook11 did not respond in time
+imadeulook11 folds
+** Dealing Flop ** [ Jd, Tc, Td ]
+IceF1shing checks
+Kuujj checks
+mwnec bets [$0.25 USD]
+pkrOD raises [$3 USD]
+IceF1shing folds
+Kuujj folds
+mwnec calls [$2.75 USD]
+** Dealing Turn ** [ 9s ]
+mwnec checks
+pkrOD bets [$2 USD]
+mwnec is all-In  [$1.89 USD]
+** Dealing River ** [ 7s ]
+pkrOD shows [ Kh, Js ]two pairs, Jacks and Tens.
+mwnec shows [ Jc, Kc ]two pairs, Jacks and Tens.
+pkrOD wins $0.11 USD from the side pot 1 with two pairs, Jacks and Tens.
+mwnec wins $6.19 USD from the main pot with two pairs, Jacks and Tens.
+pkrOD wins $6.19 USD from the main pot with two pairs, Jacks and Tens.
+ Game #10935851949 starts.
+
+#Game No : 10935851949 
+***** Hand History for Game 10935851949 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:30:39 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.95 USD )
+Seat 2: Kuujj ( $29.43 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $6.19 USD )
+Seat 4: pkrOD ( $45.23 USD )
+Seat 6: wilmacht ( $0 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 9d ]
+mwnec folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10935852882 starts.
+
+#Game No : 10935852882 
+***** Hand History for Game 10935852882 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:31:00 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.95 USD )
+Seat 2: Kuujj ( $29.18 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $6.19 USD )
+Seat 4: pkrOD ( $45.58 USD )
+Seat 6: wilmacht ( $0 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 5c ]
+pkrOD raises [$1 USD]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ Ts, Kh, 8d ]
+mwnec checks
+pkrOD bets [$6 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $8 USD
+ Game #10935853944 starts.
+
+#Game No : 10935853944 
+***** Hand History for Game 10935853944 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:31:30 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.95 USD )
+Seat 2: Kuujj ( $29.08 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $5.19 USD )
+Seat 4: pkrOD ( $46.58 USD )
+Seat 6: wilmacht ( $0 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d Ks ]
+IceF1shing will be using his time bank for this hand.
+IceF1shing raises [$0.80 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.70 USD]
+pkrOD folds
+** Dealing Flop ** [ Kh, 3c, Kd ]
+mwnec checks
+IceF1shing bets [$1 USD]
+mwnec folds
+IceF1shing does not show cards.
+IceF1shing wins $2.76 USD
+ Game #10935855495 starts.
+
+#Game No : 10935855495 
+***** Hand History for Game 10935855495 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:32:12 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.91 USD )
+Seat 2: Kuujj ( $29.08 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $4.39 USD )
+Seat 4: pkrOD ( $46.33 USD )
+Seat 6: wilmacht ( $0 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Jc ]
+imadeulook11 folds
+Kuujj raises [$0.75 USD]
+mwnec calls [$0.75 USD]
+pkrOD raises [$1.90 USD]
+IceF1shing folds
+Kuujj folds
+mwnec calls [$1.25 USD]
+** Dealing Flop ** [ 5h, Ts, 8h ]
+pkrOD bets [$4.75 USD]
+mwnec is all-In  [$2.39 USD]
+** Dealing Turn ** [ Td ]
+** Dealing River ** [ 4c ]
+pkrOD shows [ 9c, Jc ]a pair of Tens.
+mwnec shows [ 5s, 3s ]two pairs, Tens and Fives.
+pkrOD wins $2.36 USD from the side pot 1 with a pair of Tens.
+mwnec wins $9.30 USD from the main pot with two pairs, Tens and Fives.
+ Game #10935856879 starts.
+
+#Game No : 10935856879 
+***** Hand History for Game 10935856879 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:32:49 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.66 USD )
+Seat 2: Kuujj ( $28.33 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $9.30 USD )
+Seat 4: pkrOD ( $41.94 USD )
+Seat 6: wilmacht ( $0 USD )
+IceF1shing posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 5c ]
+Kuujj folds
+mwnec folds
+pkrOD folds
+IceF1shing folds
+imadeulook11 does not show cards.
+imadeulook11 wins $0.35 USD
+ Game #10935857620 starts.
+
+#Game No : 10935857620 
+***** Hand History for Game 10935857620 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:33:09 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.56 USD )
+Seat 2: Kuujj ( $28.33 USD )
+Seat 1: imadeulook11 ( $25.10 USD )
+Seat 3: mwnec ( $9.30 USD )
+Seat 4: pkrOD ( $41.94 USD )
+Seat 6: wilmacht ( $0 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c Ad ]
+mwnec calls [$0.25 USD]
+pkrOD folds
+IceF1shing folds
+imadeulook11 folds
+Kuujj checks
+** Dealing Flop ** [ Th, 5h, 8c ]
+Kuujj checks
+mwnec checks
+** Dealing Turn ** [ Ks ]
+Kuujj bets [$0.25 USD]
+mwnec calls [$0.25 USD]
+** Dealing River ** [ 5c ]
+Kuujj bets [$0.50 USD]
+mwnec folds
+Kuujj does not show cards.
+Kuujj wins $1.55 USD
+ Game #10935859239 starts.
+
+#Game No : 10935859239 
+***** Hand History for Game 10935859239 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:33:52 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.56 USD )
+Seat 2: Kuujj ( $28.88 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.80 USD )
+Seat 4: pkrOD ( $41.94 USD )
+Seat 6: wilmacht ( $10.67 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 8h ]
+pkrOD folds
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+mwnec does not show cards.
+mwnec wins $0.35 USD
+ Game #10935860060 starts.
+
+#Game No : 10935860060 
+***** Hand History for Game 10935860060 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:34:12 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.56 USD )
+Seat 2: Kuujj ( $28.78 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.90 USD )
+Seat 4: pkrOD ( $41.94 USD )
+Seat 6: wilmacht ( $10.67 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Qs ]
+IceF1shing folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 3s, 2c, Ah ]
+mwnec checks
+pkrOD checks
+** Dealing Turn ** [ Ad ]
+mwnec checks
+pkrOD bets [$0.50 USD]
+mwnec calls [$0.50 USD]
+** Dealing River ** [ 9d ]
+mwnec checks
+pkrOD checks
+mwnec shows [ 5d, 7d ]a pair of Aces.
+pkrOD shows [ 6d, Qs ]a pair of Aces with Queen kicker.
+pkrOD wins $1.43 USD from the main pot with a pair of Aces with Queen kicker.
+ Game #10935861875 starts.
+
+#Game No : 10935861875 
+***** Hand History for Game 10935861875 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:35:00 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.56 USD )
+Seat 2: Kuujj ( $28.78 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.15 USD )
+Seat 4: pkrOD ( $42.62 USD )
+Seat 6: wilmacht ( $10.67 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 2c ]
+imadeulook11 raises [$1 USD]
+Kuujj folds
+mwnec folds
+pkrOD folds
+IceF1shing folds
+imadeulook11 does not show cards.
+imadeulook11 wins $1.35 USD
+ Game #10935862659 starts.
+
+#Game No : 10935862659 
+***** Hand History for Game 10935862659 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:35:21 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.31 USD )
+Seat 2: Kuujj ( $28.78 USD )
+Seat 1: imadeulook11 ( $25.35 USD )
+Seat 3: mwnec ( $8.15 USD )
+Seat 4: pkrOD ( $42.52 USD )
+Seat 6: wilmacht ( $10.67 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 7c ]
+imadeulook11 raises [$1 USD]
+Kuujj calls [$1 USD]
+mwnec folds
+pkrOD calls [$1 USD]
+IceF1shing folds
+wilmacht folds
+** Dealing Flop ** [ Ks, Qh, Qc ]
+imadeulook11 checks
+Kuujj checks
+pkrOD bets [$5 USD]
+imadeulook11 folds
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $8.19 USD
+ Game #10935864857 starts.
+
+#Game No : 10935864857 
+***** Hand History for Game 10935864857 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:36:19 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.21 USD )
+Seat 2: Kuujj ( $27.78 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.15 USD )
+Seat 4: pkrOD ( $44.71 USD )
+Seat 6: wilmacht ( $10.42 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c 3s ]
+Kuujj folds
+mwnec folds
+pkrOD folds
+IceF1shing folds
+wilmacht raises [$0.65 USD]
+imadeulook11 folds
+wilmacht does not show cards.
+wilmacht wins $1 USD
+ Game #10935865720 starts.
+
+#Game No : 10935865720 
+***** Hand History for Game 10935865720 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:36:42 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.21 USD )
+Seat 2: Kuujj ( $27.78 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.15 USD )
+Seat 4: pkrOD ( $44.71 USD )
+Seat 6: wilmacht ( $10.67 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 8d ]
+mwnec calls [$0.25 USD]
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+Kuujj checks
+** Dealing Flop ** [ 4s, 9d, 2c ]
+Kuujj checks
+mwnec checks
+** Dealing Turn ** [ 9h ]
+Kuujj checks
+mwnec checks
+** Dealing River ** [ 9s ]
+Kuujj checks
+mwnec checks
+Kuujj shows [ 6c, 7d ]three of a kind, Nines.
+mwnec shows [ 8s, Kh ]three of a kind, Nines with King kicker.
+mwnec wins $0.57 USD from the main pot with three of a kind, Nines with King kicker.
+ Game #10935867112 starts.
+
+#Game No : 10935867112 
+***** Hand History for Game 10935867112 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:37:18 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $26.21 USD )
+Seat 2: Kuujj ( $27.53 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.47 USD )
+Seat 4: pkrOD ( $44.71 USD )
+Seat 6: wilmacht ( $10.67 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s Jd ]
+pkrOD folds
+IceF1shing raises [$0.80 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.55 USD]
+** Dealing Flop ** [ 5h, 7s, 4s ]
+mwnec checks
+IceF1shing bets [$1.10 USD]
+mwnec calls [$1.10 USD]
+** Dealing Turn ** [ 6h ]
+mwnec checks
+IceF1shing checks
+** Dealing River ** [ 7d ]
+mwnec checks
+IceF1shing checks
+mwnec shows [ 6d, 9h ]two pairs, Sevens and Sixes.
+IceF1shing doesn't show [ Ah, Td ]a pair of Sevens.
+mwnec wins $3.71 USD from the main pot with two pairs, Sevens and Sixes.
+ Game #10935869598 starts.
+
+#Game No : 10935869598 
+***** Hand History for Game 10935869598 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:38:27 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $27.43 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $10.28 USD )
+Seat 4: pkrOD ( $44.71 USD )
+Seat 6: wilmacht ( $10.67 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 8s ]
+IceF1shing folds
+wilmacht raises [$0.75 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.65 USD]
+pkrOD folds
+** Dealing Flop ** [ 9d, 2h, 3h ]
+mwnec checks
+wilmacht checks
+** Dealing Turn ** [ Qs ]
+mwnec checks
+wilmacht checks
+** Dealing River ** [ 8h ]
+mwnec checks
+wilmacht bets [$1 USD]
+mwnec folds
+wilmacht does not show cards.
+wilmacht wins $2.67 USD
+ Game #10935871289 starts.
+
+#Game No : 10935871289 
+***** Hand History for Game 10935871289 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:39:13 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $27.43 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $9.53 USD )
+Seat 4: pkrOD ( $44.46 USD )
+Seat 6: wilmacht ( $11.59 USD )
+pkrOD posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 8d ]
+imadeulook11 folds
+Kuujj folds
+mwnec folds
+pkrOD raises [$0.90 USD]
+wilmacht is all-In  [$11.34 USD]
+pkrOD folds
+wilmacht does not show cards.
+wilmacht wins $12.59 USD
+ Game #10935872634 starts.
+
+#Game No : 10935872634 
+***** Hand History for Game 10935872634 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:39:53 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $27.43 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $9.53 USD )
+Seat 4: pkrOD ( $43.46 USD )
+Seat 6: wilmacht ( $12.59 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts 2d ]
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD folds
+wilmacht calls [$0.15 USD]
+imadeulook11 checks
+** Dealing Flop ** [ Qc, Kh, 5c ]
+wilmacht checks
+imadeulook11 checks
+mwnec bets [$0.50 USD]
+wilmacht calls [$0.50 USD]
+imadeulook11 folds
+** Dealing Turn ** [ 9s ]
+wilmacht checks
+mwnec checks
+** Dealing River ** [ 8d ]
+wilmacht checks
+mwnec checks
+wilmacht shows [ Qs, Js ]a pair of Queens.
+mwnec shows [ Ks, 6c ]a pair of Kings.
+mwnec wins $1.67 USD from the main pot with a pair of Kings.
+ Game #10935875882 starts.
+
+#Game No : 10935875882 
+***** Hand History for Game 10935875882 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:41:25 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $27.43 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $10.45 USD )
+Seat 4: pkrOD ( $43.46 USD )
+Seat 6: wilmacht ( $11.84 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 8c ]
+mwnec folds
+pkrOD calls [$0.25 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj checks
+** Dealing Flop ** [ 2h, Ac, 6h ]
+Kuujj checks
+pkrOD bets [$0.50 USD]
+Kuujj raises [$1.50 USD]
+pkrOD folds
+Kuujj does not show cards.
+Kuujj wins $2.52 USD
+ Game #10935877606 starts.
+
+#Game No : 10935877606 
+***** Hand History for Game 10935877606 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:42:17 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $28.20 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $10.45 USD )
+Seat 4: pkrOD ( $42.71 USD )
+Seat 6: wilmacht ( $11.84 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Kh ]
+pkrOD raises [$1 USD]
+wilmacht raises [$2.50 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec folds
+pkrOD is all-In  [$41.71 USD]
+wilmacht is all-In  [$9.34 USD]
+** Dealing Flop ** [ Qh, 4d, 7h ]
+** Dealing Turn ** [ Qc ]
+** Dealing River ** [ Jd ]
+wilmacht shows [ Kd, Kc ]two pairs, Kings and Queens.
+pkrOD shows [ Js, Kh ]two pairs, Queens and Jacks.
+pkrOD wins $30.87 USD from the side pot 1 with two pairs, Queens and Jacks.
+wilmacht wins $22.83 USD from the main pot with two pairs, Kings and Queens.
+ Game #10935879150 starts.
+
+#Game No : 10935879150 
+***** Hand History for Game 10935879150 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:43:02 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $28.10 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $10.20 USD )
+Seat 4: pkrOD ( $30.87 USD )
+Seat 6: wilmacht ( $22.83 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d As ]
+wilmacht folds
+imadeulook11 folds
+Kuujj raises [$0.50 USD]
+mwnec calls [$0.40 USD]
+pkrOD raises [$1.25 USD]
+Kuujj calls [$1 USD]
+mwnec calls [$1 USD]
+** Dealing Flop ** [ 6s, 2h, 6d ]
+mwnec checks
+pkrOD bets [$4 USD]
+Kuujj folds
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $8.28 USD
+ Game #10935880979 starts.
+
+#Game No : 10935880979 
+***** Hand History for Game 10935880979 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:43:55 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $26.60 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.70 USD )
+Seat 4: pkrOD ( $33.65 USD )
+Seat 6: wilmacht ( $22.83 USD )
+pkrOD posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 4s ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+wilmacht checks
+** Dealing Flop ** [ Kh, 2h, 5s ]
+pkrOD bets [$0.25 USD]
+wilmacht folds
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $0.97 USD
+ Game #10935882487 starts.
+
+#Game No : 10935882487 
+***** Hand History for Game 10935882487 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:44:39 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $26.60 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.45 USD )
+Seat 4: pkrOD ( $34.12 USD )
+Seat 6: wilmacht ( $22.58 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 9h ]
+Kuujj folds
+mwnec folds
+pkrOD raises [$1 USD]
+wilmacht folds
+imadeulook11 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10935884283 starts.
+
+#Game No : 10935884283 
+***** Hand History for Game 10935884283 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:45:31 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $26.60 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.45 USD )
+Seat 4: pkrOD ( $34.47 USD )
+Seat 6: wilmacht ( $22.48 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 9h ]
+mwnec folds
+pkrOD raises [$1 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10935884974 starts.
+
+#Game No : 10935884974 
+***** Hand History for Game 10935884974 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:45:52 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $26.35 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.45 USD )
+Seat 4: pkrOD ( $34.82 USD )
+Seat 6: wilmacht ( $22.48 USD )
+Kuujj posts small blind [$0.10 USD].
+mwnec posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd Ah ]
+pkrOD raises [$1 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ Qc, As, 7d ]
+mwnec checks
+pkrOD bets [$2 USD]
+mwnec folds
+pkrOD does not show cards.
+pkrOD wins $4 USD
+ Game #10935886144 starts.
+
+#Game No : 10935886144 
+***** Hand History for Game 10935886144 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:46:24 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $26.25 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $7.45 USD )
+Seat 4: pkrOD ( $35.82 USD )
+Seat 6: wilmacht ( $22.48 USD )
+mwnec posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 5h ]
+wilmacht folds
+imadeulook11 folds
+Kuujj raises [$0.75 USD]
+mwnec folds
+pkrOD raises [$2.25 USD]
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $3.35 USD
+ Game #10935887369 starts.
+
+#Game No : 10935887369 
+***** Hand History for Game 10935887369 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:46:59 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.50 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $7.35 USD )
+Seat 4: pkrOD ( $36.67 USD )
+Seat 6: wilmacht ( $22.48 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Qs ]
+wilmacht raises [$0.75 USD]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.75 USD]
+pkrOD calls [$0.65 USD]
+IceF1shing folds
+** Dealing Flop ** [ 2h, 5h, Td ]
+pkrOD checks
+wilmacht checks
+mwnec bets [$1 USD]
+pkrOD folds
+wilmacht folds
+mwnec does not show cards.
+mwnec wins $3.38 USD
+ Game #10935888982 starts.
+
+#Game No : 10935888982 
+***** Hand History for Game 10935888982 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:47:48 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.50 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $8.98 USD )
+Seat 4: pkrOD ( $35.92 USD )
+Seat 6: wilmacht ( $21.73 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d Ac ]
+imadeulook11 folds
+Kuujj folds
+mwnec calls [$0.25 USD]
+pkrOD raises [$1 USD]
+IceF1shing calls [$0.90 USD]
+wilmacht calls [$0.75 USD]
+mwnec calls [$0.75 USD]
+** Dealing Flop ** [ Ks, 7d, 4c ]
+IceF1shing checks
+wilmacht checks
+mwnec bets [$1 USD]
+pkrOD raises [$2.75 USD]
+IceF1shing folds
+wilmacht calls [$2.75 USD]
+mwnec calls [$1.75 USD]
+** Dealing Turn ** [ 2s ]
+wilmacht checks
+mwnec is all-In  [$5.23 USD]
+pkrOD folds
+wilmacht calls [$5.23 USD]
+** Dealing River ** [ Qs ]
+wilmacht shows [ Kh, Jc ]a pair of Kings with Jack kicker.
+mwnec doesn't show [ Tc, Kc ]a pair of Kings.
+wilmacht wins $21.58 USD from the main pot with a pair of Kings with Jack kicker.
+ Game #10935891613 starts.
+
+#Game No : 10935891613 
+***** Hand History for Game 10935891613 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:49:03 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.50 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 3: mwnec ( $0 USD )
+Seat 4: pkrOD ( $32.17 USD )
+Seat 6: wilmacht ( $34.33 USD )
+wilmacht posts small blind [$0.10 USD].
+mwnec has left the table.
+imadeulook11 is sitting out
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d Js ]
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+Kuujj does not show cards.
+Kuujj wins $0.35 USD
+ Game #10935892352 starts.
+
+#Game No : 10935892352 
+***** Hand History for Game 10935892352 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:49:25 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.60 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $32.17 USD )
+Seat 6: wilmacht ( $34.23 USD )
+Kuujj posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Kd ]
+IceF1shing raises [$0.80 USD]
+wilmacht folds
+Kuujj folds
+pkrOD calls [$0.55 USD]
+** Dealing Flop ** [ Ad, 4s, 7s ]
+pkrOD bets [$1.62 USD]
+IceF1shing calls [$1.62 USD]
+** Dealing Turn ** [ 6c ]
+pkrOD bets [$0.50 USD]
+IceF1shing calls [$0.50 USD]
+** Dealing River ** [ 4c ]
+pkrOD bets [$5.65 USD]
+IceF1shing folds
+pkrOD does not show cards.
+pkrOD wins $11.30 USD
+ Game #10935893883 starts.
+
+#Game No : 10935893883 
+***** Hand History for Game 10935893883 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:50:10 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.50 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $34.90 USD )
+Seat 6: wilmacht ( $34.23 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Ks ]
+wilmacht folds
+Kuujj folds
+pkrOD raises [$0.90 USD]
+IceF1shing folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #10935894410 starts.
+
+#Game No : 10935894410 
+***** Hand History for Game 10935894410 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:50:25 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.50 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $35.15 USD )
+Seat 6: wilmacht ( $34.23 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 7h ]
+Kuujj folds
+pkrOD raises [$0.75 USD]
+IceF1shing folds
+wilmacht folds
+pkrOD does not show cards.
+pkrOD wins $1.10 USD
+ Game #10935895396 starts.
+
+#Game No : 10935895396 
+***** Hand History for Game 10935895396 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:50:54 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.50 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $35.50 USD )
+Seat 6: wilmacht ( $33.98 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 2d ]
+Kuujj raises [$0.75 USD]
+pkrOD folds
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+Kuujj does not show cards.
+Kuujj wins $1.10 USD
+ Game #10935896236 starts.
+
+#Game No : 10935896236 
+***** Hand History for Game 10935896236 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:51:17 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25 USD )
+Seat 2: Kuujj ( $25.85 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $35.50 USD )
+Seat 6: wilmacht ( $33.88 USD )
+imadeulook11 posts small blind [$0.10 USD].
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c Jd ]
+pkrOD calls [$0.25 USD]
+IceF1shing raises [$1 USD]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ Ah, 2s, Ts ]
+pkrOD checks
+IceF1shing bets [$1.50 USD]
+pkrOD folds
+IceF1shing does not show cards.
+IceF1shing wins $3.74 USD
+ Game #10935898068 starts.
+
+#Game No : 10935898068 
+***** Hand History for Game 10935898068 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:52:11 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $26.24 USD )
+Seat 2: Kuujj ( $25.60 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $34.50 USD )
+Seat 6: wilmacht ( $33.88 USD )
+Kuujj posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 8h ]
+IceF1shing folds
+wilmacht folds
+imadeulook11 folds
+Kuujj raises [$0.65 USD]
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ Jh, 2c, 6h ]
+Kuujj checks
+pkrOD bets [$1 USD]
+Kuujj raises [$3 USD]
+pkrOD is all-In  [$32.75 USD]
+Kuujj is all-In  [$21.85 USD]
+** Dealing Turn ** [ Td ]
+** Dealing River ** [ Ah ]
+Kuujj shows [ Jc, Js ]three of a kind, Jacks.
+pkrOD shows [ 8d, 8h ]a pair of Eights.
+pkrOD wins $8.90 USD from the side pot 1 with a pair of Eights.
+Kuujj wins $48.64 USD from the main pot with three of a kind, Jacks.
+ Game #10935899469 starts.
+
+#Game No : 10935899469 
+***** Hand History for Game 10935899469 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:52:51 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $26.24 USD )
+Seat 2: Kuujj ( $48.64 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $8.90 USD )
+Seat 6: wilmacht ( $33.88 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 4c ]
+wilmacht folds
+imadeulook11 folds
+Kuujj folds
+pkrOD calls [$0.15 USD]
+IceF1shing checks
+** Dealing Flop ** [ 3c, 5c, Jh ]
+pkrOD bets [$0.48 USD]
+IceF1shing folds
+pkrOD does not show cards.
+pkrOD wins $0.96 USD
+ Game #10935900990 starts.
+
+#Game No : 10935900990 
+***** Hand History for Game 10935900990 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:53:36 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.99 USD )
+Seat 2: Kuujj ( $48.64 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $9.13 USD )
+Seat 6: wilmacht ( $33.88 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 5h ]
+imadeulook11 folds
+Kuujj folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht calls [$0.75 USD]
+** Dealing Flop ** [ 2s, 6h, 4d ]
+wilmacht checks
+pkrOD is all-In  [$8.13 USD]
+wilmacht folds
+pkrOD does not show cards.
+pkrOD wins $10.13 USD
+ Game #10935902092 starts.
+
+#Game No : 10935902092 
+***** Hand History for Game 10935902092 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:54:07 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $48.64 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $10.13 USD )
+Seat 6: wilmacht ( $32.88 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Jh ]
+Kuujj folds
+pkrOD calls [$0.25 USD]
+IceF1shing folds
+wilmacht calls [$0.15 USD]
+imadeulook11 checks
+** Dealing Flop ** [ Jc, 2h, 6d ]
+wilmacht checks
+imadeulook11 checks
+pkrOD bets [$0.75 USD]
+wilmacht folds
+imadeulook11 folds
+pkrOD does not show cards.
+pkrOD wins $1.47 USD
+ Game #10935903745 starts.
+
+#Game No : 10935903745 
+***** Hand History for Game 10935903745 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:54:56 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $48.64 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $10.60 USD )
+Seat 6: wilmacht ( $32.63 USD )
+imadeulook11 is sitting out
+Kuujj posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c 5d ]
+IceF1shing folds
+wilmacht folds
+Kuujj folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #10935904877 starts.
+
+#Game No : 10935904877 
+***** Hand History for Game 10935904877 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:55:29 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $48.54 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $10.70 USD )
+Seat 6: wilmacht ( $32.63 USD )
+pkrOD posts small blind [$0.10 USD].
+IceF1shing posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 2c ]
+wilmacht folds
+Kuujj folds
+pkrOD folds
+IceF1shing does not show cards.
+IceF1shing wins $0.35 USD
+ Game #10935905629 starts.
+
+#Game No : 10935905629 
+***** Hand History for Game 10935905629 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:55:52 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.99 USD )
+Seat 2: Kuujj ( $48.54 USD )
+Seat 3: enraged ( $0 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $10.60 USD )
+Seat 6: wilmacht ( $32.63 USD )
+IceF1shing posts small blind [$0.10 USD].
+wilmacht posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 7h ]
+Kuujj folds
+pkrOD raises [$1 USD]
+IceF1shing folds
+wilmacht calls [$0.75 USD]
+** Dealing Flop ** [ 3h, 6s, 6d ]
+wilmacht checks
+pkrOD bets [$2 USD]
+wilmacht folds
+pkrOD does not show cards.
+pkrOD wins $4 USD
+Masta30 has joined the table.
+ Game #10935906385 starts.
+
+#Game No : 10935906385 
+***** Hand History for Game 10935906385 *****
+$25 USD NL Texas Hold'em - Thursday, September 29, 19:56:18 EDT 2011
+Table Table  201825 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: IceF1shing ( $25.89 USD )
+Seat 2: Kuujj ( $48.54 USD )
+Seat 3: Masta30 ( $25 USD )
+Seat 1: imadeulook11 ( $25 USD )
+Seat 4: pkrOD ( $11.60 USD )
+Seat 6: wilmacht ( $31.63 USD )
+wilmacht posts small blind [$0.10 USD].
+imadeulook11 is sitting out
+Kuujj posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 7d ]
+imadeulook11 has left the table.
+pkrOD raises [$1 USD]
+DereckRaise has joined the table.
+IceF1shing raises [$3 USD]
+wilmacht folds
+Kuujj folds
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD is all-In  [$10.60 USD]
+IceF1shing calls [$8.60 USD]
+** Dealing Flop ** [ 6s, Ks, 3h ]
+** Dealing Turn ** [ 6d ]
+** Dealing River ** [ 9d ]
+IceF1shing shows [ Qc, Ad ]a pair of Sixes with Queen kicker.
+pkrOD doesn't show [ Ac, 7d ]a pair of Sixes.
+IceF1shing wins $22.38 USD from the main pot with a pair of Sixes with Queen kicker.

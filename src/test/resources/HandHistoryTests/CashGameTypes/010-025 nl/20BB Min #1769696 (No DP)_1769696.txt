@@ -1,0 +1,376 @@
+Game #9547067319 starts.
+
+#Game No : 9547067319 
+***** Hand History for Game 9547067319 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:19:21 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.39 USD )
+Seat 3: alexnest ( $9.27 USD )
+Seat 2: coquini ( $9.69 USD )
+Seat 4: dolfie333 ( $10.35 USD )
+Seat 5: pkrOD ( $10 USD )
+dolfie333 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc Qs ]
+Wally5080 folds
+standby777 has joined the table.
+alexnest folds
+dolfie333 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #9547067959 starts.
+
+#Game No : 9547067959 
+***** Hand History for Game 9547067959 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:19:32 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Wally5080 ( $21.39 USD )
+Seat 3: alexnest ( $9.27 USD )
+Seat 2: coquini ( $9.69 USD )
+Seat 4: dolfie333 ( $10.25 USD )
+Seat 5: pkrOD ( $10.10 USD )
+Seat 6: standby777 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+standby777 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 2h ]
+coquini has left the table.
+Wally5080 folds
+alexnest folds
+dolfie333 raises [$1 USD]
+pkrOD folds
+standby777 calls [$0.75 USD]
+** Dealing Flop ** [ 6c, Ah, 9h ]
+standby777 bets [$0.75 USD]
+dolfie333 folds
+standby777 does not show cards.
+standby777 wins $2.75 USD
+ Game #9547070479 starts.
+
+#Game No : 9547070479 
+***** Hand History for Game 9547070479 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:20:17 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.39 USD )
+Seat 3: alexnest ( $9.27 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $10 USD )
+Seat 6: standby777 ( $11 USD )
+standby777 posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 2c ]
+alexnest folds
+dolfie333 folds
+pkrOD calls [$0.25 USD]
+standby777 calls [$0.15 USD]
+Wally5080 checks
+** Dealing Flop ** [ 7h, 8c, 7c ]
+standby777 checks
+Wally5080 checks
+pkrOD bets [$0.70 USD]
+standby777 calls [$0.70 USD]
+Wally5080 folds
+** Dealing Turn ** [ As ]
+standby777 checks
+pkrOD bets [$1.70 USD]
+standby777 calls [$1.70 USD]
+** Dealing River ** [ 4s ]
+standby777 bets [$5.28 USD]
+pkrOD folds
+standby777 does not show cards.
+standby777 wins $10.56 USD
+ Game #9547075772 starts.
+
+#Game No : 9547075772 
+***** Hand History for Game 9547075772 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:21:54 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.14 USD )
+Seat 3: alexnest ( $9.27 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.35 USD )
+Seat 6: standby777 ( $13.63 USD )
+Wally5080 posts small blind [$0.10 USD].
+alexnest posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 7c ]
+dolfie333 folds
+pkrOD calls [$0.25 USD]
+standby777 folds
+Wally5080 folds
+alexnest checks
+** Dealing Flop ** [ 2c, Qd, Js ]
+alexnest bets [$0.40 USD]
+pkrOD calls [$0.40 USD]
+** Dealing Turn ** [ 5d ]
+alexnest checks
+pkrOD checks
+** Dealing River ** [ Ad ]
+alexnest bets [$0.90 USD]
+pkrOD raises [$2.50 USD]
+alexnest calls [$1.60 USD]
+pkrOD shows [ 9d, 7c ]high card Ace.
+alexnest shows [ As, 2s ]two pairs, Aces and Twos.
+alexnest wins $6.08 USD from the main pot with two pairs, Aces and Twos.
+ Game #9547078804 starts.
+
+#Game No : 9547078804 
+***** Hand History for Game 9547078804 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:22:48 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 3: alexnest ( $12.20 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $4.20 USD )
+Seat 6: standby777 ( $13.63 USD )
+alexnest posts small blind [$0.10 USD].
+dolfie333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 7d ]
+pkrOD folds
+standby777 calls [$0.25 USD]
+Wally5080 folds
+alexnest calls [$0.15 USD]
+dolfie333 checks
+** Dealing Flop ** [ 4h, 8c, 7h ]
+alexnest checks
+dolfie333 checks
+standby777 checks
+** Dealing Turn ** [ 3d ]
+alexnest checks
+dolfie333 checks
+standby777 bets [$0.54 USD]
+alexnest folds
+dolfie333 folds
+standby777 does not show cards.
+standby777 wins $1.26 USD
+ Game #9547081653 starts.
+
+#Game No : 9547081653 
+***** Hand History for Game 9547081653 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:23:41 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 3: alexnest ( $11.95 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $4.20 USD )
+Seat 6: standby777 ( $14.10 USD )
+dolfie333 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d Kd ]
+standby777 calls [$0.25 USD]
+Wally5080 folds
+alexnest folds
+dolfie333 folds
+pkrOD checks
+** Dealing Flop ** [ Qd, Qh, 2h ]
+pkrOD bets [$0.25 USD]
+standby777 calls [$0.25 USD]
+** Dealing Turn ** [ Th ]
+pkrOD bets [$0.25 USD]
+standby777 raises [$1.35 USD]
+pkrOD is all-In  [$3.45 USD]
+standby777 calls [$2.35 USD]
+** Dealing River ** [ 7h ]
+standby777 shows [ Jh, Kh ]a flush, King high.
+pkrOD doesn't show [ 2d, Kd ]two pairs, Queens and Twos.
+standby777 wins $8.08 USD from the main pot with a flush, King high.
+ Game #9547089053 starts.
+
+#Game No : 9547089053 
+***** Hand History for Game 9547089053 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:25:56 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 3: alexnest ( $12.52 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.37 USD )
+Seat 6: standby777 ( $17.63 USD )
+dolfie333 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd Kh ]
+standby777 folds
+Wally5080 folds
+alexnest folds
+dolfie333 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #9547090098 starts.
+
+#Game No : 9547090098 
+***** Hand History for Game 9547090098 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:26:15 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 3: alexnest ( $12.52 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.47 USD )
+Seat 6: standby777 ( $17.63 USD )
+pkrOD posts small blind [$0.10 USD].
+standby777 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 2h ]
+Wally5080 folds
+alexnest folds
+dolfie333 folds
+pkrOD folds
+standby777 does not show cards.
+standby777 wins $0.35 USD
+ Game #9547090548 starts.
+
+#Game No : 9547090548 
+***** Hand History for Game 9547090548 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:26:23 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 3: alexnest ( $12.52 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.37 USD )
+Seat 6: standby777 ( $17.73 USD )
+standby777 posts small blind [$0.10 USD].
+alexnest is sitting out
+dolfie333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s Td ]
+alexnest has left the table.
+pkrOD raises [$1 USD]
+standby777 folds
+dolfie333 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9547091473 starts.
+
+#Game No : 9547091473 
+***** Hand History for Game 9547091473 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:26:42 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 4/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.72 USD )
+Seat 6: standby777 ( $17.63 USD )
+dolfie333 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 2d ]
+standby777 calls [$0.25 USD]
+dolfie333 raises [$1.15 USD]
+pkrOD folds
+standby777 calls [$1 USD]
+** Dealing Flop ** [ Js, 7h, Ks ]
+dolfie333 checks
+standby777 bets [$1.31 USD]
+dolfie333 calls [$1.31 USD]
+** Dealing Turn ** [ Jd ]
+dolfie333 checks
+standby777 bets [$1.75 USD]
+dolfie333 folds
+standby777 does not show cards.
+standby777 wins $6.86 USD
+ Game #9547094025 starts.
+
+#Game No : 9547094025 
+***** Hand History for Game 9547094025 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:27:27 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 4/6 
+Seat 1: Wally5080 ( $21.04 USD )
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.47 USD )
+Seat 6: standby777 ( $20.18 USD )
+pkrOD posts small blind [$0.10 USD].
+standby777 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 3c ]
+dolfie333 raises [$1 USD]
+pkrOD folds
+standby777 calls [$0.75 USD]
+** Dealing Flop ** [ Ah, 8c, Jd ]
+standby777 checks
+dolfie333 checks
+** Dealing Turn ** [ 8h ]
+Wally5080 has left the table.
+standby777 bets [$1 USD]
+dolfie333 folds
+standby777 does not show cards.
+standby777 wins $3 USD
+ Game #9547096332 starts.
+
+#Game No : 9547096332 
+***** Hand History for Game 9547096332 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:28:08 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 3/6 
+Seat 4: dolfie333 ( $10 USD )
+Seat 5: pkrOD ( $7.37 USD )
+Seat 6: standby777 ( $21.18 USD )
+standby777 posts small blind [$0.10 USD].
+dolfie333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c Th ]
+pkrOD folds
+standby777 calls [$0.15 USD]
+dolfie333 checks
+** Dealing Flop ** [ 7d, 5h, 6d ]
+standby777 checks
+dolfie333 checks
+** Dealing Turn ** [ Qs ]
+standby777 checks
+dolfie333 checks
+** Dealing River ** [ Qh ]
+standby777 checks
+dolfie333 checks
+standby777 shows [ 9h, Td ]a pair of Queens.
+dolfie333 shows [ 3h, Jh ]a pair of Queens with Jack kicker.
+dolfie333 wins $0.48 USD from the main pot with a pair of Queens with Jack kicker.
+ Game #9547098963 starts.
+
+#Game No : 9547098963 
+***** Hand History for Game 9547098963 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:28:55 EDT 2010
+Table 20BB Min #1769696 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 3/6 
+Seat 4: dolfie333 ( $10.23 USD )
+Seat 5: pkrOD ( $7.37 USD )
+Seat 6: standby777 ( $20.93 USD )
+dolfie333 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Kh ]
+standby777 folds
+dolfie333 raises [$1.15 USD]
+pkrOD is all-In  [$7.12 USD]
+dolfie333 calls [$6.12 USD]
+** Dealing Flop ** [ 7c, 3h, 6h ]
+** Dealing Turn ** [ 4s ]
+** Dealing River ** [ 6d ]
+dolfie333 shows [ Js, Jh ]two pairs, Jacks and Sixes.
+pkrOD doesn't show [ Qh, Kh ]a pair of Sixes.
+dolfie333 wins $14.01 USD from the main pot with two pairs, Jacks and Sixes.
+standby777 has left the table.

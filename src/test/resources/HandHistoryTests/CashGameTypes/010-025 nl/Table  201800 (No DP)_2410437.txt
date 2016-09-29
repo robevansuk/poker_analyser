@@ -1,0 +1,401 @@
+Game #10989392562 starts.
+
+#Game No : 10989392562 
+***** Hand History for Game 10989392562 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:06:51 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 3/6 
+Seat 2: goonderdup ( $14 USD )
+Seat 6: pkrOD ( $9.98 USD )
+Seat 1: serval1980 ( $9.50 USD )
+goonderdup posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 7c ]
+serval1980 raises [$0.70 USD]
+goonderdup folds
+pkrOD is all-In  [$9.73 USD]
+serval1980 folds
+pkrOD does not show cards.
+pkrOD wins $10.78 USD
+ Game #10989394175 starts.
+
+#Game No : 10989394175 
+***** Hand History for Game 10989394175 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:07:19 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 3/6 
+Seat 2: goonderdup ( $13.90 USD )
+Seat 6: pkrOD ( $10.78 USD )
+Seat 1: serval1980 ( $8.80 USD )
+pkrOD posts small blind [$0.10 USD].
+serval1980 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h Qd ]
+goonderdup raises [$0.75 USD]
+pkrOD folds
+serval1980 will be using his time bank for this hand.
+serval1980 folds
+goonderdup does not show cards.
+goonderdup wins $1.10 USD
+ Game #10989394946 starts.
+
+#Game No : 10989394946 
+***** Hand History for Game 10989394946 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:07:32 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 3/6 
+Seat 2: goonderdup ( $14.25 USD )
+Seat 6: pkrOD ( $10.68 USD )
+Seat 1: serval1980 ( $8.55 USD )
+serval1980 posts small blind [$0.10 USD].
+goonderdup posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh Qh ]
+pkrOD raises [$1.50 USD]
+serval1980 folds
+goonderdup folds
+pkrOD does not show cards.
+pkrOD wins $1.85 USD
+ Game #10989395904 starts.
+
+#Game No : 10989395904 
+***** Hand History for Game 10989395904 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:07:45 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 3/6 
+Seat 2: goonderdup ( $14 USD )
+Seat 6: pkrOD ( $11.03 USD )
+Seat 1: serval1980 ( $8.45 USD )
+goonderdup posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Kh ]
+serval1980 folds
+goonderdup folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+serval1980 has left the table.
+ Game #10989396472 starts.
+
+#Game No : 10989396472 
+***** Hand History for Game 10989396472 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:07:54 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 2/6 
+Seat 2: goonderdup ( $13.90 USD )
+Seat 6: pkrOD ( $11.13 USD )
+goonderdup posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 8c ]
+goonderdup raises [$0.65 USD]
+pkrOD is all-In  [$10.88 USD]
+goonderdup folds
+pkrOD does not show cards.
+pkrOD wins $11.88 USD
+ Game #10989397355 starts.
+
+#Game No : 10989397355 
+***** Hand History for Game 10989397355 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:08:06 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 2/6 
+Seat 2: goonderdup ( $13.15 USD )
+Seat 6: pkrOD ( $11.88 USD )
+pkrOD posts small blind [$0.10 USD].
+goonderdup posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 3s ]
+pkrOD folds
+goonderdup does not show cards.
+goonderdup wins $0.35 USD
+ Game #10989397762 starts.
+
+#Game No : 10989397762 
+***** Hand History for Game 10989397762 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:08:12 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 2/6 
+Seat 2: goonderdup ( $13.25 USD )
+Seat 6: pkrOD ( $11.78 USD )
+goonderdup posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 4h ]
+goonderdup raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ Th, 9s, 4s ]
+pkrOD bets [$2 USD]
+JaydenLevi has joined the table.
+goonderdup folds
+pkrOD does not show cards.
+pkrOD wins $2.95 USD
+ Game #10989398807 starts.
+
+#Game No : 10989398807 
+***** Hand History for Game 10989398807 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:08:28 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 3/6 
+Seat 3: JaydenLevi ( $7.50 USD )
+Seat 2: goonderdup ( $12.75 USD )
+Seat 6: pkrOD ( $12.23 USD )
+goonderdup posts small blind [$0.10 USD].
+JaydenLevi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 2d ]
+pkrOD raises [$1 USD]
+goonderdup folds
+JaydenLevi folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10989400431 starts.
+
+#Game No : 10989400431 
+***** Hand History for Game 10989400431 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:08:52 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 3/6 
+Seat 3: JaydenLevi ( $7.25 USD )
+Seat 2: goonderdup ( $12.65 USD )
+Seat 6: pkrOD ( $12.58 USD )
+JaydenLevi posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 6c ]
+goonderdup raises [$1 USD]
+JaydenLevi calls [$0.90 USD]
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 2c, 5d, 6s ]
+JaydenLevi checks
+p0kerface0_0 has joined the table.
+pkrOD bets [$4.88 USD]
+goonderdup folds
+JaydenLevi is all-In  [$6.25 USD]
+pkrOD calls [$1.37 USD]
+** Dealing Turn ** [ 3c ]
+** Dealing River ** [ Qh ]
+pkrOD shows [ 9d, 6c ]a pair of Sixes.
+JaydenLevi shows [ 6h, 6d ]three of a kind, Sixes.
+JaydenLevi wins $14.73 USD from the main pot with three of a kind, Sixes.
+ Game #10989403095 starts.
+
+#Game No : 10989403095 
+***** Hand History for Game 10989403095 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:09:32 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 4/6 
+Seat 3: JaydenLevi ( $14.73 USD )
+Seat 2: goonderdup ( $11.65 USD )
+Seat 1: p0kerface0_0 ( $10 USD )
+Seat 6: pkrOD ( $5.33 USD )
+pkrOD posts small blind [$0.10 USD].
+p0kerface0_0 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts Kh ]
+goonderdup folds
+JaydenLevi raises [$0.50 USD]
+HELLutek has joined the table.
+pkrOD is all-In  [$5.23 USD]
+p0kerface0_0 folds
+JaydenLevi folds
+pkrOD does not show cards.
+pkrOD wins $6.08 USD
+ Game #10989404833 starts.
+
+#Game No : 10989404833 
+***** Hand History for Game 10989404833 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:09:58 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 4: HELLutek ( $25 USD )
+Seat 3: JaydenLevi ( $14.23 USD )
+Seat 2: goonderdup ( $11.65 USD )
+Seat 1: p0kerface0_0 ( $9.75 USD )
+Seat 6: pkrOD ( $6.08 USD )
+p0kerface0_0 posts small blind [$0.10 USD].
+goonderdup posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 8c ]
+JaydenLevi folds
+pkrOD calls [$0.25 USD]
+p0kerface0_0 raises [$1.40 USD]
+goonderdup raises [$4 USD]
+pkrOD folds
+p0kerface0_0 calls [$2.75 USD]
+** Dealing Flop ** [ 9c, Jd, 3h ]
+p0kerface0_0 checks
+goonderdup bets [$6.24 USD]
+p0kerface0_0 folds
+goonderdup does not show cards.
+goonderdup wins $14.56 USD
+ Game #10989407922 starts.
+
+#Game No : 10989407922 
+***** Hand History for Game 10989407922 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:10:45 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 4: HELLutek ( $25 USD )
+Seat 3: JaydenLevi ( $14.23 USD )
+Seat 2: goonderdup ( $15.72 USD )
+Seat 1: p0kerface0_0 ( $10 USD )
+Seat 6: pkrOD ( $5.83 USD )
+goonderdup posts small blind [$0.10 USD].
+JaydenLevi posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h Js ]
+pkrOD folds
+p0kerface0_0 folds
+goonderdup raises [$0.40 USD]
+JaydenLevi folds
+goonderdup does not show cards.
+goonderdup wins $0.75 USD
+ Game #10989408484 starts.
+
+#Game No : 10989408484 
+***** Hand History for Game 10989408484 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:10:55 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 4: HELLutek ( $25 USD )
+Seat 3: JaydenLevi ( $13.98 USD )
+Seat 2: goonderdup ( $15.97 USD )
+Seat 1: p0kerface0_0 ( $10 USD )
+Seat 6: pkrOD ( $5.83 USD )
+JaydenLevi posts small blind [$0.10 USD].
+HELLutek posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 6d ]
+pkrOD calls [$0.25 USD]
+p0kerface0_0 folds
+goonderdup folds
+JaydenLevi raises [$0.40 USD]
+HELLutek calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 3d, 5h, 9d ]
+JaydenLevi bets [$0.25 USD]
+HELLutek folds
+pkrOD raises [$2.25 USD]
+JaydenLevi folds
+pkrOD does not show cards.
+pkrOD wins $3.90 USD
+ Game #10989413229 starts.
+
+#Game No : 10989413229 
+***** Hand History for Game 10989413229 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:12:06 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 4: HELLutek ( $25 USD )
+Seat 3: JaydenLevi ( $13.23 USD )
+Seat 5: challenge116 ( $0 USD )
+Seat 2: goonderdup ( $15.97 USD )
+Seat 1: p0kerface0_0 ( $10 USD )
+Seat 6: pkrOD ( $6.98 USD )
+HELLutek posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 2c ]
+p0kerface0_0 raises [$0.65 USD]
+challenge116 has joined the table.
+goonderdup folds
+JaydenLevi calls [$0.65 USD]
+HELLutek folds
+pkrOD calls [$0.40 USD]
+** Dealing Flop ** [ 2d, Jc, Jh ]
+pkrOD bets [$1 USD]
+p0kerface0_0 folds
+JaydenLevi calls [$1 USD]
+** Dealing Turn ** [ Kh ]
+pkrOD bets [$1 USD]
+JaydenLevi calls [$1 USD]
+** Dealing River ** [ 9d ]
+pkrOD bets [$0.50 USD]
+JaydenLevi raises [$7 USD]
+pkrOD folds
+JaydenLevi does not show cards.
+JaydenLevi wins $13.20 USD
+ Game #10989416527 starts.
+
+#Game No : 10989416527 
+***** Hand History for Game 10989416527 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:12:57 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 4: HELLutek ( $25 USD )
+Seat 3: JaydenLevi ( $16.78 USD )
+Seat 5: challenge116 ( $7.50 USD )
+Seat 2: goonderdup ( $15.97 USD )
+Seat 1: p0kerface0_0 ( $9.35 USD )
+Seat 6: pkrOD ( $3.83 USD )
+pkrOD posts small blind [$0.10 USD].
+p0kerface0_0 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h Ah ]
+goonderdup folds
+JaydenLevi raises [$0.50 USD]
+HELLutek folds
+pkrOD raises [$2.63 USD]
+p0kerface0_0 folds
+JaydenLevi calls [$2.23 USD]
+** Dealing Flop ** [ Qd, 2s, Qs ]
+pkrOD is all-In  [$1.10 USD]
+JaydenLevi calls [$1.10 USD]
+** Dealing Turn ** [ Kd ]
+** Dealing River ** [ 7c ]
+pkrOD shows [ 5h, Ah ]a pair of Queens.
+JaydenLevi shows [ 5s, As ]a pair of Queens.
+pkrOD wins $3.76 USD from the main pot with a pair of Queens.
+JaydenLevi wins $3.76 USD from the main pot with a pair of Queens.
+ Game #10989419100 starts.
+
+#Game No : 10989419100 
+***** Hand History for Game 10989419100 *****
+$25 USD NL Texas Hold'em - Friday, October 14, 17:13:36 EDT 2011
+Table Table  201800 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 4: HELLutek ( $25 USD )
+Seat 3: JaydenLevi ( $16.71 USD )
+Seat 5: challenge116 ( $7.50 USD )
+Seat 2: goonderdup ( $15.97 USD )
+Seat 1: p0kerface0_0 ( $9.10 USD )
+Seat 6: pkrOD ( $3.76 USD )
+p0kerface0_0 posts small blind [$0.10 USD].
+goonderdup posts big blind [$0.25 USD].
+challenge116 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 2s ]
+JaydenLevi calls [$0.25 USD]
+HELLutek raises [$1.50 USD]
+challenge116 folds
+pkrOD calls [$1.50 USD]
+p0kerface0_0 folds
+goonderdup folds
+JaydenLevi folds
+** Dealing Flop ** [ Qd, 8s, 6d ]
+HELLutek bets [$2.50 USD]
+pkrOD is all-In  [$2.26 USD]
+** Dealing Turn ** [ 6s ]
+** Dealing River ** [ 8d ]
+HELLutek shows [ Td, Ad ]a flush, Ace high.
+pkrOD doesn't show [ 2h, 2s ]two pairs, Eights and Sixes.
+HELLutek wins $0.24 USD from the side pot 1 with a flush, Ace high.
+HELLutek wins $7.96 USD from the main pot with a flush, Ace high.

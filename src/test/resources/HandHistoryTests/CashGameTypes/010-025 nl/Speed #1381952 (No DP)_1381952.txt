@@ -1,0 +1,1152 @@
+Game #9057629628 starts.
+
+#Game No : 9057629628 
+***** Hand History for Game 9057629628 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:31:51 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $9.65 USD )
+Seat 1: Popocatepetl ( $26.58 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $59.02 USD )
+Seat 4: pkrOD ( $10 USD )
+Seat 3: shadowlordfv ( $5.60 USD )
+shadowlordfv posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 7d ]
+greis49 calls [$0.25 USD]
+VamokeVamo folds
+Popocatepetl raises [$1.25 USD]
+AlphaRisk calls [$1.25 USD]
+shadowlordfv folds
+pkrOD folds
+greis49 folds
+** Dealing Flop ** [ 3d, 3h, 9c ]
+Popocatepetl checks
+AlphaRisk checks
+** Dealing Turn ** [ 6h ]
+Popocatepetl checks
+AlphaRisk checks
+** Dealing River ** [ 6s ]
+Popocatepetl checks
+AlphaRisk bets [$1 USD]
+Popocatepetl folds
+AlphaRisk does not show cards.
+AlphaRisk wins $3.95 USD
+ Game #9057634162 starts.
+
+#Game No : 9057634162 
+***** Hand History for Game 9057634162 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:33:12 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $11.35 USD )
+Seat 1: Popocatepetl ( $25.33 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $58.77 USD )
+Seat 4: pkrOD ( $9.75 USD )
+Seat 3: shadowlordfv ( $5.50 USD )
+pkrOD posts small blind [$0.10 USD].
+greis49 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc Ad ]
+VamokeVamo folds
+Popocatepetl folds
+AlphaRisk calls [$0.25 USD]
+shadowlordfv folds
+pkrOD raises [$0.90 USD]
+greis49 calls [$0.75 USD]
+AlphaRisk folds
+** Dealing Flop ** [ 4c, Td, 5c ]
+pkrOD bets [$2 USD]
+greis49 folds
+pkrOD does not show cards.
+pkrOD wins $4.14 USD
+ Game #9057636192 starts.
+
+#Game No : 9057636192 
+***** Hand History for Game 9057636192 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:33:49 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $11.10 USD )
+Seat 1: Popocatepetl ( $25.33 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $57.77 USD )
+Seat 4: pkrOD ( $10.89 USD )
+Seat 3: shadowlordfv ( $5.50 USD )
+greis49 posts small blind [$0.10 USD].
+VamokeVamo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 9s ]
+Popocatepetl folds
+AlphaRisk folds
+shadowlordfv folds
+pkrOD calls [$0.25 USD]
+greis49 calls [$0.15 USD]
+VamokeVamo checks
+** Dealing Flop ** [ Ad, Qs, Ah ]
+greis49 bets [$0.25 USD]
+VamokeVamo folds
+pkrOD raises [$1 USD]
+greis49 raises [$1.50 USD]
+pkrOD folds
+greis49 does not show cards.
+greis49 wins $3.37 USD
+ Game #9057638824 starts.
+
+#Game No : 9057638824 
+***** Hand History for Game 9057638824 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:34:36 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $11.10 USD )
+Seat 1: Popocatepetl ( $25.33 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $59.14 USD )
+Seat 4: pkrOD ( $9.64 USD )
+Seat 3: shadowlordfv ( $5.50 USD )
+VamokeVamo posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 5c ]
+AlphaRisk raises [$0.50 USD]
+shadowlordfv is all-In  [$5.50 USD]
+pkrOD folds
+greis49 folds
+VamokeVamo folds
+Popocatepetl folds
+AlphaRisk folds
+shadowlordfv does not show cards.
+shadowlordfv wins $6.35 USD
+ Game #9057640130 starts.
+
+#Game No : 9057640130 
+***** Hand History for Game 9057640130 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:35:01 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $10.60 USD )
+Seat 1: Popocatepetl ( $25.08 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $59.14 USD )
+Seat 4: pkrOD ( $9.64 USD )
+Seat 3: shadowlordfv ( $6.35 USD )
+Popocatepetl posts small blind [$0.10 USD].
+AlphaRisk posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 6s ]
+shadowlordfv folds
+pkrOD folds
+greis49 folds
+VamokeVamo folds
+Popocatepetl folds
+AlphaRisk does not show cards.
+AlphaRisk wins $0.35 USD
+ Game #9057641047 starts.
+
+#Game No : 9057641047 
+***** Hand History for Game 9057641047 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:35:18 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $10.70 USD )
+Seat 1: Popocatepetl ( $25 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $59.14 USD )
+Seat 4: pkrOD ( $9.64 USD )
+Seat 3: shadowlordfv ( $6.35 USD )
+AlphaRisk posts small blind [$0.10 USD].
+shadowlordfv posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 6s ]
+pkrOD folds
+greis49 calls [$0.25 USD]
+VamokeVamo folds
+Popocatepetl raises [$0.75 USD]
+AlphaRisk folds
+shadowlordfv folds
+greis49 calls [$0.50 USD]
+** Dealing Flop ** [ 2s, 5h, Kc ]
+greis49 bets [$0.25 USD]
+Popocatepetl raises [$1.25 USD]
+greis49 calls [$1 USD]
+** Dealing Turn ** [ Ad ]
+greis49 bets [$0.25 USD]
+Popocatepetl calls [$0.25 USD]
+** Dealing River ** [ Ts ]
+greis49 bets [$0.25 USD]
+Popocatepetl raises [$2 USD]
+greis49 calls [$1.75 USD]
+Popocatepetl shows [ Qs, Ac ]a pair of Aces.
+greis49 doesn't show [ Kh, Jd ]a pair of Kings.
+Popocatepetl wins $8.41 USD from the main pot with a pair of Aces.
+ Game #9057644829 starts.
+
+#Game No : 9057644829 
+***** Hand History for Game 9057644829 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:36:25 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $10.60 USD )
+Seat 1: Popocatepetl ( $29.16 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $54.89 USD )
+Seat 4: pkrOD ( $9.64 USD )
+Seat 3: shadowlordfv ( $6.10 USD )
+shadowlordfv posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh Kh ]
+greis49 calls [$0.25 USD]
+VamokeVamo raises [$1.25 USD]
+Popocatepetl folds
+AlphaRisk folds
+shadowlordfv folds
+pkrOD calls [$1 USD]
+greis49 folds
+** Dealing Flop ** [ 4c, Ts, Qd ]
+pkrOD bets [$2 USD]
+VamokeVamo raises [$8.71 USD]
+pkrOD is all-In  [$6.39 USD]
+** Dealing Turn ** [ Qc ]
+** Dealing River ** [ 9d ]
+VamokeVamo shows [ Ac, Qh ]three of a kind, Queens.
+pkrOD shows [ Jh, Kh ]a straight, Nine to King.
+VamokeVamo wins $0.32 USD from the side pot 1 with three of a kind, Queens.
+pkrOD wins $18.65 USD from the main pot with a straight, Nine to King.
+ Game #9057647085 starts.
+
+#Game No : 9057647085 
+***** Hand History for Game 9057647085 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:37:08 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $10.60 USD )
+Seat 1: Popocatepetl ( $29.16 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $54.64 USD )
+Seat 4: pkrOD ( $18.65 USD )
+Seat 3: shadowlordfv ( $6 USD )
+pkrOD posts small blind [$0.10 USD].
+greis49 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c Tc ]
+VamokeVamo folds
+Popocatepetl folds
+AlphaRisk calls [$0.25 USD]
+shadowlordfv folds
+pkrOD calls [$0.15 USD]
+greis49 checks
+** Dealing Flop ** [ 4s, Kh, Ad ]
+pkrOD bets [$0.75 USD]
+greis49 calls [$0.75 USD]
+AlphaRisk raises [$1.50 USD]
+pkrOD folds
+greis49 calls [$0.75 USD]
+** Dealing Turn ** [ Qh ]
+greis49 checks
+AlphaRisk bets [$2 USD]
+greis49 calls [$2 USD]
+** Dealing River ** [ Jc ]
+greis49 checks
+AlphaRisk checks
+greis49 shows [ As, 9h ]a pair of Aces.
+AlphaRisk doesn't show [ Qc, 2d ]a pair of Queens.
+greis49 wins $8.08 USD from the main pot with a pair of Aces.
+ Game #9057650192 starts.
+
+#Game No : 9057650192 
+***** Hand History for Game 9057650192 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:38:05 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $6.85 USD )
+Seat 1: Popocatepetl ( $29.16 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $58.97 USD )
+Seat 4: pkrOD ( $17.65 USD )
+Seat 3: shadowlordfv ( $6 USD )
+greis49 posts small blind [$0.10 USD].
+VamokeVamo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts Ad ]
+Popocatepetl folds
+AlphaRisk calls [$0.25 USD]
+shadowlordfv folds
+pkrOD raises [$1 USD]
+greis49 calls [$0.90 USD]
+VamokeVamo folds
+AlphaRisk is all-In  [$6.60 USD]
+pkrOD raises [$11.70 USD]
+greis49 folds
+** Dealing Flop ** [ Kc, 9h, 5s ]
+** Dealing Turn ** [ Js ]
+** Dealing River ** [ Jh ]
+pkrOD shows [ Ts, Ad ]a pair of Jacks with Ten kicker.
+AlphaRisk doesn't show [ 8d, Ac ]a pair of Jacks.
+pkrOD wins $5.85 USD from the side pot 1 with a pair of Jacks with Ten kicker.
+pkrOD wins $14.21 USD from the main pot with a pair of Jacks with Ten kicker.
+ Game #9057652302 starts.
+
+#Game No : 9057652302 
+***** Hand History for Game 9057652302 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:38:43 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: AlphaRisk ( $0 USD )
+Seat 1: Popocatepetl ( $29.16 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $57.97 USD )
+Seat 4: pkrOD ( $25.01 USD )
+Seat 3: shadowlordfv ( $6 USD )
+VamokeVamo posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Ah ]
+shadowlordfv folds
+pkrOD raises [$2 USD]
+AlphaRisk has left the table.
+greis49 folds
+VamokeVamo folds
+Rogueslayer has joined the table.
+Popocatepetl folds
+pkrOD does not show cards.
+pkrOD wins $2.35 USD
+ Game #9057653262 starts.
+
+#Game No : 9057653262 
+***** Hand History for Game 9057653262 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:39:02 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Popocatepetl ( $28.91 USD )
+Seat 2: Rogueslayer ( $25 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $57.97 USD )
+Seat 4: pkrOD ( $25.36 USD )
+Seat 3: shadowlordfv ( $6 USD )
+Popocatepetl posts small blind [$0.10 USD].
+shadowlordfv posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 5d ]
+pkrOD calls [$0.25 USD]
+greis49 folds
+VamokeVamo folds
+Popocatepetl calls [$0.15 USD]
+shadowlordfv raises [$2.25 USD]
+pkrOD calls [$2.25 USD]
+Popocatepetl folds
+** Dealing Flop ** [ 4h, Ah, 9h ]
+shadowlordfv is all-In  [$3.50 USD]
+pkrOD calls [$3.50 USD]
+** Dealing Turn ** [ Qh ]
+** Dealing River ** [ Jh ]
+shadowlordfv shows [ Jd, Qd ]a flush, Ace high.
+pkrOD shows [ 6h, 5d ]a flush, Ace high with Six kicker.
+pkrOD wins $11.64 USD from the main pot with a flush, Ace high with Six kicker.
+ Game #9057655242 starts.
+
+#Game No : 9057655242 
+***** Hand History for Game 9057655242 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:39:38 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Popocatepetl ( $28.66 USD )
+Seat 2: Rogueslayer ( $25 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $57.97 USD )
+Seat 4: pkrOD ( $31 USD )
+Seat 3: shadowlordfv ( $0 USD )
+pkrOD posts small blind [$0.10 USD].
+greis49 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c 2s ]
+VamokeVamo folds
+Popocatepetl raises [$0.75 USD]
+pkrOD folds
+greis49 calls [$0.50 USD]
+** Dealing Flop ** [ Qd, Td, 7d ]
+greis49 checks
+Popocatepetl bets [$1.25 USD]
+greis49 folds
+Popocatepetl does not show cards.
+Popocatepetl wins $2.77 USD
+ Game #9057656611 starts.
+
+#Game No : 9057656611 
+***** Hand History for Game 9057656611 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:40:04 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Popocatepetl ( $29.43 USD )
+Seat 2: Rogueslayer ( $25 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $57.22 USD )
+Seat 4: pkrOD ( $30.90 USD )
+Seat 3: shadowlordfv ( $5 USD )
+greis49 posts small blind [$0.10 USD].
+VamokeVamo posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c Js ]
+Popocatepetl folds
+pkrOD folds
+greis49 calls [$0.15 USD]
+VamokeVamo raises [$0.75 USD]
+greis49 raises [$1.50 USD]
+VamokeVamo calls [$0.75 USD]
+** Dealing Flop ** [ 9h, Qc, 5s ]
+greis49 bets [$2.49 USD]
+Rogueslayer has left the table.
+VamokeVamo calls [$2.49 USD]
+** Dealing Turn ** [ Ks ]
+greis49 bets [$6.04 USD]
+VamokeVamo calls [$6.04 USD]
+** Dealing River ** [ Kc ]
+Krit7 has joined the table.
+greis49 checks
+VamokeVamo is all-In  [$14.72 USD]
+greis49 calls [$14.72 USD]
+greis49 shows [ Ah, As ]two pairs, Aces and Kings.
+VamokeVamo doesn't show [ Ac, Qs ]two pairs, Kings and Queens.
+greis49 wins $48 USD from the main pot with two pairs, Aces and Kings.
+ Game #9057659819 starts.
+
+#Game No : 9057659819 
+***** Hand History for Game 9057659819 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:41:03 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $29.43 USD )
+Seat 6: VamokeVamo ( $25 USD )
+Seat 5: greis49 ( $80.22 USD )
+Seat 4: pkrOD ( $30.90 USD )
+Seat 3: shadowlordfv ( $5 USD )
+VamokeVamo posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 5h ]
+pkrOD calls [$0.25 USD]
+greis49 calls [$0.25 USD]
+VamokeVamo raises [$1.90 USD]
+Popocatepetl folds
+pkrOD folds
+greis49 calls [$1.75 USD]
+** Dealing Flop ** [ 3d, 8d, 7c ]
+VamokeVamo bets [$3.21 USD]
+greis49 folds
+VamokeVamo does not show cards.
+VamokeVamo wins $7.49 USD
+ Game #9057661909 starts.
+
+#Game No : 9057661909 
+***** Hand History for Game 9057661909 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:41:40 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $29.18 USD )
+Seat 6: VamokeVamo ( $27.28 USD )
+Seat 5: greis49 ( $78.22 USD )
+Seat 4: pkrOD ( $30.65 USD )
+Seat 3: shadowlordfv ( $5 USD )
+Popocatepetl posts small blind [$0.10 USD].
+Krit7 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 3h ]
+pkrOD folds
+greis49 folds
+VamokeVamo folds
+Popocatepetl folds
+Krit7 does not show cards.
+Krit7 wins $0.35 USD
+ Game #9057662705 starts.
+
+#Game No : 9057662705 
+***** Hand History for Game 9057662705 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:41:54 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25.10 USD )
+Seat 1: Popocatepetl ( $29.08 USD )
+Seat 6: VamokeVamo ( $27.28 USD )
+Seat 5: greis49 ( $78.22 USD )
+Seat 4: pkrOD ( $30.65 USD )
+Seat 3: shadowlordfv ( $5 USD )
+Krit7 posts small blind [$0.10 USD].
+shadowlordfv posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Qh ]
+pkrOD raises [$1 USD]
+greis49 folds
+VamokeVamo folds
+Popocatepetl folds
+Krit7 folds
+shadowlordfv folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+VamokeVamo has left the table.
+ Game #9057663931 starts.
+
+#Game No : 9057663931 
+***** Hand History for Game 9057663931 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:42:17 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $29.08 USD )
+Seat 5: greis49 ( $78.22 USD )
+Seat 4: pkrOD ( $31 USD )
+Seat 3: shadowlordfv ( $4.75 USD )
+shadowlordfv posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 5s ]
+greis49 calls [$0.25 USD]
+Popocatepetl folds
+Krit7 folds
+shadowlordfv folds
+zula_faa has joined the table.
+pkrOD raises [$0.25 USD]
+greis49 calls [$0.25 USD]
+** Dealing Flop ** [ 8h, Qs, Td ]
+pkrOD bets [$1 USD]
+greis49 folds
+pkrOD does not show cards.
+pkrOD wins $2.05 USD
+ Game #9057665779 starts.
+
+#Game No : 9057665779 
+***** Hand History for Game 9057665779 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:42:50 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $29.08 USD )
+Seat 5: greis49 ( $77.72 USD )
+Seat 4: pkrOD ( $31.55 USD )
+Seat 3: shadowlordfv ( $4.65 USD )
+Seat 6: zula_faa ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+greis49 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 9s ]
+Popocatepetl raises [$1 USD]
+Krit7 folds
+shadowlordfv folds
+pkrOD calls [$0.90 USD]
+greis49 folds
+** Dealing Flop ** [ Ts, Qh, Jd ]
+pkrOD bets [$1.50 USD]
+Popocatepetl raises [$6 USD]
+pkrOD calls [$4.50 USD]
+** Dealing Turn ** [ 4h ]
+pkrOD checks
+Popocatepetl bets [$10 USD]
+pkrOD is all-In  [$24.55 USD]
+Popocatepetl is all-In  [$12.08 USD]
+** Dealing River ** [ 3h ]
+Popocatepetl shows [ Tc, Td ]three of a kind, Tens.
+pkrOD shows [ 8s, 9s ]a straight, Eight to Queen.
+pkrOD wins $2.47 USD from the side pot 1 with a straight, Eight to Queen.
+pkrOD wins $56.41 USD from the main pot with a straight, Eight to Queen.
+ Game #9057669458 starts.
+
+#Game No : 9057669458 
+***** Hand History for Game 9057669458 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:43:58 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $25 USD )
+Seat 5: greis49 ( $77.47 USD )
+Seat 4: pkrOD ( $58.88 USD )
+Seat 3: shadowlordfv ( $4.65 USD )
+Seat 6: zula_faa ( $25 USD )
+greis49 posts small blind [$0.10 USD].
+zula_faa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts Jd ]
+Popocatepetl raises [$1 USD]
+Krit7 folds
+shadowlordfv folds
+pkrOD calls [$1 USD]
+greis49 calls [$0.90 USD]
+zula_faa folds
+** Dealing Flop ** [ Th, As, 3s ]
+greis49 checks
+Popocatepetl bets [$2 USD]
+pkrOD calls [$2 USD]
+greis49 folds
+** Dealing Turn ** [ Kd ]
+Popocatepetl checks
+pkrOD checks
+** Dealing River ** [ 8h ]
+Popocatepetl checks
+pkrOD checks
+Popocatepetl shows [ 5h, Ah ]a pair of Aces.
+pkrOD doesn't show [ Ts, Jd ]a pair of Tens.
+Popocatepetl wins $6.89 USD from the main pot with a pair of Aces.
+ Game #9057672903 starts.
+
+#Game No : 9057672903 
+***** Hand History for Game 9057672903 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:45:01 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $28.89 USD )
+Seat 5: greis49 ( $76.47 USD )
+Seat 4: pkrOD ( $55.88 USD )
+Seat 3: shadowlordfv ( $4.65 USD )
+Seat 6: zula_faa ( $24.75 USD )
+zula_faa posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 4c ]
+Krit7 folds
+shadowlordfv folds
+pkrOD folds
+greis49 calls [$0.25 USD]
+zula_faa raises [$0.90 USD]
+Popocatepetl folds
+greis49 calls [$0.75 USD]
+** Dealing Flop ** [ Qs, Td, 9s ]
+zula_faa bets [$1.60 USD]
+greis49 calls [$1.60 USD]
+** Dealing Turn ** [ 6c ]
+zula_faa bets [$3.50 USD]
+greis49 folds
+zula_faa does not show cards.
+zula_faa wins $8.68 USD
+ Game #9057676109 starts.
+
+#Game No : 9057676109 
+***** Hand History for Game 9057676109 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:45:59 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $28.64 USD )
+Seat 5: greis49 ( $73.87 USD )
+Seat 4: pkrOD ( $55.88 USD )
+Seat 3: shadowlordfv ( $4.65 USD )
+Seat 6: zula_faa ( $27.33 USD )
+Popocatepetl posts small blind [$0.10 USD].
+Krit7 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 9h ]
+shadowlordfv folds
+pkrOD raises [$1 USD]
+greis49 folds
+zula_faa folds
+Popocatepetl folds
+Krit7 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9057677311 starts.
+
+#Game No : 9057677311 
+***** Hand History for Game 9057677311 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:46:22 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $28.54 USD )
+Seat 5: greis49 ( $73.87 USD )
+Seat 4: pkrOD ( $56.23 USD )
+Seat 3: shadowlordfv ( $4.65 USD )
+Seat 6: zula_faa ( $27.33 USD )
+Krit7 posts small blind [$0.10 USD].
+shadowlordfv posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c Ah ]
+pkrOD folds
+greis49 folds
+zula_faa folds
+Popocatepetl folds
+Krit7 folds
+shadowlordfv does not show cards.
+shadowlordfv wins $0.35 USD
+ Game #9057678162 starts.
+
+#Game No : 9057678162 
+***** Hand History for Game 9057678162 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:46:36 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $28.54 USD )
+Seat 5: greis49 ( $73.87 USD )
+Seat 4: pkrOD ( $56.23 USD )
+Seat 3: shadowlordfv ( $4.75 USD )
+Seat 6: zula_faa ( $27.33 USD )
+shadowlordfv posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 9d ]
+greis49 folds
+zula_faa folds
+Popocatepetl folds
+Krit7 raises [$1 USD]
+shadowlordfv is all-In  [$4.65 USD]
+pkrOD folds
+Krit7 folds
+shadowlordfv does not show cards.
+shadowlordfv wins $6 USD
+ Game #9057680122 starts.
+
+#Game No : 9057680122 
+***** Hand History for Game 9057680122 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:47:13 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $28.54 USD )
+Seat 5: greis49 ( $73.87 USD )
+Seat 4: pkrOD ( $55.98 USD )
+Seat 3: shadowlordfv ( $6 USD )
+Seat 6: zula_faa ( $27.33 USD )
+pkrOD posts small blind [$0.10 USD].
+greis49 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 7s ]
+zula_faa folds
+Popocatepetl raises [$1 USD]
+Krit7 folds
+shadowlordfv folds
+pkrOD folds
+greis49 calls [$0.75 USD]
+** Dealing Flop ** [ 8s, Tc, Ac ]
+greis49 bets [$0.25 USD]
+Popocatepetl raises [$1.50 USD]
+greis49 folds
+Popocatepetl does not show cards.
+Popocatepetl wins $3.72 USD
+ Game #9057682135 starts.
+
+#Game No : 9057682135 
+***** Hand History for Game 9057682135 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:47:50 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $29.76 USD )
+Seat 5: greis49 ( $72.62 USD )
+Seat 4: pkrOD ( $55.88 USD )
+Seat 3: shadowlordfv ( $6 USD )
+Seat 6: zula_faa ( $27.33 USD )
+greis49 posts small blind [$0.10 USD].
+zula_faa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc Th ]
+Popocatepetl raises [$1 USD]
+Krit7 folds
+shadowlordfv folds
+pkrOD raises [$3.50 USD]
+greis49 folds
+zula_faa folds
+Popocatepetl raises [$7 USD]
+pkrOD folds
+Popocatepetl does not show cards.
+Popocatepetl wins $11.85 USD
+ Game #9057684854 starts.
+
+#Game No : 9057684854 
+***** Hand History for Game 9057684854 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:48:40 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $33.61 USD )
+Seat 5: greis49 ( $72.52 USD )
+Seat 4: pkrOD ( $52.38 USD )
+Seat 3: shadowlordfv ( $6 USD )
+Seat 6: zula_faa ( $27.08 USD )
+zula_faa posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s Kd ]
+Krit7 folds
+shadowlordfv folds
+pkrOD folds
+greis49 folds
+zula_faa folds
+Popocatepetl does not show cards.
+Popocatepetl wins $0.35 USD
+ Game #9057686074 starts.
+
+#Game No : 9057686074 
+***** Hand History for Game 9057686074 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:49:02 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $33.71 USD )
+Seat 5: greis49 ( $72.52 USD )
+Seat 4: pkrOD ( $52.38 USD )
+Seat 3: shadowlordfv ( $6 USD )
+Seat 6: zula_faa ( $26.98 USD )
+Popocatepetl posts small blind [$0.10 USD].
+Krit7 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 3s ]
+shadowlordfv folds
+pkrOD folds
+greis49 folds
+zula_faa folds
+Popocatepetl raises [$0.90 USD]
+Krit7 calls [$0.75 USD]
+** Dealing Flop ** [ 2h, 8h, Jc ]
+Popocatepetl bets [$1.42 USD]
+Krit7 calls [$1.42 USD]
+** Dealing Turn ** [ 9c ]
+Popocatepetl bets [$3.25 USD]
+Krit7 folds
+Popocatepetl does not show cards.
+Popocatepetl wins $7.85 USD
+ Game #9057688845 starts.
+
+#Game No : 9057688845 
+***** Hand History for Game 9057688845 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:49:54 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $35.89 USD )
+Seat 5: greis49 ( $72.52 USD )
+Seat 4: pkrOD ( $52.38 USD )
+Seat 3: shadowlordfv ( $6 USD )
+Seat 6: zula_faa ( $26.98 USD )
+Krit7 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Jc ]
+greis49 folds
+zula_faa folds
+Popocatepetl raises [$1 USD]
+shadowlordfv has left the table.
+Krit7 folds
+pkrOD raises [$3.75 USD]
+Popocatepetl folds
+pkrOD does not show cards.
+pkrOD wins $5.10 USD
+greis49 has left the table.
+ Game #9057691059 starts.
+
+#Game No : 9057691059 
+***** Hand History for Game 9057691059 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:50:34 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 4/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $34.89 USD )
+Seat 4: pkrOD ( $53.48 USD )
+Seat 6: zula_faa ( $26.98 USD )
+pkrOD posts small blind [$0.10 USD].
+zula_faa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h Ac ]
+Popocatepetl folds
+Krit7 raises [$1 USD]
+pkrOD folds
+zula_faa folds
+Krit7 does not show cards.
+Krit7 wins $1.35 USD
+ Game #9057691956 starts.
+
+#Game No : 9057691956 
+***** Hand History for Game 9057691956 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:50:51 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 2: Krit7 ( $25.35 USD )
+Seat 1: Popocatepetl ( $34.89 USD )
+Seat 3: lionel1910 ( $0 USD )
+Seat 4: pkrOD ( $53.38 USD )
+Seat 6: zula_faa ( $26.73 USD )
+zula_faa posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th Ah ]
+lionel1910 has joined the table.
+Krit7 folds
+pkrOD raises [$1.25 USD]
+zula_faa folds
+Popocatepetl folds
+pkrOD does not show cards.
+pkrOD wins $1.60 USD
+ Game #9057692946 starts.
+
+#Game No : 9057692946 
+***** Hand History for Game 9057692946 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:51:08 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 2: Krit7 ( $25.35 USD )
+Seat 1: Popocatepetl ( $34.64 USD )
+Seat 3: lionel1910 ( $5 USD )
+Seat 4: pkrOD ( $53.73 USD )
+Seat 6: zula_faa ( $26.63 USD )
+Popocatepetl posts small blind [$0.10 USD].
+Krit7 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh Jh ]
+pkrOD raises [$1 USD]
+zula_faa folds
+Popocatepetl folds
+Krit7 calls [$0.75 USD]
+** Dealing Flop ** [ As, 5s, 8h ]
+Krit7 checks
+pkrOD bets [$2 USD]
+Krit7 calls [$2 USD]
+** Dealing Turn ** [ Td ]
+Krit7 checks
+pkrOD bets [$5 USD]
+Krit7 folds
+pkrOD does not show cards.
+pkrOD wins $10.80 USD
+Zimtnille has joined the table.
+ Game #9057695543 starts.
+
+#Game No : 9057695543 
+***** Hand History for Game 9057695543 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:51:57 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $25 USD )
+Seat 1: Popocatepetl ( $34.54 USD )
+Seat 5: Zimtnille ( $5 USD )
+Seat 3: lionel1910 ( $5 USD )
+Seat 4: pkrOD ( $56.53 USD )
+Seat 6: zula_faa ( $26.63 USD )
+Krit7 posts small blind [$0.10 USD].
+lionel1910 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 4c ]
+pkrOD calls [$0.25 USD]
+zula_faa folds
+Popocatepetl folds
+Krit7 raises [$1.15 USD]
+lionel1910 folds
+pkrOD calls [$1 USD]
+** Dealing Flop ** [ Kh, As, Jd ]
+Krit7 bets [$1.96 USD]
+pkrOD calls [$1.96 USD]
+** Dealing Turn ** [ 3d ]
+Krit7 checks
+pkrOD checks
+** Dealing River ** [ 5c ]
+Krit7 checks
+pkrOD checks
+Krit7 shows [ Qd, Qs ]a pair of Queens.
+pkrOD doesn't show [ Jc, 4c ]a pair of Jacks.
+Krit7 wins $6.34 USD from the main pot with a pair of Queens.
+ Game #9057698341 starts.
+
+#Game No : 9057698341 
+***** Hand History for Game 9057698341 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:52:48 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $28.13 USD )
+Seat 1: Popocatepetl ( $34.54 USD )
+Seat 5: Zimtnille ( $5 USD )
+Seat 3: lionel1910 ( $4.75 USD )
+Seat 4: pkrOD ( $53.32 USD )
+Seat 6: zula_faa ( $26.63 USD )
+lionel1910 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 9d ]
+zula_faa folds
+Popocatepetl folds
+Krit7 folds
+lionel1910 calls [$0.15 USD]
+pkrOD raises [$0.75 USD]
+lionel1910 calls [$0.75 USD]
+** Dealing Flop ** [ 2d, Ks, Ts ]
+lionel1910 checks
+pkrOD bets [$1.50 USD]
+lionel1910 calls [$1.50 USD]
+** Dealing Turn ** [ Ad ]
+lionel1910 is all-In  [$2.25 USD]
+pkrOD folds
+pkrOD: JQ?
+lionel1910 does not show cards.
+lionel1910 wins $7 USD
+ Game #9057700828 starts.
+
+#Game No : 9057700828 
+***** Hand History for Game 9057700828 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:53:34 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $28.13 USD )
+Seat 1: Popocatepetl ( $34.54 USD )
+Seat 5: Zimtnille ( $5 USD )
+Seat 3: lionel1910 ( $7 USD )
+Seat 4: pkrOD ( $50.82 USD )
+Seat 6: zula_faa ( $26.63 USD )
+pkrOD posts small blind [$0.10 USD].
+Zimtnille posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 8h ]
+zula_faa folds
+Popocatepetl folds
+Krit7 folds
+lionel1910 folds
+pkrOD folds
+Zimtnille does not show cards.
+Zimtnille wins $0.35 USD
+ Game #9057702099 starts.
+
+#Game No : 9057702099 
+***** Hand History for Game 9057702099 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:53:57 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $28.13 USD )
+Seat 1: Popocatepetl ( $34.54 USD )
+Seat 5: Zimtnille ( $5.10 USD )
+Seat 3: lionel1910 ( $7 USD )
+Seat 4: pkrOD ( $50.72 USD )
+Seat 6: zula_faa ( $26.63 USD )
+Zimtnille posts small blind [$0.10 USD].
+zula_faa posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 2s ]
+Popocatepetl folds
+Krit7 raises [$1 USD]
+lionel1910 folds
+pkrOD raises [$3 USD]
+Zimtnille folds
+zula_faa folds
+Krit7 folds
+pkrOD does not show cards.
+pkrOD wins $4.35 USD
+ Game #9057703820 starts.
+
+#Game No : 9057703820 
+***** Hand History for Game 9057703820 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:54:29 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $27.13 USD )
+Seat 1: Popocatepetl ( $34.54 USD )
+Seat 5: Zimtnille ( $5 USD )
+Seat 3: lionel1910 ( $7 USD )
+Seat 4: pkrOD ( $52.07 USD )
+Seat 6: zula_faa ( $26.38 USD )
+zula_faa posts small blind [$0.10 USD].
+Popocatepetl posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h Jh ]
+Krit7 folds
+lionel1910 folds
+pkrOD raises [$1 USD]
+Zimtnille folds
+zula_faa folds
+Popocatepetl folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9057704849 starts.
+
+#Game No : 9057704849 
+***** Hand History for Game 9057704849 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:54:49 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $27.13 USD )
+Seat 1: Popocatepetl ( $34.29 USD )
+Seat 5: Zimtnille ( $5 USD )
+Seat 3: lionel1910 ( $7 USD )
+Seat 4: pkrOD ( $52.42 USD )
+Seat 6: zula_faa ( $26.28 USD )
+Popocatepetl posts small blind [$0.10 USD].
+Krit7 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh Th ]
+lionel1910 folds
+pkrOD calls [$0.25 USD]
+Zimtnille calls [$0.25 USD]
+zula_faa folds
+Popocatepetl raises [$1.40 USD]
+Krit7 folds
+pkrOD calls [$1.25 USD]
+Zimtnille folds
+** Dealing Flop ** [ Ah, 4c, 3c ]
+Popocatepetl bets [$2.50 USD]
+pkrOD raises [$6 USD]
+Popocatepetl folds
+pkrOD does not show cards.
+pkrOD wins $11.58 USD
+ Game #9057707315 starts.
+
+#Game No : 9057707315 
+***** Hand History for Game 9057707315 *****
+$25 USD NL Texas Hold'em - Thursday, March 25, 12:55:35 EDT 2010
+Table Speed #1381952 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: Krit7 ( $26.88 USD )
+Seat 1: Popocatepetl ( $30.29 USD )
+Seat 5: Zimtnille ( $4.75 USD )
+Seat 3: lionel1910 ( $7 USD )
+Seat 4: pkrOD ( $56.50 USD )
+Seat 6: zula_faa ( $26.28 USD )
+Krit7 posts small blind [$0.10 USD].
+lionel1910 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 4d ]
+pkrOD folds
+Zimtnille folds
+zula_faa folds
+Popocatepetl raises [$0.75 USD]
+Krit7 calls [$0.65 USD]
+lionel1910 folds
+** Dealing Flop ** [ Ks, Ad, 6s ]
+Krit7 checks
+Popocatepetl bets [$1 USD]
+Krit7 folds
+Popocatepetl does not show cards.
+Popocatepetl wins $2.67 USD

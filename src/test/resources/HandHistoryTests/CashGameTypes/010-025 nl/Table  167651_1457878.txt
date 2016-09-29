@@ -1,0 +1,1145 @@
+Game #10935937894 starts.
+
+#Game No : 10935937894 
+***** Hand History for Game 10935937894 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:12:55 EDT 2011
+Table Table  167651 (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 4: Castorrr ( $9.80 USD )
+Seat 6: Savard91 ( $27.48 USD )
+Seat 2: furman0k ( $7.68 USD )
+Seat 1: liqurepig888 ( $3 USD )
+Seat 5: pkrOD ( $7.10 USD )
+liqurepig888 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 2h ]
+Castorrr folds
+pkrOD checks
+Savard91 folds
+liqurepig888 calls [$0.15 USD]
+furman0k checks
+** Dealing Flop ** [ Qc, 8s, 7s ]
+liqurepig888 checks
+furman0k bets [$0.25 USD]
+pkrOD folds
+liqurepig888 calls [$0.25 USD]
+** Dealing Turn ** [ Jh ]
+liqurepig888 checks
+furman0k bets [$0.50 USD]
+liqurepig888 folds
+furman0k does not show cards.
+furman0k wins $1.70 USD
+ Game #10935938943 starts.
+
+#Game No : 10935938943 
+***** Hand History for Game 10935938943 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:13:31 EDT 2011
+Table Table  167651 (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 4: Castorrr ( $9.80 USD )
+Seat 6: Savard91 ( $27.48 USD )
+Seat 2: furman0k ( $8.38 USD )
+Seat 1: liqurepig888 ( $2.50 USD )
+Seat 5: pkrOD ( $6.85 USD )
+furman0k posts small blind [$0.10 USD].
+Castorrr posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c As ]
+pkrOD raises [$0.50 USD]
+Savard91 folds
+liqurepig888 folds
+furman0k calls [$0.40 USD]
+Castorrr folds
+** Dealing Flop ** [ 7s, Jh, 8h ]
+furman0k checks
+pkrOD bets [$0.25 USD]
+furman0k raises [$0.50 USD]
+pkrOD raises [$0.50 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ Ts ]
+furman0k checks
+pkrOD bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+** Dealing River ** [ 7d ]
+furman0k checks
+pkrOD bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+pkrOD shows [ 7c, As ]three of a kind, Sevens.
+furman0k doesn't show [ Qs, Jd ]two pairs, Jacks and Sevens.
+pkrOD wins $4.55 USD from the main pot with three of a kind, Sevens.
+ Game #10935940772 starts.
+
+#Game No : 10935940772 
+***** Hand History for Game 10935940772 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:14:27 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 4: Castorrr ( $9.55 USD )
+Seat 6: Savard91 ( $27.48 USD )
+Seat 2: furman0k ( $6.13 USD )
+Seat 1: liqurepig888 ( $2.50 USD )
+Seat 5: pkrOD ( $9.15 USD )
+Castorrr posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 7c ]
+Savard91 folds
+liqurepig888 calls [$0.25 USD]
+furman0k calls [$0.25 USD]
+Castorrr raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+liqurepig888 calls [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ 9d, 2d, 7h ]
+Castorrr bets [$0.25 USD]
+pkrOD raises [$0.50 USD]
+liqurepig888 folds
+furman0k folds
+Castorrr raises [$0.50 USD]
+pkrOD raises [$0.50 USD]
+Castorrr calls [$0.25 USD]
+** Dealing Turn ** [ 8d ]
+Castorrr checks
+pkrOD bets [$0.50 USD]
+Castorrr raises [$1 USD]
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ 2c ]
+Castorrr checks
+pkrOD bets [$0.50 USD]
+Castorrr raises [$1 USD]
+pkrOD calls [$0.50 USD]
+Castorrr shows [ Td, Ad ]a flush, Ace high.
+pkrOD doesn't show [ Ks, 7c ]two pairs, Sevens and Twos.
+Castorrr wins $7.60 USD from the main pot with a flush, Ace high.
+ Game #10935943286 starts.
+
+#Game No : 10935943286 
+***** Hand History for Game 10935943286 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:15:50 EDT 2011
+Table Table  167651 (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $0 USD )
+Seat 4: Castorrr ( $13.65 USD )
+Seat 6: Savard91 ( $27.48 USD )
+Seat 2: furman0k ( $5.63 USD )
+Seat 1: liqurepig888 ( $2 USD )
+Seat 5: pkrOD ( $5.65 USD )
+pkrOD posts small blind [$0.10 USD].
+Savard91 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 7d ]
+Aliona_st has joined the table.
+liqurepig888 folds
+furman0k calls [$0.25 USD]
+Castorrr folds
+pkrOD calls [$0.15 USD]
+Savard91 checks
+** Dealing Flop ** [ Qd, 2c, Ks ]
+pkrOD checks
+Savard91 checks
+furman0k checks
+** Dealing Turn ** [ 6h ]
+pkrOD bets [$0.50 USD]
+Savard91 calls [$0.50 USD]
+furman0k folds
+** Dealing River ** [ 2s ]
+pkrOD bets [$0.50 USD]
+Savard91 calls [$0.50 USD]
+pkrOD shows [ 9d, 7d ]a pair of Twos.
+Savard91 shows [ 9c, Qh ]two pairs, Queens and Twos.
+Savard91 wins $2.65 USD from the main pot with two pairs, Queens and Twos.
+ Game #10935944656 starts.
+
+#Game No : 10935944656 
+***** Hand History for Game 10935944656 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:16:37 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $12.50 USD )
+Seat 4: Castorrr ( $13.65 USD )
+Seat 6: Savard91 ( $28.88 USD )
+Seat 2: furman0k ( $5.38 USD )
+Seat 1: liqurepig888 ( $2 USD )
+Seat 5: pkrOD ( $4.40 USD )
+Savard91 posts small blind [$0.10 USD].
+liqurepig888 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 2c ]
+furman0k raises [$0.50 USD]
+Castorrr folds
+pkrOD calls [$0.50 USD]
+Savard91 folds
+liqurepig888 folds
+** Dealing Flop ** [ 9s, 2s, 9h ]
+furman0k bets [$0.25 USD]
+pkrOD raises [$0.50 USD]
+furman0k raises [$0.50 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ Qd ]
+furman0k checks
+pkrOD bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+** Dealing River ** [ 6s ]
+furman0k checks
+pkrOD checks
+furman0k shows [ Jc, Ah ]a pair of Nines.
+pkrOD shows [ Ac, 2c ]two pairs, Nines and Twos.
+pkrOD wins $3.70 USD from the main pot with two pairs, Nines and Twos.
+ Game #10935946107 starts.
+
+#Game No : 10935946107 
+***** Hand History for Game 10935946107 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:17:26 EDT 2011
+Table Table  167651 (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $12.50 USD )
+Seat 4: Castorrr ( $13.65 USD )
+Seat 6: Savard91 ( $28.78 USD )
+Seat 2: furman0k ( $3.63 USD )
+Seat 1: liqurepig888 ( $1.75 USD )
+Seat 5: pkrOD ( $6.35 USD )
+liqurepig888 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s Qh ]
+Castorrr folds
+pkrOD raises [$0.50 USD]
+Savard91 folds
+liqurepig888 calls [$0.40 USD]
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ Kc, Kd, Jh ]
+liqurepig888 checks
+furman0k checks
+pkrOD bets [$0.25 USD]
+liqurepig888 calls [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ 8c ]
+liqurepig888 checks
+furman0k checks
+pkrOD bets [$0.50 USD]
+liqurepig888 is all-In  [$1 USD]
+furman0k folds
+pkrOD folds
+liqurepig888 does not show cards.
+liqurepig888 wins $3.60 USD
+ Game #10935947278 starts.
+
+#Game No : 10935947278 
+***** Hand History for Game 10935947278 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:18:05 EDT 2011
+Table Table  167651 (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $12.50 USD )
+Seat 4: Castorrr ( $13.65 USD )
+Seat 6: Savard91 ( $28.78 USD )
+Seat 2: furman0k ( $2.88 USD )
+Seat 1: liqurepig888 ( $3.60 USD )
+Seat 5: pkrOD ( $5.10 USD )
+furman0k posts small blind [$0.10 USD].
+Aliona_st posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 2h ]
+Castorrr folds
+pkrOD folds
+Savard91 raises [$0.50 USD]
+liqurepig888 folds
+furman0k raises [$0.65 USD]
+Aliona_st folds
+Savard91 raises [$0.50 USD]
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ 8s, Qd, Jc ]
+furman0k bets [$0.25 USD]
+Savard91 raises [$0.50 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ 7c ]
+furman0k checks
+Savard91 bets [$0.50 USD]
+furman0k raises [$1 USD]
+Savard91 raises [$1 USD]
+furman0k is all-In  [$0.38 USD]
+** Dealing River ** [ 6c ]
+Savard91 shows [ Jh, Js ]three of a kind, Jacks.
+furman0k shows [ 8c, Ac ]a flush, Ace high.
+Savard91 wins $0.12 USD from the side pot 1 with three of a kind, Jacks.
+furman0k wins $5.71 USD from the main pot with a flush, Ace high.
+ Game #10935948599 starts.
+
+#Game No : 10935948599 
+***** Hand History for Game 10935948599 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:18:51 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $12.25 USD )
+Seat 4: Castorrr ( $13.65 USD )
+Seat 6: Savard91 ( $25.90 USD )
+Seat 2: furman0k ( $5.71 USD )
+Seat 1: liqurepig888 ( $3.60 USD )
+Seat 5: pkrOD ( $5.10 USD )
+Aliona_st posts small blind [$0.10 USD].
+Castorrr posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 9h ]
+pkrOD calls [$0.25 USD]
+Savard91 folds
+liqurepig888 folds
+furman0k folds
+Aliona_st folds
+Castorrr raises [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ Ks, Jh, 5c ]
+Castorrr bets [$0.25 USD]
+pkrOD folds
+Castorrr does not show cards.
+Castorrr wins $1.30 USD
+ Game #10935949471 starts.
+
+#Game No : 10935949471 
+***** Hand History for Game 10935949471 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:19:19 EDT 2011
+Table Table  167651 (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $12.15 USD )
+Seat 4: Castorrr ( $14.20 USD )
+Seat 6: Savard91 ( $25.90 USD )
+Seat 2: furman0k ( $5.71 USD )
+Seat 1: liqurepig888 ( $3.60 USD )
+Seat 5: pkrOD ( $4.60 USD )
+Castorrr posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 7h ]
+Savard91 folds
+liqurepig888 calls [$0.25 USD]
+furman0k folds
+Aliona_st folds
+Castorrr raises [$0.40 USD]
+pkrOD raises [$0.50 USD]
+liqurepig888 folds
+Castorrr calls [$0.25 USD]
+** Dealing Flop ** [ Td, Jc, Ad ]
+Castorrr checks
+pkrOD bets [$0.25 USD]
+Castorrr folds
+pkrOD does not show cards.
+pkrOD wins $1.95 USD
+ Game #10935950570 starts.
+
+#Game No : 10935950570 
+***** Hand History for Game 10935950570 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:19:57 EDT 2011
+Table Table  167651 (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $12.15 USD )
+Seat 4: Castorrr ( $13.45 USD )
+Seat 6: Savard91 ( $25.90 USD )
+Seat 2: furman0k ( $5.71 USD )
+Seat 1: liqurepig888 ( $3.35 USD )
+Seat 5: pkrOD ( $5.55 USD )
+pkrOD posts small blind [$0.10 USD].
+Savard91 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 9d ]
+liqurepig888 folds
+furman0k calls [$0.25 USD]
+Aliona_st raises [$0.50 USD]
+Castorrr folds
+pkrOD calls [$0.40 USD]
+Savard91 raises [$0.50 USD]
+furman0k calls [$0.50 USD]
+Aliona_st calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ Jd, 4h, Ad ]
+pkrOD checks
+Savard91 bets [$0.25 USD]
+furman0k calls [$0.25 USD]
+Aliona_st calls [$0.25 USD]
+pkrOD folds
+** Dealing Turn ** [ 4c ]
+Savard91 bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+Aliona_st calls [$0.50 USD]
+** Dealing River ** [ 7c ]
+Savard91 checks
+furman0k checks
+Aliona_st checks
+Savard91 shows [ Qh, Qc ]two pairs, Queens and Fours.
+furman0k shows [ Ah, 5d ]two pairs, Aces and Fours.
+Aliona_st doesn't show [ 9h, Jh ]two pairs, Jacks and Fours.
+furman0k wins $5 USD from the main pot with two pairs, Aces and Fours.
+ Game #10935952521 starts.
+
+#Game No : 10935952521 
+***** Hand History for Game 10935952521 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:21:01 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $10.65 USD )
+Seat 4: Castorrr ( $13.45 USD )
+Seat 6: Savard91 ( $24.40 USD )
+Seat 2: furman0k ( $9.21 USD )
+Seat 1: liqurepig888 ( $3.35 USD )
+Seat 5: pkrOD ( $4.80 USD )
+Savard91 posts small blind [$0.10 USD].
+liqurepig888 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 5h ]
+furman0k folds
+Aliona_st raises [$0.50 USD]
+Castorrr folds
+pkrOD calls [$0.50 USD]
+Savard91 folds
+liqurepig888 folds
+** Dealing Flop ** [ Kd, 9c, 7h ]
+Aliona_st bets [$0.25 USD]
+pkrOD raises [$0.50 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Turn ** [ Kc ]
+Aliona_st checks
+pkrOD bets [$0.50 USD]
+Aliona_st calls [$0.50 USD]
+** Dealing River ** [ 6s ]
+Aliona_st checks
+pkrOD bets [$0.50 USD]
+Aliona_st folds
+pkrOD does not show cards.
+pkrOD wins $3.70 USD
+ Game #10935954117 starts.
+
+#Game No : 10935954117 
+***** Hand History for Game 10935954117 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:21:55 EDT 2011
+Table Table  167651 (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $9.15 USD )
+Seat 4: Castorrr ( $13.45 USD )
+Seat 6: Savard91 ( $24.30 USD )
+Seat 2: furman0k ( $9.21 USD )
+Seat 1: liqurepig888 ( $3.10 USD )
+Seat 5: pkrOD ( $6.50 USD )
+liqurepig888 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c 4s ]
+Aliona_st raises [$0.50 USD]
+Castorrr folds
+pkrOD folds
+Savard91 folds
+liqurepig888 folds
+furman0k raises [$0.50 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Flop ** [ 3s, 7s, 3c ]
+furman0k bets [$0.25 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Turn ** [ 7d ]
+furman0k bets [$0.50 USD]
+Aliona_st folds
+furman0k does not show cards.
+furman0k wins $2.50 USD
+ Game #10935955015 starts.
+
+#Game No : 10935955015 
+***** Hand History for Game 10935955015 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:22:24 EDT 2011
+Table Table  167651 (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $8.15 USD )
+Seat 4: Castorrr ( $13.45 USD )
+Seat 6: Savard91 ( $24.30 USD )
+Seat 2: furman0k ( $10.21 USD )
+Seat 1: liqurepig888 ( $3 USD )
+Seat 5: pkrOD ( $6.50 USD )
+furman0k posts small blind [$0.10 USD].
+Aliona_st posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Qh ]
+Castorrr folds
+pkrOD folds
+Savard91 folds
+liqurepig888 folds
+furman0k calls [$0.15 USD]
+Aliona_st checks
+** Dealing Flop ** [ 2s, Js, 9c ]
+furman0k bets [$0.25 USD]
+Aliona_st raises [$0.50 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ 3s ]
+furman0k checks
+Aliona_st bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+** Dealing River ** [ Jh ]
+furman0k checks
+Aliona_st bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+Aliona_st shows [ 7c, 9h ]two pairs, Jacks and Nines.
+furman0k shows [ 9d, 8c ]two pairs, Jacks and Nines with Eight kicker.
+furman0k wins $3.35 USD from the main pot with two pairs, Jacks and Nines with Eight kicker.
+ Game #10935956048 starts.
+
+#Game No : 10935956048 
+***** Hand History for Game 10935956048 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:22:59 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 3: Aliona_st ( $6.40 USD )
+Seat 4: Castorrr ( $13.45 USD )
+Seat 6: Savard91 ( $24.30 USD )
+Seat 2: furman0k ( $11.81 USD )
+Seat 1: liqurepig888 ( $3 USD )
+Seat 5: pkrOD ( $6.50 USD )
+Aliona_st posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 6s ]
+Savard91 raises [$0.50 USD]
+liqurepig888 folds
+Castorrr has left the table.
+furman0k folds
+Aliona_st folds
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ Qd, 4h, 7h ]
+pkrOD bets [$0.25 USD]
+Savard91 calls [$0.25 USD]
+** Dealing Turn ** [ Ad ]
+pkrOD bets [$0.50 USD]
+Savard91 raises [$1 USD]
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ Kd ]
+pkrOD checks
+Savard91 checks
+pkrOD shows [ 7d, 6s ]a pair of Sevens.
+Savard91 shows [ Td, Ks ]a pair of Kings.
+Savard91 wins $3.45 USD from the main pot with a pair of Kings.
+ Game #10935957427 starts.
+
+#Game No : 10935957427 
+***** Hand History for Game 10935957427 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:23:49 EDT 2011
+Table Table  167651 (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 3: Aliona_st ( $6.30 USD )
+Seat 6: Savard91 ( $26 USD )
+Seat 2: furman0k ( $11.81 USD )
+Seat 1: liqurepig888 ( $3 USD )
+Seat 5: pkrOD ( $4.75 USD )
+pkrOD posts small blind [$0.10 USD].
+Savard91 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Td ]
+liqurepig888 folds
+pkrOD: lol.. moron
+furman0k folds
+Aliona_st folds
+pkrOD raises [$0.40 USD]
+Savard91 raises [$0.50 USD]
+pkrOD raises [$0.50 USD]
+Savard91 calls [$0.25 USD]
+** Dealing Flop ** [ 8s, 3c, 8c ]
+pkrOD bets [$0.25 USD]
+Savard91 calls [$0.25 USD]
+** Dealing Turn ** [ 9c ]
+pkrOD: bets when he does have a hand but not when he doesnt
+pkrOD bets [$0.50 USD]
+Savard91 raises [$1 USD]
+pkrOD raises [$1 USD]
+Savard91 raises [$1 USD]
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ 4c ]
+pkrOD bets [$0.50 USD]
+Savard91 calls [$0.50 USD]
+pkrOD shows [ Qh, Td ]a pair of Eights.
+Savard91 shows [ 8d, Ah ]three of a kind, Eights.
+Savard91 wins $7.15 USD from the main pot with three of a kind, Eights.
+other way rougnt
+ Game #10935958526 starts.
+
+#Game No : 10935958526 
+***** Hand History for Game 10935958526 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:24:26 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 3: Aliona_st ( $6.30 USD )
+Seat 6: Savard91 ( $29.40 USD )
+Seat 2: furman0k ( $11.81 USD )
+Seat 1: liqurepig888 ( $3 USD )
+Seat 5: pkrOD ( $1 USD )
+Savard91 posts small blind [$0.10 USD].
+liqurepig888 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs 8h ]
+pkrOD: XXXX
+furman0k calls [$0.25 USD]
+Aliona_st folds
+pkrOD: such a luck box
+pkrOD calls [$0.25 USD]
+Savard91 raises [$0.40 USD]
+liqurepig888 folds
+furman0k calls [$0.25 USD]
+pkrOD: playing like a moron and winning
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ As, Qd, 6s ]
+Savard91 bets [$0.25 USD]
+furman0k calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ 6d ]
+Savard91 checks
+furman0k bets [$0.50 USD]
+pkrOD is all-In  [$0.25 USD]
+Savard91 folds
+** Dealing River ** [ Qc ]
+furman0k shows [ Ad, 7s ]two pairs, Aces and Queens.
+pkrOD shows [ Qs, 8h ]a full house, Queens full of Sixes.
+furman0k wins $0.25 USD from the side pot 1 with two pairs, Aces and Queens.
+pkrOD wins $2.85 USD from the main pot with a full house, Queens full of Sixes.
+ Game #10935959811 starts.
+
+#Game No : 10935959811 
+***** Hand History for Game 10935959811 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:25:10 EDT 2011
+Table Table  167651 (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 3: Aliona_st ( $6.30 USD )
+Seat 6: Savard91 ( $28.65 USD )
+Seat 2: furman0k ( $10.81 USD )
+Seat 1: liqurepig888 ( $2.75 USD )
+Seat 5: pkrOD ( $2.85 USD )
+liqurepig888 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 3d ]
+Aliona_st raises [$0.50 USD]
+pkrOD raises [$0.75 USD]
+Savard91 folds
+liqurepig888 folds
+furman0k calls [$0.50 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Flop ** [ 7s, 5s, Ts ]
+furman0k checks
+Aliona_st checks
+pkrOD bets [$0.25 USD]
+furman0k calls [$0.25 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Turn ** [ Jd ]
+furman0k checks
+Aliona_st checks
+pkrOD checks
+** Dealing River ** [ 3c ]
+furman0k checks
+Aliona_st checks
+pkrOD checks
+furman0k shows [ 8s, Kc ]high card King.
+Aliona_st shows [ Ac, Qh ]high card Ace.
+pkrOD shows [ As, 3d ]a pair of Threes.
+pkrOD wins $2.95 USD from the main pot with a pair of Threes.
+ Game #10935961008 starts.
+
+#Game No : 10935961008 
+***** Hand History for Game 10935961008 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:25:49 EDT 2011
+Table Table  167651 (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 3: Aliona_st ( $5.30 USD )
+Seat 6: Savard91 ( $28.65 USD )
+Seat 2: furman0k ( $9.81 USD )
+Seat 1: liqurepig888 ( $2.65 USD )
+Seat 5: pkrOD ( $4.80 USD )
+furman0k posts small blind [$0.10 USD].
+Aliona_st posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d Jd ]
+pkrOD raises [$0.50 USD]
+Savard91 raises [$0.75 USD]
+liqurepig888 folds
+furman0k calls [$0.65 USD]
+Aliona_st folds
+pkrOD: finally some luck
+pkrOD raises [$0.50 USD]
+Savard91 calls [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ 9c, 5s, Kh ]
+furman0k checks
+pkrOD: another moron raise .. quelle surprise
+pkrOD bets [$0.25 USD]
+Savard91 raises [$0.50 USD]
+furman0k calls [$0.50 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ Tc ]
+furman0k checks
+pkrOD bets [$0.50 USD]
+Savard91 raises [$1 USD]
+furman0k raises [$1.50 USD]
+pkrOD folds
+Savard91 raises [$1 USD]
+furman0k calls [$0.50 USD]
+** Dealing River ** [ 4h ]
+furman0k bets [$0.50 USD]
+Savard91 calls [$0.50 USD]
+furman0k shows [ Qc, Jh ]a straight, Nine to King.
+Savard91 doesn't show [ Ah, Ad ]a pair of Aces.
+furman0k wins $9.75 USD from the main pot with a straight, Nine to King.
+ Game #10935962746 starts.
+
+#Game No : 10935962746 
+***** Hand History for Game 10935962746 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:26:49 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 3: Aliona_st ( $5.05 USD )
+Seat 6: Savard91 ( $24.65 USD )
+Seat 2: furman0k ( $15.56 USD )
+Seat 1: liqurepig888 ( $2.65 USD )
+Seat 5: pkrOD ( $2.80 USD )
+Aliona_st posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 9d ]
+Savard91 folds
+liqurepig888 folds
+furman0k calls [$0.25 USD]
+pkrOD: lol.. too obvious but moron got burned
+Aliona_st raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ Jh, 2d, 4s ]
+Aliona_st bets [$0.25 USD]
+pkrOD raises [$0.50 USD]
+furman0k calls [$0.50 USD]
+Aliona_st raises [$0.50 USD]
+pkrOD calls [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ Tc ]
+Aliona_st bets [$0.50 USD]
+pkrOD folds
+furman0k calls [$0.50 USD]
+** Dealing River ** [ 6d ]
+Aliona_st bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+Aliona_st shows [ Qh, Qs ]a pair of Queens.
+furman0k doesn't show [ 8h, 8s ]a pair of Eights.
+Aliona_st wins $5.50 USD from the main pot with a pair of Queens.
+ Game #10935963931 starts.
+
+#Game No : 10935963931 
+***** Hand History for Game 10935963931 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:27:30 EDT 2011
+Table Table  167651 (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 3: Aliona_st ( $8.30 USD )
+Seat 6: Savard91 ( $24.65 USD )
+Seat 2: furman0k ( $13.31 USD )
+Seat 1: liqurepig888 ( $2.65 USD )
+Seat 5: pkrOD ( $1.55 USD )
+pkrOD posts small blind [$0.10 USD].
+liqurepig888 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c Kc ]
+furman0k folds
+Aliona_st folds
+pkrOD raises [$0.40 USD]
+liqurepig888 calls [$0.25 USD]
+** Dealing Flop ** [ 6s, 5d, 3d ]
+pkrOD bets [$0.25 USD]
+liqurepig888 calls [$0.25 USD]
+** Dealing Turn ** [ Js ]
+Savard91 has left the table.
+pkrOD checks
+liqurepig888 checks
+** Dealing River ** [ Tc ]
+pkrOD checks
+liqurepig888 bets [$0.50 USD]
+pkrOD calls [$0.50 USD]
+liqurepig888 shows [ Qs, 4c ]high card Queen.
+pkrOD shows [ 2c, Kc ]high card King.
+pkrOD wins $2.40 USD from the main pot with high card, King.
+ Game #10935964792 starts.
+
+#Game No : 10935964792 
+***** Hand History for Game 10935964792 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:27:59 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $8.30 USD )
+Seat 2: furman0k ( $13.31 USD )
+Seat 1: liqurepig888 ( $1.40 USD )
+Seat 5: pkrOD ( $2.70 USD )
+liqurepig888 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s Ts ]
+Aliona_st folds
+pkrOD: lol.. pr1ck
+pkrOD raises [$0.50 USD]
+liqurepig888 folds
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ 3h, 9c, 5s ]
+furman0k checks
+pkrOD: i dont go in with 2 high
+pkrOD bets [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ 7d ]
+furman0k checks
+pkrOD bets [$0.50 USD]
+furman0k calls [$0.50 USD]
+** Dealing River ** [ 3d ]
+furman0k bets [$0.50 USD]
+pkrOD raises [$1 USD]
+furman0k calls [$0.50 USD]
+pkrOD shows [ 9s, Ts ]two pairs, Nines and Threes.
+furman0k doesn't show [ 5d, 6c ]two pairs, Fives and Threes.
+pkrOD wins $4.40 USD from the main pot with two pairs, Nines and Threes.
+moron
+ Game #10935965689 starts.
+
+#Game No : 10935965689 
+***** Hand History for Game 10935965689 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:28:33 EDT 2011
+Table Table  167651 (Real Money)
+Seat 1 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $8.30 USD )
+Seat 2: furman0k ( $11.06 USD )
+Seat 1: liqurepig888 ( $1.30 USD )
+Seat 5: pkrOD ( $4.85 USD )
+furman0k posts small blind [$0.10 USD].
+Aliona_st posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 6s ]
+pkrOD: u wudnt go to river with a 3
+pkrOD folds
+liqurepig888 calls [$0.25 USD]
+furman0k raises [$0.40 USD]
+Aliona_st calls [$0.25 USD]
+pkrOD: moron stupidity
+liqurepig888 calls [$0.25 USD]
+** Dealing Flop ** [ 5d, Qc, 4d ]
+furman0k bets [$0.25 USD]
+Aliona_st folds
+liqurepig888 calls [$0.25 USD]
+** Dealing Turn ** [ 4c ]
+furman0k bets [$0.50 USD]
+liqurepig888 is all-In  [$0.55 USD]
+furman0k calls [$0.05 USD]
+** Dealing River ** [ Td ]
+furman0k shows [ 6d, 6c ]two pairs, Sixes and Fours.
+liqurepig888 doesn't show [ Ac, 3h ]a pair of Fours.
+furman0k wins $2.95 USD from the main pot with two pairs, Sixes and Fours.
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+ Game #10935966547 starts.
+
+#Game No : 10935966547 
+***** Hand History for Game 10935966547 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:29:04 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $7.80 USD )
+Seat 2: furman0k ( $12.71 USD )
+Seat 1: liqurepig888 ( $0 USD )
+Seat 5: pkrOD ( $4.85 USD )
+Aliona_st posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 7h ]
+liqurepig888 has left the table.
+furman0k folds
+Aliona_st raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 7c, 9h, 9s ]
+Aliona_st bets [$0.25 USD]
+pkrOD raises [$0.50 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Turn ** [ 3s ]
+Aliona_st checks
+pkrOD bets [$0.50 USD]
+Aliona_st raises [$1 USD]
+pkrOD raises [$1 USD]
+Aliona_st raises [$1 USD]
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ 4s ]
+Aliona_st bets [$0.50 USD]
+pkrOD calls [$0.50 USD]
+Aliona_st shows [ 9c, 8h ]three of a kind, Nines.
+pkrOD doesn't show [ Jc, 7h ]two pairs, Nines and Sevens.
+Aliona_st wins $6.65 USD from the main pot with three of a kind, Nines.
+ Game #10935967433 starts.
+
+#Game No : 10935967433 
+***** Hand History for Game 10935967433 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:29:34 EDT 2011
+Table Table  167651 (Real Money)
+Seat 3 is the button
+Total number of players : 3/6 
+Seat 3: Aliona_st ( $10.95 USD )
+Seat 2: furman0k ( $12.71 USD )
+Seat 5: pkrOD ( $1.35 USD )
+pkrOD posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 7c ]
+Aliona_st folds
+pkrOD folds
+furman0k does not show cards.
+furman0k wins $0.35 USD
+lucked out
+ Game #10935967723 starts.
+
+#Game No : 10935967723 
+***** Hand History for Game 10935967723 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:29:44 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 3/6 
+Seat 3: Aliona_st ( $10.95 USD )
+Seat 2: furman0k ( $12.81 USD )
+Seat 5: pkrOD ( $1.25 USD )
+furman0k posts small blind [$0.10 USD].
+Aliona_st posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 7h ]
+pkrOD folds
+MAR2289 has joined the table.
+furman0k raises [$0.40 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Flop ** [ Jc, 8h, Ad ]
+furman0k bets [$0.25 USD]
+Aliona_st folds
+furman0k does not show cards.
+furman0k wins $1.20 USD
+ Game #10935968401 starts.
+
+#Game No : 10935968401 
+***** Hand History for Game 10935968401 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:30:10 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $10.45 USD )
+Seat 6: MAR2289 ( $12.50 USD )
+Seat 2: furman0k ( $13.26 USD )
+Seat 5: pkrOD ( $1.25 USD )
+Aliona_st posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d 6h ]
+furman0k folds
+Aliona_st raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 6s, 8h, Kc ]
+Aliona_st bets [$0.25 USD]
+pkrOD raises [$0.50 USD]
+Aliona_st raises [$0.50 USD]
+pkrOD is all-In  [$0.25 USD]
+** Dealing Turn ** [ Jh ]
+** Dealing River ** [ 6d ]
+Aliona_st shows [ Td, Jc ]two pairs, Jacks and Sixes.
+pkrOD shows [ 4d, 6h ]three of a kind, Sixes.
+pkrOD wins $2.40 USD from the main pot with three of a kind, Sixes.
+ Game #10935969158 starts.
+
+#Game No : 10935969158 
+***** Hand History for Game 10935969158 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:30:36 EDT 2011
+Table Table  167651 (Real Money)
+Seat 3 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $9.20 USD )
+Seat 6: MAR2289 ( $12.50 USD )
+Seat 2: furman0k ( $13.26 USD )
+Seat 5: pkrOD ( $2.40 USD )
+pkrOD posts small blind [$0.10 USD].
+pkrOD: yeah pr1ck.. drawing again
+MAR2289 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d Jh ]
+furman0k folds
+Aliona_st raises [$0.50 USD]
+pkrOD folds
+MAR2289 folds
+Aliona_st does not show cards.
+Aliona_st wins $0.85 USD
+who was ahead that time
+ Game #10935969595 starts.
+
+#Game No : 10935969595 
+***** Hand History for Game 10935969595 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:30:50 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $9.55 USD )
+Seat 6: MAR2289 ( $12.25 USD )
+Seat 2: furman0k ( $13.26 USD )
+Seat 5: pkrOD ( $2.30 USD )
+MAR2289 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts 2h ]
+Aliona_st raises [$0.50 USD]
+pkrOD folds
+MAR2289 folds
+furman0k calls [$0.25 USD]
+** Dealing Flop ** [ Ah, Ks, 4s ]
+furman0k checks
+Aliona_st bets [$0.25 USD]
+furman0k calls [$0.25 USD]
+** Dealing Turn ** [ 8c ]
+pkrOD: not u
+furman0k checks
+Aliona_st bets [$0.50 USD]
+furman0k folds
+Aliona_st does not show cards.
+Aliona_st wins $2.05 USD
+ Game #10935970199 starts.
+
+#Game No : 10935970199 
+***** Hand History for Game 10935970199 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:31:11 EDT 2011
+Table Table  167651 (Real Money)
+Seat 6 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $10.35 USD )
+Seat 6: MAR2289 ( $12.15 USD )
+Seat 2: furman0k ( $12.51 USD )
+Seat 5: pkrOD ( $2.30 USD )
+furman0k posts small blind [$0.10 USD].
+Aliona_st posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 8h ]
+pkrOD folds
+pkrOD: isnt that right aliona_st.. u a weak b1tch
+MAR2289 raises [$0.50 USD]
+furman0k calls [$0.40 USD]
+Aliona_st folds
+** Dealing Flop ** [ 6h, Ts, Kc ]
+pkrOD: bluffer
+furman0k bets [$0.25 USD]
+MAR2289 folds
+furman0k does not show cards.
+furman0k wins $1.45 USD
+ Game #10935970751 starts.
+
+#Game No : 10935970751 
+***** Hand History for Game 10935970751 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:31:32 EDT 2011
+Table Table  167651 (Real Money)
+Seat 2 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $10.10 USD )
+Seat 6: MAR2289 ( $11.65 USD )
+Seat 2: furman0k ( $13.21 USD )
+Seat 5: pkrOD ( $2.30 USD )
+Aliona_st posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 5s ]
+MAR2289 raises [$0.50 USD]
+furman0k folds
+Aliona_st folds
+pkrOD folds
+MAR2289 does not show cards.
+MAR2289 wins $0.85 USD
+ Game #10935971069 starts.
+
+#Game No : 10935971069 
+***** Hand History for Game 10935971069 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:31:43 EDT 2011
+Table Table  167651 (Real Money)
+Seat 3 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $10 USD )
+Seat 6: MAR2289 ( $12 USD )
+Seat 2: furman0k ( $13.21 USD )
+Seat 5: pkrOD ( $2.05 USD )
+pkrOD posts small blind [$0.10 USD].
+MAR2289 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 4d ]
+furman0k calls [$0.25 USD]
+Aliona_st raises [$0.50 USD]
+pkrOD raises [$0.65 USD]
+MAR2289 folds
+furman0k calls [$0.50 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Flop ** [ 6s, 3h, 4h ]
+pkrOD bets [$0.25 USD]
+furman0k calls [$0.25 USD]
+Aliona_st calls [$0.25 USD]
+** Dealing Turn ** [ Ac ]
+pkrOD bets [$0.50 USD]
+furman0k folds
+Aliona_st calls [$0.50 USD]
+** Dealing River ** [ 3d ]
+pkrOD bets [$0.50 USD]
+Aliona_st calls [$0.50 USD]
+pkrOD shows [ Qd, 4d ]two pairs, Fours and Threes.
+Aliona_st doesn't show [ Jc, Ks ]a pair of Threes.
+pkrOD wins $5 USD from the main pot with two pairs, Fours and Threes.
+ Game #10935971908 starts.
+
+#Game No : 10935971908 
+***** Hand History for Game 10935971908 *****
+$0.25/$0.50 USD FL Texas Hold'em - Thursday, September 29, 20:32:13 EDT 2011
+Table Table  167651 (Real Money)
+Seat 5 is the button
+Total number of players : 4/6 
+Seat 3: Aliona_st ( $8 USD )
+Seat 6: MAR2289 ( $11.75 USD )
+Seat 2: furman0k ( $12.21 USD )
+Seat 5: pkrOD ( $5.05 USD )
+MAR2289 posts small blind [$0.10 USD].
+furman0k posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc Kc ]
+pkrOD: lol.. no raise on the ace
+Aliona_st folds
+pkrOD: gimme a break
+pkrOD raises [$0.50 USD]
+MAR2289 raises [$0.65 USD]
+pkrOD: u r giving chips away
+furman0k folds
+pkrOD raises [$0.50 USD]
+MAR2289 calls [$0.25 USD]
+** Dealing Flop ** [ Qh, Js, Kd ]
+MAR2289 checks
+pkrOD bets [$0.25 USD]
+MAR2289 raises [$0.50 USD]
+pkrOD raises [$0.50 USD]
+MAR2289 raises [$0.50 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ 3d ]
+MAR2289 bets [$0.50 USD]
+pkrOD raises [$1 USD]
+MAR2289 raises [$1 USD]
+pkrOD raises [$1 USD]
+MAR2289 calls [$0.50 USD]
+** Dealing River ** [ 7h ]
+MAR2289 bets [$0.50 USD]
+pkrOD raises [$1 USD]
+MAR2289 raises [$1 USD]
+pkrOD is all-In  [$0.05 USD]
+MAR2289 shows [ As, Ts ]a straight, Ten to Ace.
+pkrOD shows [ Qc, Kc ]two pairs, Kings and Queens.
+MAR2289 wins $0.45 USD from the side pot 1 with a straight, Ten to Ace.
+MAR2289 wins $9.85 USD from the main pot with a straight, Ten to Ace.

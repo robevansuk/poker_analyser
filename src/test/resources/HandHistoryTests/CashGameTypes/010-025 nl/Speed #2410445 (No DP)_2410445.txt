@@ -1,0 +1,1069 @@
+Game #10907147902 starts.
+
+#Game No : 10907147902 
+***** Hand History for Game 10907147902 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:20:00 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 4/6 
+Seat 1: Jolni123 ( $25.54 USD )
+Seat 3: damo_AA111 ( $7.50 USD )
+Seat 4: malivedran ( $25.10 USD )
+Seat 6: pkrOD ( $8.72 USD )
+malivedran posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Ad ]
+Jolni123 folds
+malivedran folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #10907148188 starts.
+
+#Game No : 10907148188 
+***** Hand History for Game 10907148188 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:20:10 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 4/6 
+Seat 1: Jolni123 ( $25.54 USD )
+Seat 3: damo_AA111 ( $7.50 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $8.82 USD )
+pkrOD posts small blind [$0.10 USD].
+Jolni123 posts big blind [$0.25 USD].
+damo_AA111 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 4h ]
+damo_AA111 checks
+malivedran folds
+pkrOD folds
+Jolni123 checks
+** Dealing Flop ** [ 8d, Kd, Kh ]
+Jolni123 checks
+damo_AA111 checks
+** Dealing Turn ** [ Js ]
+Jolni123 checks
+damo_AA111 checks
+** Dealing River ** [ 2s ]
+Jolni123 checks
+damo_AA111 checks
+Jolni123 shows [ Ac, 3c ]a pair of Kings with Ace kicker.
+damo_AA111 doesn't show [ 5s, 6c ]a pair of Kings.
+Jolni123 wins $0.57 USD from the main pot with a pair of Kings with Ace kicker.
+ Game #10907150088 starts.
+
+#Game No : 10907150088 
+***** Hand History for Game 10907150088 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:21:02 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 4/6 
+Seat 1: Jolni123 ( $25.86 USD )
+Seat 3: damo_AA111 ( $7.25 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $8.72 USD )
+Jolni123 posts small blind [$0.10 USD].
+damo_AA111 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 6d ]
+malivedran folds
+pkrOD raises [$0.80 USD]
+Jolni123 folds
+damo_AA111 folds
+pkrOD does not show cards.
+pkrOD wins $1.15 USD
+ Game #10907151074 starts.
+
+#Game No : 10907151074 
+***** Hand History for Game 10907151074 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:21:31 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 4/6 
+Seat 1: Jolni123 ( $25.76 USD )
+Seat 3: damo_AA111 ( $7 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $9.07 USD )
+damo_AA111 posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 5s ]
+pkrOD calls [$0.25 USD]
+Jolni123 folds
+damo_AA111 calls [$0.15 USD]
+malivedran checks
+** Dealing Flop ** [ Ah, 3s, Ts ]
+damo_AA111 bets [$0.25 USD]
+malivedran calls [$0.25 USD]
+piton2003 has joined the table.
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ Th ]
+damo_AA111 bets [$0.25 USD]
+malivedran calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing River ** [ Qd ]
+damo_AA111 bets [$1 USD]
+malivedran folds
+pkrOD folds
+damo_AA111 does not show cards.
+damo_AA111 wins $3.14 USD
+ Game #10907152795 starts.
+
+#Game No : 10907152795 
+***** Hand History for Game 10907152795 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:22:23 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 1: Jolni123 ( $25.76 USD )
+Seat 3: damo_AA111 ( $8.39 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 2: piton2003 ( $25 USD )
+Seat 6: pkrOD ( $8.32 USD )
+malivedran posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+piton2003 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 7h ]
+Jolni123 raises [$1 USD]
+piton2003 calls [$0.75 USD]
+damo_AA111 folds
+malivedran folds
+pkrOD folds
+** Dealing Flop ** [ 9h, Js, 7c ]
+Jolni123 checks
+piton2003 bets [$0.75 USD]
+Jolni123 calls [$0.75 USD]
+** Dealing Turn ** [ Kc ]
+Jolni123 bets [$1.50 USD]
+piton2003 calls [$1.50 USD]
+** Dealing River ** [ 8d ]
+Jolni123 checks
+piton2003 checks
+Jolni123 shows [ Ac, Qc ]high card Ace.
+piton2003 shows [ As, Kh ]a pair of Kings.
+piton2003 wins $6.51 USD from the main pot with a pair of Kings.
+ Game #10907154526 starts.
+
+#Game No : 10907154526 
+***** Hand History for Game 10907154526 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:23:13 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $8.39 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 2: piton2003 ( $28.26 USD )
+Seat 6: pkrOD ( $8.07 USD )
+pkrOD posts small blind [$0.10 USD].
+Jolni123 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 3c ]
+piton2003 calls [$0.25 USD]
+damo_AA111 folds
+malivedran folds
+pkrOD calls [$0.15 USD]
+Gaslam has joined the table.
+Jolni123 checks
+** Dealing Flop ** [ 4c, 2d, As ]
+pkrOD checks
+Jolni123 checks
+piton2003 bets [$0.50 USD]
+pkrOD calls [$0.50 USD]
+Jolni123 folds
+** Dealing Turn ** [ 9c ]
+pkrOD checks
+piton2003 bets [$0.50 USD]
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ Qs ]
+pkrOD checks
+piton2003 checks
+pkrOD shows [ 8s, 3c ]high card Ace.
+piton2003 shows [ 9s, 7h ]a pair of Nines.
+piton2003 wins $2.62 USD from the main pot with a pair of Nines.
+ Game #10907156323 starts.
+
+#Game No : 10907156323 
+***** Hand History for Game 10907156323 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:24:06 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $25 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $8.39 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 2: piton2003 ( $29.63 USD )
+Seat 6: pkrOD ( $6.82 USD )
+Jolni123 posts small blind [$0.10 USD].
+piton2003 posts big blind [$0.25 USD].
+Gaslam posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 4c ]
+damo_AA111 folds
+malivedran folds
+Gaslam checks
+pkrOD calls [$0.25 USD]
+Jolni123 calls [$0.15 USD]
+piton2003 raises [$0.50 USD]
+Gaslam folds
+pkrOD calls [$0.50 USD]
+Jolni123 calls [$0.50 USD]
+** Dealing Flop ** [ 7s, 5c, Qc ]
+Jolni123 checks
+piton2003 bets [$1.19 USD]
+pkrOD raises [$5.95 USD]
+Jolni123 folds
+piton2003 folds
+pkrOD does not show cards.
+pkrOD wins $9.40 USD
+ Game #10907158263 starts.
+
+#Game No : 10907158263 
+***** Hand History for Game 10907158263 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:24:59 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $24.75 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $8.39 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 2: piton2003 ( $27.69 USD )
+Seat 6: pkrOD ( $9.52 USD )
+piton2003 posts small blind [$0.10 USD].
+damo_AA111 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 6s ]
+malivedran folds
+Gaslam calls [$0.25 USD]
+pkrOD raises [$1 USD]
+Jolni123 folds
+piton2003 calls [$0.90 USD]
+damo_AA111 folds
+Gaslam calls [$0.75 USD]
+** Dealing Flop ** [ Jd, 9d, 5c ]
+piton2003 checks
+Gaslam checks
+pkrOD checks
+** Dealing Turn ** [ 4h ]
+piton2003 bets [$0.50 USD]
+Gaslam folds
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ 8h ]
+piton2003 bets [$1 USD]
+pkrOD folds
+piton2003 does not show cards.
+piton2003 wins $5.04 USD
+ Game #10907159976 starts.
+
+#Game No : 10907159976 
+***** Hand History for Game 10907159976 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:25:49 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $23.75 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $8.14 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 2: piton2003 ( $30.23 USD )
+Seat 6: pkrOD ( $8.02 USD )
+damo_AA111 posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Ks ]
+Gaslam folds
+pkrOD calls [$0.25 USD]
+Jolni123 folds
+piton2003 folds
+damo_AA111 folds
+malivedran checks
+** Dealing Flop ** [ 3s, Td, Jd ]
+malivedran bets [$0.42 USD]
+pkrOD raises [$0.84 USD]
+malivedran calls [$0.42 USD]
+** Dealing Turn ** [ 6d ]
+malivedran checks
+pkrOD checks
+** Dealing River ** [ Ah ]
+malivedran bets [$1.25 USD]
+pkrOD folds
+malivedran does not show cards.
+malivedran wins $3.42 USD
+ Game #10907161286 starts.
+
+#Game No : 10907161286 
+***** Hand History for Game 10907161286 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:26:24 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $23.75 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $8.04 USD )
+Seat 4: malivedran ( $26.08 USD )
+Seat 2: piton2003 ( $30.23 USD )
+Seat 6: pkrOD ( $6.93 USD )
+malivedran posts small blind [$0.10 USD].
+Gaslam posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 2d ]
+pkrOD calls [$0.25 USD]
+Jolni123 folds
+piton2003 folds
+damo_AA111 calls [$0.25 USD]
+malivedran folds
+Gaslam checks
+** Dealing Flop ** [ Jd, 8s, Qc ]
+Gaslam checks
+pkrOD bets [$0.50 USD]
+damo_AA111 calls [$0.50 USD]
+Gaslam folds
+** Dealing Turn ** [ Ac ]
+pkrOD bets [$1.25 USD]
+damo_AA111 folds
+pkrOD does not show cards.
+pkrOD wins $3.01 USD
+ Game #10907162809 starts.
+
+#Game No : 10907162809 
+***** Hand History for Game 10907162809 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:27:05 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $23.50 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $7.29 USD )
+Seat 4: malivedran ( $25.98 USD )
+Seat 2: piton2003 ( $30.23 USD )
+Seat 6: pkrOD ( $7.94 USD )
+Gaslam posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 9d ]
+Jolni123 folds
+piton2003 calls [$0.25 USD]
+damo_AA111 folds
+malivedran folds
+Gaslam calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Jc, 5d, 3c ]
+Gaslam checks
+pkrOD checks
+piton2003 bets [$0.50 USD]
+Gaslam calls [$0.50 USD]
+pkrOD raises [$2 USD]
+piton2003 folds
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $3.64 USD
+ Game #10907164358 starts.
+
+#Game No : 10907164358 
+***** Hand History for Game 10907164358 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:27:49 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $22.75 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $7.29 USD )
+Seat 4: malivedran ( $25.98 USD )
+Seat 2: piton2003 ( $29.48 USD )
+Seat 6: pkrOD ( $9.33 USD )
+pkrOD posts small blind [$0.10 USD].
+Jolni123 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd Js ]
+piton2003 folds
+damo_AA111 folds
+malivedran folds
+Gaslam folds
+pkrOD raises [$0.90 USD]
+Jolni123 folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #10907164924 starts.
+
+#Game No : 10907164924 
+***** Hand History for Game 10907164924 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:28:06 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $22.75 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 3: damo_AA111 ( $7.29 USD )
+Seat 4: malivedran ( $25.98 USD )
+Seat 2: piton2003 ( $29.48 USD )
+Seat 6: pkrOD ( $9.58 USD )
+Jolni123 posts small blind [$0.10 USD].
+piton2003 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 8d ]
+damo_AA111 calls [$0.25 USD]
+malivedran folds
+Gaslam calls [$0.25 USD]
+pkrOD raises [$1 USD]
+Jolni123 calls [$0.90 USD]
+piton2003 folds
+damo_AA111 folds
+Gaslam calls [$0.75 USD]
+** Dealing Flop ** [ 4h, 3c, Kd ]
+Jolni123 checks
+Gaslam checks
+pkrOD bets [$2 USD]
+Jolni123 folds
+Gaslam calls [$2 USD]
+** Dealing Turn ** [ 9h ]
+Gaslam checks
+pkrOD checks
+** Dealing River ** [ Tc ]
+Gaslam checks
+pkrOD checks
+Gaslam shows [ Qh, 3h ]a pair of Threes.
+pkrOD doesn't show [ 7c, 8d ]high card King.
+Gaslam wins $7.13 USD from the main pot with a pair of Threes.
+ Game #10907167671 starts.
+
+#Game No : 10907167671 
+***** Hand History for Game 10907167671 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:29:19 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $26.88 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $7.04 USD )
+Seat 4: malivedran ( $25.98 USD )
+Seat 2: piton2003 ( $29.23 USD )
+Seat 6: pkrOD ( $6.58 USD )
+damo_AA111 posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 9d ]
+Gaslam calls [$0.25 USD]
+pkrOD raises [$1 USD]
+piton2003 calls [$1 USD]
+damo_AA111 folds
+malivedran folds
+Gaslam calls [$0.75 USD]
+** Dealing Flop ** [ Jh, 7h, Kc ]
+Gaslam checks
+pkrOD bets [$3 USD]
+piton2003 folds
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $6.19 USD
+ Game #10907169018 starts.
+
+#Game No : 10907169018 
+***** Hand History for Game 10907169018 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:29:55 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $25.88 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $6.94 USD )
+Seat 4: malivedran ( $25.73 USD )
+Seat 2: piton2003 ( $28.23 USD )
+Seat 6: pkrOD ( $8.77 USD )
+malivedran posts small blind [$0.10 USD].
+Gaslam posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 3c ]
+pkrOD folds
+piton2003 folds
+damo_AA111 folds
+malivedran folds
+Gaslam does not show cards.
+Gaslam wins $0.35 USD
+ Game #10907169884 starts.
+
+#Game No : 10907169884 
+***** Hand History for Game 10907169884 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:30:20 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $25.98 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $6.94 USD )
+Seat 4: malivedran ( $25.63 USD )
+Seat 2: piton2003 ( $28.23 USD )
+Seat 6: pkrOD ( $8.77 USD )
+Gaslam posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh Ah ]
+piton2003 calls [$0.25 USD]
+damo_AA111 raises [$0.50 USD]
+malivedran folds
+Gaslam calls [$0.40 USD]
+pkrOD is all-In  [$8.52 USD]
+piton2003 folds
+damo_AA111 folds
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $10.02 USD
+ Game #10907170989 starts.
+
+#Game No : 10907170989 
+***** Hand History for Game 10907170989 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:30:50 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $25.48 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $6.44 USD )
+Seat 4: malivedran ( $25.63 USD )
+Seat 2: piton2003 ( $27.98 USD )
+Seat 6: pkrOD ( $10.02 USD )
+pkrOD posts small blind [$0.10 USD].
+piton2003 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 6d ]
+damo_AA111 calls [$0.25 USD]
+malivedran folds
+Gaslam folds
+pkrOD calls [$0.15 USD]
+piton2003 checks
+** Dealing Flop ** [ 8h, Kd, Ac ]
+pkrOD bets [$0.25 USD]
+piton2003 folds
+damo_AA111 raises [$1 USD]
+pkrOD folds
+damo_AA111 does not show cards.
+damo_AA111 wins $1.94 USD
+ Game #10907172478 starts.
+
+#Game No : 10907172478 
+***** Hand History for Game 10907172478 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:31:30 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $25.48 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $7.13 USD )
+Seat 4: malivedran ( $25.63 USD )
+Seat 2: piton2003 ( $27.73 USD )
+Seat 6: pkrOD ( $9.52 USD )
+piton2003 posts small blind [$0.10 USD].
+damo_AA111 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 7h ]
+malivedran folds
+Gaslam calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+piton2003 calls [$0.15 USD]
+damo_AA111 checks
+** Dealing Flop ** [ 7d, 8c, Kc ]
+piton2003 checks
+damo_AA111 bets [$0.75 USD]
+Gaslam calls [$0.75 USD]
+pkrOD calls [$0.75 USD]
+piton2003 folds
+** Dealing Turn ** [ Kh ]
+damo_AA111 checks
+Gaslam checks
+pkrOD checks
+** Dealing River ** [ 5h ]
+damo_AA111 checks
+Gaslam checks
+pkrOD checks
+damo_AA111 shows [ 6c, Jc ]a pair of Kings.
+Gaslam shows [ 5s, 8s ]two pairs, Kings and Eights.
+pkrOD doesn't show [ 5c, 7h ]two pairs, Kings and Sevens.
+Gaslam wins $3.09 USD from the main pot with two pairs, Kings and Eights.
+ Game #10907174979 starts.
+
+#Game No : 10907174979 
+***** Hand History for Game 10907174979 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:32:38 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $27.57 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $6.13 USD )
+Seat 4: malivedran ( $25.63 USD )
+Seat 2: piton2003 ( $27.48 USD )
+Seat 6: pkrOD ( $8.52 USD )
+damo_AA111 posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 9h ]
+Gaslam folds
+pkrOD calls [$0.25 USD]
+piton2003 raises [$0.50 USD]
+damo_AA111 folds
+malivedran calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 3d, 4d, Ad ]
+malivedran checks
+pkrOD checks
+piton2003 checks
+** Dealing Turn ** [ 3h ]
+malivedran checks
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD will be using his time bank for this hand.
+pkrOD checks
+piton2003 bets [$0.25 USD]
+malivedran calls [$0.25 USD]
+pkrOD folds
+** Dealing River ** [ 4s ]
+malivedran bets [$1 USD]
+piton2003 raises [$2 USD]
+malivedran raises [$4 USD]
+piton2003 calls [$3 USD]
+malivedran shows [ 4h, 5h ]a full house, Fours full of Threes.
+piton2003 doesn't show [ 5d, Kd ]a flush, Ace high.
+malivedran wins $11.50 USD from the main pot with a full house, Fours full of Threes.
+ Game #10907178461 starts.
+
+#Game No : 10907178461 
+***** Hand History for Game 10907178461 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:34:12 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $27.57 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $6.03 USD )
+Seat 4: malivedran ( $31.38 USD )
+Seat 2: piton2003 ( $21.73 USD )
+Seat 6: pkrOD ( $8.02 USD )
+malivedran posts small blind [$0.10 USD].
+Gaslam posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh Ts ]
+pkrOD raises [$0.75 USD]
+piton2003 folds
+damo_AA111 folds
+malivedran folds
+Gaslam calls [$0.50 USD]
+** Dealing Flop ** [ Jc, 3d, Td ]
+Gaslam checks
+pkrOD bets [$1.25 USD]
+Gaslam calls [$1.25 USD]
+** Dealing Turn ** [ 9d ]
+Gaslam bets [$0.50 USD]
+pkrOD is all-In  [$6.02 USD]
+Gaslam will be using his time bank for this hand.
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $10.37 USD
+ Game #10907180772 starts.
+
+#Game No : 10907180772 
+***** Hand History for Game 10907180772 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:35:15 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: Gaslam ( $25.07 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $6.03 USD )
+Seat 4: malivedran ( $31.28 USD )
+Seat 2: piton2003 ( $21.73 USD )
+Seat 6: pkrOD ( $10.37 USD )
+Gaslam posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c Qd ]
+piton2003 folds
+damo_AA111 calls [$0.25 USD]
+malivedran raises [$1.25 USD]
+Gaslam calls [$1.15 USD]
+pkrOD folds
+damo_AA111 calls [$1 USD]
+** Dealing Flop ** [ 6h, 2s, Kc ]
+Gaslam checks
+damo_AA111 bets [$2 USD]
+malivedran calls [$2 USD]
+Gaslam calls [$2 USD]
+** Dealing Turn ** [ Kh ]
+Gaslam checks
+damo_AA111 is all-In  [$2.78 USD]
+malivedran calls [$2.78 USD]
+Gaslam calls [$2.78 USD]
+** Dealing River ** [ Js ]
+Gaslam checks
+malivedran bets [$5 USD]
+Gaslam raises [$10 USD]
+malivedran calls [$5 USD]
+Gaslam shows [ Jh, Jd ]a full house, Jacks full of Kings.
+damo_AA111 doesn't show [ 7c, Ks ]three of a kind, Kings.
+malivedran doesn't show [ Qs, Qc ]two pairs, Kings and Queens.
+Gaslam wins $19 USD from the side pot 1 with a full house, Jacks full of Kings.
+Gaslam wins $17.43 USD from the main pot with a full house, Jacks full of Kings.
+piton2003 has left the table.
+ Game #10907183799 starts.
+
+#Game No : 10907183799 
+***** Hand History for Game 10907183799 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:36:39 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 5: Gaslam ( $45.47 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 3: damo_AA111 ( $0 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $10.12 USD )
+pkrOD posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 5h ]
+Gaslam calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+damo_AA111 has left the table.
+malivedran checks
+** Dealing Flop ** [ Ah, 8d, 8h ]
+pkrOD checks
+malivedran checks
+Gaslam bets [$1 USD]
+pkrOD calls [$1 USD]
+malivedran folds
+** Dealing Turn ** [ Jc ]
+pkrOD checks
+Gaslam bets [$1.31 USD]
+pkrOD folds
+Gaslam does not show cards.
+Gaslam wins $3.93 USD
+ Game #10907185211 starts.
+
+#Game No : 10907185211 
+***** Hand History for Game 10907185211 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:37:17 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 4/6 
+Seat 5: Gaslam ( $46.84 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $8.87 USD )
+malivedran posts small blind [$0.10 USD].
+Gaslam posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Ad ]
+pkrOD raises [$1 USD]
+malivedran folds
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10907185739 starts.
+
+#Game No : 10907185739 
+***** Hand History for Game 10907185739 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:37:31 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 4/6 
+Seat 5: Gaslam ( $46.59 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $9.22 USD )
+Gaslam posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s Kh ]
+malivedran raises [$0.75 USD]
+Gaslam folds
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ 4s, 5h, Ts ]
+AndrewLevko has joined the table.
+pkrOD bets [$1 USD]
+malivedran folds
+pkrOD does not show cards.
+pkrOD wins $2.52 USD
+ Game #10907186354 starts.
+
+#Game No : 10907186354 
+***** Hand History for Game 10907186354 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:37:48 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5/6 
+Seat 2: AndrewLevko ( $7.50 USD )
+Seat 5: Gaslam ( $46.49 USD )
+Seat 1: Jolni123 ( $24 USD )
+Seat 4: malivedran ( $25 USD )
+Seat 6: pkrOD ( $9.99 USD )
+pkrOD posts small blind [$0.10 USD].
+AndrewLevko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs 8s ]
+malivedran raises [$1 USD]
+Gaslam folds
+pkrOD calls [$0.90 USD]
+AndrewLevko folds
+** Dealing Flop ** [ 4s, 2c, 7c ]
+DereckRaise has joined the table.
+pkrOD bets [$1.75 USD]
+malivedran calls [$1.75 USD]
+** Dealing Turn ** [ Kc ]
+pkrOD checks
+malivedran bets [$1.75 USD]
+pkrOD folds
+malivedran does not show cards.
+malivedran wins $7.22 USD
+ Game #10907187694 starts.
+
+#Game No : 10907187694 
+***** Hand History for Game 10907187694 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:38:24 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.25 USD )
+Seat 3: DereckRaise ( $7.50 USD )
+Seat 5: Gaslam ( $46.49 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.72 USD )
+Seat 6: pkrOD ( $7.24 USD )
+AndrewLevko posts small blind [$0.10 USD].
+DereckRaise posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s Qc ]
+malivedran folds
+Gaslam calls [$0.25 USD]
+pkrOD folds
+AndrewLevko folds
+DereckRaise checks
+** Dealing Flop ** [ 6h, Qh, Jd ]
+DereckRaise checks
+Gaslam checks
+** Dealing Turn ** [ 2d ]
+DereckRaise checks
+Gaslam checks
+** Dealing River ** [ 5c ]
+DereckRaise checks
+Gaslam checks
+DereckRaise shows [ 6d, 9c ]a pair of Sixes.
+Gaslam doesn't show [ 8s, 7s ]high card Queen.
+DereckRaise wins $0.57 USD from the main pot with a pair of Sixes.
+ Game #10907188755 starts.
+
+#Game No : 10907188755 
+***** Hand History for Game 10907188755 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:38:52 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.15 USD )
+Seat 3: DereckRaise ( $7.82 USD )
+Seat 5: Gaslam ( $46.24 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.72 USD )
+Seat 6: pkrOD ( $7.24 USD )
+DereckRaise posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 4h ]
+Gaslam calls [$0.25 USD]
+pkrOD folds
+AndrewLevko folds
+DereckRaise is all-In  [$7.72 USD]
+malivedran folds
+Gaslam folds
+DereckRaise does not show cards.
+DereckRaise wins $8.32 USD
+ Game #10907189899 starts.
+
+#Game No : 10907189899 
+***** Hand History for Game 10907189899 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:39:24 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.15 USD )
+Seat 3: DereckRaise ( $8.32 USD )
+Seat 5: Gaslam ( $45.99 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.47 USD )
+Seat 6: pkrOD ( $7.24 USD )
+malivedran posts small blind [$0.10 USD].
+Gaslam posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h Td ]
+pkrOD folds
+AndrewLevko raises [$0.50 USD]
+DereckRaise folds
+malivedran folds
+Gaslam calls [$0.25 USD]
+** Dealing Flop ** [ 3s, 5d, Kh ]
+Gaslam checks
+AndrewLevko checks
+** Dealing Turn ** [ Js ]
+Gaslam checks
+AndrewLevko bets [$0.50 USD]
+Gaslam folds
+AndrewLevko does not show cards.
+AndrewLevko wins $1.55 USD
+ Game #10907190997 starts.
+
+#Game No : 10907190997 
+***** Hand History for Game 10907190997 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:39:55 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.70 USD )
+Seat 3: DereckRaise ( $8.32 USD )
+Seat 5: Gaslam ( $45.49 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.37 USD )
+Seat 6: pkrOD ( $7.24 USD )
+Gaslam posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 5d ]
+AndrewLevko folds
+DereckRaise folds
+malivedran folds
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #10907191450 starts.
+
+#Game No : 10907191450 
+***** Hand History for Game 10907191450 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:40:08 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.70 USD )
+Seat 3: DereckRaise ( $8.32 USD )
+Seat 5: Gaslam ( $45.39 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.37 USD )
+Seat 6: pkrOD ( $7.34 USD )
+pkrOD posts small blind [$0.10 USD].
+Jolni123 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d Kc ]
+AndrewLevko folds
+DereckRaise folds
+malivedran folds
+Gaslam calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+Jolni123 checks
+** Dealing Flop ** [ Qh, Tc, Js ]
+pkrOD bets [$0.25 USD]
+Jolni123 folds
+Gaslam calls [$0.25 USD]
+** Dealing Turn ** [ Ad ]
+pkrOD bets [$0.50 USD]
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $1.69 USD
+ Game #10907193036 starts.
+
+#Game No : 10907193036 
+***** Hand History for Game 10907193036 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:40:51 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.70 USD )
+Seat 3: DereckRaise ( $8.32 USD )
+Seat 5: Gaslam ( $44.89 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.37 USD )
+Seat 6: pkrOD ( $8.03 USD )
+Jolni123 posts small blind [$0.10 USD].
+AndrewLevko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 7c ]
+DereckRaise folds
+malivedran folds
+Gaslam calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+Jolni123 calls [$0.15 USD]
+AndrewLevko checks
+** Dealing Flop ** [ 5s, Qh, Ts ]
+Jolni123 checks
+AndrewLevko checks
+Gaslam checks
+pkrOD bets [$0.95 USD]
+Jolni123 folds
+AndrewLevko folds
+Gaslam folds
+pkrOD does not show cards.
+pkrOD wins $1.90 USD
+ Game #10907194529 starts.
+
+#Game No : 10907194529 
+***** Hand History for Game 10907194529 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:41:31 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.45 USD )
+Seat 3: DereckRaise ( $8.32 USD )
+Seat 5: Gaslam ( $44.64 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.37 USD )
+Seat 6: pkrOD ( $8.73 USD )
+AndrewLevko posts small blind [$0.10 USD].
+DereckRaise posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Kh ]
+malivedran folds
+Gaslam folds
+pkrOD raises [$1 USD]
+Jolni123 folds
+AndrewLevko folds
+DereckRaise folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #10907195037 starts.
+
+#Game No : 10907195037 
+***** Hand History for Game 10907195037 *****
+$25 USD NL Texas Hold'em - Wednesday, September 21, 07:41:45 EDT 2011
+Table Speed #2410445 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 2: AndrewLevko ( $7.35 USD )
+Seat 3: DereckRaise ( $8.07 USD )
+Seat 5: Gaslam ( $44.64 USD )
+Seat 1: Jolni123 ( $25 USD )
+Seat 4: malivedran ( $27.37 USD )
+Seat 6: pkrOD ( $9.08 USD )
+DereckRaise posts small blind [$0.10 USD].
+malivedran posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c Tc ]
+Gaslam calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+Jolni123 calls [$0.25 USD]
+AndrewLevko folds
+DereckRaise folds
+malivedran checks
+** Dealing Flop ** [ 2s, 5c, 8c ]
+malivedran checks
+Gaslam bets [$1.05 USD]
+pkrOD calls [$1.05 USD]
+Jolni123 folds
+malivedran folds
+** Dealing Turn ** [ Ah ]
+Gaslam bets [$1.52 USD]
+pkrOD raises [$7.60 USD]
+Gaslam will be using his time bank for this hand.
+Gaslam calls [$6.08 USD]
+** Dealing River ** [ 7d ]
+Gaslam bets [$0.50 USD]
+pkrOD is all-In  [$0.18 USD]
+Gaslam shows [ Kh, Ks ]a pair of Kings.
+pkrOD doesn't show [ 2c, Tc ]a pair of Twos.
+Gaslam wins $0.32 USD from the side pot 1 with a pair of Kings.
+Gaslam wins $17.83 USD from the main pot with a pair of Kings.

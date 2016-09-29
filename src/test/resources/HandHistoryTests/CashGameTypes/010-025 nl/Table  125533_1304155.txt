@@ -1,0 +1,2172 @@
+Game #7936372346 starts.
+
+#Game No : 7936372346 
+***** Hand History for Game 7936372346 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:44:01 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 1: MestaQ ( $23.22 USD )
+Seat 5: daniele1987 ( $36.13 USD )
+Seat 2: luopio09 ( $13.68 USD )
+Seat 3: pkrOD ( $25 USD )
+Seat 6: roma566 ( $26 USD )
+Seat 4: trickform ( $25 USD )
+MestaQ posts small blind [$0.10 USD].
+luopio09 posts big blind [$0.25 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s Kd ]
+pkrOD checks
+trickform folds
+daniele1987 folds
+roma566 folds
+MestaQ calls [$0.15 USD]
+luopio09 checks
+** Dealing Flop ** [ Js, Qh, 5h ]
+MestaQ checks
+luopio09 bets [$0.54 USD]
+pkrOD calls [$0.54 USD]
+MestaQ calls [$0.54 USD]
+** Dealing Turn ** [ Qs ]
+MestaQ checks
+luopio09 checks
+pkrOD checks
+** Dealing River ** [ Ac ]
+MestaQ checks
+luopio09 bets [$1.69 USD]
+pkrOD calls [$1.69 USD]
+MestaQ folds
+luopio09 shows [ Ts, Qd ]three of a kind, Queens.
+pkrOD doesn't show [ 9s, Kd ]a pair of Queens.
+luopio09 wins $5.47 USD from the main pot with three of a kind, Queens.
+ Game #7936374855 starts.
+
+#Game No : 7936374855 
+***** Hand History for Game 7936374855 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:44:55 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 1: MestaQ ( $22.43 USD )
+Seat 5: daniele1987 ( $36.13 USD )
+Seat 2: luopio09 ( $16.67 USD )
+Seat 3: pkrOD ( $22.52 USD )
+Seat 6: roma566 ( $26 USD )
+Seat 4: trickform ( $25 USD )
+luopio09 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 3s ]
+trickform folds
+daniele1987 raises [$1 USD]
+roma566 folds
+MestaQ folds
+luopio09 folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 4s, Th, Kd ]
+pkrOD bets [$1 USD]
+daniele1987 folds
+pkrOD does not show cards.
+pkrOD wins $3 USD
+ Game #7936375998 starts.
+
+#Game No : 7936375998 
+***** Hand History for Game 7936375998 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:45:20 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 1: MestaQ ( $22.43 USD )
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 2: luopio09 ( $16.57 USD )
+Seat 3: pkrOD ( $23.52 USD )
+Seat 6: roma566 ( $26 USD )
+Seat 4: trickform ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h Ks ]
+daniele1987 folds
+roma566 raises [$1 USD]
+MestaQ folds
+luopio09 folds
+pkrOD folds
+trickform folds
+roma566 does not show cards.
+roma566 wins $1.35 USD
+MestaQ has left the table.
+ Game #7936376681 starts.
+
+#Game No : 7936376681 
+***** Hand History for Game 7936376681 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:45:34 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 2: luopio09 ( $16.57 USD )
+Seat 3: pkrOD ( $23.42 USD )
+Seat 6: roma566 ( $26.35 USD )
+Seat 4: trickform ( $25 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 4c ]
+roma566 folds
+luopio09 folds
+pkrOD folds
+jperocco has joined the table.
+trickform folds
+daniele1987 does not show cards.
+daniele1987 wins $0.35 USD
+ Game #7936377503 starts.
+
+#Game No : 7936377503 
+***** Hand History for Game 7936377503 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:45:52 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.23 USD )
+Seat 1: jperocco ( $25 USD )
+Seat 2: luopio09 ( $16.57 USD )
+Seat 3: pkrOD ( $23.42 USD )
+Seat 6: roma566 ( $26.35 USD )
+Seat 4: trickform ( $25 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd 2s ]
+luopio09 folds
+pkrOD raises [$1 USD]
+trickform folds
+daniele1987 folds
+roma566 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936378582 starts.
+
+#Game No : 7936378582 
+***** Hand History for Game 7936378582 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:46:16 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 1: jperocco ( $25 USD )
+Seat 2: luopio09 ( $16.57 USD )
+Seat 3: pkrOD ( $23.77 USD )
+Seat 6: roma566 ( $26.10 USD )
+Seat 4: trickform ( $25 USD )
+roma566 posts small blind [$0.10 USD].
+jperocco posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d Kc ]
+luopio09 folds
+pkrOD folds
+trickform folds
+daniele1987 raises [$1 USD]
+roma566 folds
+jperocco folds
+daniele1987 does not show cards.
+daniele1987 wins $1.35 USD
+ Game #7936379953 starts.
+
+#Game No : 7936379953 
+***** Hand History for Game 7936379953 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:46:46 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.48 USD )
+Seat 1: jperocco ( $24.75 USD )
+Seat 2: luopio09 ( $16.57 USD )
+Seat 3: pkrOD ( $23.77 USD )
+Seat 6: roma566 ( $26 USD )
+Seat 4: trickform ( $25 USD )
+jperocco posts small blind [$0.10 USD].
+luopio09 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 7h ]
+pkrOD folds
+trickform folds
+daniele1987 folds
+roma566 raises [$1 USD]
+jperocco folds
+luopio09 raises [$3.25 USD]
+roma566 folds
+luopio09 does not show cards.
+luopio09 wins $4.60 USD
+ Game #7936382332 starts.
+
+#Game No : 7936382332 
+***** Hand History for Game 7936382332 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:47:40 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.48 USD )
+Seat 1: jperocco ( $24.65 USD )
+Seat 2: luopio09 ( $17.67 USD )
+Seat 3: pkrOD ( $23.77 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+luopio09 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 3s ]
+trickform folds
+daniele1987 folds
+roma566 folds
+jperocco folds
+luopio09 raises [$1.40 USD]
+pkrOD is all-In  [$23.52 USD]
+luopio09 is all-In  [$16.17 USD]
+** Dealing Flop ** [ Jc, 7d, Qs ]
+** Dealing Turn ** [ 4c ]
+** Dealing River ** [ 5s ]
+luopio09 shows [ Jh, Qd ]two pairs, Queens and Jacks.
+pkrOD shows [ 5c, 3s ]a pair of Fives.
+pkrOD wins $6.10 USD from the side pot 1 with a pair of Fives.
+luopio09 wins $33.58 USD from the main pot with two pairs, Queens and Jacks.
+ Game #7936384223 starts.
+
+#Game No : 7936384223 
+***** Hand History for Game 7936384223 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:48:22 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.48 USD )
+Seat 1: jperocco ( $24.65 USD )
+Seat 2: luopio09 ( $33.58 USD )
+Seat 3: pkrOD ( $6.10 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 6s ]
+pkrOD: what a tardo
+pkrOD: thanks
+daniele1987 folds
+roma566 folds
+jperocco raises [$1 USD]
+luopio09 calls [$1 USD]
+pkrOD folds
+trickform folds
+** Dealing Flop ** [ Tc, Js, Jh ]
+pkrOD: nh
+jperocco will be using his time bank for this hand.
+jperocco bets [$1.68 USD]
+luopio09 calls [$1.68 USD]
+** Dealing Turn ** [ 7d ]
+luopio09: lol
+jperocco checks
+luopio09 checks
+** Dealing River ** [ 7s ]
+jperocco checks
+luopio09 bets [$5.43 USD]
+jperocco folds
+luopio09 does not show cards.
+luopio09 wins $10.86 USD
+ Game #7936388277 starts.
+
+#Game No : 7936388277 
+***** Hand History for Game 7936388277 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:49:54 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.48 USD )
+Seat 1: jperocco ( $21.97 USD )
+Seat 2: luopio09 ( $36.33 USD )
+Seat 3: pkrOD ( $25 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 5d ]
+roma566 folds
+jperocco folds
+luopio09 folds
+pkrOD raises [$1 USD]
+trickform folds
+daniele1987 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936389000 starts.
+
+#Game No : 7936389000 
+***** Hand History for Game 7936389000 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:50:10 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.23 USD )
+Seat 1: jperocco ( $21.97 USD )
+Seat 2: luopio09 ( $36.33 USD )
+Seat 3: pkrOD ( $25.35 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 is sitting out
+jperocco posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 4c ]
+luopio09 folds
+pkrOD raises [$1 USD]
+trickform folds
+daniele1987 folds
+jperocco folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936390411 starts.
+
+#Game No : 7936390411 
+***** Hand History for Game 7936390411 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:50:44 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 1: jperocco ( $21.72 USD )
+Seat 2: luopio09 ( $36.33 USD )
+Seat 3: pkrOD ( $25.70 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+jperocco posts small blind [$0.10 USD].
+luopio09 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h Qd ]
+pkrOD folds
+trickform folds
+daniele1987 folds
+jperocco folds
+luopio09 does not show cards.
+luopio09 wins $0.35 USD
+ Game #7936391301 starts.
+
+#Game No : 7936391301 
+***** Hand History for Game 7936391301 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:51:04 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 1: jperocco ( $21.62 USD )
+Seat 2: luopio09 ( $36.43 USD )
+Seat 3: pkrOD ( $25.70 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+luopio09 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+roma566 posts big blind + dead [$0.35].
+** Dealing down cards **
+Dealt to pkrOD [  9c 4s ]
+trickform folds
+daniele1987 folds
+roma566 checks
+jperocco folds
+luopio09 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 6h, Qs, Js ]
+luopio09 checks
+pkrOD bets [$0.75 USD]
+roma566 folds
+luopio09 folds
+pkrOD does not show cards.
+pkrOD wins $1.56 USD
+ Game #7936392874 starts.
+
+#Game No : 7936392874 
+***** Hand History for Game 7936392874 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:51:41 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 1: jperocco ( $21.62 USD )
+Seat 2: luopio09 ( $36.18 USD )
+Seat 3: pkrOD ( $26.26 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc Jd ]
+daniele1987 folds
+roma566 folds
+jperocco raises [$1 USD]
+luopio09 calls [$1 USD]
+pkrOD folds
+trickform folds
+** Dealing Flop ** [ Kh, Kd, 3c ]
+jperocco bets [$1.68 USD]
+luopio09 calls [$1.68 USD]
+** Dealing Turn ** [ 9h ]
+jperocco bets [$4.07 USD]
+luopio09 calls [$4.07 USD]
+** Dealing River ** [ 9s ]
+jperocco bets [$9.87 USD]
+luopio09 folds
+jperocco does not show cards.
+jperocco wins $23.03 USD
+ Game #7936395480 starts.
+
+#Game No : 7936395480 
+***** Hand History for Game 7936395480 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:52:41 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.13 USD )
+Seat 1: jperocco ( $28.03 USD )
+Seat 2: luopio09 ( $29.43 USD )
+Seat 3: pkrOD ( $26.16 USD )
+Seat 6: roma566 ( $25 USD )
+Seat 4: trickform ( $25 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 6h ]
+roma566 raises [$1 USD]
+jperocco folds
+luopio09 calls [$1 USD]
+pkrOD folds
+trickform folds
+daniele1987 folds
+** Dealing Flop ** [ 8c, 5s, 7c ]
+roma566 bets [$1.93 USD]
+luopio09 calls [$1.93 USD]
+** Dealing Turn ** [ Qs ]
+roma566 bets [$5.90 USD]
+luopio09 calls [$5.90 USD]
+** Dealing River ** [ Jh ]
+roma566 bets [$8.55 USD]
+luopio09 folds
+roma566 does not show cards.
+roma566 wins $25.66 USD
+ Game #7936396977 starts.
+
+#Game No : 7936396977 
+***** Hand History for Game 7936396977 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:53:16 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.88 USD )
+Seat 1: jperocco ( $28.03 USD )
+Seat 2: luopio09 ( $20.60 USD )
+Seat 3: pkrOD ( $26.16 USD )
+Seat 6: roma566 ( $33.28 USD )
+Seat 4: trickform ( $25 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 2c ]
+jperocco folds
+luopio09 raises [$0.75 USD]
+pkrOD calls [$0.75 USD]
+trickform folds
+daniele1987 folds
+roma566 could not respond in time.(disconnected)
+** Dealing Flop ** [ 8s, 9s, Th ]
+luopio09 bets [$1.32 USD]
+pkrOD folds
+** Dealing Turn ** [ As ]
+** Dealing River ** [ 8h ]
+luopio09 shows [ 6c, 5d ]a pair of Eights.
+roma566 shows [ Ks, Ad ]two pairs, Aces and Eights.
+luopio09 wins $2.27 USD from the side pot 1 with a pair of Eights.
+roma566 wins $0.81 USD from the main pot with two pairs, Aces and Eights.
+ Game #7936400364 starts.
+
+#Game No : 7936400364 
+***** Hand History for Game 7936400364 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:54:37 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.78 USD )
+Seat 1: jperocco ( $28.03 USD )
+Seat 2: luopio09 ( $20.80 USD )
+Seat 3: pkrOD ( $25.41 USD )
+Seat 6: roma566 ( $33.84 USD )
+Seat 4: trickform ( $25 USD )
+jperocco posts small blind [$0.10 USD].
+luopio09 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc Ks ]
+pkrOD raises [$1.50 USD]
+trickform folds
+daniele1987 folds
+jperocco folds
+luopio09 folds
+pkrOD does not show cards.
+pkrOD wins $1.85 USD
+ Game #7936401180 starts.
+
+#Game No : 7936401180 
+***** Hand History for Game 7936401180 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:54:55 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.78 USD )
+Seat 1: jperocco ( $27.93 USD )
+Seat 2: luopio09 ( $20.55 USD )
+Seat 3: pkrOD ( $25.76 USD )
+Seat 6: roma566 ( $33.84 USD )
+Seat 4: trickform ( $25 USD )
+luopio09 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+roma566 posts small blind [$0.10 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d Qh ]
+trickform folds
+daniele1987 calls [$0.25 USD]
+roma566 folds
+jperocco folds
+luopio09 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Ac, 8d, 4c ]
+luopio09 checks
+pkrOD checks
+daniele1987 bets [$0.60 USD]
+luopio09 folds
+pkrOD folds
+daniele1987 does not show cards.
+daniele1987 wins $1.41 USD
+ Game #7936402737 starts.
+
+#Game No : 7936402737 
+***** Hand History for Game 7936402737 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:55:32 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.34 USD )
+Seat 1: jperocco ( $27.93 USD )
+Seat 2: luopio09 ( $20.30 USD )
+Seat 3: pkrOD ( $25.51 USD )
+Seat 6: roma566 ( $33.74 USD )
+Seat 4: trickform ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h Kc ]
+daniele1987 raises [$1 USD]
+roma566 folds
+jperocco folds
+luopio09 folds
+pkrOD folds
+trickform folds
+daniele1987 does not show cards.
+daniele1987 wins $1.35 USD
+luopio09 has left the table.
+ Game #7936403396 starts.
+
+#Game No : 7936403396 
+***** Hand History for Game 7936403396 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:55:47 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 5: daniele1987 ( $35.69 USD )
+Seat 1: jperocco ( $27.93 USD )
+Seat 3: pkrOD ( $25.41 USD )
+Seat 6: roma566 ( $33.74 USD )
+Seat 4: trickform ( $25 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h Td ]
+mol13 has joined the table.
+roma566 folds
+jperocco folds
+pkrOD raises [$1 USD]
+trickform calls [$0.90 USD]
+daniele1987 folds
+** Dealing Flop ** [ 6h, Qs, As ]
+trickform checks
+pkrOD checks
+** Dealing Turn ** [ 4d ]
+trickform checks
+pkrOD bets [$2 USD]
+trickform folds
+pkrOD does not show cards.
+pkrOD wins $4.14 USD
+ Game #7936405222 starts.
+
+#Game No : 7936405222 
+***** Hand History for Game 7936405222 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:56:32 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $35.44 USD )
+Seat 1: jperocco ( $27.93 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $26.55 USD )
+Seat 6: roma566 ( $33.74 USD )
+Seat 4: trickform ( $25 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c Qh ]
+jperocco folds
+pkrOD folds
+trickform raises [$1 USD]
+daniele1987 calls [$0.90 USD]
+roma566 folds
+** Dealing Flop ** [ 4s, Tc, Jd ]
+daniele1987 checks
+trickform checks
+** Dealing Turn ** [ 6h ]
+daniele1987 checks
+trickform bets [$1.41 USD]
+daniele1987 folds
+trickform does not show cards.
+trickform wins $3.55 USD
+ Game #7936407013 starts.
+
+#Game No : 7936407013 
+***** Hand History for Game 7936407013 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:57:16 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.44 USD )
+Seat 1: jperocco ( $27.93 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $26.55 USD )
+Seat 6: roma566 ( $33.49 USD )
+Seat 4: trickform ( $26.14 USD )
+roma566 posts small blind [$0.10 USD].
+jperocco posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h Qs ]
+pkrOD folds
+trickform raises [$1 USD]
+daniele1987 folds
+roma566 folds
+jperocco folds
+trickform does not show cards.
+trickform wins $1.35 USD
+ Game #7936408529 starts.
+
+#Game No : 7936408529 
+***** Hand History for Game 7936408529 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:57:50 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.44 USD )
+Seat 1: jperocco ( $27.68 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $26.55 USD )
+Seat 6: roma566 ( $33.39 USD )
+Seat 4: trickform ( $26.49 USD )
+jperocco posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Kd ]
+pkrOD calls [$0.25 USD]
+trickform folds
+daniele1987 folds
+roma566 folds
+jperocco raises [$1.40 USD]
+mol13 calls [$1.25 USD]
+pkrOD calls [$1.25 USD]
+** Dealing Flop ** [ Jc, Tc, 8c ]
+jperocco checks
+mol13 checks
+pkrOD bets [$4 USD]
+jperocco folds
+mol13 calls [$4 USD]
+** Dealing Turn ** [ As ]
+mol13 checks
+pkrOD bets [$10 USD]
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $21.88 USD
+ Game #7936411285 starts.
+
+#Game No : 7936411285 
+***** Hand History for Game 7936411285 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:58:55 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.44 USD )
+Seat 1: jperocco ( $26.18 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $32.93 USD )
+Seat 6: roma566 ( $33.39 USD )
+Seat 4: trickform ( $26.49 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 8c ]
+trickform folds
+daniele1987 folds
+roma566 folds
+jperocco folds
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #7936411987 starts.
+
+#Game No : 7936411987 
+***** Hand History for Game 7936411987 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:59:12 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $34.44 USD )
+Seat 1: jperocco ( $26.18 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $33.03 USD )
+Seat 6: roma566 ( $33.39 USD )
+Seat 4: trickform ( $26.49 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 7h ]
+daniele1987 raises [$1 USD]
+roma566 raises [$3.50 USD]
+jperocco folds
+mol13 folds
+pkrOD folds
+trickform folds
+daniele1987 calls [$2.50 USD]
+** Dealing Flop ** [ 3h, Ah, 6s ]
+daniele1987 checks
+roma566 bets [$3.49 USD]
+daniele1987 folds
+roma566 does not show cards.
+roma566 wins $10.48 USD
+ Game #7936413704 starts.
+
+#Game No : 7936413704 
+***** Hand History for Game 7936413704 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:59:53 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $30.94 USD )
+Seat 1: jperocco ( $26.18 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $32.93 USD )
+Seat 6: roma566 ( $36.88 USD )
+Seat 4: trickform ( $26.24 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 8d ]
+roma566 folds
+jperocco folds
+mol13 raises [$1 USD]
+pkrOD folds
+trickform calls [$0.90 USD]
+daniele1987 folds
+** Dealing Flop ** [ 8s, Td, 5h ]
+trickform checks
+mol13 bets [$1.50 USD]
+trickform calls [$1.50 USD]
+** Dealing Turn ** [ Ah ]
+trickform bets [$2 USD]
+mol13 raises [$4.75 USD]
+trickform raises [$8.25 USD]
+pkrOD: AT ?
+pkrOD: A8
+pkrOD: i dunno
+pkrOD: 22
+mol13 folds
+trickform does not show cards.
+trickform wins $19.52 USD
+ Game #7936417319 starts.
+
+#Game No : 7936417319 
+***** Hand History for Game 7936417319 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:01:19 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $30.69 USD )
+Seat 1: jperocco ( $26.18 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $32.93 USD )
+Seat 6: roma566 ( $36.88 USD )
+Seat 4: trickform ( $33.01 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 8d ]
+jperocco folds
+mol13 folds
+pkrOD raises [$1 USD]
+trickform folds
+daniele1987 calls [$0.90 USD]
+roma566 folds
+** Dealing Flop ** [ Js, 2s, 4s ]
+daniele1987 checks
+pkrOD bets [$12 USD]
+pkrOD: oop
+daniele1987 folds
+pkrOD does not show cards.
+pkrOD wins $14.14 USD
+ Game #7936419333 starts.
+
+#Game No : 7936419333 
+***** Hand History for Game 7936419333 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:02:08 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 1: jperocco ( $26.18 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 3: pkrOD ( $34.07 USD )
+Seat 6: roma566 ( $36.63 USD )
+Seat 4: trickform ( $33.01 USD )
+roma566 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 5h ]
+pkrOD calls [$0.25 USD]
+trickform folds
+pkrOD: good thing i had the nut draw
+daniele1987 folds
+pkrOD: .. just incase
+jperocco has left the table.
+panster1 has joined the table.
+roma566 folds
+mol13 checks
+** Dealing Flop ** [ Jh, 7s, 7c ]
+mol13 bets [$0.25 USD]
+pkrOD folds
+mol13 does not show cards.
+mol13 wins $0.82 USD
+ Game #7936420958 starts.
+
+#Game No : 7936420958 
+***** Hand History for Game 7936420958 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:02:48 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 2: mol13 ( $25.32 USD )
+Seat 1: panster1 ( $25 USD )
+Seat 3: pkrOD ( $33.82 USD )
+Seat 6: roma566 ( $36.53 USD )
+Seat 4: trickform ( $33.01 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 4c ]
+trickform folds
+daniele1987 folds
+roma566 folds
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #7936421569 starts.
+
+#Game No : 7936421569 
+***** Hand History for Game 7936421569 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:03:01 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 2: mol13 ( $25.22 USD )
+Seat 1: panster1 ( $25 USD )
+Seat 3: pkrOD ( $33.92 USD )
+Seat 6: roma566 ( $36.53 USD )
+Seat 4: trickform ( $33.01 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 9h ]
+daniele1987 folds
+roma566 folds
+mol13 folds
+pkrOD folds
+trickform does not show cards.
+trickform wins $0.35 USD
+ Game #7936422024 starts.
+
+#Game No : 7936422024 
+***** Hand History for Game 7936422024 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:03:12 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 2: mol13 ( $25.22 USD )
+Seat 1: panster1 ( $25 USD )
+Seat 3: pkrOD ( $33.82 USD )
+Seat 6: roma566 ( $36.53 USD )
+Seat 4: trickform ( $33.11 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 8c ]
+roma566 folds
+mol13 folds
+pkrOD folds
+trickform folds
+daniele1987 does not show cards.
+daniele1987 wins $0.35 USD
+ Game #7936422581 starts.
+
+#Game No : 7936422581 
+***** Hand History for Game 7936422581 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:03:26 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.79 USD )
+Seat 2: mol13 ( $25.22 USD )
+Seat 1: panster1 ( $25 USD )
+Seat 3: pkrOD ( $33.82 USD )
+Seat 6: roma566 ( $36.53 USD )
+Seat 4: trickform ( $33.01 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc Jd ]
+mol13 folds
+pkrOD raises [$1 USD]
+trickform folds
+daniele1987 folds
+roma566 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936423505 starts.
+
+#Game No : 7936423505 
+***** Hand History for Game 7936423505 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:03:51 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 2: mol13 ( $25.22 USD )
+Seat 1: panster1 ( $25 USD )
+Seat 3: pkrOD ( $34.17 USD )
+Seat 6: roma566 ( $36.28 USD )
+Seat 4: trickform ( $33.01 USD )
+roma566 posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad Kc ]
+mol13 folds
+pkrOD raises [$1 USD]
+trickform folds
+daniele1987 folds
+roma566 folds
+panster1 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936424576 starts.
+
+#Game No : 7936424576 
+***** Hand History for Game 7936424576 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:04:17 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 2: mol13 ( $25.22 USD )
+Seat 1: panster1 ( $25 USD )
+Seat 3: pkrOD ( $34.52 USD )
+Seat 6: roma566 ( $36.18 USD )
+Seat 4: trickform ( $33.01 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c 5d ]
+pkrOD calls [$0.25 USD]
+trickform folds
+daniele1987 folds
+roma566 folds
+panster1 calls [$0.15 USD]
+mol13 checks
+** Dealing Flop ** [ 8h, 2c, 3c ]
+panster1 bets [$0.25 USD]
+mol13 folds
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ 4h ]
+panster1 bets [$0.50 USD]
+pkrOD raises [$1.25 USD]
+panster1 raises [$2.50 USD]
+pkrOD calls [$1.75 USD]
+** Dealing River ** [ 4d ]
+panster1 bets [$5 USD]
+pkrOD is all-In  [$31.02 USD]
+panster1 is all-In  [$16.50 USD]
+panster1 shows [ 3h, 3d ]a full house, Threes full of Fours.
+pkrOD shows [ 6c, 5d ]a straight Two to Six.
+pkrOD wins $9.52 USD from the side pot 1 with a straight, Two to Six.
+panster1 wins $47.74 USD from the main pot with a full house, Threes full of Fours.
+ Game #7936428498 starts.
+
+#Game No : 7936428498 
+***** Hand History for Game 7936428498 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:05:54 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $29.69 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 1: panster1 ( $47.74 USD )
+Seat 3: pkrOD ( $9.52 USD )
+Seat 6: roma566 ( $36.18 USD )
+Seat 4: trickform ( $33.01 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc Jh ]
+pkrOD: gay
+trickform folds
+daniele1987 raises [$1 USD]
+pkrOD: story of my life
+roma566 folds
+panster1 folds
+mol13 folds
+pkrOD folds
+daniele1987 does not show cards.
+daniele1987 wins $1.35 USD
+ Game #7936429427 starts.
+
+#Game No : 7936429427 
+***** Hand History for Game 7936429427 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:06:17 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $30.04 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 1: panster1 ( $47.74 USD )
+Seat 3: pkrOD ( $20.79 USD )
+Seat 6: roma566 ( $36.18 USD )
+Seat 4: trickform ( $33.01 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 7h ]
+daniele1987 folds
+roma566 folds
+panster1 folds
+mol13 folds
+pkrOD: is it me or just all weak cards are weak
+pkrOD raises [$0.90 USD]
+trickform folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #7936430387 starts.
+
+#Game No : 7936430387 
+***** Hand History for Game 7936430387 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:06:41 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $30.04 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 1: panster1 ( $47.74 USD )
+Seat 3: pkrOD ( $21.04 USD )
+Seat 6: roma566 ( $36.18 USD )
+Seat 4: trickform ( $32.76 USD )
+trickform posts small blind [$0.10 USD].
+daniele1987 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 6c ]
+roma566 folds
+panster1 raises [$1 USD]
+mol13 folds
+pkrOD folds
+trickform raises [$3.40 USD]
+daniele1987 calls [$3.25 USD]
+panster1 raises [$12 USD]
+trickform folds
+daniele1987 folds
+panster1 does not show cards.
+panster1 wins $20 USD
+ Game #7936432766 starts.
+
+#Game No : 7936432766 
+***** Hand History for Game 7936432766 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:07:39 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 5: daniele1987 ( $26.54 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 1: panster1 ( $54.74 USD )
+Seat 3: pkrOD ( $21.04 USD )
+Seat 6: roma566 ( $36.18 USD )
+Seat 4: trickform ( $29.26 USD )
+daniele1987 posts small blind [$0.10 USD].
+roma566 is sitting out
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 9c ]
+roma566 has left the table.
+mol13 folds
+pkrOD folds
+trickform folds
+daniele1987 raises [$0.90 USD]
+panster1 folds
+daniele1987 does not show cards.
+daniele1987 wins $1.25 USD
+ Game #7936433553 starts.
+
+#Game No : 7936433553 
+***** Hand History for Game 7936433553 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:07:59 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 5: daniele1987 ( $26.79 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 1: panster1 ( $54.49 USD )
+Seat 3: pkrOD ( $21.04 USD )
+Seat 4: trickform ( $29.26 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td Kd ]
+pkrOD calls [$0.25 USD]
+trickform folds
+Zockiw86 has joined the table.
+daniele1987 folds
+panster1 folds
+mol13 checks
+** Dealing Flop ** [ 7d, 9d, 6c ]
+mol13 bets [$0.25 USD]
+pkrOD raises [$2 USD]
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $2.80 USD
+ Game #7936434476 starts.
+
+#Game No : 7936434476 
+***** Hand History for Game 7936434476 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:08:22 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Zockiw86 ( $25 USD )
+Seat 5: daniele1987 ( $26.79 USD )
+Seat 2: mol13 ( $25 USD )
+Seat 1: panster1 ( $54.39 USD )
+Seat 3: pkrOD ( $21.59 USD )
+Seat 4: trickform ( $29.26 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 8s ]
+trickform folds
+daniele1987 folds
+panster1 folds
+mol13 raises [$0.90 USD]
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 5c, 7h, Ks ]
+mol13 bets [$1.25 USD]
+pkrOD calls [$1.25 USD]
+** Dealing Turn ** [ 7s ]
+mol13 checks
+pkrOD bets [$8 USD]
+mol13 raises [$19 USD]
+pkrOD folds
+mol13 does not show cards.
+mol13 wins $30.48 USD
+ Game #7936437177 starts.
+
+#Game No : 7936437177 
+***** Hand History for Game 7936437177 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:09:30 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Zockiw86 ( $25 USD )
+Seat 5: daniele1987 ( $26.79 USD )
+Seat 2: mol13 ( $34.23 USD )
+Seat 1: panster1 ( $54.39 USD )
+Seat 3: pkrOD ( $11.34 USD )
+Seat 4: trickform ( $29.26 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 7d ]
+panster1 folds
+mol13 folds
+daniele1987 has left the table.
+pkrOD folds
+trickform does not show cards.
+trickform wins $0.35 USD
+ Game #7936437614 starts.
+
+#Game No : 7936437614 
+***** Hand History for Game 7936437614 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:09:42 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 6: Zockiw86 ( $25 USD )
+Seat 2: mol13 ( $34.23 USD )
+Seat 1: panster1 ( $54.39 USD )
+Seat 3: pkrOD ( $11.24 USD )
+Seat 4: trickform ( $29.36 USD )
+trickform posts small blind [$0.10 USD].
+Zockiw86 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 6s ]
+vullet has joined the table.
+panster1 folds
+mol13 raises [$0.75 USD]
+pkrOD calls [$0.75 USD]
+trickform folds
+Zockiw86 raises [$1.75 USD]
+mol13 calls [$1.25 USD]
+pkrOD calls [$1.25 USD]
+** Dealing Flop ** [ 7s, 4c, 5h ]
+Zockiw86 bets [$2.75 USD]
+mol13 folds
+pkrOD is all-In  [$9.24 USD]
+Zockiw86 calls [$6.49 USD]
+** Dealing Turn ** [ 6d ]
+** Dealing River ** [ 3c ]
+Zockiw86 shows [ Ah, Qd ]a straight Three to Seven.
+pkrOD shows [ 8h, 6s ]a straight Four to Eight.
+pkrOD wins $23.36 USD from the main pot with a straight, Four to Eight.
+ Game #7936440417 starts.
+
+#Game No : 7936440417 
+***** Hand History for Game 7936440417 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:10:55 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Zockiw86 ( $13.76 USD )
+Seat 2: mol13 ( $32.23 USD )
+Seat 1: panster1 ( $54.39 USD )
+Seat 3: pkrOD ( $23.36 USD )
+Seat 4: trickform ( $29.26 USD )
+Seat 5: vullet ( $25 USD )
+Zockiw86 posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 3h ]
+mol13 folds
+pkrOD calls [$0.25 USD]
+trickform folds
+Zockiw86 folds
+panster1 checks
+** Dealing Flop ** [ 5h, Qs, As ]
+panster1 checks
+pkrOD: o so not all weak cards are wek
+pkrOD bets [$0.28 USD]
+panster1 calls [$0.28 USD]
+** Dealing Turn ** [ 9d ]
+panster1 checks
+pkrOD checks
+** Dealing River ** [ Qd ]
+panster1 checks
+pkrOD bets [$1 USD]
+panster1 folds
+pkrOD does not show cards.
+pkrOD wins $2.11 USD
+Zockiw86 has left the table.
+ Game #7936441969 starts.
+
+#Game No : 7936441969 
+***** Hand History for Game 7936441969 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:11:34 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 5 
+Seat 2: mol13 ( $32.23 USD )
+Seat 1: panster1 ( $53.86 USD )
+Seat 3: pkrOD ( $23.94 USD )
+Seat 4: trickform ( $29.26 USD )
+Seat 5: vullet ( $25 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 9c ]
+trickform folds
+panster1 folds
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+Stalkergs has joined the table.
+ Game #7936442481 starts.
+
+#Game No : 7936442481 
+***** Hand History for Game 7936442481 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:11:47 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $32.13 USD )
+Seat 1: panster1 ( $53.86 USD )
+Seat 3: pkrOD ( $24.04 USD )
+Seat 4: trickform ( $29.26 USD )
+Seat 5: vullet ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h Th ]
+panster1 raises [$1 USD]
+mol13 folds
+pkrOD folds
+trickform folds
+panster1 does not show cards.
+panster1 wins $1.35 USD
+ Game #7936443541 starts.
+
+#Game No : 7936443541 
+***** Hand History for Game 7936443541 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:12:14 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $32.13 USD )
+Seat 1: panster1 ( $54.21 USD )
+Seat 3: pkrOD ( $23.94 USD )
+Seat 4: trickform ( $29.01 USD )
+Seat 5: vullet ( $25 USD )
+trickform posts small blind [$0.10 USD].
+vullet posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 6h ]
+panster1 folds
+mol13 folds
+pkrOD folds
+trickform folds
+vullet does not show cards.
+vullet wins $0.35 USD
+ Game #7936444785 starts.
+
+#Game No : 7936444785 
+***** Hand History for Game 7936444785 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:12:46 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $32.13 USD )
+Seat 1: panster1 ( $54.21 USD )
+Seat 3: pkrOD ( $23.94 USD )
+Seat 4: trickform ( $28.91 USD )
+Seat 5: vullet ( $25.10 USD )
+vullet posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h Qs ]
+panster1 folds
+mol13 folds
+pkrOD folds
+trickform folds
+vullet folds
+Stalkergs does not show cards.
+Stalkergs wins $0.35 USD
+ Game #7936445580 starts.
+
+#Game No : 7936445580 
+***** Hand History for Game 7936445580 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:13:07 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.10 USD )
+Seat 2: mol13 ( $32.13 USD )
+Seat 1: panster1 ( $54.21 USD )
+Seat 3: pkrOD ( $23.94 USD )
+Seat 4: trickform ( $28.91 USD )
+Seat 5: vullet ( $25 USD )
+Stalkergs posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 3s ]
+mol13 raises [$1 USD]
+pkrOD calls [$1 USD]
+trickform folds
+vullet folds
+Stalkergs folds
+panster1 folds
+** Dealing Flop ** [ 7h, Jc, 4s ]
+mol13 bets [$1.50 USD]
+pkrOD calls [$1.50 USD]
+** Dealing Turn ** [ 9s ]
+mol13 bets [$3.75 USD]
+pkrOD calls [$3.75 USD]
+** Dealing River ** [ Qs ]
+mol13 bets [$6 USD]
+pkrOD folds
+mol13 does not show cards.
+mol13 wins $18.21 USD
+ Game #7936448582 starts.
+
+#Game No : 7936448582 
+***** Hand History for Game 7936448582 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:14:24 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $38.09 USD )
+Seat 1: panster1 ( $53.96 USD )
+Seat 3: pkrOD ( $17.69 USD )
+Seat 4: trickform ( $28.91 USD )
+Seat 5: vullet ( $25 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 6s ]
+pkrOD calls [$0.25 USD]
+trickform folds
+vullet folds
+Stalkergs folds
+panster1 folds
+mol13 checks
+** Dealing Flop ** [ 4s, 5h, Kc ]
+mol13 checks
+pkrOD bets [$0.50 USD]
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $1.07 USD
+ Game #7936449504 starts.
+
+#Game No : 7936449504 
+***** Hand History for Game 7936449504 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:14:49 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $37.84 USD )
+Seat 1: panster1 ( $53.86 USD )
+Seat 3: pkrOD ( $18.01 USD )
+Seat 4: trickform ( $28.91 USD )
+Seat 5: vullet ( $25 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Th ]
+trickform folds
+vullet raises [$1 USD]
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD folds
+vullet does not show cards.
+vullet wins $1.35 USD
+ Game #7936450296 starts.
+
+#Game No : 7936450296 
+***** Hand History for Game 7936450296 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:15:08 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $37.74 USD )
+Seat 1: panster1 ( $53.86 USD )
+Seat 3: pkrOD ( $17.76 USD )
+Seat 4: trickform ( $28.91 USD )
+Seat 5: vullet ( $25.35 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c Qs ]
+vullet folds
+Stalkergs raises [$0.75 USD]
+panster1 folds
+mol13 calls [$0.75 USD]
+pkrOD folds
+trickform folds
+** Dealing Flop ** [ 9h, 2h, 8d ]
+Stalkergs bets [$1 USD]
+mol13 folds
+Stalkergs does not show cards.
+Stalkergs wins $2.76 USD
+ Game #7936452128 starts.
+
+#Game No : 7936452128 
+***** Hand History for Game 7936452128 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:15:55 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $26.01 USD )
+Seat 2: mol13 ( $36.99 USD )
+Seat 1: panster1 ( $53.86 USD )
+Seat 3: pkrOD ( $17.66 USD )
+Seat 4: trickform ( $28.66 USD )
+Seat 5: vullet ( $25.35 USD )
+trickform posts small blind [$0.10 USD].
+vullet posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 2c ]
+Stalkergs calls [$0.25 USD]
+panster1 raises [$1.25 USD]
+mol13 folds
+pkrOD folds
+trickform folds
+vullet folds
+Stalkergs folds
+panster1 does not show cards.
+panster1 wins $1.85 USD
+ Game #7936453429 starts.
+
+#Game No : 7936453429 
+***** Hand History for Game 7936453429 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:16:30 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.76 USD )
+Seat 2: mol13 ( $36.99 USD )
+Seat 1: panster1 ( $54.46 USD )
+Seat 3: pkrOD ( $17.66 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25.10 USD )
+vullet posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 3h ]
+panster1 folds
+mol13 folds
+pkrOD raises [$0.75 USD]
+trickform folds
+vullet folds
+Stalkergs calls [$0.50 USD]
+** Dealing Flop ** [ 2d, 6h, 4s ]
+Stalkergs checks
+pkrOD bets [$1.25 USD]
+Stalkergs folds
+pkrOD does not show cards.
+pkrOD wins $2.77 USD
+ Game #7936455177 starts.
+
+#Game No : 7936455177 
+***** Hand History for Game 7936455177 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:17:15 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.01 USD )
+Seat 2: mol13 ( $36.99 USD )
+Seat 1: panster1 ( $54.46 USD )
+Seat 3: pkrOD ( $18.43 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+Stalkergs posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Ts ]
+mol13 folds
+pkrOD raises [$1 USD]
+trickform folds
+vullet folds
+Stalkergs folds
+panster1 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936456174 starts.
+
+#Game No : 7936456174 
+***** Hand History for Game 7936456174 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:17:42 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25 USD )
+Seat 2: mol13 ( $36.99 USD )
+Seat 1: panster1 ( $54.21 USD )
+Seat 3: pkrOD ( $18.78 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 7h ]
+pkrOD raises [$1 USD]
+trickform folds
+vullet folds
+Stalkergs calls [$1 USD]
+panster1 folds
+mol13 folds
+** Dealing Flop ** [ Jc, 5d, Qh ]
+pkrOD checks
+Stalkergs bets [$1.25 USD]
+pkrOD folds
+Stalkergs does not show cards.
+Stalkergs wins $3.49 USD
+ Game #7936457336 starts.
+
+#Game No : 7936457336 
+***** Hand History for Game 7936457336 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:18:13 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $26.24 USD )
+Seat 2: mol13 ( $36.74 USD )
+Seat 1: panster1 ( $54.11 USD )
+Seat 3: pkrOD ( $17.78 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 2c ]
+trickform did not respond in time
+trickform folds
+vullet folds
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #7936458474 starts.
+
+#Game No : 7936458474 
+***** Hand History for Game 7936458474 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:18:43 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $26.24 USD )
+Seat 2: mol13 ( $36.64 USD )
+Seat 1: panster1 ( $54.11 USD )
+Seat 3: pkrOD ( $17.88 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+vullet posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s Jd ]
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD folds
+vullet does not show cards.
+vullet wins $0.35 USD
+ Game #7936458912 starts.
+
+#Game No : 7936458912 
+***** Hand History for Game 7936458912 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:18:55 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $26.24 USD )
+Seat 2: mol13 ( $36.64 USD )
+Seat 1: panster1 ( $54.11 USD )
+Seat 3: pkrOD ( $17.78 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25.10 USD )
+vullet posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 4c ]
+panster1 folds
+mol13 raises [$1 USD]
+pkrOD folds
+vullet calls [$0.90 USD]
+Stalkergs folds
+** Dealing Flop ** [ 9h, 2d, 2s ]
+vullet checks
+mol13 checks
+** Dealing Turn ** [ 3d ]
+vullet bets [$1.60 USD]
+mol13 folds
+vullet does not show cards.
+vullet wins $3.74 USD
+ Game #7936460604 starts.
+
+#Game No : 7936460604 
+***** Hand History for Game 7936460604 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:19:40 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.99 USD )
+Seat 2: mol13 ( $35.64 USD )
+Seat 1: panster1 ( $54.11 USD )
+Seat 3: pkrOD ( $17.78 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $26.24 USD )
+Stalkergs posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 2h ]
+mol13 raises [$1 USD]
+pkrOD folds
+vullet calls [$1 USD]
+Stalkergs folds
+panster1 folds
+** Dealing Flop ** [ Jd, 6h, Qh ]
+mol13 bets [$1.75 USD]
+vullet calls [$1.75 USD]
+** Dealing Turn ** [ 9h ]
+mol13 checks
+vullet bets [$4.17 USD]
+mol13 calls [$4.17 USD]
+** Dealing River ** [ Td ]
+mol13 checks
+vullet checks
+mol13 shows [ Kd, Kh ]a straight Nine to King.
+vullet doesn't show [ Th, Js ]two pairs, Jacks and Tens.
+mol13 wins $13.49 USD from the main pot with a straight, Nine to King.
+ Game #7936463547 starts.
+
+#Game No : 7936463547 
+***** Hand History for Game 7936463547 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:20:59 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $42.21 USD )
+Seat 1: panster1 ( $53.86 USD )
+Seat 3: pkrOD ( $17.78 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $19.32 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Ad ]
+pkrOD raises [$1 USD]
+vullet folds
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936464037 starts.
+
+#Game No : 7936464037 
+***** Hand History for Game 7936464037 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:21:12 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.96 USD )
+Seat 1: panster1 ( $53.76 USD )
+Seat 3: pkrOD ( $18.13 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Qs ]
+vullet folds
+Stalkergs folds
+panster1 raises [$1 USD]
+mol13 folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ Kc, Kd, 9c ]
+pkrOD checks
+panster1 bets [$1.50 USD]
+pkrOD raises [$3 USD]
+panster1 calls [$1.50 USD]
+** Dealing Turn ** [ 8c ]
+pkrOD checks
+panster1 checks
+** Dealing River ** [ As ]
+pkrOD checks
+panster1 checks
+pkrOD shows [ Js, Qs ]a pair of Kings with Jack kicker.
+panster1 doesn't show [ Tc, Qd ]a pair of Kings.
+pkrOD wins $7.70 USD from the main pot with a pair of Kings with Jack kicker.
+ Game #7936466003 starts.
+
+#Game No : 7936466003 
+***** Hand History for Game 7936466003 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:22:05 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $49.76 USD )
+Seat 3: pkrOD ( $21.83 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 3h ]
+vullet raises [$1 USD]
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD folds
+trickform folds
+vullet does not show cards.
+vullet wins $1.35 USD
+ Game #7936466780 starts.
+
+#Game No : 7936466780 
+***** Hand History for Game 7936466780 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:22:26 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $49.76 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $28.31 USD )
+Seat 5: vullet ( $25.35 USD )
+trickform posts small blind [$0.10 USD].
+vullet posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 6h ]
+Stalkergs folds
+panster1 raises [$1 USD]
+mol13 folds
+pkrOD folds
+trickform folds
+vullet folds
+panster1 does not show cards.
+panster1 wins $1.35 USD
+ Game #7936467461 starts.
+
+#Game No : 7936467461 
+***** Hand History for Game 7936467461 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:22:44 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $50.11 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $28.21 USD )
+Seat 5: vullet ( $25.10 USD )
+vullet posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 2d ]
+panster1 folds
+mol13 folds
+pkrOD folds
+trickform raises [$1 USD]
+vullet folds
+Stalkergs folds
+trickform does not show cards.
+trickform wins $1.35 USD
+ Game #7936468310 starts.
+
+#Game No : 7936468310 
+***** Hand History for Game 7936468310 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:23:08 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.64 USD )
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $50.11 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25 USD )
+Stalkergs posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 7c ]
+mol13 folds
+pkrOD folds
+trickform folds
+vullet raises [$1 USD]
+Stalkergs folds
+panster1 folds
+vullet does not show cards.
+vullet wins $1.35 USD
+ Game #7936469022 starts.
+
+#Game No : 7936469022 
+***** Hand History for Game 7936469022 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:23:26 BST 2009
+Table Table  125533 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.54 USD )
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $49.86 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25.35 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h Qc ]
+pkrOD folds
+trickform folds
+vullet folds
+Stalkergs raises [$1 USD]
+panster1 folds
+mol13 folds
+Stalkergs does not show cards.
+Stalkergs wins $1.35 USD
+ Game #7936469824 starts.
+
+#Game No : 7936469824 
+***** Hand History for Game 7936469824 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:23:48 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.61 USD )
+Seat 1: panster1 ( $49.76 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $25.35 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h Ts ]
+trickform folds
+vullet raises [$1 USD]
+Stalkergs folds
+panster1 calls [$1 USD]
+mol13 folds
+pkrOD folds
+** Dealing Flop ** [ 6c, Jc, 9h ]
+vullet bets [$1.68 USD]
+panster1 calls [$1.68 USD]
+** Dealing Turn ** [ Qs ]
+vullet checks
+panster1 checks
+** Dealing River ** [ Qd ]
+vullet checks
+panster1 checks
+vullet shows [ 6s, As ]two pairs, Queens and Sixes.
+panster1 shows [ 7s, 7c ]two pairs, Queens and Sevens.
+panster1 wins $5.43 USD from the main pot with two pairs, Queens and Sevens.
+ Game #7936471589 starts.
+
+#Game No : 7936471589 
+***** Hand History for Game 7936471589 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:24:36 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.51 USD )
+Seat 1: panster1 ( $52.51 USD )
+Seat 3: pkrOD ( $21.48 USD )
+Seat 4: trickform ( $28.56 USD )
+Seat 5: vullet ( $22.67 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 3s ]
+vullet folds
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD raises [$0.90 USD]
+trickform folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #7936472302 starts.
+
+#Game No : 7936472302 
+***** Hand History for Game 7936472302 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:24:56 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.51 USD )
+Seat 1: panster1 ( $52.51 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $28.31 USD )
+Seat 5: vullet ( $22.67 USD )
+trickform posts small blind [$0.10 USD].
+vullet posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d Th ]
+Stalkergs folds
+panster1 folds
+mol13 folds
+pkrOD raises [$1 USD]
+trickform folds
+vullet folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936472859 starts.
+
+#Game No : 7936472859 
+***** Hand History for Game 7936472859 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:25:12 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.51 USD )
+Seat 1: panster1 ( $52.51 USD )
+Seat 3: pkrOD ( $22.08 USD )
+Seat 4: trickform ( $28.21 USD )
+Seat 5: vullet ( $22.42 USD )
+vullet posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 4c ]
+mol13 raises [$1 USD]
+pkrOD folds
+trickform folds
+vullet folds
+panster1 folds
+mol13 does not show cards.
+mol13 wins $1.35 USD
+ Game #7936473755 starts.
+
+#Game No : 7936473755 
+***** Hand History for Game 7936473755 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:25:35 BST 2009
+Table Table  125533 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $52.26 USD )
+Seat 3: pkrOD ( $22.08 USD )
+Seat 4: trickform ( $28.21 USD )
+Seat 5: vullet ( $22.32 USD )
+panster1 posts small blind [$0.10 USD].
+mol13 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 5s ]
+pkrOD folds
+trickform folds
+vullet folds
+panster1 folds
+mol13 does not show cards.
+mol13 wins $0.35 USD
+ Game #7936474372 starts.
+
+#Game No : 7936474372 
+***** Hand History for Game 7936474372 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:25:53 BST 2009
+Table Table  125533 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stalkergs ( $25.89 USD )
+Seat 2: mol13 ( $41.96 USD )
+Seat 1: panster1 ( $52.16 USD )
+Seat 3: pkrOD ( $22.08 USD )
+Seat 4: trickform ( $28.21 USD )
+Seat 5: vullet ( $22.32 USD )
+mol13 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 4d ]
+trickform folds
+vullet folds
+panster1 raises [$1 USD]
+mol13 folds
+Stalkergs has left the table.
+pkrOD folds
+panster1 does not show cards.
+panster1 wins $1.35 USD
+ Game #7936475173 starts.
+
+#Game No : 7936475173 
+***** Hand History for Game 7936475173 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:26:14 BST 2009
+Table Table  125533 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 2: mol13 ( $41.86 USD )
+Seat 1: panster1 ( $52.51 USD )
+Seat 3: pkrOD ( $21.83 USD )
+Seat 4: trickform ( $28.21 USD )
+Seat 5: vullet ( $22.32 USD )
+pkrOD posts small blind [$0.10 USD].
+trickform posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 5d ]
+vullet folds
+panster1 folds
+mol13 raises [$1 USD]
+pkrOD folds
+trickform folds
+mol13 does not show cards.
+mol13 wins $1.35 USD
+ Game #7936475673 starts.
+
+#Game No : 7936475673 
+***** Hand History for Game 7936475673 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:26:29 BST 2009
+Table Table  125533 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 2: mol13 ( $42.21 USD )
+Seat 1: panster1 ( $52.51 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $27.96 USD )
+Seat 5: vullet ( $22.32 USD )
+trickform posts small blind [$0.10 USD].
+vullet posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 9s ]
+panster1 folds
+mol13 folds
+pkrOD folds
+trickform folds
+vullet does not show cards.
+vullet wins $0.35 USD
+ Game #7936476291 starts.
+
+#Game No : 7936476291 
+***** Hand History for Game 7936476291 *****
+$25 USD NL Texas Hold'em - Tuesday, March 31, 00:26:45 BST 2009
+Table Table  125533 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 2: mol13 ( $42.21 USD )
+Seat 1: panster1 ( $52.51 USD )
+Seat 3: pkrOD ( $21.73 USD )
+Seat 4: trickform ( $27.86 USD )
+Seat 5: vullet ( $22.42 USD )
+vullet posts small blind [$0.10 USD].
+panster1 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Tc ]
+mol13 folds
+pkrOD calls [$0.25 USD]
+trickform folds
+vullet raises [$1.15 USD]
+panster1 folds
+pkrOD calls [$1 USD]
+** Dealing Flop ** [ 9d, 5d, Qd ]
+BadB7 has joined the table.
+vullet bets [$1.96 USD]
+pkrOD calls [$1.96 USD]
+** Dealing Turn ** [ Qc ]
+vullet checks
+pkrOD bets [$18 USD]
+vullet is all-In  [$19.21 USD]
+pkrOD is all-In  [$0.52 USD]
+** Dealing River ** [ Kh ]
+pkrOD shows [ Qh, Tc ]three of a kind, Queens.
+vullet shows [ 9h, 9s ]a full house, Nines full of Queens.
+vullet wins $0.69 USD from the side pot 1 with a full house, Nines full of Queens.
+vullet wins $41.71 USD from the main pot with a full house, Nines full of Queens.

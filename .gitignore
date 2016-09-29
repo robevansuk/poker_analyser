@@ -1,0 +1,8 @@
+*.iml
+bin/
+out/
+.DS_Store
+lib/
+.idea/
+.settings/
+.gradle/

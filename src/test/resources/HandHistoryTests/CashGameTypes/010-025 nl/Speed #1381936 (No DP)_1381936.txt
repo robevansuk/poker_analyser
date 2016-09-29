@@ -1,0 +1,129 @@
+Game #7535286144 starts.
+
+#Game No : 7535286144 
+***** Hand History for Game 7535286144 *****
+$25 USD NL Texas Hold'em - Thursday, November 13, 18:22:32 ET 2008
+Table Speed #1381936 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 2: schippo36 ( $25 USD )
+Seat 3: IRunGoot ( $10.32 USD )
+Seat 5: neel180 ( $61.82 USD )
+Seat 6: yellow__pand ( $32.09 USD )
+Seat 1: pkrOD ( $8.30 USD )
+yellow__pand posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s Jc ]
+Ren_Hoeck has joined the table.
+schippo36 folds
+IRunGoot raises [$1 USD]
+neel180 folds
+yellow__pand folds
+pkrOD folds
+IRunGoot does not show cards.
+IRunGoot wins $1.35 USD
+ Game #7535286978 starts.
+
+#Game No : 7535286978 
+***** Hand History for Game 7535286978 *****
+$25 USD NL Texas Hold'em - Thursday, November 13, 18:22:50 ET 2008
+Table Speed #1381936 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 2: schippo36 ( $25 USD )
+Seat 3: IRunGoot ( $10.67 USD )
+Seat 5: neel180 ( $61.82 USD )
+Seat 6: yellow__pand ( $31.99 USD )
+Seat 1: pkrOD ( $8.05 USD )
+Seat 4: Ren_Hoeck ( $25 USD )
+pkrOD posts small blind [$0.10 USD].
+schippo36 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c Ac ]
+IRunGoot folds
+neel180 folds
+yellow__pand folds
+pkrOD is all-In  [$7.95 USD]
+schippo36 folds
+pkrOD does not show cards.
+pkrOD wins $8.30 USD
+ 
+Game #7535287853 starts.
+#Game No : 7535287853 
+Connection Lost due to some reason
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+
+ Game #7535289927 starts.
+
+#Game No : 7535289927 
+***** Hand History for Game 7535289927 *****
+$25 USD NL Texas Hold'em - Thursday, November 13, 18:23:57 ET 2008
+Table Speed #1381936 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 1: pkrOD ( $8.30 USD )
+Seat 2: schippo36 ( $25 USD )
+Seat 3: IRunGoot ( $11.67 USD )
+Seat 4: Ren_Hoeck ( $25 USD )
+Seat 5: neel180 ( $60.82 USD )
+Seat 6: yellow__pand ( $31.99 USD )
+IRunGoot posts small blind [$0.10 USD].
+Ren_Hoeck posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s Th ]
+neel180 calls [$0.25 USD]
+yellow__pand folds
+pkrOD folds
+schippo36 folds
+IRunGoot folds
+Ren_Hoeck checks
+** Dealing Flop ** [ Ad, As, 5s ]
+Ren_Hoeck checks
+neel180 checks
+** Dealing Turn ** [ 8c ]
+Ren_Hoeck bets [$0.50 USD]
+neel180 calls [$0.50 USD]
+** Dealing River ** [ 4h ]
+Ren_Hoeck checks
+neel180 bets [$1.14 USD]
+Ren_Hoeck raises [$3.25 USD]
+neel180 folds
+Ren_Hoeck does not show cards.
+Ren_Hoeck wins $5.80 USD
+ Game #7535292021 starts.
+
+#Game No : 7535292021 
+***** Hand History for Game 7535292021 *****
+$25 USD NL Texas Hold'em - Thursday, November 13, 18:24:44 ET 2008
+Table Speed #1381936 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 1: pkrOD ( $8.30 USD )
+Seat 2: schippo36 ( $25 USD )
+Seat 3: IRunGoot ( $11.57 USD )
+Seat 4: Ren_Hoeck ( $26.80 USD )
+Seat 5: neel180 ( $58.93 USD )
+Seat 6: yellow__pand ( $31.99 USD )
+Ren_Hoeck posts small blind [$0.10 USD].
+neel180 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s As ]
+yellow__pand folds
+pkrOD raises [$1 USD]
+schippo36 folds
+IRunGoot folds
+Ren_Hoeck folds
+neel180 calls [$0.75 USD]
+** Dealing Flop ** [ 3s, 8h, 4h ]
+neel180 bets [$1 USD]
+pkrOD raises [$7.29 USD]
+neel180 calls [$6.29 USD]
+** Dealing Turn ** [ Qh ]
+neel180 bets [$7.92 USD]
+pkrOD is all-In  [$0.01 USD]
+** Dealing River ** [ Td ]
+neel180 shows [ 8c, Th ]two pairs, Tens and Eights.
+pkrOD doesn't show [ 4s, As ]a pair of Fours.
+neel180 wins $7.91 USD from the side pot 1 with two pairs, Tens and Eights.
+neel180 wins $15.87 USD from the main pot with two pairs, Tens and Eights.

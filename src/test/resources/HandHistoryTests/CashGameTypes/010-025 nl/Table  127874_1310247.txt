@@ -1,0 +1,2635 @@
+Game #7936008425 starts.
+
+#Game No : 7936008425 
+***** Hand History for Game 7936008425 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:00:00 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.75 USD )
+Seat 3: markima ( $29.90 USD )
+Seat 2: mulusko ( $7.88 USD )
+Seat 4: pkrOD ( $16.70 USD )
+Seat 5: staples224 ( $6.27 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h Jh ]
+mulusko calls [$0.25 USD]
+markima folds
+pkrOD checks
+staples224 calls [$0.25 USD]
+Stanley1212 folds
+hahnov checks
+** Dealing Flop ** [ 9c, 4h, Td ]
+hahnov checks
+mulusko bets [$1.05 USD]
+pkrOD folds
+staples224 calls [$1.05 USD]
+hahnov folds
+** Dealing Turn ** [ Qs ]
+mulusko bets [$3.04 USD]
+markima: i think you are on T.i.l.t
+staples224 is all-In  [$4.97 USD]
+mulusko calls [$1.93 USD]
+** Dealing River ** [ 8d ]
+mulusko shows [ Qd, Ah ]a pair of Queens.
+staples224 shows [ 8c, Tc ]two pairs, Tens and Eights.
+staples224 wins $12.49 USD from the main pot with two pairs, Tens and Eights.
+ Game #7936011151 starts.
+
+#Game No : 7936011151 
+***** Hand History for Game 7936011151 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:00:43 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.50 USD )
+Seat 3: markima ( $29.90 USD )
+Seat 2: mulusko ( $1.61 USD )
+Seat 4: pkrOD ( $16.45 USD )
+Seat 5: staples224 ( $12.49 USD )
+hahnov posts small blind [$0.10 USD].
+mulusko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 8h ]
+markima raises [$1.50 USD]
+pkrOD folds
+staples224 folds
+Stanley1212 folds
+hahnov folds
+staples224: Honk
+mulusko folds
+markima does not show cards.
+markima wins $1.85 USD
+ Game #7936012073 starts.
+
+#Game No : 7936012073 
+***** Hand History for Game 7936012073 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:00:59 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.40 USD )
+Seat 3: markima ( $30.25 USD )
+Seat 2: mulusko ( $1.36 USD )
+Seat 4: pkrOD ( $16.45 USD )
+Seat 5: staples224 ( $12.49 USD )
+mulusko posts small blind [$0.10 USD].
+markima posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Jh ]
+pkrOD folds
+staples224 folds
+Stanley1212 folds
+hahnov folds
+markima: blub
+mulusko calls [$0.15 USD]
+markima checks
+** Dealing Flop ** [ Th, 8s, Kc ]
+mulusko checks
+markima checks
+** Dealing Turn ** [ Qc ]
+mulusko bets [$0.25 USD]
+markima folds
+mulusko does not show cards.
+mulusko wins $0.73 USD
+ Game #7936014112 starts.
+
+#Game No : 7936014112 
+***** Hand History for Game 7936014112 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:01:33 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.40 USD )
+Seat 3: markima ( $30 USD )
+Seat 2: mulusko ( $1.59 USD )
+Seat 4: pkrOD ( $16.45 USD )
+Seat 5: staples224 ( $12.49 USD )
+markima posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad Th ]
+staples224 folds
+Stanley1212 folds
+hahnov folds
+mulusko folds
+markima folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #7936015015 starts.
+
+#Game No : 7936015015 
+***** Hand History for Game 7936015015 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:01:48 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.40 USD )
+Seat 3: markima ( $29.90 USD )
+Seat 2: mulusko ( $1.59 USD )
+Seat 4: pkrOD ( $16.55 USD )
+Seat 5: staples224 ( $12.49 USD )
+pkrOD posts small blind [$0.10 USD].
+staples224 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 7s ]
+Stanley1212 folds
+hahnov folds
+mulusko calls [$0.25 USD]
+markima folds
+pkrOD folds
+staples224 checks
+** Dealing Flop ** [ 9s, Qc, Kc ]
+staples224 checks
+mulusko bets [$0.57 USD]
+staples224 folds
+mulusko does not show cards.
+mulusko wins $1.14 USD
+ Game #7936017073 starts.
+
+#Game No : 7936017073 
+***** Hand History for Game 7936017073 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:02:23 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.40 USD )
+Seat 3: markima ( $29.90 USD )
+Seat 2: mulusko ( $1.91 USD )
+Seat 4: pkrOD ( $16.45 USD )
+Seat 5: staples224 ( $12.24 USD )
+staples224 posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h Ad ]
+hahnov calls [$0.25 USD]
+mulusko calls [$0.25 USD]
+markima calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+staples224 calls [$0.15 USD]
+Stanley1212 checks
+** Dealing Flop ** [ 7h, Kd, Qc ]
+staples224 checks
+Stanley1212 checks
+hahnov checks
+mulusko bets [$0.25 USD]
+markima folds
+pkrOD folds
+staples224 folds
+Stanley1212 folds
+hahnov folds
+mulusko does not show cards.
+mulusko wins $1.68 USD
+ Game #7936019522 starts.
+
+#Game No : 7936019522 
+***** Hand History for Game 7936019522 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:03:04 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.15 USD )
+Seat 3: markima ( $29.65 USD )
+Seat 2: mulusko ( $3.09 USD )
+Seat 4: pkrOD ( $16.20 USD )
+Seat 5: staples224 ( $11.99 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 9c ]
+mulusko folds
+markima folds
+pkrOD calls [$0.25 USD]
+staples224 folds
+Stanley1212 folds
+hahnov checks
+** Dealing Flop ** [ 2h, Jc, 6s ]
+hahnov bets [$0.57 USD]
+pkrOD folds
+hahnov does not show cards.
+hahnov wins $1.14 USD
+ Game #7936021565 starts.
+
+#Game No : 7936021565 
+***** Hand History for Game 7936021565 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:03:42 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.47 USD )
+Seat 3: markima ( $29.65 USD )
+Seat 2: mulusko ( $3.09 USD )
+Seat 4: pkrOD ( $15.95 USD )
+Seat 5: staples224 ( $11.99 USD )
+hahnov posts small blind [$0.10 USD].
+mulusko posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 4c ]
+markima folds
+pkrOD calls [$0.25 USD]
+staples224 folds
+Stanley1212 calls [$0.25 USD]
+hahnov calls [$0.15 USD]
+mulusko checks
+** Dealing Flop ** [ Kd, Qc, Jh ]
+hahnov checks
+mulusko bets [$0.25 USD]
+pkrOD calls [$0.25 USD]
+Stanley1212 folds
+hahnov folds
+** Dealing Turn ** [ Ah ]
+mulusko bets [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing River ** [ 5s ]
+mulusko bets [$1.90 USD]
+pkrOD raises [$3.80 USD]
+mulusko is all-In  [$0.44 USD]
+pkrOD shows [ Tc, 4c ]a straight Ten to Ace.
+mulusko doesn't show [ 3h, As ]a pair of Aces.
+pkrOD wins $1.46 USD from the side pot 1 with a straight, Ten to Ace.
+pkrOD wins $6.35 USD from the main pot with a straight, Ten to Ace.
+ Game #7936025131 starts.
+
+#Game No : 7936025131 
+***** Hand History for Game 7936025131 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:04:43 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.22 USD )
+Seat 3: markima ( $29.65 USD )
+Seat 2: mulusko ( $0 USD )
+Seat 4: pkrOD ( $19.21 USD )
+Seat 5: staples224 ( $11.99 USD )
+markima posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 8s ]
+staples224 folds
+Stanley1212 folds
+hahnov folds
+markima calls [$0.15 USD]
+pkrOD raises [$0.75 USD]
+markima calls [$0.75 USD]
+** Dealing Flop ** [ 9c, Kd, Qd ]
+markima checks
+pkrOD checks
+** Dealing Turn ** [ Kh ]
+markima checks
+pkrOD checks
+** Dealing River ** [ Jc ]
+markima checks
+pkrOD checks
+markima shows [ 2d, Ah ]a pair of Kings.
+pkrOD shows [ 8d, 8s ]two pairs, Kings and Eights.
+pkrOD wins $1.90 USD from the main pot with two pairs, Kings and Eights.
+ Game #7936027579 starts.
+
+#Game No : 7936027579 
+***** Hand History for Game 7936027579 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:05:24 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.22 USD )
+Seat 3: markima ( $28.65 USD )
+Seat 2: mulusko ( $5 USD )
+Seat 4: pkrOD ( $20.11 USD )
+Seat 5: staples224 ( $11.99 USD )
+pkrOD posts small blind [$0.10 USD].
+staples224 posts big blind [$0.25 USD].
+mulusko posts small blind [$0.10 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 5d ]
+Stanley1212 folds
+hahnov folds
+mulusko folds
+markima folds
+pkrOD calls [$0.15 USD]
+staples224 checks
+** Dealing Flop ** [ Jh, Ah, 3c ]
+pkrOD checks
+staples224 bets [$0.35 USD]
+pkrOD calls [$0.35 USD]
+** Dealing Turn ** [ Qs ]
+pkrOD checks
+staples224 checks
+** Dealing River ** [ 8d ]
+pkrOD checks
+staples224 checks
+pkrOD shows [ 2d, 5d ]high card Ace.
+staples224 shows [ Kh, 4s ]high card Ace with King kicker.
+staples224 wins $1.24 USD from the main pot with high card, Ace with King kicker.
+ Game #7936031426 starts.
+
+#Game No : 7936031426 
+***** Hand History for Game 7936031426 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:06:30 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.22 USD )
+Seat 3: markima ( $28.65 USD )
+Seat 2: mulusko ( $4.90 USD )
+Seat 4: pkrOD ( $19.51 USD )
+Seat 5: staples224 ( $12.63 USD )
+staples224 posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c Kd ]
+hahnov folds
+mulusko calls [$0.25 USD]
+markima calls [$0.25 USD]
+pkrOD folds
+staples224 calls [$0.15 USD]
+Stanley1212 checks
+** Dealing Flop ** [ 9c, 2d, 6d ]
+staples224 checks
+Stanley1212 bets [$0.80 USD]
+mulusko calls [$0.80 USD]
+markima calls [$0.80 USD]
+staples224 folds
+** Dealing Turn ** [ Ac ]
+Stanley1212 checks
+mulusko bets [$1.61 USD]
+markima calls [$1.61 USD]
+Stanley1212 folds
+** Dealing River ** [ 5d ]
+mulusko checks
+markima checks
+mulusko shows [ 3h, 3c ]a pair of Threes.
+markima shows [ 9s, Kh ]a pair of Nines.
+markima wins $6.29 USD from the main pot with a pair of Nines.
+ Game #7936035536 starts.
+
+#Game No : 7936035536 
+***** Hand History for Game 7936035536 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:07:42 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $14.22 USD )
+Seat 3: markima ( $32.28 USD )
+Seat 2: mulusko ( $2.24 USD )
+Seat 4: pkrOD ( $19.51 USD )
+Seat 5: staples224 ( $12.38 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 6h ]
+mulusko calls [$0.25 USD]
+markima calls [$0.25 USD]
+pkrOD folds
+staples224 calls [$0.25 USD]
+Stanley1212 calls [$0.15 USD]
+hahnov checks
+** Dealing Flop ** [ Tc, Td, 9c ]
+Stanley1212 checks
+hahnov checks
+mulusko checks
+markima checks
+staples224 bets [$0.89 USD]
+Stanley1212 folds
+hahnov folds
+mulusko calls [$0.89 USD]
+markima folds
+** Dealing Turn ** [ 3h ]
+mulusko is all-In  [$1.10 USD]
+staples224 calls [$1.10 USD]
+** Dealing River ** [ 5h ]
+mulusko shows [ 8s, 9d ]two pairs, Tens and Nines.
+staples224 shows [ Ts, As ]three of a kind, Tens.
+staples224 wins $4.97 USD from the main pot with three of a kind, Tens.
+ Game #7936040583 starts.
+
+#Game No : 7936040583 
+***** Hand History for Game 7936040583 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:09:09 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 1: hahnov ( $13.97 USD )
+Seat 3: markima ( $32.03 USD )
+Seat 2: mulusko ( $0 USD )
+Seat 4: pkrOD ( $19.51 USD )
+Seat 5: staples224 ( $15.11 USD )
+hahnov posts small blind [$0.10 USD].
+markima posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 2d ]
+mulusko has left the table.
+pkrOD folds
+bl63hx9s has joined the table.
+staples224 folds
+Stanley1212 folds
+hahnov folds
+markima does not show cards.
+markima wins $0.35 USD
+ Game #7936041453 starts.
+
+#Game No : 7936041453 
+***** Hand History for Game 7936041453 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:09:24 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 1: hahnov ( $13.87 USD )
+Seat 3: markima ( $32.13 USD )
+Seat 4: pkrOD ( $19.51 USD )
+Seat 5: staples224 ( $15.11 USD )
+markima posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 3s ]
+staples224 folds
+Stanley1212 folds
+hahnov folds
+markima calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 7s, Ts, 3d ]
+markima checks
+pkrOD bets [$0.45 USD]
+markima folds
+pkrOD does not show cards.
+pkrOD wins $0.93 USD
+staples224 has left the table.
+ Game #7936044072 starts.
+
+#Game No : 7936044072 
+***** Hand History for Game 7936044072 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:10:12 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 1: hahnov ( $13.87 USD )
+Seat 3: markima ( $31.88 USD )
+Seat 4: pkrOD ( $19.74 USD )
+pkrOD posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd Qs ]
+hahnov calls [$0.25 USD]
+markima folds
+pkrOD raises [$1.10 USD]
+Stanley1212 folds
+hahnov calls [$0.95 USD]
+** Dealing Flop ** [ 7h, Ts, 6c ]
+pkrOD bets [$2.65 USD]
+hahnov folds
+pkrOD does not show cards.
+pkrOD wins $5.17 USD
+ Game #7936046622 starts.
+
+#Game No : 7936046622 
+***** Hand History for Game 7936046622 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:10:55 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 1: hahnov ( $12.67 USD )
+Seat 3: markima ( $31.88 USD )
+Seat 4: pkrOD ( $21.06 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Qc ]
+markima folds
+pkrOD calls [$0.25 USD]
+elk_master has joined the table.
+Stanley1212 folds
+hahnov checks
+** Dealing Flop ** [ 2s, 3d, Th ]
+hahnov checks
+pkrOD checks
+** Dealing Turn ** [ 6c ]
+hahnov bets [$0.57 USD]
+pkrOD calls [$0.57 USD]
+** Dealing River ** [ Ad ]
+hahnov checks
+pkrOD checks
+hahnov shows [ 9c, 9s ]a pair of Nines.
+pkrOD doesn't show [ 6d, Qc ]a pair of Sixes.
+hahnov wins $1.66 USD from the main pot with a pair of Nines.
+ Game #7936049287 starts.
+
+#Game No : 7936049287 
+***** Hand History for Game 7936049287 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:11:40 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $13.51 USD )
+Seat 3: markima ( $31.88 USD )
+Seat 4: pkrOD ( $20.24 USD )
+hahnov posts small blind [$0.10 USD].
+bl63hx9s posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Th ]
+markima folds
+pkrOD calls [$0.25 USD]
+Stanley1212 folds
+hahnov folds
+bl63hx9s checks
+** Dealing Flop ** [ 3s, Ad, 9h ]
+bl63hx9s checks
+pkrOD bets [$0.99 USD]
+bl63hx9s folds
+pkrOD does not show cards.
+pkrOD wins $1.56 USD
+ Game #7936052352 starts.
+
+#Game No : 7936052352 
+***** Hand History for Game 7936052352 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:12:32 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.05 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $13.41 USD )
+Seat 3: markima ( $31.88 USD )
+Seat 4: pkrOD ( $20.56 USD )
+bl63hx9s posts small blind [$0.10 USD].
+markima posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Jh ]
+pkrOD raises [$1.50 USD]
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+markima folds
+pkrOD does not show cards.
+pkrOD wins $1.85 USD
+ Game #7936053309 starts.
+
+#Game No : 7936053309 
+***** Hand History for Game 7936053309 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:12:49 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $4.95 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $13.41 USD )
+Seat 3: markima ( $31.63 USD )
+Seat 4: pkrOD ( $20.91 USD )
+markima posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 9c ]
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+markima calls [$0.15 USD]
+pkrOD raises [$0.75 USD]
+markima calls [$0.75 USD]
+** Dealing Flop ** [ 5d, As, Th ]
+markima checks
+pkrOD bets [$1.50 USD]
+markima folds
+pkrOD does not show cards.
+pkrOD wins $3.40 USD
+ Game #7936055629 starts.
+
+#Game No : 7936055629 
+***** Hand History for Game 7936055629 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:13:28 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $4.95 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $13.41 USD )
+Seat 3: markima ( $30.63 USD )
+Seat 4: pkrOD ( $21.81 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h Qh ]
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+markima folds
+pkrOD folds
+elk_master does not show cards.
+elk_master wins $0.35 USD
+markima has left the table.
+ Game #7936056892 starts.
+
+#Game No : 7936056892 
+***** Hand History for Game 7936056892 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:13:51 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $4.95 USD )
+Seat 5: elk_master ( $25.10 USD )
+Seat 1: hahnov ( $13.41 USD )
+Seat 4: pkrOD ( $21.71 USD )
+elk_master posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 3c ]
+hahnov calls [$0.25 USD]
+Heitauer has joined the table.
+bl63hx9s folds
+pkrOD calls [$0.25 USD]
+elk_master folds
+Stanley1212 will be using his time bank for this hand.
+Stanley1212 checks
+** Dealing Flop ** [ 2h, 7h, 4d ]
+Stanley1212 checks
+hahnov checks
+pkrOD bets [$0.98 USD]
+Stanley1212 folds
+hahnov folds
+pkrOD does not show cards.
+pkrOD wins $1.79 USD
+ Game #7936061242 starts.
+
+#Game No : 7936061242 
+***** Hand History for Game 7936061242 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:15:04 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $4.95 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $13.16 USD )
+Seat 4: pkrOD ( $22.27 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c Jh ]
+bl63hx9s folds
+pkrOD folds
+elk_master raises [$0.75 USD]
+Stanley1212 folds
+hahnov folds
+elk_master does not show cards.
+elk_master wins $1.10 USD
+ Game #7936063310 starts.
+
+#Game No : 7936063310 
+***** Hand History for Game 7936063310 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:15:38 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.15 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $12.91 USD )
+Seat 4: pkrOD ( $22.27 USD )
+hahnov posts small blind [$0.10 USD].
+bl63hx9s posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 6h ]
+pkrOD folds
+elk_master folds
+Stanley1212 raises [$0.75 USD]
+hahnov folds
+bl63hx9s folds
+Stanley1212 does not show cards.
+Stanley1212 wins $1.10 USD
+ Game #7936065764 starts.
+
+#Game No : 7936065764 
+***** Hand History for Game 7936065764 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:16:21 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25.35 USD )
+Seat 2: bl63hx9s ( $4.90 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $12.81 USD )
+Seat 4: pkrOD ( $22.27 USD )
+bl63hx9s posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 3h ]
+pkrOD folds
+elk_master folds
+Stanley1212 folds
+hahnov folds
+bl63hx9s raises [$0.90 USD]
+Heitauer folds
+bl63hx9s does not show cards.
+bl63hx9s wins $1.25 USD
+ Game #7936068363 starts.
+
+#Game No : 7936068363 
+***** Hand History for Game 7936068363 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:17:04 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25.35 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $12.81 USD )
+Seat 4: pkrOD ( $22.27 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c 4s ]
+elk_master folds
+Stanley1212 raises [$0.75 USD]
+hahnov calls [$0.75 USD]
+bl63hx9s folds
+Heitauer folds
+pkrOD folds
+** Dealing Flop ** [ 3s, 2h, 9h ]
+Stanley1212 bets [$1.35 USD]
+hahnov calls [$1.35 USD]
+** Dealing Turn ** [ 3c ]
+Stanley1212 checks
+hahnov bets [$3.24 USD]
+Stanley1212 folds
+hahnov does not show cards.
+hahnov wins $7.57 USD
+ Game #7936070872 starts.
+
+#Game No : 7936070872 
+***** Hand History for Game 7936070872 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:17:47 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $15.04 USD )
+Seat 4: pkrOD ( $22.02 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd 8c ]
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+Heitauer raises [$1 USD]
+pkrOD folds
+elk_master folds
+Heitauer does not show cards.
+Heitauer wins $1.35 USD
+ Game #7936072110 starts.
+
+#Game No : 7936072110 
+***** Hand History for Game 7936072110 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:18:08 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25.10 USD )
+Seat 1: hahnov ( $15.04 USD )
+Seat 4: pkrOD ( $21.92 USD )
+elk_master posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 7c ]
+hahnov calls [$0.25 USD]
+bl63hx9s folds
+Heitauer folds
+pkrOD calls [$0.25 USD]
+elk_master calls [$0.15 USD]
+Stanley1212 checks
+** Dealing Flop ** [ Qd, 2s, 4s ]
+elk_master checks
+Stanley1212 checks
+hahnov bets [$0.25 USD]
+pkrOD folds
+elk_master folds
+Stanley1212 calls [$0.25 USD]
+** Dealing Turn ** [ 7s ]
+Stanley1212 checks
+hahnov bets [$0.75 USD]
+Stanley1212 folds
+hahnov does not show cards.
+hahnov wins $2.18 USD
+ Game #7936077012 starts.
+
+#Game No : 7936077012 
+***** Hand History for Game 7936077012 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:19:32 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $15.97 USD )
+Seat 4: pkrOD ( $21.67 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 7c ]
+bl63hx9s folds
+Heitauer folds
+pkrOD folds
+elk_master folds
+Stanley1212 raises [$0.65 USD]
+hahnov calls [$0.50 USD]
+** Dealing Flop ** [ 9h, 5c, Jc ]
+Stanley1212 bets [$1 USD]
+hahnov folds
+Stanley1212 does not show cards.
+Stanley1212 wins $2.43 USD
+ Game #7936078949 starts.
+
+#Game No : 7936078949 
+***** Hand History for Game 7936078949 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:20:06 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $15.22 USD )
+Seat 4: pkrOD ( $21.67 USD )
+hahnov posts small blind [$0.10 USD].
+bl63hx9s posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h As ]
+Heitauer raises [$1 USD]
+pkrOD folds
+elk_master folds
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+Heitauer does not show cards.
+Heitauer wins $1.35 USD
+ Game #7936080550 starts.
+
+#Game No : 7936080550 
+***** Hand History for Game 7936080550 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:20:35 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.70 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.40 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $15.12 USD )
+Seat 4: pkrOD ( $21.67 USD )
+bl63hx9s posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 6c ]
+pkrOD calls [$0.25 USD]
+elk_master folds
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+Heitauer checks
+** Dealing Flop ** [ 3h, Td, 2d ]
+Heitauer checks
+pkrOD bets [$5 USD]
+Heitauer folds
+pkrOD does not show cards.
+pkrOD wins $5.57 USD
+ Game #7936083366 starts.
+
+#Game No : 7936083366 
+***** Hand History for Game 7936083366 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:21:05 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.45 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $15.12 USD )
+Seat 4: pkrOD ( $21.99 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 8h ]
+elk_master folds
+Stanley1212 folds
+hahnov folds
+bl63hx9s folds
+Heitauer folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #7936084663 starts.
+
+#Game No : 7936084663 
+***** Hand History for Game 7936084663 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:21:28 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $15.12 USD )
+Seat 4: pkrOD ( $22.09 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 4s ]
+Stanley1212 folds
+hahnov folds
+bl63hx9s raises [$1 USD]
+Heitauer folds
+pkrOD folds
+elk_master folds
+bl63hx9s does not show cards.
+bl63hx9s wins $1.35 USD
+ Game #7936085771 starts.
+
+#Game No : 7936085771 
+***** Hand History for Game 7936085771 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:21:48 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $15.12 USD )
+Seat 4: pkrOD ( $21.99 USD )
+elk_master posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 6c ]
+hahnov calls [$0.25 USD]
+bl63hx9s folds
+Heitauer folds
+pkrOD raises [$1 USD]
+elk_master folds
+Stanley1212 folds
+hahnov folds
+pkrOD does not show cards.
+pkrOD wins $1.60 USD
+ Game #7936088039 starts.
+
+#Game No : 7936088039 
+***** Hand History for Game 7936088039 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:22:27 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25.43 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $14.87 USD )
+Seat 4: pkrOD ( $22.59 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 9d ]
+bl63hx9s folds
+Heitauer folds
+pkrOD folds
+elk_master folds
+Stanley1212 raises [$0.65 USD]
+hahnov folds
+Stanley1212 does not show cards.
+Stanley1212 wins $1 USD
+ Game #7936090067 starts.
+
+#Game No : 7936090067 
+***** Hand History for Game 7936090067 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:23:01 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.65 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $14.62 USD )
+Seat 4: pkrOD ( $22.59 USD )
+hahnov posts small blind [$0.10 USD].
+bl63hx9s posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d 3h ]
+Heitauer folds
+pkrOD folds
+elk_master raises [$1 USD]
+Stanley1212 folds
+hahnov raises [$1.65 USD]
+bl63hx9s folds
+elk_master calls [$0.75 USD]
+** Dealing Flop ** [ Jc, 7h, 6c ]
+hahnov bets [$3.57 USD]
+elk_master folds
+hahnov does not show cards.
+hahnov wins $7.14 USD
+ Game #7936093869 starts.
+
+#Game No : 7936093869 
+***** Hand History for Game 7936093869 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:23:56 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.40 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $16.44 USD )
+Seat 4: pkrOD ( $22.59 USD )
+bl63hx9s posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s Jh ]
+pkrOD folds
+elk_master raises [$1 USD]
+Stanley1212 folds
+hahnov calls [$1 USD]
+bl63hx9s folds
+Heitauer folds
+** Dealing Flop ** [ 4d, 8c, 4c ]
+elk_master bets [$1.25 USD]
+hahnov calls [$1.25 USD]
+** Dealing Turn ** [ 8s ]
+elk_master checks
+hahnov checks
+** Dealing River ** [ Kc ]
+elk_master checks
+hahnov bets [$4.61 USD]
+elk_master folds
+hahnov does not show cards.
+hahnov wins $9.22 USD
+ Game #7936098462 starts.
+
+#Game No : 7936098462 
+***** Hand History for Game 7936098462 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:25:01 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.10 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $18.80 USD )
+Seat 4: pkrOD ( $22.59 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 3c ]
+elk_master folds
+Stanley1212 folds
+hahnov calls [$0.25 USD]
+bl63hx9s folds
+Heitauer folds
+pkrOD checks
+** Dealing Flop ** [ 3s, 7h, Kc ]
+pkrOD checks
+hahnov checks
+** Dealing Turn ** [ 8h ]
+pkrOD checks
+hahnov checks
+** Dealing River ** [ 9s ]
+pkrOD checks
+hahnov checks
+pkrOD shows [ Js, 3c ]a pair of Threes.
+hahnov shows [ 6d, 7d ]a pair of Sevens.
+hahnov wins $0.57 USD from the main pot with a pair of Sevens.
+ Game #7936102657 starts.
+
+#Game No : 7936102657 
+***** Hand History for Game 7936102657 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:26:01 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $19.12 USD )
+Seat 4: pkrOD ( $22.34 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Jc ]
+Stanley1212 raises [$0.75 USD]
+hahnov folds
+bl63hx9s folds
+Heitauer folds
+pkrOD folds
+elk_master folds
+Stanley1212 does not show cards.
+Stanley1212 wins $1.10 USD
+ Game #7936104236 starts.
+
+#Game No : 7936104236 
+***** Hand History for Game 7936104236 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:26:24 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $26.03 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $19.12 USD )
+Seat 4: pkrOD ( $22.24 USD )
+elk_master posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td Jd ]
+hahnov folds
+bl63hx9s folds
+Heitauer folds
+pkrOD raises [$1 USD]
+elk_master folds
+Stanley1212 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936105997 starts.
+
+#Game No : 7936105997 
+***** Hand History for Game 7936105997 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:26:50 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25.78 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 1: hahnov ( $19.12 USD )
+Seat 4: pkrOD ( $22.59 USD )
+Stanley1212 posts small blind [$0.10 USD].
+hahnov posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 3d ]
+bl63hx9s folds
+Heitauer folds
+pkrOD folds
+elk_master raises [$0.75 USD]
+Stanley1212 folds
+hahnov folds
+elk_master does not show cards.
+elk_master wins $1.10 USD
+ Game #7936107892 starts.
+
+#Game No : 7936107892 
+***** Hand History for Game 7936107892 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:27:16 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25.68 USD )
+Seat 2: bl63hx9s ( $5.30 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $18.87 USD )
+Seat 4: pkrOD ( $22.59 USD )
+hahnov posts small blind [$0.10 USD].
+bl63hx9s posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 9h ]
+Heitauer folds
+pkrOD folds
+elk_master folds
+Stanley1212 raises [$0.75 USD]
+hahnov folds
+bl63hx9s folds
+Stanley1212 does not show cards.
+Stanley1212 wins $1.10 USD
+ Game #7936109777 starts.
+
+#Game No : 7936109777 
+***** Hand History for Game 7936109777 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:27:43 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $26.03 USD )
+Seat 2: bl63hx9s ( $5.05 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $18.77 USD )
+Seat 4: pkrOD ( $22.59 USD )
+bl63hx9s posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 3s ]
+pkrOD folds
+elk_master folds
+Stanley1212 raises [$0.75 USD]
+hahnov folds
+bl63hx9s raises [$2.49 USD]
+Heitauer folds
+Stanley1212 raises [$4.25 USD]
+bl63hx9s is all-In  [$2.46 USD]
+Stanley1212 calls [$0.05 USD]
+** Dealing Flop ** [ 3d, 5h, 3c ]
+** Dealing Turn ** [ Js ]
+** Dealing River ** [ Kh ]
+Stanley1212 shows [ Kd, Qd ]two pairs, Kings and Threes.
+bl63hx9s shows [ Jc, Jh ]a full house, Jacks full of Threes.
+bl63hx9s wins $9.84 USD from the main pot with a full house, Jacks full of Threes.
+ Game #7936112675 starts.
+
+#Game No : 7936112675 
+***** Hand History for Game 7936112675 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:28:25 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $9.84 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $18.77 USD )
+Seat 4: pkrOD ( $22.59 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 9h ]
+elk_master folds
+Stanley1212 folds
+hahnov calls [$0.25 USD]
+bl63hx9s folds
+Heitauer calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 6h, 8s, Ts ]
+Heitauer checks
+pkrOD checks
+hahnov bets [$0.25 USD]
+Heitauer calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ 4s ]
+Heitauer checks
+pkrOD checks
+hahnov checks
+** Dealing River ** [ 4c ]
+Heitauer bets [$1.43 USD]
+pkrOD folds
+hahnov folds
+Heitauer does not show cards.
+Heitauer wins $2.86 USD
+ Game #7936118589 starts.
+
+#Game No : 7936118589 
+***** Hand History for Game 7936118589 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:29:52 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.93 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $9.84 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 1: hahnov ( $18.27 USD )
+Seat 4: pkrOD ( $22.09 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d Jc ]
+Stanley1212 folds
+hahnov folds
+bl63hx9s raises [$1 USD]
+Heitauer folds
+pkrOD folds
+elk_master folds
+bl63hx9s does not show cards.
+bl63hx9s wins $1.35 USD
+ Game #7936120459 starts.
+
+#Game No : 7936120459 
+***** Hand History for Game 7936120459 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:30:20 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.93 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $10.19 USD )
+Seat 5: elk_master ( $25.10 USD )
+Seat 1: hahnov ( $18.27 USD )
+Seat 4: pkrOD ( $21.99 USD )
+elk_master posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h Jd ]
+hahnov folds
+bl63hx9s folds
+Heitauer folds
+pkrOD calls [$0.25 USD]
+elk_master folds
+Stanley1212 checks
+** Dealing Flop ** [ Qs, 5s, 3d ]
+Stanley1212 checks
+pkrOD bets [$0.50 USD]
+Stanley1212 folds
+pkrOD does not show cards.
+pkrOD wins $1.07 USD
+hahnov has left the table.
+ Game #7936124246 starts.
+
+#Game No : 7936124246 
+***** Hand History for Game 7936124246 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:31:17 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25.93 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 2: bl63hx9s ( $10.19 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $22.31 USD )
+Stanley1212 posts small blind [$0.10 USD].
+bl63hx9s is sitting out
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac Kd ]
+bl63hx9s has left the table.
+pkrOD raises [$1 USD]
+elk_master folds
+Stanley1212 folds
+Heitauer folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936125508 starts.
+
+#Game No : 7936125508 
+***** Hand History for Game 7936125508 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:31:36 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 4 
+Seat 3: Heitauer ( $25.68 USD )
+Seat 6: Stanley1212 ( $25 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $22.66 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 9h ]
+elk_master folds
+Stanley1212 raises [$0.75 USD]
+Heitauer folds
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ 2s, Jc, 4c ]
+JONASSAG has joined the table.
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD bets [$1 USD]
+Stanley1212 calls [$1 USD]
+** Dealing Turn ** [ Kh ]
+pkrOD checks
+Stanley1212 bets [$2.50 USD]
+pkrOD folds
+Stanley1212 does not show cards.
+Stanley1212 wins $5.92 USD
+ Game #7936130921 starts.
+
+#Game No : 7936130921 
+***** Hand History for Game 7936130921 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:32:58 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25.58 USD )
+Seat 2: JONASSAG ( $25 USD )
+Seat 6: Stanley1212 ( $26.67 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.91 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+JONASSAG posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 5s ]
+Stanley1212 folds
+JONASSAG checks
+Heitauer calls [$0.25 USD]
+pkrOD folds
+elk_master checks
+** Dealing Flop ** [ 4s, Jh, Th ]
+elk_master bets [$0.81 USD]
+JONASSAG calls [$0.81 USD]
+Heitauer calls [$0.81 USD]
+** Dealing Turn ** [ 5d ]
+elk_master checks
+JONASSAG checks
+Heitauer checks
+** Dealing River ** [ Ks ]
+elk_master checks
+JONASSAG bets [$0.75 USD]
+Heitauer folds
+elk_master folds
+JONASSAG does not show cards.
+JONASSAG wins $3.87 USD
+ Game #7936136722 starts.
+
+#Game No : 7936136722 
+***** Hand History for Game 7936136722 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:34:27 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Stanley1212 ( $26.67 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.81 USD )
+elk_master posts small blind [$0.10 USD].
+Stanley1212 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh Js ]
+JONASSAG folds
+Heitauer folds
+pkrOD raises [$1 USD]
+elk_master folds
+Stanley1212 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #7936139332 starts.
+
+#Game No : 7936139332 
+***** Hand History for Game 7936139332 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:35:08 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Stanley1212 ( $26.42 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $21.16 USD )
+Stanley1212 posts small blind [$0.10 USD].
+JONASSAG is sitting out
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Kd ]
+elk_master folds
+Stanley1212 raises [$0.65 USD]
+pkrOD folds
+Stanley1212 does not show cards.
+Stanley1212 wins $1 USD
+ Game #7936142390 starts.
+
+#Game No : 7936142390 
+***** Hand History for Game 7936142390 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:35:55 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Stanley1212 ( $26.67 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.91 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Jc ]
+Stanley1212 raises [$0.75 USD]
+pkrOD folds
+elk_master folds
+Stanley1212 does not show cards.
+Stanley1212 wins $1.10 USD
+ Game #7936143711 starts.
+
+#Game No : 7936143711 
+***** Hand History for Game 7936143711 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:36:15 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Stanley1212 ( $27.02 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.81 USD )
+elk_master posts small blind [$0.10 USD].
+JONASSAG posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 4s ]
+pkrOD folds
+Stanley1212 has left the table.
+elk_master folds
+JONASSAG does not show cards.
+JONASSAG wins $0.35 USD
+ Game #7936145077 starts.
+
+#Game No : 7936145077 
+***** Hand History for Game 7936145077 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:36:36 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 4 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.16 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.81 USD )
+JONASSAG posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c 8d ]
+elk_master folds
+JONASSAG folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+Nichli has joined the table.
+ Game #7936146357 starts.
+
+#Game No : 7936146357 
+***** Hand History for Game 7936146357 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:36:56 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Nichli ( $5 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.91 USD )
+pkrOD posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s Jd ]
+JONASSAG folds
+pkrOD folds
+elk_master does not show cards.
+elk_master wins $0.35 USD
+ Game #7936147639 starts.
+
+#Game No : 7936147639 
+***** Hand History for Game 7936147639 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:37:15 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Nichli ( $5 USD )
+Seat 5: elk_master ( $25.10 USD )
+Seat 4: pkrOD ( $20.81 USD )
+elk_master posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c 2s ]
+JONASSAG folds
+pkrOD folds
+elk_master folds
+Nichli does not show cards.
+Nichli wins $0.35 USD
+ Game #7936148625 starts.
+
+#Game No : 7936148625 
+***** Hand History for Game 7936148625 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:37:31 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $27.06 USD )
+Seat 6: Nichli ( $5.10 USD )
+Seat 5: elk_master ( $25 USD )
+Seat 4: pkrOD ( $20.81 USD )
+Nichli posts small blind [$0.10 USD].
+JONASSAG posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 4s ]
+pkrOD folds
+elk_master raises [$0.75 USD]
+Nichli folds
+JONASSAG folds
+elk_master does not show cards.
+elk_master wins $1.10 USD
+ Game #7936150097 starts.
+
+#Game No : 7936150097 
+***** Hand History for Game 7936150097 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:37:54 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $26.81 USD )
+Seat 6: Nichli ( $5 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 4: pkrOD ( $20.81 USD )
+JONASSAG posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 3h ]
+elk_master folds
+Nichli calls [$0.25 USD]
+JONASSAG calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Jh, 8s, 2s ]
+JONASSAG checks
+pkrOD checks
+Nichli bets [$0.36 USD]
+JONASSAG calls [$0.36 USD]
+arrigator has joined the table.
+pkrOD folds
+** Dealing Turn ** [ 4h ]
+JONASSAG bets [$0.25 USD]
+Nichli calls [$0.25 USD]
+** Dealing River ** [ 5d ]
+JONASSAG bets [$0.75 USD]
+Nichli raises [$2.06 USD]
+JONASSAG folds
+Nichli does not show cards.
+Nichli wins $4.61 USD
+ Game #7936155583 starts.
+
+#Game No : 7936155583 
+***** Hand History for Game 7936155583 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:39:20 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $25.20 USD )
+Seat 6: Nichli ( $6.69 USD )
+Seat 1: arrigator ( $10 USD )
+Seat 5: elk_master ( $25.35 USD )
+Seat 4: pkrOD ( $20.56 USD )
+pkrOD posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+arrigator posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 9s ]
+elk_master has left the table.
+arrigator checks
+JONASSAG folds
+pkrOD calls [$0.15 USD]
+Nichli checks
+** Dealing Flop ** [ Ad, 5d, 3c ]
+pkrOD checks
+Nichli checks
+arrigator checks
+** Dealing Turn ** [ 4d ]
+pkrOD checks
+Nichli checks
+arrigator checks
+** Dealing River ** [ Jc ]
+pkrOD checks
+Nichli checks
+arrigator bets [$1 USD]
+pkrOD folds
+Nichli folds
+arrigator does not show cards.
+arrigator wins $1.72 USD
+ Game #7936160422 starts.
+
+#Game No : 7936160422 
+***** Hand History for Game 7936160422 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:40:37 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 2: JONASSAG ( $25.20 USD )
+Seat 6: Nichli ( $6.44 USD )
+Seat 1: arrigator ( $10.47 USD )
+Seat 4: pkrOD ( $20.31 USD )
+Nichli posts small blind [$0.10 USD].
+arrigator posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 8s ]
+JONASSAG folds
+pkrOD folds
+Nichli folds
+arrigator does not show cards.
+arrigator wins $0.35 USD
+JONASSAG has left the table.
+ Game #7936162762 starts.
+
+#Game No : 7936162762 
+***** Hand History for Game 7936162762 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:41:13 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 4 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $6.34 USD )
+Seat 1: arrigator ( $10.57 USD )
+Seat 4: pkrOD ( $20.31 USD )
+arrigator posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 3h ]
+pkrOD folds
+Nichli folds
+arrigator calls [$0.15 USD]
+Heitauer checks
+** Dealing Flop ** [ Kd, Jh, Jc ]
+arrigator checks
+Heitauer checks
+** Dealing Turn ** [ Ac ]
+arrigator bets [$0.36 USD]
+binz87 has joined the table.
+Heitauer folds
+arrigator does not show cards.
+arrigator wins $0.84 USD
+ Game #7936166774 starts.
+
+#Game No : 7936166774 
+***** Hand History for Game 7936166774 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:42:16 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $6.34 USD )
+Seat 1: arrigator ( $10.80 USD )
+Seat 5: binz87 ( $5 USD )
+Seat 4: pkrOD ( $20.31 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+binz87 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s Jd ]
+binz87 checks
+Nichli folds
+arrigator calls [$0.25 USD]
+Heitauer folds
+pkrOD checks
+** Dealing Flop ** [ 4s, Kd, Ad ]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD checks
+binz87 checks
+arrigator checks
+** Dealing Turn ** [ 7s ]
+pkrOD checks
+binz87 bets [$0.25 USD]
+arrigator folds
+pkrOD folds
+binz87 does not show cards.
+binz87 wins $1.06 USD
+ Game #7936172012 starts.
+
+#Game No : 7936172012 
+***** Hand History for Game 7936172012 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:43:38 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $6.34 USD )
+Seat 1: arrigator ( $10.55 USD )
+Seat 5: binz87 ( $5.56 USD )
+Seat 4: pkrOD ( $20.06 USD )
+pkrOD posts small blind [$0.10 USD].
+binz87 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs 4s ]
+Nichli calls [$0.25 USD]
+arrigator folds
+Heitauer folds
+pkrOD calls [$0.15 USD]
+binz87 checks
+** Dealing Flop ** [ 6h, Td, Tc ]
+pkrOD checks
+binz87 checks
+Nichli checks
+** Dealing Turn ** [ Qh ]
+pkrOD checks
+binz87 checks
+Nichli bets [$0.36 USD]
+pkrOD calls [$0.36 USD]
+binz87 calls [$0.36 USD]
+** Dealing River ** [ 3d ]
+pkrOD checks
+binz87 checks
+Nichli bets [$1.74 USD]
+pkrOD calls [$1.74 USD]
+binz87 folds
+Nichli shows [ 9h, 7h ]a pair of Tens.
+pkrOD shows [ Qs, 4s ]two pairs, Queens and Tens.
+pkrOD wins $5.05 USD from the main pot with two pairs, Queens and Tens.
+ Game #7936178374 starts.
+
+#Game No : 7936178374 
+***** Hand History for Game 7936178374 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:45:18 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $3.99 USD )
+Seat 1: arrigator ( $10.55 USD )
+Seat 5: binz87 ( $4.95 USD )
+Seat 4: pkrOD ( $22.76 USD )
+binz87 posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td Qs ]
+arrigator folds
+Heitauer folds
+pkrOD calls [$0.25 USD]
+binz87 raises [$0.40 USD]
+Nichli folds
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 2s, 8c, 6d ]
+binz87 bets [$1 USD]
+pkrOD folds
+binz87 does not show cards.
+binz87 wins $2.19 USD
+ Game #7936180402 starts.
+
+#Game No : 7936180402 
+***** Hand History for Game 7936180402 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:45:51 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $3.74 USD )
+Seat 1: arrigator ( $10.55 USD )
+Seat 5: binz87 ( $5.64 USD )
+Seat 4: pkrOD ( $22.26 USD )
+Nichli posts small blind [$0.10 USD].
+arrigator posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td Qd ]
+Heitauer folds
+pkrOD raises [$1 USD]
+binz87 calls [$1 USD]
+Nichli folds
+arrigator folds
+** Dealing Flop ** [ Ac, 4c, 7d ]
+pkrOD bets [$3.25 USD]
+binz87 is all-In  [$4.64 USD]
+pkrOD folds
+binz87 does not show cards.
+binz87 wins $9.80 USD
+elk_master has joined the table.
+ Game #7936183168 starts.
+
+#Game No : 7936183168 
+***** Hand History for Game 7936183168 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:46:34 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $3.64 USD )
+Seat 1: arrigator ( $10.30 USD )
+Seat 5: binz87 ( $9.80 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $18.01 USD )
+arrigator posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th As ]
+Heitauer folds
+pkrOD raises [$2 USD]
+binz87 folds
+Nichli folds
+arrigator folds
+elk_master folds
+pkrOD does not show cards.
+pkrOD wins $2.35 USD
+ Game #7936184931 starts.
+
+#Game No : 7936184931 
+***** Hand History for Game 7936184931 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:47:02 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $3.64 USD )
+Seat 1: arrigator ( $10.20 USD )
+Seat 5: binz87 ( $9.80 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $18.36 USD )
+elk_master posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 8c ]
+pkrOD calls [$0.25 USD]
+binz87 raises [$0.50 USD]
+Nichli calls [$0.50 USD]
+arrigator calls [$0.50 USD]
+elk_master folds
+Heitauer folds
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ Ts, Kd, 4c ]
+pkrOD checks
+binz87 bets [$0.75 USD]
+Nichli is all-In  [$3.14 USD]
+arrigator folds
+pkrOD folds
+binz87 calls [$2.39 USD]
+** Dealing Turn ** [ 4s ]
+** Dealing River ** [ 8h ]
+binz87 shows [ Qd, Kc ]two pairs, Kings and Fours.
+Nichli shows [ Qc, Kh ]two pairs, Kings and Fours.
+Nichli wins $4.10 USD from the main pot with two pairs, Kings and Fours.
+binz87 wins $4.10 USD from the main pot with two pairs, Kings and Fours.
+ Game #7936188638 starts.
+
+#Game No : 7936188638 
+***** Hand History for Game 7936188638 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:48:01 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $4.10 USD )
+Seat 1: arrigator ( $9.70 USD )
+Seat 5: binz87 ( $10.26 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $17.86 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 7d ]
+binz87 calls [$0.25 USD]
+Nichli folds
+arrigator folds
+elk_master folds
+Heitauer folds
+pkrOD checks
+** Dealing Flop ** [ Ah, Ts, 8h ]
+pkrOD checks
+binz87 bets [$0.50 USD]
+pkrOD raises [$3.75 USD]
+binz87 calls [$3.25 USD]
+** Dealing Turn ** [ 9d ]
+pkrOD bets [$7 USD]
+binz87 is all-In  [$6.26 USD]
+** Dealing River ** [ As ]
+pkrOD shows [ Kh, 7d ]a pair of Aces.
+binz87 shows [ Tc, 9s ]two pairs, Aces and Tens.
+pkrOD wins $0.74 USD from the side pot 1 with a pair of Aces.
+binz87 wins $19.59 USD from the main pot with two pairs, Aces and Tens.
+ Game #7936192044 starts.
+
+#Game No : 7936192044 
+***** Hand History for Game 7936192044 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:48:55 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $4.10 USD )
+Seat 1: arrigator ( $9.70 USD )
+Seat 5: binz87 ( $19.59 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $7.60 USD )
+pkrOD posts small blind [$0.10 USD].
+binz87 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts 6s ]
+Nichli folds
+arrigator folds
+elk_master folds
+Heitauer folds
+pkrOD calls [$0.15 USD]
+pkrOD: calling station
+pkrOD: sigh
+binz87 checks
+** Dealing Flop ** [ 8d, 6d, Qh ]
+pkrOD bets [$1 USD]
+binz87 folds
+pkrOD does not show cards.
+pkrOD wins $1.48 USD
+ Game #7936193991 starts.
+
+#Game No : 7936193991 
+***** Hand History for Game 7936193991 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:49:27 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $4.10 USD )
+Seat 1: arrigator ( $9.70 USD )
+Seat 5: binz87 ( $19.34 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $7.83 USD )
+binz87 posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh Td ]
+arrigator folds
+elk_master folds
+Heitauer folds
+pkrOD calls [$0.25 USD]
+binz87 calls [$0.15 USD]
+Nichli checks
+** Dealing Flop ** [ Ts, As, 4c ]
+binz87 bets [$0.75 USD]
+Nichli folds
+pkrOD raises [$5 USD]
+binz87 calls [$4.25 USD]
+** Dealing Turn ** [ 7d ]
+binz87: ur dumb
+binz87 bets [$5 USD]
+pkrOD is all-In  [$2.58 USD]
+** Dealing River ** [ Tc ]
+binz87 shows [ 5c, Ac ]two pairs, Aces and Tens.
+pkrOD shows [ Kh, Td ]three of a kind, Tens.
+binz87 wins $2.42 USD from the side pot 1 with two pairs, Aces and Tens.
+pkrOD wins $15.12 USD from the main pot with three of a kind, Tens.
+ Game #7936198074 starts.
+
+#Game No : 7936198074 
+***** Hand History for Game 7936198074 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:50:31 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $3.85 USD )
+Seat 1: arrigator ( $9.70 USD )
+Seat 5: binz87 ( $11.51 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $15.12 USD )
+Nichli posts small blind [$0.10 USD].
+arrigator posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 5d ]
+elk_master raises [$1 USD]
+Heitauer folds
+pkrOD: shame
+pkrOD calls [$1 USD]
+binz87 folds
+Nichli calls [$0.90 USD]
+arrigator calls [$0.75 USD]
+** Dealing Flop ** [ 3d, Qc, 4d ]
+Nichli checks
+arrigator bets [$2 USD]
+elk_master raises [$4.50 USD]
+pkrOD calls [$4.50 USD]
+Nichli folds
+arrigator calls [$2.50 USD]
+** Dealing Turn ** [ 7s ]
+arrigator checks
+elk_master bets [$10 USD]
+pkrOD is all-In  [$9.62 USD]
+arrigator is all-In  [$4.20 USD]
+** Dealing River ** [ 8d ]
+elk_master shows [ Qh, Ah ]a pair of Queens.
+pkrOD shows [ 6d, 5d ]a flush, Eight high.
+arrigator doesn't show [ Qd, Kh ]a pair of Queens.
+elk_master wins $0.38 USD from the side pot 2 with a pair of Queens with Ace kicker.
+pkrOD wins $10.30 USD from the side pot 1 with a flush, Eight high.
+pkrOD wins $28.60 USD from the main pot with a flush, Eight high.
+binz87 has left the table.
+ Game #7936203324 starts.
+
+#Game No : 7936203324 
+***** Hand History for Game 7936203324 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:51:54 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $2.85 USD )
+Seat 1: arrigator ( $0 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $38.90 USD )
+elk_master posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 6h ]
+pkrOD calls [$0.25 USD]
+arrigator has left the table.
+Nichli folds
+elk_master folds
+Heitauer checks
+** Dealing Flop ** [ 3h, 3s, 6s ]
+pkrOD: u had no chance
+Heitauer checks
+pkrOD bets [$6 USD]
+Heitauer folds
+pkrOD does not show cards.
+pkrOD wins $6.57 USD
+ Game #7936204991 starts.
+
+#Game No : 7936204991 
+***** Hand History for Game 7936204991 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:52:21 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 4 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $2.85 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 4: pkrOD ( $39.22 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 5s ]
+Nichli folds
+elk_master folds
+Heitauer folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+fr34ked has joined the table.
+ Game #7936205477 starts.
+
+#Game No : 7936205477 
+***** Hand History for Game 7936205477 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:52:29 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $2.85 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $10.21 USD )
+Seat 4: pkrOD ( $39.32 USD )
+pkrOD posts small blind [$0.10 USD].
+fr34ked posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 4d ]
+Nichli folds
+elk_master folds
+Heitauer folds
+pkrOD raises [$0.40 USD]
+fr34ked folds
+pkrOD does not show cards.
+pkrOD wins $0.75 USD
+ Game #7936206221 starts.
+
+#Game No : 7936206221 
+***** Hand History for Game 7936206221 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:52:40 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $2.85 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $9.96 USD )
+Seat 4: pkrOD ( $39.57 USD )
+fr34ked posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s Ts ]
+elk_master folds
+Heitauer raises [$1 USD]
+pkrOD folds
+fr34ked folds
+Nichli folds
+Heitauer does not show cards.
+Heitauer wins $1.35 USD
+ Game #7936207639 starts.
+
+#Game No : 7936207639 
+***** Hand History for Game 7936207639 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:53:03 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Nichli ( $2.60 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $9.86 USD )
+Seat 4: pkrOD ( $39.57 USD )
+Nichli posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Qs ]
+Heitauer folds
+pkrOD calls [$0.25 USD]
+fr34ked calls [$0.25 USD]
+Nichli calls [$0.15 USD]
+elk_master checks
+** Dealing Flop ** [ 2c, Ts, 7d ]
+Nichli checks
+elk_master checks
+pkrOD checks
+fr34ked bets [$0.75 USD]
+Nichli folds
+elk_master folds
+pkrOD folds
+fr34ked does not show cards.
+fr34ked wins $1.70 USD
+ Game #7936210233 starts.
+
+#Game No : 7936210233 
+***** Hand History for Game 7936210233 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:53:46 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Nichli ( $2.35 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $10.56 USD )
+Seat 4: pkrOD ( $39.32 USD )
+elk_master posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d 4h ]
+pkrOD raises [$0.50 USD]
+fr34ked raises [$1 USD]
+Nichli folds
+elk_master calls [$0.90 USD]
+Heitauer folds
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ 3d, Jd, 2c ]
+elk_master checks
+pkrOD bets [$9 USD]
+fr34ked is all-In  [$9.56 USD]
+elk_master folds
+pkrOD calls [$0.56 USD]
+** Dealing Turn ** [ 7c ]
+** Dealing River ** [ 5s ]
+pkrOD shows [ 5d, 4h ]a pair of Fives.
+fr34ked shows [ Ad, Ac ]a pair of Aces.
+fr34ked wins $21.26 USD from the main pot with a pair of Aces.
+ Game #7936213666 starts.
+
+#Game No : 7936213666 
+***** Hand History for Game 7936213666 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:54:42 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25.10 USD )
+Seat 6: Nichli ( $2.35 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $21.26 USD )
+Seat 4: pkrOD ( $28.76 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c Ac ]
+fr34ked calls [$0.25 USD]
+Nichli is all-In  [$2.35 USD]
+elk_master folds
+Heitauer folds
+pkrOD calls [$2.10 USD]
+fr34ked folds
+** Dealing Flop ** [ Js, 8h, 2s ]
+** Dealing Turn ** [ 7c ]
+** Dealing River ** [ 2h ]
+pkrOD shows [ 5c, Ac ]a pair of Twos.
+Nichli shows [ Kc, As ]a pair of Twos with King kicker.
+Nichli wins $4.80 USD from the main pot with a pair of Twos with King kicker.
+ Game #7936215852 starts.
+
+#Game No : 7936215852 
+***** Hand History for Game 7936215852 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:55:17 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $4.80 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $21.01 USD )
+Seat 4: pkrOD ( $26.41 USD )
+pkrOD posts small blind [$0.10 USD].
+fr34ked posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 8d ]
+Nichli calls [$0.25 USD]
+elk_master folds
+mck8884 has joined the table.
+Heitauer folds
+pkrOD folds
+fr34ked checks
+** Dealing Flop ** [ Ts, 4h, 4c ]
+fr34ked bets [$0.50 USD]
+Nichli calls [$0.50 USD]
+** Dealing Turn ** [ 7d ]
+fr34ked bets [$0.75 USD]
+Nichli folds
+fr34ked does not show cards.
+fr34ked wins $2.27 USD
+ Game #7936218567 starts.
+
+#Game No : 7936218567 
+***** Hand History for Game 7936218567 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:56:02 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25 USD )
+Seat 6: Nichli ( $4.05 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $21.78 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $26.31 USD )
+fr34ked posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 3c ]
+elk_master folds
+Heitauer raises [$1 USD]
+pkrOD folds
+fr34ked folds
+Nichli folds
+Heitauer does not show cards.
+Heitauer wins $1.35 USD
+ Game #7936220336 starts.
+
+#Game No : 7936220336 
+***** Hand History for Game 7936220336 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:56:31 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Nichli ( $3.80 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $21.68 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $26.31 USD )
+Nichli posts small blind [$0.10 USD].
+mck8884 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d Ah ]
+elk_master folds
+Heitauer folds
+pkrOD raises [$1 USD]
+fr34ked calls [$1 USD]
+Nichli folds
+mck8884 folds
+** Dealing Flop ** [ 8c, 5c, Th ]
+pkrOD bets [$2 USD]
+fr34ked raises [$4.50 USD]
+pkrOD is all-In  [$23.31 USD]
+fr34ked is all-In  [$16.18 USD]
+** Dealing Turn ** [ 8d ]
+** Dealing River ** [ 6d ]
+fr34ked shows [ 9d, 8s ]three of a kind, Eights.
+pkrOD shows [ 5d, Ah ]two pairs, Eights and Fives.
+pkrOD wins $4.63 USD from the side pot 1 with two pairs, Eights and Fives.
+fr34ked wins $41.53 USD from the main pot with three of a kind, Eights.
+ Game #7936224442 starts.
+
+#Game No : 7936224442 
+***** Hand History for Game 7936224442 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:57:39 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.35 USD )
+Seat 6: Nichli ( $3.70 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $41.53 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $4.63 USD )
+mck8884 posts small blind [$0.10 USD].
+elk_master posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 3c ]
+pkrOD: what ever
+Heitauer raises [$1 USD]
+pkrOD folds
+fr34ked calls [$1 USD]
+pkrOD: pml
+Nichli folds
+pkrOD: doucher
+mck8884 folds
+elk_master folds
+** Dealing Flop ** [ Td, 3s, 2s ]
+pkrOD: what a pain in the hole
+Heitauer bets [$1.68 USD]
+fr34ked calls [$1.68 USD]
+** Dealing Turn ** [ 6s ]
+Heitauer checks
+fr34ked checks
+** Dealing River ** [ 2h ]
+Heitauer checks
+fr34ked checks
+Heitauer shows [ Ac, Qh ]a pair of Twos with Ace kicker.
+fr34ked shows [ 8d, Kh ]a pair of Twos.
+Heitauer wins $5.43 USD from the main pot with a pair of Twos with Ace kicker.
+ Game #7936228632 starts.
+
+#Game No : 7936228632 
+***** Hand History for Game 7936228632 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:58:49 BST 2009
+Table Table  127874 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $28.10 USD )
+Seat 6: Nichli ( $3.70 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $38.85 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $4.63 USD )
+elk_master posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 6s ]
+pkrOD folds
+fr34ked calls [$0.25 USD]
+Nichli calls [$0.25 USD]
+mck8884 folds
+elk_master folds
+Heitauer raises [$1.25 USD]
+fr34ked calls [$1.25 USD]
+Nichli calls [$1.25 USD]
+** Dealing Flop ** [ 3c, 7h, 9d ]
+Heitauer checks
+fr34ked bets [$1 USD]
+Nichli calls [$1 USD]
+Heitauer folds
+** Dealing Turn ** [ 9s ]
+fr34ked bets [$1 USD]
+Nichli is all-In  [$1.20 USD]
+fr34ked calls [$0.20 USD]
+** Dealing River ** [ Qs ]
+fr34ked shows [ 6c, Tc ]a pair of Nines.
+Nichli shows [ 3d, 3h ]a full house, Threes full of Nines.
+Nichli wins $8.55 USD from the main pot with a full house, Threes full of Nines.
+ Game #7936232142 starts.
+
+#Game No : 7936232142 
+***** Hand History for Game 7936232142 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:59:48 BST 2009
+Table Table  127874 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $26.60 USD )
+Seat 6: Nichli ( $8.55 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $35.15 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $4.63 USD )
+Heitauer posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Ad ]
+fr34ked folds
+Nichli folds
+mck8884 folds
+elk_master folds
+Heitauer raises [$0.90 USD]
+pkrOD is all-In  [$4.38 USD]
+Heitauer folds
+pkrOD does not show cards.
+pkrOD wins $5.63 USD
+ Game #7936233239 starts.
+
+#Game No : 7936233239 
+***** Hand History for Game 7936233239 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:00:06 BST 2009
+Table Table  127874 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.60 USD )
+Seat 6: Nichli ( $8.55 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $35.15 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $5.63 USD )
+pkrOD posts small blind [$0.10 USD].
+fr34ked posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 6h ]
+Nichli folds
+mck8884 folds
+elk_master raises [$1 USD]
+Heitauer folds
+pkrOD folds
+fr34ked calls [$0.75 USD]
+** Dealing Flop ** [ Td, 3c, 7h ]
+fr34ked checks
+elk_master bets [$1.25 USD]
+fr34ked folds
+elk_master does not show cards.
+elk_master wins $3.25 USD
+ Game #7936235058 starts.
+
+#Game No : 7936235058 
+***** Hand History for Game 7936235058 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:00:36 BST 2009
+Table Table  127874 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.60 USD )
+Seat 6: Nichli ( $8.55 USD )
+Seat 2: elk_master ( $26 USD )
+Seat 5: fr34ked ( $34.15 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $5.53 USD )
+fr34ked posts small blind [$0.10 USD].
+Nichli posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th Ts ]
+mck8884 raises [$1 USD]
+elk_master calls [$1 USD]
+Heitauer folds
+pkrOD raises [$5 USD]
+fr34ked folds
+Nichli folds
+mck8884 folds
+elk_master folds
+pkrOD does not show cards.
+pkrOD wins $7.35 USD
+ Game #7936237104 starts.
+
+#Game No : 7936237104 
+***** Hand History for Game 7936237104 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:01:12 BST 2009
+Table Table  127874 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 3: Heitauer ( $25.60 USD )
+Seat 6: Nichli ( $8.30 USD )
+Seat 2: elk_master ( $25 USD )
+Seat 5: fr34ked ( $34.05 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $7.88 USD )
+Nichli posts small blind [$0.10 USD].
+mck8884 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 9h ]
+elk_master folds
+Heitauer raises [$1 USD]
+pkrOD calls [$1 USD]
+fr34ked calls [$1 USD]
+Nichli folds
+mck8884 folds
+** Dealing Flop ** [ As, 3c, 4c ]
+Heitauer bets [$2.25 USD]
+pkrOD folds
+fr34ked folds
+Heitauer does not show cards.
+Heitauer wins $5.44 USD
+elk_master has left the table.
+ Game #7936240375 starts.
+
+#Game No : 7936240375 
+***** Hand History for Game 7936240375 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:02:06 BST 2009
+Table Table  127874 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 3: Heitauer ( $27.79 USD )
+Seat 6: Nichli ( $8.20 USD )
+Seat 5: fr34ked ( $33.05 USD )
+Seat 1: mck8884 ( $25 USD )
+Seat 4: pkrOD ( $6.88 USD )
+mck8884 posts small blind [$0.10 USD].
+Heitauer posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 6s ]
+pkrOD raises [$1 USD]
+fr34ked raises [$2 USD]
+Nichli calls [$2 USD]
+mck8884 folds
+Heitauer folds
+pkrOD calls [$1 USD]
+** Dealing Flop ** [ 9s, 6c, Jh ]
+pkrOD is all-In  [$4.88 USD]
+fr34ked calls [$4.88 USD]
+W8ZZARD has joined the table.
+Nichli folds
+** Dealing Turn ** [ 4s ]
+** Dealing River ** [ Ks ]
+pkrOD shows [ 6h, 6s ]three of a kind, Sixes.
+fr34ked shows [ As, Ts ]a flush, Ace high.
+fr34ked wins $15.31 USD from the main pot with a flush, Ace high.

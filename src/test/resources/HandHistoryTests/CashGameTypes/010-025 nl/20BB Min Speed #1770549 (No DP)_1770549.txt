@@ -1,0 +1,6008 @@
+Game #9546732299 starts.
+
+#Game No : 9546732299 
+***** Hand History for Game 9546732299 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:48:57 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 2/6 
+Seat 4: fejedelem86 ( $10 USD )
+Seat 3: pkrOD ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+fejedelem86 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 9c ]
+pkrOD raises [$0.40 USD]
+fejedelem86 calls [$0.25 USD]
+** Dealing Flop ** [ 2h, 3c, Jh ]
+fejedelem86 bets [$0.25 USD]
+Pivas has joined the table.
+pkrOD is all-In  [$9.50 USD]
+fejedelem86 folds
+pkrOD does not show cards.
+pkrOD wins $10.68 USD
+Badbol0204 has joined the table.
+ Game #9546733177 starts.
+
+#Game No : 9546733177 
+***** Hand History for Game 9546733177 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:49:16 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 4/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 6: Pivas ( $5 USD )
+Seat 4: fejedelem86 ( $9.25 USD )
+Seat 3: pkrOD ( $10.68 USD )
+pkrOD posts small blind [$0.10 USD].
+fejedelem86 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 3s ]
+pkrOD folds
+fejedelem86 does not show cards.
+fejedelem86 wins $0.35 USD
+ Game #9546733688 starts.
+
+#Game No : 9546733688 
+***** Hand History for Game 9546733688 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:49:26 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 4/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 6: Pivas ( $5 USD )
+Seat 4: fejedelem86 ( $9.35 USD )
+Seat 3: pkrOD ( $10.58 USD )
+fejedelem86 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 5s ]
+JoeBlack811 has joined the table.
+pkrOD raises [$1 USD]
+fejedelem86 folds
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546734480 starts.
+
+#Game No : 9546734480 
+***** Hand History for Game 9546734480 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:49:38 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 2: JoeBlack811 ( $10 USD )
+Seat 6: Pivas ( $4.75 USD )
+Seat 4: fejedelem86 ( $9.25 USD )
+Seat 3: pkrOD ( $10.93 USD )
+Pivas posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+JoeBlack811 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c Jc ]
+JoeBlack811 checks
+pkrOD raises [$0.50 USD]
+fejedelem86 folds
+Pivas folds
+Badbol0204 folds
+JoeBlack811 folds
+pkrOD does not show cards.
+pkrOD wins $1.10 USD
+ Game #9546735688 starts.
+
+#Game No : 9546735688 
+***** Hand History for Game 9546735688 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:49:59 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $9.75 USD )
+Seat 2: JoeBlack811 ( $9.75 USD )
+Seat 6: Pivas ( $4.65 USD )
+Seat 4: fejedelem86 ( $9.25 USD )
+Seat 3: pkrOD ( $11.53 USD )
+Badbol0204 posts small blind [$0.10 USD].
+JoeBlack811 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 2c ]
+pkrOD folds
+fejedelem86 calls [$0.25 USD]
+Pivas folds
+Badbol0204 folds
+JoeBlack811 checks
+** Dealing Flop ** [ 7h, 8h, 8d ]
+JoeBlack811 checks
+fejedelem86 bets [$0.42 USD]
+JoeBlack811 calls [$0.42 USD]
+** Dealing Turn ** [ Kh ]
+JoeBlack811 checks
+fejedelem86 bets [$0.68 USD]
+JoeBlack811 folds
+fejedelem86 does not show cards.
+fejedelem86 wins $2.05 USD
+ Game #9546737633 starts.
+
+#Game No : 9546737633 
+***** Hand History for Game 9546737633 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:50:31 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $9.65 USD )
+Seat 2: JoeBlack811 ( $9.08 USD )
+Seat 6: Pivas ( $4.65 USD )
+Seat 4: fejedelem86 ( $9.95 USD )
+Seat 3: pkrOD ( $11.53 USD )
+JoeBlack811 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks Th ]
+fejedelem86 calls [$0.25 USD]
+Pivas folds
+Badbol0204 calls [$0.25 USD]
+JoeBlack811 raises [$0.40 USD]
+pkrOD raises [$1.75 USD]
+fejedelem86 folds
+Badbol0204 folds
+JoeBlack811 raises [$6.50 USD]
+PBthiSthaT has joined the table.
+pkrOD folds
+JoeBlack811 does not show cards.
+JoeBlack811 wins $9.50 USD
+ Game #9546739811 starts.
+
+#Game No : 9546739811 
+***** Hand History for Game 9546739811 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:51:10 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.40 USD )
+Seat 2: JoeBlack811 ( $11.58 USD )
+Seat 5: PBthiSthaT ( $10 USD )
+Seat 6: Pivas ( $4.65 USD )
+Seat 4: fejedelem86 ( $9.70 USD )
+Seat 3: pkrOD ( $9.53 USD )
+pkrOD posts small blind [$0.10 USD].
+fejedelem86 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d Kd ]
+Pivas folds
+Badbol0204 raises [$0.75 USD]
+JoeBlack811 calls [$0.75 USD]
+pkrOD calls [$0.65 USD]
+fejedelem86 folds
+** Dealing Flop ** [ 2c, Jc, 8d ]
+pkrOD bets [$2 USD]
+Badbol0204 folds
+JoeBlack811 calls [$2 USD]
+** Dealing Turn ** [ 9h ]
+pkrOD checks
+JoeBlack811 checks
+** Dealing River ** [ 2h ]
+pkrOD bets [$2 USD]
+JoeBlack811 calls [$2 USD]
+pkrOD shows [ 7d, Kd ]a pair of Twos.
+JoeBlack811 shows [ Qc, Ks ]a pair of Twos with Queen kicker.
+JoeBlack811 wins $9.98 USD from the main pot with a pair of Twos with Queen kicker.
+fejedelem86 has left the table.
+ Game #9546742862 starts.
+
+#Game No : 9546742862 
+***** Hand History for Game 9546742862 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:52:01 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $8.65 USD )
+Seat 2: JoeBlack811 ( $16.81 USD )
+Seat 5: PBthiSthaT ( $10 USD )
+Seat 6: Pivas ( $4.65 USD )
+Seat 3: pkrOD ( $4.78 USD )
+Pivas posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd Ah ]
+JoeBlack811 calls [$0.25 USD]
+pkrOD raises [$1 USD]
+Pivas folds
+Badbol0204 calls [$0.75 USD]
+JoeBlack811 calls [$0.75 USD]
+** Dealing Flop ** [ Qs, 9s, Tc ]
+Badbol0204 checks
+JoeBlack811 checks
+pkrOD bets [$2 USD]
+Badbol0204 calls [$2 USD]
+JoeBlack811 calls [$2 USD]
+** Dealing Turn ** [ Kd ]
+Badbol0204 checks
+JoeBlack811 checks
+pkrOD checks
+** Dealing River ** [ Jh ]
+Badbol0204 checks
+hosse666 has joined the table.
+JoeBlack811 checks
+pkrOD is all-In  [$1.78 USD]
+Badbol0204 folds
+JoeBlack811 calls [$1.78 USD]
+JoeBlack811 shows [ 3c, Jc ]a straight, Nine to King.
+pkrOD shows [ Qd, Ah ]a straight, Ten to Ace.
+pkrOD wins $12.03 USD from the main pot with a straight, Ten to Ace.
+ Game #9546746740 starts.
+
+#Game No : 9546746740 
+***** Hand History for Game 9546746740 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:53:07 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.65 USD )
+Seat 2: JoeBlack811 ( $12.03 USD )
+Seat 5: PBthiSthaT ( $10 USD )
+Seat 6: Pivas ( $4.55 USD )
+Seat 4: hosse666 ( $10 USD )
+Seat 3: pkrOD ( $12.03 USD )
+Badbol0204 posts small blind [$0.10 USD].
+JoeBlack811 posts big blind [$0.25 USD].
+hosse666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 2c ]
+pkrOD raises [$1 USD]
+hosse666 calls [$0.75 USD]
+Pivas folds
+Badbol0204 folds
+JoeBlack811 calls [$0.75 USD]
+** Dealing Flop ** [ Ks, 7d, 6s ]
+JoeBlack811 checks
+pkrOD bets [$2 USD]
+hosse666 folds
+JoeBlack811 calls [$2 USD]
+** Dealing Turn ** [ Ts ]
+JoeBlack811 checks
+pkrOD checks
+** Dealing River ** [ Ad ]
+JoeBlack811 bets [$3.37 USD]
+pkrOD folds
+JoeBlack811 does not show cards.
+JoeBlack811 wins $10.12 USD
+ Game #9546749345 starts.
+
+#Game No : 9546749345 
+***** Hand History for Game 9546749345 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:53:51 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.55 USD )
+Seat 2: JoeBlack811 ( $15.78 USD )
+Seat 5: PBthiSthaT ( $10 USD )
+Seat 6: Pivas ( $4.55 USD )
+Seat 4: hosse666 ( $9 USD )
+Seat 3: pkrOD ( $9.03 USD )
+JoeBlack811 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+PBthiSthaT posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h 7s ]
+hosse666 folds
+PBthiSthaT checks
+Pivas folds
+Badbol0204 calls [$0.25 USD]
+JoeBlack811 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Jc, 4s, Ad ]
+JoeBlack811 checks
+pkrOD checks
+PBthiSthaT bets [$0.75 USD]
+Badbol0204 calls [$0.75 USD]
+JoeBlack811 raises [$1.50 USD]
+pkrOD folds
+PBthiSthaT folds
+Badbol0204 calls [$0.75 USD]
+** Dealing Turn ** [ 5h ]
+JoeBlack811 checks
+Badbol0204 bets [$2 USD]
+JoeBlack811 raises [$4 USD]
+Badbol0204 is all-In  [$1.80 USD]
+** Dealing River ** [ 6c ]
+JoeBlack811 shows [ 4c, As ]two pairs, Aces and Fours.
+Badbol0204 doesn't show [ Js, 5s ]two pairs, Jacks and Fives.
+JoeBlack811 wins $0.20 USD from the side pot 1 with two pairs, Aces and Fours.
+JoeBlack811 wins $11.74 USD from the main pot with two pairs, Aces and Fours.
+PBthiSthaT has left the table.
+ Game #9546752789 starts.
+
+#Game No : 9546752789 
+***** Hand History for Game 9546752789 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:54:50 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $0 USD )
+Seat 2: JoeBlack811 ( $21.97 USD )
+Seat 6: Pivas ( $4.55 USD )
+Seat 4: hosse666 ( $9 USD )
+Seat 3: pkrOD ( $8.78 USD )
+pkrOD posts small blind [$0.10 USD].
+hosse666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 2h ]
+Pivas folds
+JoeBlack811 folds
+pkrOD raises [$0.90 USD]
+hosse666 folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #9546753568 starts.
+
+#Game No : 9546753568 
+***** Hand History for Game 9546753568 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:55:04 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 2: JoeBlack811 ( $21.97 USD )
+Seat 6: Pivas ( $4.55 USD )
+Seat 4: hosse666 ( $8.75 USD )
+Seat 3: pkrOD ( $9.03 USD )
+hosse666 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d 3s ]
+Badbol0204 folds
+JoeBlack811 calls [$0.25 USD]
+pkrOD folds
+hosse666 raises [$0.90 USD]
+Pivas folds
+JoeBlack811 calls [$0.75 USD]
+** Dealing Flop ** [ 9d, Kh, 7h ]
+hosse666 bets [$1.07 USD]
+JoeBlack811 folds
+hosse666 does not show cards.
+hosse666 wins $3.21 USD
+ Game #9546755028 starts.
+
+#Game No : 9546755028 
+***** Hand History for Game 9546755028 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:55:28 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 2: JoeBlack811 ( $20.97 USD )
+Seat 6: Pivas ( $4.30 USD )
+Seat 4: hosse666 ( $9.89 USD )
+Seat 3: pkrOD ( $9.03 USD )
+Pivas posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh Ah ]
+JoeBlack811 folds
+pkrOD raises [$1 USD]
+hosse666 folds
+Pivas folds
+is4830 has joined the table.
+Badbol0204 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546756101 starts.
+
+#Game No : 9546756101 
+***** Hand History for Game 9546756101 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:55:48 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.75 USD )
+Seat 2: JoeBlack811 ( $20.97 USD )
+Seat 6: Pivas ( $4.20 USD )
+Seat 4: hosse666 ( $9.89 USD )
+Seat 5: is4830 ( $10 USD )
+Seat 3: pkrOD ( $9.38 USD )
+Badbol0204 posts small blind [$0.10 USD].
+JoeBlack811 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 4s ]
+pkrOD folds
+hosse666 calls [$0.25 USD]
+Pivas folds
+Badbol0204 folds
+JoeBlack811 checks
+** Dealing Flop ** [ Tc, 3h, 8d ]
+JoeBlack811 checks
+hosse666 bets [$0.28 USD]
+JoeBlack811 calls [$0.28 USD]
+** Dealing Turn ** [ 6c ]
+JoeBlack811 bets [$0.25 USD]
+hosse666 raises [$0.50 USD]
+JoeBlack811 calls [$0.25 USD]
+** Dealing River ** [ 4c ]
+JoeBlack811 checks
+hosse666 bets [$0.75 USD]
+JoeBlack811 calls [$0.75 USD]
+hosse666 shows [ Ts, 9h ]a pair of Tens.
+JoeBlack811 doesn't show [ 8s, Jh ]a pair of Eights.
+hosse666 wins $3.48 USD from the main pot with a pair of Tens.
+ Game #9546758239 starts.
+
+#Game No : 9546758239 
+***** Hand History for Game 9546758239 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:56:35 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.65 USD )
+Seat 2: JoeBlack811 ( $19.19 USD )
+Seat 6: Pivas ( $4.20 USD )
+Seat 4: hosse666 ( $11.59 USD )
+Seat 5: is4830 ( $10 USD )
+Seat 3: pkrOD ( $9.38 USD )
+JoeBlack811 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 2c ]
+hosse666 folds
+Pivas calls [$0.25 USD]
+Badbol0204 folds
+JoeBlack811 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Ac, 9c, Kh ]
+JoeBlack811 checks
+pkrOD checks
+Pivas bets [$0.50 USD]
+JoeBlack811 calls [$0.50 USD]
+pkrOD folds
+** Dealing Turn ** [ 9h ]
+JoeBlack811 checks
+Pivas bets [$0.75 USD]
+JoeBlack811 raises [$1.50 USD]
+Pivas calls [$0.75 USD]
+** Dealing River ** [ Js ]
+JoeBlack811 bets [$2.26 USD]
+Pivas is all-In  [$1.95 USD]
+JoeBlack811 shows [ Ah, Tc ]two pairs, Aces and Nines.
+Pivas shows [ Ad, 5s ]two pairs, Aces and Nines.
+JoeBlack811 wins $0.31 USD from the side pot 1 with two pairs, Aces and Nines.
+Pivas wins $4.11 USD from the main pot with two pairs, Aces and Nines.
+JoeBlack811 wins $4.11 USD from the main pot with two pairs, Aces and Nines.
+ Game #9546760599 starts.
+
+#Game No : 9546760599 
+***** Hand History for Game 9546760599 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:57:27 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.65 USD )
+Seat 2: JoeBlack811 ( $19.10 USD )
+Seat 6: Pivas ( $4.11 USD )
+Seat 4: hosse666 ( $11.59 USD )
+Seat 5: is4830 ( $10 USD )
+Seat 3: pkrOD ( $9.13 USD )
+pkrOD posts small blind [$0.10 USD].
+hosse666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 5d ]
+Pivas calls [$0.25 USD]
+Badbol0204 calls [$0.25 USD]
+JoeBlack811 calls [$0.25 USD]
+pkrOD raises [$0.40 USD]
+hosse666 calls [$0.25 USD]
+Pivas calls [$0.25 USD]
+Badbol0204 calls [$0.25 USD]
+JoeBlack811 calls [$0.25 USD]
+** Dealing Flop ** [ Th, 9c, 5h ]
+pkrOD bets [$2 USD]
+hosse666 calls [$2 USD]
+Pivas folds
+Badbol0204 folds
+JoeBlack811 calls [$2 USD]
+** Dealing Turn ** [ 6h ]
+pkrOD is all-In  [$6.63 USD]
+hosse666 is all-In  [$9.09 USD]
+JoeBlack811 folds
+** Dealing River ** [ 7c ]
+pkrOD shows [ 9d, 5d ]two pairs, Nines and Fives.
+hosse666 shows [ Qh, Kc ]high card King.
+hosse666 wins $2.46 USD from the side pot 1 with high card, King.
+pkrOD wins $20.68 USD from the main pot with two pairs, Nines and Fives.
+ Game #9546763275 starts.
+
+#Game No : 9546763275 
+***** Hand History for Game 9546763275 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:58:28 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.15 USD )
+Seat 2: JoeBlack811 ( $16.60 USD )
+Seat 6: Pivas ( $3.61 USD )
+Seat 4: hosse666 ( $2.46 USD )
+Seat 5: is4830 ( $10 USD )
+Seat 3: pkrOD ( $20.68 USD )
+hosse666 posts small blind [$0.10 USD].
+is4830 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 3c ]
+Pivas raises [$0.50 USD]
+Badbol0204 calls [$0.50 USD]
+JoeBlack811 calls [$0.50 USD]
+pkrOD calls [$0.50 USD]
+hosse666 is all-In  [$2.36 USD]
+is4830 folds
+Pivas folds
+Badbol0204 calls [$1.96 USD]
+JoeBlack811 calls [$1.96 USD]
+pkrOD calls [$1.96 USD]
+** Dealing Flop ** [ Kd, 7d, Qs ]
+Badbol0204 checks
+JoeBlack811 checks
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD bets [$5 USD]
+Badbol0204 folds
+JoeBlack811 folds
+** Dealing Turn ** [ Ac ]
+** Dealing River ** [ 4d ]
+pkrOD shows [ Kc, 3c ]a pair of Kings.
+hosse666 doesn't show [ 5h, 5d ]a pair of Fives.
+pkrOD wins $5 USD from the side pot 1 with a pair of Kings.
+pkrOD wins $10.07 USD from the main pot with a pair of Kings.
+ Game #9546766094 starts.
+
+#Game No : 9546766094 
+***** Hand History for Game 9546766094 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 14:59:30 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.69 USD )
+Seat 2: JoeBlack811 ( $14.14 USD )
+Seat 6: Pivas ( $3.11 USD )
+Seat 4: hosse666 ( $0 USD )
+Seat 5: is4830 ( $9.75 USD )
+Seat 3: pkrOD ( $28.29 USD )
+Pivas posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 3d ]
+hosse666 has left the table.
+JoeBlack811 calls [$0.25 USD]
+pkrOD raises [$1 USD]
+is4830 folds
+Pivas folds
+Badbol0204 calls [$0.75 USD]
+JoeBlack811 calls [$0.75 USD]
+** Dealing Flop ** [ 8h, 6h, 5d ]
+Badbol0204 checks
+JoeBlack811 bets [$1.47 USD]
+Wally5080 has joined the table.
+pkrOD is all-In  [$27.29 USD]
+Badbol0204 folds
+JoeBlack811 folds
+pkrOD does not show cards.
+pkrOD wins $31.56 USD
+ Game #9546767925 starts.
+
+#Game No : 9546767925 
+***** Hand History for Game 9546767925 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:00:11 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.69 USD )
+Seat 2: JoeBlack811 ( $11.67 USD )
+Seat 6: Pivas ( $3.01 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $9.75 USD )
+Seat 3: pkrOD ( $31.56 USD )
+Badbol0204 posts small blind [$0.10 USD].
+JoeBlack811 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h Ts ]
+pkrOD folds
+is4830 raises [$0.75 USD]
+Pivas folds
+Badbol0204 calls [$0.65 USD]
+JoeBlack811 calls [$0.50 USD]
+** Dealing Flop ** [ 3s, Td, 8h ]
+Badbol0204 bets [$1 USD]
+JoeBlack811 calls [$1 USD]
+is4830 folds
+** Dealing Turn ** [ 6s ]
+Badbol0204 bets [$1.50 USD]
+JoeBlack811 folds
+Badbol0204 does not show cards.
+Badbol0204 wins $5.54 USD
+ Game #9546770397 starts.
+
+#Game No : 9546770397 
+***** Hand History for Game 9546770397 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:00:47 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $7.98 USD )
+Seat 2: JoeBlack811 ( $9.92 USD )
+Seat 6: Pivas ( $3.01 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $9 USD )
+Seat 3: pkrOD ( $31.56 USD )
+JoeBlack811 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 3s ]
+is4830 folds
+Pivas folds
+Badbol0204 raises [$1.25 USD]
+JoeBlack811 calls [$1.15 USD]
+pkrOD folds
+** Dealing Flop ** [ 5h, Tc, Qc ]
+JoeBlack811 checks
+Badbol0204 checks
+** Dealing Turn ** [ 6s ]
+JoeBlack811 checks
+Badbol0204 bets [$1.25 USD]
+JoeBlack811 calls [$1.25 USD]
+** Dealing River ** [ Js ]
+JoeBlack811 bets [$2.49 USD]
+Badbol0204 calls [$2.49 USD]
+JoeBlack811 shows [ Qh, 9h ]a pair of Queens.
+Badbol0204 doesn't show [ 9s, 9d ]a pair of Nines.
+JoeBlack811 wins $9.72 USD from the main pot with a pair of Queens.
+ Game #9546772700 starts.
+
+#Game No : 9546772700 
+***** Hand History for Game 9546772700 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:01:35 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $2.99 USD )
+Seat 2: JoeBlack811 ( $14.65 USD )
+Seat 6: Pivas ( $3.01 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $9 USD )
+Seat 3: pkrOD ( $31.31 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 8c ]
+is4830 folds
+Pivas folds
+Badbol0204 folds
+JoeBlack811 calls [$0.25 USD]
+pkrOD raises [$0.90 USD]
+Wally5080 calls [$0.75 USD]
+JoeBlack811 calls [$0.75 USD]
+** Dealing Flop ** [ As, 7d, 6h ]
+pkrOD bets [$2 USD]
+Wally5080 folds
+JoeBlack811 folds
+pkrOD does not show cards.
+pkrOD wins $4.85 USD
+ Game #9546774224 starts.
+
+#Game No : 9546774224 
+***** Hand History for Game 9546774224 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:02:05 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 2: JoeBlack811 ( $13.65 USD )
+Seat 6: Pivas ( $3.01 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $9 USD )
+Seat 3: pkrOD ( $33.16 USD )
+Wally5080 posts small blind [$0.10 USD].
+is4830 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 7h ]
+Pivas folds
+Badbol0204 folds
+JoeBlack811 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+is4830 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546775104 starts.
+
+#Game No : 9546775104 
+***** Hand History for Game 9546775104 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:02:21 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 2: JoeBlack811 ( $13.65 USD )
+Seat 6: Pivas ( $3.01 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.75 USD )
+Seat 3: pkrOD ( $33.51 USD )
+is4830 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 9s ]
+Badbol0204 folds
+JoeBlack811 calls [$0.25 USD]
+pkrOD raises [$1 USD]
+Wally5080 folds
+is4830 folds
+Pivas folds
+JoeBlack811 calls [$0.75 USD]
+** Dealing Flop ** [ 3h, 7c, 9c ]
+JoeBlack811 checks
+pkrOD bets [$2.25 USD]
+JoeBlack811 calls [$2.25 USD]
+** Dealing Turn ** [ 6s ]
+JoeBlack811 checks
+pkrOD bets [$6.25 USD]
+JoeBlack811 is all-In  [$10.40 USD]
+pkrOD calls [$4.15 USD]
+** Dealing River ** [ Td ]
+pkrOD shows [ Ac, 9s ]a pair of Nines.
+JoeBlack811 doesn't show [ 6d, 5d ]a pair of Sixes.
+pkrOD wins $26.27 USD from the main pot with a pair of Nines.
+ Game #9546777826 starts.
+
+#Game No : 9546777826 
+***** Hand History for Game 9546777826 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:03:05 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $10 USD )
+Seat 2: JoeBlack811 ( $0 USD )
+Seat 6: Pivas ( $2.76 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.65 USD )
+Seat 3: pkrOD ( $46.13 USD )
+Pivas posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 8h ]
+pkrOD calls [$0.25 USD]
+JoeBlack811 has left the table.
+Wally5080 folds
+is4830 folds
+Pivas calls [$0.15 USD]
+Badbol0204 checks
+** Dealing Flop ** [ Jd, 9d, Qh ]
+Pivas checks
+ybivatel has joined the table.
+Badbol0204 checks
+pkrOD checks
+** Dealing Turn ** [ 8s ]
+Pivas checks
+Badbol0204 checks
+pkrOD checks
+** Dealing River ** [ 7c ]
+Pivas checks
+Badbol0204 checks
+pkrOD bets [$1 USD]
+Pivas folds
+Badbol0204 folds
+pkrOD does not show cards.
+pkrOD wins $1.72 USD
+ Game #9546781073 starts.
+
+#Game No : 9546781073 
+***** Hand History for Game 9546781073 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:03:54 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.75 USD )
+Seat 6: Pivas ( $2.51 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.65 USD )
+Seat 3: pkrOD ( $46.60 USD )
+Seat 2: ybivatel ( $10 USD )
+Badbol0204 posts small blind [$0.10 USD].
+ybivatel posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 2c ]
+pkrOD folds
+Wally5080 folds
+is4830 folds
+Pivas folds
+Badbol0204 calls [$0.15 USD]
+ybivatel checks
+** Dealing Flop ** [ Ad, Qs, 3c ]
+Badbol0204 checks
+ybivatel checks
+** Dealing Turn ** [ Td ]
+Badbol0204 checks
+ybivatel bets [$0.48 USD]
+Badbol0204 calls [$0.48 USD]
+** Dealing River ** [ 7d ]
+Badbol0204 checks
+ybivatel checks
+Badbol0204 shows [ 4c, 4h ]a pair of Fours.
+ybivatel shows [ Ah, 4s ]a pair of Aces.
+ybivatel wins $1.39 USD from the main pot with a pair of Aces.
+ Game #9546783660 starts.
+
+#Game No : 9546783660 
+***** Hand History for Game 9546783660 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:04:31 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $9.02 USD )
+Seat 6: Pivas ( $2.51 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.65 USD )
+Seat 3: pkrOD ( $46.60 USD )
+Seat 2: ybivatel ( $10.66 USD )
+ybivatel posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th Ts ]
+Wally5080 folds
+is4830 folds
+Pivas folds
+Badbol0204 calls [$0.25 USD]
+ybivatel folds
+pkrOD raises [$1.25 USD]
+Badbol0204 calls [$1.25 USD]
+** Dealing Flop ** [ Ac, 8s, Tc ]
+pkrOD bets [$5 USD]
+Badbol0204 folds
+pkrOD does not show cards.
+pkrOD wins $7.95 USD
+ Game #9546785533 starts.
+
+#Game No : 9546785533 
+***** Hand History for Game 9546785533 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:04:58 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $7.52 USD )
+Seat 6: Pivas ( $2.51 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.65 USD )
+Seat 3: pkrOD ( $48.05 USD )
+Seat 2: ybivatel ( $10.56 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Js ]
+is4830 folds
+Pivas folds
+Badbol0204 raises [$1 USD]
+ybivatel folds
+pkrOD raises [$1.90 USD]
+Wally5080 folds
+Badbol0204 calls [$1 USD]
+** Dealing Flop ** [ Ad, 3d, 9c ]
+pkrOD bets [$4 USD]
+Badbol0204 folds
+pkrOD does not show cards.
+pkrOD wins $8.04 USD
+ Game #9546788142 starts.
+
+#Game No : 9546788142 
+***** Hand History for Game 9546788142 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:05:36 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.52 USD )
+Seat 6: Pivas ( $2.51 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.65 USD )
+Seat 3: pkrOD ( $50.09 USD )
+Seat 2: ybivatel ( $10.56 USD )
+Wally5080 posts small blind [$0.10 USD].
+is4830 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d 4c ]
+Pivas folds
+Badbol0204 folds
+ybivatel folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+is4830 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546789428 starts.
+
+#Game No : 9546789428 
+***** Hand History for Game 9546789428 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:05:54 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.52 USD )
+Seat 6: Pivas ( $2.51 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $8.40 USD )
+Seat 3: pkrOD ( $50.44 USD )
+Seat 2: ybivatel ( $10.56 USD )
+is4830 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 7d ]
+Badbol0204 folds
+ybivatel folds
+pkrOD raises [$0.50 USD]
+Wally5080 calls [$0.50 USD]
+is4830 calls [$0.40 USD]
+Pivas calls [$0.25 USD]
+** Dealing Flop ** [ Js, As, 7s ]
+is4830 checks
+Pivas checks
+pkrOD checks
+Wally5080 checks
+** Dealing Turn ** [ Qc ]
+is4830 checks
+Pivas checks
+pkrOD bets [$0.75 USD]
+Wally5080 folds
+is4830 folds
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $2.65 USD
+ Game #9546794366 starts.
+
+#Game No : 9546794366 
+***** Hand History for Game 9546794366 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:07:06 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.52 USD )
+Seat 6: Pivas ( $2.01 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $9.50 USD )
+Seat 3: pkrOD ( $51.84 USD )
+Seat 2: ybivatel ( $10.56 USD )
+Pivas posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h Ah ]
+ybivatel folds
+pkrOD raises [$0.75 USD]
+Wally5080 folds
+is4830 calls [$0.75 USD]
+Pivas calls [$0.65 USD]
+Badbol0204 folds
+** Dealing Flop ** [ Qc, 3h, 2h ]
+Pivas checks
+pkrOD bets [$2.25 USD]
+is4830 raises [$5 USD]
+Pivas folds
+pkrOD calls [$2.75 USD]
+** Dealing Turn ** [ 6c ]
+pkrOD checks
+is4830 is all-In  [$3.75 USD]
+pkrOD calls [$3.75 USD]
+** Dealing River ** [ Jh ]
+pkrOD shows [ 4h, Ah ]a flush, Ace high.
+is4830 doesn't show [ Qs, Kc ]a pair of Queens.
+pkrOD wins $19 USD from the main pot with a flush, Ace high.
+ Game #9546798719 starts.
+
+#Game No : 9546798719 
+***** Hand History for Game 9546798719 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:08:11 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.27 USD )
+Seat 6: Pivas ( $1.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: is4830 ( $0 USD )
+Seat 3: pkrOD ( $61.34 USD )
+Seat 2: ybivatel ( $10.56 USD )
+Badbol0204 posts small blind [$0.10 USD].
+ybivatel posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 9h ]
+pkrOD folds
+Wally5080 folds
+Pivas folds
+Badbol0204 calls [$0.15 USD]
+ybivatel checks
+** Dealing Flop ** [ 3s, 8d, Ts ]
+Badbol0204 checks
+ybivatel checks
+** Dealing Turn ** [ 3c ]
+Badbol0204 bets [$1.25 USD]
+is4830 has left the table.
+ybivatel folds
+Badbol0204 does not show cards.
+Badbol0204 wins $1.73 USD
+ Game #9546800627 starts.
+
+#Game No : 9546800627 
+***** Hand History for Game 9546800627 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:08:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 1: Badbol0204 ( $5.50 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $61.34 USD )
+Seat 2: ybivatel ( $10.31 USD )
+ybivatel posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 7d ]
+Wally5080 raises [$1 USD]
+Pivas folds
+KQJJJKA has joined the table.
+Badbol0204 folds
+ybivatel folds
+pkrOD folds
+Wally5080 does not show cards.
+Wally5080 wins $1.35 USD
+ Game #9546802187 starts.
+
+#Game No : 9546802187 
+***** Hand History for Game 9546802187 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:09:02 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.50 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10.35 USD )
+Seat 3: pkrOD ( $61.09 USD )
+Seat 2: ybivatel ( $10.21 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 7d ]
+Pivas folds
+Badbol0204 folds
+ybivatel raises [$1 USD]
+pkrOD folds
+Wally5080 folds
+ybivatel does not show cards.
+ybivatel wins $1.35 USD
+ Game #9546803557 starts.
+
+#Game No : 9546803557 
+***** Hand History for Game 9546803557 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:09:22 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.50 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10.10 USD )
+Seat 3: pkrOD ( $60.99 USD )
+Seat 2: ybivatel ( $10.56 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 2d ]
+Pivas folds
+Badbol0204 calls [$0.25 USD]
+ybivatel folds
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+KQJJJKA checks
+** Dealing Flop ** [ 8s, 9h, 3c ]
+KQJJJKA checks
+Badbol0204 bets [$1 USD]
+pkrOD folds
+KQJJJKA folds
+Badbol0204 does not show cards.
+Badbol0204 wins $1.81 USD
+ Game #9546806893 starts.
+
+#Game No : 9546806893 
+***** Hand History for Game 9546806893 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:10:13 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.06 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $60.74 USD )
+Seat 2: ybivatel ( $10.56 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 8c ]
+ybivatel folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Badbol0204 does not show cards.
+Badbol0204 wins $0.35 USD
+ Game #9546807842 starts.
+
+#Game No : 9546807842 
+***** Hand History for Game 9546807842 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:10:26 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.16 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $60.74 USD )
+Seat 2: ybivatel ( $10.56 USD )
+Badbol0204 posts small blind [$0.10 USD].
+ybivatel posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 3d ]
+pkrOD folds
+Wally5080 folds
+KQJJJKA raises [$0.75 USD]
+Badbol0204 folds
+ybivatel folds
+KQJJJKA does not show cards.
+KQJJJKA wins $1.10 USD
+ Game #9546809211 starts.
+
+#Game No : 9546809211 
+***** Hand History for Game 9546809211 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:10:45 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.06 USD )
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $60.74 USD )
+Seat 2: ybivatel ( $10.31 USD )
+ybivatel posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d Qh ]
+Wally5080 folds
+KQJJJKA folds
+Badbol0204 folds
+ybivatel folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #9546810200 starts.
+
+#Game No : 9546810200 
+***** Hand History for Game 9546810200 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:11:00 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.06 USD )
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $60.84 USD )
+Seat 2: ybivatel ( $10.21 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Js ]
+KQJJJKA folds
+Badbol0204 folds
+ybivatel folds
+pkrOD raises [$0.65 USD]
+Wally5080 folds
+pkrOD does not show cards.
+pkrOD wins $1 USD
+ Game #9546812047 starts.
+
+#Game No : 9546812047 
+***** Hand History for Game 9546812047 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:11:28 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.06 USD )
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $61.09 USD )
+Seat 2: ybivatel ( $10.21 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 7s ]
+Badbol0204 folds
+ybivatel folds
+pkrOD raises [$0.75 USD]
+Wally5080 folds
+KQJJJKA folds
+pkrOD does not show cards.
+pkrOD wins $1.10 USD
+ Game #9546813827 starts.
+
+#Game No : 9546813827 
+***** Hand History for Game 9546813827 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:11:53 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.06 USD )
+Seat 5: KQJJJKA ( $10.10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $61.44 USD )
+Seat 2: ybivatel ( $10.21 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Badbol0204 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Qd ]
+ybivatel folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+Badbol0204 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546816081 starts.
+
+#Game No : 9546816081 
+***** Hand History for Game 9546816081 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:12:26 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $5.81 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $61.79 USD )
+Seat 2: ybivatel ( $10.21 USD )
+Badbol0204 posts small blind [$0.10 USD].
+ybivatel posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 2s ]
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Badbol0204 raises [$0.90 USD]
+ybivatel folds
+Badbol0204 does not show cards.
+Badbol0204 wins $1.25 USD
+ Game #9546817928 starts.
+
+#Game No : 9546817928 
+***** Hand History for Game 9546817928 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:12:55 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $6.06 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $61.79 USD )
+Seat 2: ybivatel ( $10 USD )
+ybivatel posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Ad ]
+Wally5080 folds
+KQJJJKA folds
+Badbol0204 calls [$0.25 USD]
+ybivatel folds
+pkrOD raises [$0.75 USD]
+Badbol0204 is all-In  [$5.81 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD calls [$5.06 USD]
+** Dealing Flop ** [ 4h, 8d, Jc ]
+** Dealing Turn ** [ 9d ]
+** Dealing River ** [ Ah ]
+pkrOD shows [ 9c, Ad ]two pairs, Aces and Nines.
+Badbol0204 doesn't show [ 9s, Qc ]a pair of Nines.
+pkrOD wins $11.61 USD from the main pot with two pairs, Aces and Nines.
+ Game #9546821414 starts.
+
+#Game No : 9546821414 
+***** Hand History for Game 9546821414 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:13:45 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 1: Badbol0204 ( $0 USD )
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $67.34 USD )
+Seat 2: ybivatel ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d 4h ]
+KQJJJKA folds
+Badbol0204 has left the table.
+ybivatel folds
+pkrOD calls [$0.15 USD]
+Wally5080 checks
+** Dealing Flop ** [ Tc, Ah, 5s ]
+pkrOD checks
+Wally5080 checks
+** Dealing Turn ** [ 7d ]
+pkrOD bets [$0.30 USD]
+Wally5080 calls [$0.30 USD]
+** Dealing River ** [ 3c ]
+tima182 has joined the table.
+pkrOD checks
+Wally5080 bets [$0.25 USD]
+pkrOD folds
+Wally5080 does not show cards.
+Wally5080 wins $1.30 USD
+ Game #9546824496 starts.
+
+#Game No : 9546824496 
+***** Hand History for Game 9546824496 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:14:30 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10.50 USD )
+Seat 3: pkrOD ( $66.79 USD )
+Seat 1: tima182 ( $10 USD )
+Seat 2: ybivatel ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c 6c ]
+ybivatel folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546826138 starts.
+
+#Game No : 9546826138 
+***** Hand History for Game 9546826138 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:14:54 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.26 USD )
+Seat 4: Wally5080 ( $10.40 USD )
+Seat 3: pkrOD ( $67.14 USD )
+Seat 1: tima182 ( $10 USD )
+Seat 2: ybivatel ( $10 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 2h ]
+ybivatel folds
+pkrOD raises [$1 USD]
+Wally5080 raises [$3.50 USD]
+KQJJJKA folds
+Pivas folds
+pkrOD folds
+Wally5080 does not show cards.
+Wally5080 wins $4.85 USD
+ Game #9546827567 starts.
+
+#Game No : 9546827567 
+***** Hand History for Game 9546827567 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:15:16 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $7.01 USD )
+Seat 4: Wally5080 ( $11.75 USD )
+Seat 3: pkrOD ( $66.14 USD )
+Seat 1: tima182 ( $10 USD )
+Seat 2: ybivatel ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 3c ]
+ybivatel folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas raises [$0.65 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.50 USD]
+** Dealing Flop ** [ Qs, 2c, Kd ]
+Pivas bets [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.75 USD]
+** Dealing Turn ** [ Qd ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 bets [$0.75 USD]
+Pivas folds
+tima182 does not show cards.
+tima182 wins $3.60 USD
+ Game #9546830569 starts.
+
+#Game No : 9546830569 
+***** Hand History for Game 9546830569 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:15:59 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $5.51 USD )
+Seat 4: Wally5080 ( $11.75 USD )
+Seat 3: pkrOD ( $66.14 USD )
+Seat 1: tima182 ( $11.35 USD )
+Seat 2: ybivatel ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 6d ]
+Wally5080 folds
+KQJJJKA folds
+Pivas raises [$0.50 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD folds
+Pivas does not show cards.
+Pivas wins $0.85 USD
+ Game #9546831788 starts.
+
+#Game No : 9546831788 
+***** Hand History for Game 9546831788 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:16:16 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $5.86 USD )
+Seat 4: Wally5080 ( $11.75 USD )
+Seat 3: pkrOD ( $65.89 USD )
+Seat 1: tima182 ( $11.25 USD )
+Seat 2: ybivatel ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 7d ]
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+pkrOD raises [$1.65 USD]
+Wally5080 folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $2.75 USD
+ybivatel has left the table.
+ Game #9546833686 starts.
+
+#Game No : 9546833686 
+***** Hand History for Game 9546833686 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:16:44 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $5.86 USD )
+Seat 4: Wally5080 ( $11.50 USD )
+Seat 3: pkrOD ( $66.89 USD )
+Seat 1: tima182 ( $10.50 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Ah ]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas calls [$0.75 USD]
+** Dealing Flop ** [ 7s, 3d, 9c ]
+Pivas checks
+Muck1970 has joined the table.
+pkrOD bets [$2 USD]
+Pivas is all-In  [$4.86 USD]
+pkrOD calls [$2.86 USD]
+** Dealing Turn ** [ Jc ]
+** Dealing River ** [ 5s ]
+pkrOD shows [ Tc, Ah ]high card Ace.
+Pivas shows [ 7c, 7d ]three of a kind, Sevens.
+Pivas wins $11.47 USD from the main pot with three of a kind, Sevens.
+ Game #9546836968 starts.
+
+#Game No : 9546836968 
+***** Hand History for Game 9546836968 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:17:32 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $11.47 USD )
+Seat 4: Wally5080 ( $11.40 USD )
+Seat 3: pkrOD ( $61.03 USD )
+Seat 1: tima182 ( $10.50 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 4c ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas checks
+** Dealing Flop ** [ 9c, Ac, 6d ]
+Pivas checks
+pkrOD checks
+** Dealing Turn ** [ Qd ]
+Pivas checks
+pkrOD checks
+** Dealing River ** [ 4d ]
+Pivas checks
+pkrOD bets [$0.50 USD]
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $1.07 USD
+ Game #9546839488 starts.
+
+#Game No : 9546839488 
+***** Hand History for Game 9546839488 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:18:10 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $11.22 USD )
+Seat 4: Wally5080 ( $11.40 USD )
+Seat 3: pkrOD ( $61.35 USD )
+Seat 1: tima182 ( $10.50 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 4h ]
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 does not show cards.
+tima182 wins $0.35 USD
+ Game #9546840848 starts.
+
+#Game No : 9546840848 
+***** Hand History for Game 9546840848 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:18:29 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $11.12 USD )
+Seat 4: Wally5080 ( $11.40 USD )
+Seat 3: pkrOD ( $61.35 USD )
+Seat 1: tima182 ( $10.60 USD )
+tima182 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d Qd ]
+Wally5080 folds
+KQJJJKA raises [$0.75 USD]
+Pivas calls [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.65 USD]
+pkrOD folds
+** Dealing Flop ** [ Jd, 4h, 2s ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+KQJJJKA checks
+Pivas bets [$1.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+KQJJJKA folds
+Pivas does not show cards.
+Pivas wins $4.13 USD
+ Game #9546843643 starts.
+
+#Game No : 9546843643 
+***** Hand History for Game 9546843643 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:19:11 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $12.75 USD )
+Seat 4: Wally5080 ( $11.40 USD )
+Seat 3: pkrOD ( $61.10 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac Ah ]
+KQJJJKA raises [$0.75 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD raises [$1.65 USD]
+Wally5080 folds
+KQJJJKA raises [$4.75 USD]
+pkrOD calls [$3.75 USD]
+** Dealing Flop ** [ Ts, 5h, Qh ]
+pkrOD checks
+KQJJJKA is all-In  [$4.50 USD]
+pkrOD calls [$4.50 USD]
+** Dealing Turn ** [ Js ]
+** Dealing River ** [ 9d ]
+pkrOD shows [ Ac, Ah ]a pair of Aces.
+KQJJJKA doesn't show [ Jd, As ]a pair of Jacks.
+pkrOD wins $19.24 USD from the main pot with a pair of Aces.
+ Game #9546846845 starts.
+
+#Game No : 9546846845 
+***** Hand History for Game 9546846845 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:19:58 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $12.75 USD )
+Seat 4: Wally5080 ( $11.15 USD )
+Seat 3: pkrOD ( $70.34 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 3d ]
+pkrOD: like that one?
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas does not show cards.
+Pivas wins $1.10 USD
+ Game #9546848008 starts.
+
+#Game No : 9546848008 
+***** Hand History for Game 9546848008 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:20:15 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $13.10 USD )
+Seat 4: Wally5080 ( $11.05 USD )
+Seat 3: pkrOD ( $70.34 USD )
+Seat 1: tima182 ( $10 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 2h ]
+pkrOD: try my poker analyser free... morphiles . com
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas does not show cards.
+Pivas wins $0.35 USD
+ Game #9546849056 starts.
+
+#Game No : 9546849056 
+***** Hand History for Game 9546849056 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:20:31 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $5 USD )
+Seat 6: Pivas ( $13.20 USD )
+Seat 4: Wally5080 ( $11.05 USD )
+Seat 3: pkrOD ( $70.34 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+Muck1970 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 3h ]
+Muck1970 checks
+pkrOD raises [$0.50 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas calls [$0.40 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.25 USD]
+pkrOD: free excel poker analyser : ww w . morphiles . com
+Muck1970 folds
+** Dealing Flop ** [ 7d, Ks, 8d ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD bets [$1 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 calls [$1 USD]
+** Dealing Turn ** [ Kh ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD checks
+** Dealing River ** [ 9h ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD checks
+tima182 shows [ Td, Qd ]a pair of Kings with Ten kicker.
+pkrOD doesn't show [ Qh, 3h ]a pair of Kings.
+tima182 wins $3.57 USD from the main pot with a pair of Kings with Ten kicker.
+ Game #9546853518 starts.
+
+#Game No : 9546853518 
+***** Hand History for Game 9546853518 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:21:37 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $4.75 USD )
+Seat 6: Pivas ( $12.70 USD )
+Seat 4: Wally5080 ( $11.05 USD )
+Seat 3: pkrOD ( $68.84 USD )
+Seat 1: tima182 ( $12.07 USD )
+tima182 posts small blind [$0.10 USD].
+Muck1970 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 7d ]
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Muck1970 checks
+** Dealing Flop ** [ Jd, 8c, Ks ]
+Muck1970 checks
+pkrOD bets [$0.50 USD]
+Muck1970 folds
+pkrOD does not show cards.
+pkrOD wins $1.07 USD
+ Game #9546855741 starts.
+
+#Game No : 9546855741 
+***** Hand History for Game 9546855741 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:22:12 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $4.50 USD )
+Seat 6: Pivas ( $12.70 USD )
+Seat 4: Wally5080 ( $11.05 USD )
+Seat 3: pkrOD ( $69.16 USD )
+Seat 1: tima182 ( $11.97 USD )
+Muck1970 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 5c ]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Muck1970 raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 2s, Kc, Kd ]
+Muck1970 checks
+pkrOD checks
+** Dealing Turn ** [ Td ]
+Muck1970 bets [$0.95 USD]
+pkrOD calls [$0.95 USD]
+** Dealing River ** [ Ks ]
+Muck1970 is all-In  [$3.05 USD]
+pkrOD calls [$3.05 USD]
+Muck1970 shows [ Qh, Jd ]three of a kind, Kings.
+pkrOD shows [ Kh, 5c ]four of a kind, Kings.
+pkrOD wins $8.55 USD from the main pot with four of a kind, Kings.
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+ Game #9546858862 starts.
+
+#Game No : 9546858862 
+***** Hand History for Game 9546858862 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:22:56 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 2: Muck1970 ( $0 USD )
+Seat 6: Pivas ( $12.70 USD )
+Seat 4: Wally5080 ( $11.05 USD )
+Seat 3: pkrOD ( $73.21 USD )
+Seat 1: tima182 ( $11.97 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 5s ]
+Muck1970 has left the table.
+pkrOD: ;)
+Pivas folds
+tima182 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546859919 starts.
+
+#Game No : 9546859919 
+***** Hand History for Game 9546859919 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:23:11 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $12.70 USD )
+Seat 4: Wally5080 ( $10.95 USD )
+Seat 3: pkrOD ( $73.56 USD )
+Seat 1: tima182 ( $11.97 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h 2s ]
+tima182 will be using his time bank for this hand.
+pkrOD: free poker analyser .. ww w . morphiles . com
+tima182 folds
+pkrOD folds
+coquini has joined the table.
+Wally5080 folds
+KQJJJKA raises [$0.65 USD]
+Pivas folds
+KQJJJKA does not show cards.
+KQJJJKA wins $1 USD
+ Game #9546861098 starts.
+
+#Game No : 9546861098 
+***** Hand History for Game 9546861098 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:23:29 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.25 USD )
+Seat 6: Pivas ( $12.45 USD )
+Seat 4: Wally5080 ( $10.95 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $73.56 USD )
+Seat 1: tima182 ( $11.97 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 6h ]
+pkrOD raises [$0.50 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $0.85 USD
+ Game #9546862231 starts.
+
+#Game No : 9546862231 
+***** Hand History for Game 9546862231 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:23:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.25 USD )
+Seat 6: Pivas ( $12.35 USD )
+Seat 4: Wally5080 ( $10.95 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $73.91 USD )
+Seat 1: tima182 ( $11.72 USD )
+tima182 posts small blind [$0.10 USD].
+coquini posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Ah ]
+pkrOD raises [$0.50 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD does not show cards.
+pkrOD wins $0.85 USD
+ Game #9546863194 starts.
+
+#Game No : 9546863194 
+***** Hand History for Game 9546863194 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:24:00 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.25 USD )
+Seat 6: Pivas ( $12.35 USD )
+Seat 4: Wally5080 ( $10.95 USD )
+Seat 2: coquini ( $4.75 USD )
+Seat 3: pkrOD ( $74.26 USD )
+Seat 1: tima182 ( $11.62 USD )
+coquini posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc As ]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$0.52 USD]
+pkrOD raises [$3.71 USD]
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD does not show cards.
+pkrOD wins $4.58 USD
+ Game #9546865045 starts.
+
+#Game No : 9546865045 
+***** Hand History for Game 9546865045 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:24:28 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.25 USD )
+Seat 6: Pivas ( $12.35 USD )
+Seat 4: Wally5080 ( $10.95 USD )
+Seat 2: coquini ( $4.13 USD )
+Seat 3: pkrOD ( $74.88 USD )
+Seat 1: tima182 ( $11.62 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 4h ]
+KQJJJKA folds
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD folds
+Wally5080 folds
+Pivas does not show cards.
+Pivas wins $1.10 USD
+ Game #9546866093 starts.
+
+#Game No : 9546866093 
+***** Hand History for Game 9546866093 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:24:44 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.25 USD )
+Seat 6: Pivas ( $12.70 USD )
+Seat 4: Wally5080 ( $10.70 USD )
+Seat 2: coquini ( $4.13 USD )
+Seat 3: pkrOD ( $74.78 USD )
+Seat 1: tima182 ( $11.62 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 4c ]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+pkrOD: free poker analyser ww w . morphiles . com
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$2.50 USD]
+pkrOD folds
+pkrOD: enjoy :)
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+coquini does not show cards.
+coquini wins $3.10 USD
+ Game #9546867625 starts.
+
+#Game No : 9546867625 
+***** Hand History for Game 9546867625 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:25:07 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $12.45 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $4.73 USD )
+Seat 3: pkrOD ( $74.78 USD )
+Seat 1: tima182 ( $11.62 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 8h ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas checks
+** Dealing Flop ** [ Ks, 6c, Js ]
+Pivas checks
+pkrOD bets [$0.57 USD]
+Pivas calls [$0.57 USD]
+** Dealing Turn ** [ 4c ]
+Pivas checks
+pkrOD checks
+** Dealing River ** [ Qs ]
+Pivas checks
+pkrOD checks
+Pivas shows [ Kd, 3c ]a pair of Kings.
+pkrOD doesn't show [ Td, 8h ]high card King.
+Pivas wins $1.66 USD from the main pot with a pair of Kings.
+ Game #9546870539 starts.
+
+#Game No : 9546870539 
+***** Hand History for Game 9546870539 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:25:51 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $13.29 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $4.73 USD )
+Seat 3: pkrOD ( $73.96 USD )
+Seat 1: tima182 ( $11.62 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 7s ]
+coquini will be using his time bank for this hand.
+coquini raises [$0.62 USD]
+pkrOD calls [$0.62 USD]
+Wally5080 folds
+KQJJJKA calls [$0.62 USD]
+Pivas calls [$0.52 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+** Dealing Flop ** [ Jh, Qs, Kd ]
+Pivas checks
+coquini will be using his time bank for this hand.
+coquini bets [$1.30 USD]
+pkrOD folds
+KQJJJKA folds
+Pivas calls [$1.30 USD]
+** Dealing Turn ** [ As ]
+Pivas checks
+coquini will be using his time bank for this hand.
+coquini is all-In  [$2.81 USD]
+Pivas calls [$2.81 USD]
+** Dealing River ** [ 2s ]
+Pivas shows [ Ad, Tc ]a straight, Ten to Ace.
+coquini doesn't show [ Qd, Qc ]three of a kind, Queens.
+Pivas wins $10.41 USD from the main pot with a straight, Ten to Ace.
+ Game #9546874285 starts.
+
+#Game No : 9546874285 
+***** Hand History for Game 9546874285 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:26:49 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $18.97 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $0 USD )
+Seat 3: pkrOD ( $73.34 USD )
+Seat 1: tima182 ( $11.37 USD )
+tima182 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h Qs ]
+Wally5080 folds
+KQJJJKA folds
+Pivas raises [$0.50 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD folds
+Pivas does not show cards.
+Pivas wins $0.85 USD
+ Game #9546875756 starts.
+
+#Game No : 9546875756 
+***** Hand History for Game 9546875756 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:27:12 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.32 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $73.09 USD )
+Seat 1: tima182 ( $11.27 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 7d ]
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD folds
+Wally5080 does not show cards.
+Wally5080 wins $0.35 USD
+ Game #9546876693 starts.
+
+#Game No : 9546876693 
+***** Hand History for Game 9546876693 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:27:26 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.32 USD )
+Seat 4: Wally5080 ( $10.70 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $72.99 USD )
+Seat 1: tima182 ( $11.27 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 7c ]
+Pivas raises [$1 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas does not show cards.
+Pivas wins $1.35 USD
+ Game #9546877824 starts.
+
+#Game No : 9546877824 
+***** Hand History for Game 9546877824 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:27:43 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.67 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $72.99 USD )
+Seat 1: tima182 ( $11.27 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 8c ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546878834 starts.
+
+#Game No : 9546878834 
+***** Hand History for Game 9546878834 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:27:59 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.42 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $73.34 USD )
+Seat 1: tima182 ( $11.27 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc Qh ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546879681 starts.
+
+#Game No : 9546879681 
+***** Hand History for Game 9546879681 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:28:11 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.32 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $5 USD )
+Seat 3: pkrOD ( $73.69 USD )
+Seat 1: tima182 ( $11.02 USD )
+tima182 posts small blind [$0.10 USD].
+coquini posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs 8h ]
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$2.25 USD]
+pkrOD folds
+coquini does not show cards.
+coquini wins $2.85 USD
+ Game #9546880967 starts.
+
+#Game No : 9546880967 
+***** Hand History for Game 9546880967 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:28:31 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.32 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $5.35 USD )
+Seat 3: pkrOD ( $73.44 USD )
+Seat 1: tima182 ( $10.92 USD )
+coquini posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As Qs ]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #9546882532 starts.
+
+#Game No : 9546882532 
+***** Hand History for Game 9546882532 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:28:55 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $19.32 USD )
+Seat 4: Wally5080 ( $10.60 USD )
+Seat 2: coquini ( $5.25 USD )
+Seat 3: pkrOD ( $73.54 USD )
+Seat 1: tima182 ( $10.92 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 6d ]
+KQJJJKA folds
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini is all-In  [$5.25 USD]
+pkrOD folds
+Wally5080 folds
+Pivas folds
+coquini does not show cards.
+coquini wins $6.35 USD
+ Game #9546884613 starts.
+
+#Game No : 9546884613 
+***** Hand History for Game 9546884613 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:29:27 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $18.57 USD )
+Seat 4: Wally5080 ( $10.35 USD )
+Seat 2: coquini ( $6.35 USD )
+Seat 3: pkrOD ( $73.44 USD )
+Seat 1: tima182 ( $10.92 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 9h ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+coquini folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+tima182 does not show cards.
+tima182 wins $1.10 USD
+ Game #9546886076 starts.
+
+#Game No : 9546886076 
+***** Hand History for Game 9546886076 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:29:49 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $18.57 USD )
+Seat 4: Wally5080 ( $10.25 USD )
+Seat 2: coquini ( $6.35 USD )
+Seat 3: pkrOD ( $73.44 USD )
+Seat 1: tima182 ( $11.27 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 8d ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas calls [$0.75 USD]
+** Dealing Flop ** [ 5h, Qd, 2s ]
+Pivas checks
+pkrOD bets [$1.30 USD]
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $3.30 USD
+ Game #9546888582 starts.
+
+#Game No : 9546888582 
+***** Hand History for Game 9546888582 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:30:26 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $17.57 USD )
+Seat 4: Wally5080 ( $10.25 USD )
+Seat 2: coquini ( $6.35 USD )
+Seat 3: pkrOD ( $74.44 USD )
+Seat 1: tima182 ( $11.27 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 4h ]
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD raises [$0.75 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $1.10 USD
+ Game #9546889621 starts.
+
+#Game No : 9546889621 
+***** Hand History for Game 9546889621 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:30:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $17.47 USD )
+Seat 4: Wally5080 ( $10.25 USD )
+Seat 2: coquini ( $6.35 USD )
+Seat 3: pkrOD ( $74.79 USD )
+Seat 1: tima182 ( $11.02 USD )
+tima182 posts small blind [$0.10 USD].
+coquini posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 9c ]
+pkrOD calls [$0.25 USD]
+Wally5080 calls [$0.25 USD]
+KQJJJKA folds
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.15 USD]
+coquini will be using his time bank for this hand.
+coquini checks
+** Dealing Flop ** [ Tc, Js, Kc ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+coquini will be using his time bank for this hand.
+coquini checks
+pkrOD bets [$0.80 USD]
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD does not show cards.
+pkrOD wins $1.99 USD
+ Game #9546893917 starts.
+
+#Game No : 9546893917 
+***** Hand History for Game 9546893917 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:31:45 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $17.22 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $6.10 USD )
+Seat 3: pkrOD ( $75.73 USD )
+Seat 1: tima182 ( $10.77 USD )
+coquini posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 9d ]
+Wally5080 folds
+KQJJJKA folds
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$2.40 USD]
+pkrOD folds
+Pivas folds
+coquini does not show cards.
+coquini wins $3 USD
+ Game #9546895674 starts.
+
+#Game No : 9546895674 
+***** Hand History for Game 9546895674 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:32:12 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $6.60 USD )
+Seat 3: pkrOD ( $75.48 USD )
+Seat 1: tima182 ( $10.77 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 7s ]
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$0.62 USD]
+pkrOD folds
+Wally5080 folds
+coquini does not show cards.
+coquini wins $0.97 USD
+ Game #9546897389 starts.
+
+#Game No : 9546897389 
+***** Hand History for Game 9546897389 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:32:37 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $6.95 USD )
+Seat 3: pkrOD ( $75.38 USD )
+Seat 1: tima182 ( $10.77 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs 4s ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$0.62 USD]
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+coquini does not show cards.
+coquini wins $0.97 USD
+ Game #9546898905 starts.
+
+#Game No : 9546898905 
+***** Hand History for Game 9546898905 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:32:59 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $7.30 USD )
+Seat 3: pkrOD ( $75.38 USD )
+Seat 1: tima182 ( $10.77 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h Jd ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas does not show cards.
+Pivas wins $0.35 USD
+ Game #9546900306 starts.
+
+#Game No : 9546900306 
+***** Hand History for Game 9546900306 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:33:19 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10 USD )
+Seat 6: Pivas ( $17.07 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $7.30 USD )
+Seat 3: pkrOD ( $75.38 USD )
+Seat 1: tima182 ( $10.77 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d Qh ]
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA raises [$0.75 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+KQJJJKA does not show cards.
+KQJJJKA wins $1.10 USD
+ Game #9546902592 starts.
+
+#Game No : 9546902592 
+***** Hand History for Game 9546902592 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:33:53 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $7.30 USD )
+Seat 3: pkrOD ( $75.38 USD )
+Seat 1: tima182 ( $10.52 USD )
+tima182 posts small blind [$0.10 USD].
+coquini posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h Qh ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546904145 starts.
+
+#Game No : 9546904145 
+***** Hand History for Game 9546904145 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:34:14 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $7.05 USD )
+Seat 3: pkrOD ( $75.73 USD )
+Seat 1: tima182 ( $10.42 USD )
+coquini posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd 5d ]
+Wally5080 raises [$1 USD]
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD folds
+Wally5080 does not show cards.
+Wally5080 wins $1.35 USD
+ Game #9546906214 starts.
+
+#Game No : 9546906214 
+***** Hand History for Game 9546906214 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:34:44 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10.35 USD )
+Seat 2: coquini ( $6.95 USD )
+Seat 3: pkrOD ( $75.48 USD )
+Seat 1: tima182 ( $10.42 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 5d ]
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini raises [$0.62 USD]
+pkrOD folds
+Wally5080 folds
+coquini does not show cards.
+coquini wins $0.97 USD
+ Game #9546907617 starts.
+
+#Game No : 9546907617 
+***** Hand History for Game 9546907617 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:35:04 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.35 USD )
+Seat 6: Pivas ( $16.97 USD )
+Seat 4: Wally5080 ( $10.10 USD )
+Seat 2: coquini ( $7.30 USD )
+Seat 3: pkrOD ( $75.38 USD )
+Seat 1: tima182 ( $10.42 USD )
+Wally5080 posts small blind [$0.10 USD].
+KQJJJKA posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 7s ]
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini will be using his time bank for this hand.
+coquini is all-In  [$7.30 USD]
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas folds
+coquini does not show cards.
+coquini wins $8.40 USD
+ Game #9546909599 starts.
+
+#Game No : 9546909599 
+***** Hand History for Game 9546909599 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:35:32 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $10.10 USD )
+Seat 6: Pivas ( $16.22 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $8.40 USD )
+Seat 3: pkrOD ( $75.38 USD )
+Seat 1: tima182 ( $10.42 USD )
+KQJJJKA posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 3d ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+coquini folds
+pkrOD raises [$0.50 USD]
+Wally5080 folds
+KQJJJKA calls [$0.40 USD]
+Pivas folds
+** Dealing Flop ** [ 4s, 2d, Ac ]
+KQJJJKA checks
+pkrOD bets [$0.75 USD]
+KQJJJKA calls [$0.75 USD]
+** Dealing Turn ** [ Kc ]
+KQJJJKA checks
+pkrOD checks
+** Dealing River ** [ Qd ]
+KQJJJKA bets [$1.50 USD]
+pkrOD folds
+KQJJJKA does not show cards.
+KQJJJKA wins $4.12 USD
+ Game #9546912472 starts.
+
+#Game No : 9546912472 
+***** Hand History for Game 9546912472 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:36:15 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $11.47 USD )
+Seat 6: Pivas ( $15.97 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $8.40 USD )
+Seat 3: pkrOD ( $74.13 USD )
+Seat 1: tima182 ( $10.42 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 8h ]
+coquini will be using his time bank for this hand.
+coquini folds
+pkrOD folds
+Wally5080 folds
+KQJJJKA folds
+Pivas calls [$0.15 USD]
+tima182 will be using his time bank for this hand.
+tima182 checks
+** Dealing Flop ** [ 9c, Kd, 4c ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+** Dealing Turn ** [ 7d ]
+Pivas bets [$0.50 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Pivas does not show cards.
+Pivas wins $0.98 USD
+ Game #9546915892 starts.
+
+#Game No : 9546915892 
+***** Hand History for Game 9546915892 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:37:08 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 5: KQJJJKA ( $11.47 USD )
+Seat 6: Pivas ( $16.20 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 2: coquini ( $8.40 USD )
+Seat 3: pkrOD ( $74.13 USD )
+Seat 1: tima182 ( $10.17 USD )
+tima182 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac Ks ]
+Wally5080 folds
+coquini has left the table.
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #9546916927 starts.
+
+#Game No : 9546916927 
+***** Hand History for Game 9546916927 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:37:23 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 5: KQJJJKA ( $11.47 USD )
+Seat 6: Pivas ( $16.20 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $74.23 USD )
+Seat 1: tima182 ( $10.07 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts 9d ]
+KQJJJKA folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD calls [$0.15 USD]
+Wally5080 checks
+** Dealing Flop ** [ 7h, 2d, Ac ]
+pkrOD checks
+Wally5080 checks
+** Dealing Turn ** [ 4c ]
+pkrOD checks
+Wally5080 checks
+** Dealing River ** [ 5s ]
+pkrOD checks
+Wally5080 checks
+pkrOD shows [ Ts, 9d ]high card Ace.
+Wally5080 shows [ Jd, 2s ]a pair of Twos.
+Wally5080 wins $0.48 USD from the main pot with a pair of Twos.
+ Game #9546919009 starts.
+
+#Game No : 9546919009 
+***** Hand History for Game 9546919009 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:37:55 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 5: KQJJJKA ( $11.47 USD )
+Seat 6: Pivas ( $16.20 USD )
+Seat 4: Wally5080 ( $10.23 USD )
+Seat 3: pkrOD ( $73.98 USD )
+Seat 1: tima182 ( $10.07 USD )
+Wally5080 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 9c ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD calls [$0.25 USD]
+Wally5080 calls [$0.15 USD]
+Pivas checks
+** Dealing Flop ** [ Td, Jd, 6h ]
+Riuku71 has joined the table.
+Wally5080 bets [$0.54 USD]
+Pivas folds
+pkrOD raises [$1.50 USD]
+Wally5080 folds
+pkrOD does not show cards.
+pkrOD wins $2.70 USD
+KQJJJKA has left the table.
+ Game #9546921473 starts.
+
+#Game No : 9546921473 
+***** Hand History for Game 9546921473 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:38:33 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $15.95 USD )
+Seat 2: Riuku71 ( $10 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $74.93 USD )
+Seat 1: tima182 ( $10.07 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c Ks ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546922262 starts.
+
+#Game No : 9546922262 
+***** Hand History for Game 9546922262 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:38:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $15.85 USD )
+Seat 2: Riuku71 ( $10 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $75.28 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s Qd ]
+pkrOD folds
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 does not show cards.
+Riuku71 wins $0.35 USD
+ Game #9546923245 starts.
+
+#Game No : 9546923245 
+***** Hand History for Game 9546923245 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:39:02 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $15.85 USD )
+Seat 2: Riuku71 ( $10.10 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $75.28 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs Td ]
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+Riuku71 calls [$0.65 USD]
+pkrOD raises [$1.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 is all-In  [$9.25 USD]
+Riuku71 folds
+pkrOD calls [$8.50 USD]
+** Dealing Flop ** [ Qh, 8c, 9h ]
+** Dealing Turn ** [ Jd ]
+** Dealing River ** [ Qc ]
+pkrOD shows [ Qs, Td ]a straight, Eight to Queen.
+tima182 doesn't show [ Kd, Ac ]a pair of Queens.
+pkrOD wins $19.72 USD from the main pot with a straight, Eight to Queen.
+ Game #9546925613 starts.
+
+#Game No : 9546925613 
+***** Hand History for Game 9546925613 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:39:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $15.85 USD )
+Seat 2: Riuku71 ( $9.35 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $85 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h Tc ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+Wally5080 checks
+** Dealing Flop ** [ 4d, Ks, 4h ]
+pkrOD bets [$1 USD]
+Wally5080 folds
+Riuku71 folds
+pkrOD does not show cards.
+pkrOD wins $1.72 USD
+ Game #9546927872 starts.
+
+#Game No : 9546927872 
+***** Hand History for Game 9546927872 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:40:15 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $15.85 USD )
+Seat 2: Riuku71 ( $9.10 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $85.47 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 4d ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.25 USD]
+pkrOD folds
+Wally5080 folds
+Pivas checks
+** Dealing Flop ** [ Qh, Ts, 9d ]
+Pivas bets [$0.50 USD]
+Riuku71 folds
+Pivas does not show cards.
+Pivas wins $1.07 USD
+ Game #9546929567 starts.
+
+#Game No : 9546929567 
+***** Hand History for Game 9546929567 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:40:40 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $16.17 USD )
+Seat 2: Riuku71 ( $8.85 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $85.47 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 9c ]
+Riuku71 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9546930303 starts.
+
+#Game No : 9546930303 
+***** Hand History for Game 9546930303 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:40:53 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $16.07 USD )
+Seat 2: Riuku71 ( $8.85 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $85.82 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 3d ]
+pkrOD folds
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 does not show cards.
+Riuku71 wins $0.35 USD
+ Game #9546931246 starts.
+
+#Game No : 9546931246 
+***** Hand History for Game 9546931246 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:41:08 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $16.07 USD )
+Seat 2: Riuku71 ( $8.95 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $85.82 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 7c ]
+Wally5080 folds
+Pivas folds
+tima182 folds
+Riuku71 calls [$0.15 USD]
+pkrOD raises [$0.50 USD]
+Riuku71 calls [$0.50 USD]
+** Dealing Flop ** [ Th, Qs, 8s ]
+Riuku71 bets [$0.25 USD]
+pkrOD raises [$1.50 USD]
+Riuku71 calls [$1.25 USD]
+** Dealing Turn ** [ 8d ]
+Riuku71 bets [$3.21 USD]
+pkrOD folds
+Riuku71 does not show cards.
+Riuku71 wins $7.49 USD
+ Game #9546933653 starts.
+
+#Game No : 9546933653 
+***** Hand History for Game 9546933653 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:41:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $16.07 USD )
+Seat 2: Riuku71 ( $10.98 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $83.57 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Qc ]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 raises [$0.50 USD]
+pkrOD raises [$0.65 USD]
+Wally5080 folds
+Pivas folds
+Riuku71 calls [$0.25 USD]
+** Dealing Flop ** [ 5h, 4h, Jc ]
+pkrOD bets [$1.25 USD]
+Riuku71 calls [$1.25 USD]
+** Dealing Turn ** [ 5s ]
+pkrOD bets [$3.55 USD]
+Riuku71 folds
+pkrOD does not show cards.
+pkrOD wins $7.83 USD
+ Game #9546936213 starts.
+
+#Game No : 9546936213 
+***** Hand History for Game 9546936213 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:42:28 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $15.82 USD )
+Seat 2: Riuku71 ( $8.98 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $85.85 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd Js ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD raises [$0.75 USD]
+Wally5080 folds
+Pivas calls [$0.50 USD]
+** Dealing Flop ** [ 6c, 8c, 3d ]
+Pivas checks
+pkrOD bets [$1.25 USD]
+Pivas calls [$1.25 USD]
+** Dealing Turn ** [ Ks ]
+Pivas checks
+pkrOD checks
+** Dealing River ** [ Jh ]
+Pivas bets [$1.75 USD]
+pkrOD calls [$1.75 USD]
+Pivas shows [ Kc, As ]a pair of Kings.
+pkrOD doesn't show [ Qd, Js ]a pair of Jacks.
+Pivas wins $7.22 USD from the main pot with a pair of Kings.
+ Game #9546940049 starts.
+
+#Game No : 9546940049 
+***** Hand History for Game 9546940049 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:43:30 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $19.29 USD )
+Seat 2: Riuku71 ( $8.98 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $82.10 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh 4d ]
+Riuku71 folds
+pkrOD folds
+Wally5080 folds
+Pivas folds
+tima182 does not show cards.
+tima182 wins $0.35 USD
+ Game #9546941010 starts.
+
+#Game No : 9546941010 
+***** Hand History for Game 9546941010 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:43:45 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $19.19 USD )
+Seat 2: Riuku71 ( $8.98 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $82.10 USD )
+Seat 1: tima182 ( $10.10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 7c ]
+pkrOD folds
+Wally5080 raises [$1 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+Wally5080 does not show cards.
+Wally5080 wins $1.35 USD
+ Game #9546942197 starts.
+
+#Game No : 9546942197 
+***** Hand History for Game 9546942197 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:44:04 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $19.19 USD )
+Seat 2: Riuku71 ( $8.73 USD )
+Seat 4: Wally5080 ( $10.35 USD )
+Seat 3: pkrOD ( $82.10 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Ts ]
+Wally5080 folds
+Pivas raises [$1 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ Kh, 6h, 4d ]
+pkrOD bets [$2 USD]
+Pivas calls [$2 USD]
+** Dealing Turn ** [ 3h ]
+pkrOD checks
+Pivas bets [$3 USD]
+pkrOD calls [$3 USD]
+** Dealing River ** [ 4s ]
+pkrOD checks
+Pivas checks
+pkrOD shows [ Ah, Ts ]a pair of Fours.
+Pivas shows [ Qd, As ]a pair of Fours with Queen kicker.
+Pivas wins $11.50 USD from the main pot with a pair of Fours with Queen kicker.
+ Game #9546945741 starts.
+
+#Game No : 9546945741 
+***** Hand History for Game 9546945741 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:45:02 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $24.69 USD )
+Seat 2: Riuku71 ( $8.63 USD )
+Seat 4: Wally5080 ( $10.35 USD )
+Seat 3: pkrOD ( $76.10 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s Kd ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+Riuku71 calls [$0.75 USD]
+pkrOD folds
+Wally5080 folds
+** Dealing Flop ** [ Ad, 9h, 7c ]
+tima182 will be using his time bank for this hand.
+tima182 bets [$0.88 USD]
+Riuku71 folds
+tima182 does not show cards.
+tima182 wins $2.64 USD
+ Game #9546947252 starts.
+
+#Game No : 9546947252 
+***** Hand History for Game 9546947252 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:45:25 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 5: COUNT_TRON ( $0 USD )
+Seat 6: Pivas ( $24.69 USD )
+Seat 2: Riuku71 ( $7.88 USD )
+Seat 4: Wally5080 ( $10.10 USD )
+Seat 3: pkrOD ( $76 USD )
+Seat 1: tima182 ( $11.01 USD )
+Wally5080 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 8d ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD folds
+Wally5080 folds
+Pivas does not show cards.
+Pivas wins $0.35 USD
+ Game #9546948740 starts.
+
+#Game No : 9546948740 
+***** Hand History for Game 9546948740 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:45:49 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $24.79 USD )
+Seat 2: Riuku71 ( $7.88 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $76 USD )
+Seat 1: tima182 ( $11.01 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs 4d ]
+Riuku71 folds
+pkrOD folds
+Wally5080 folds
+Pivas folds
+tima182 does not show cards.
+tima182 wins $0.35 USD
+ Game #9546949421 starts.
+
+#Game No : 9546949421 
+***** Hand History for Game 9546949421 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:46:00 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $24.69 USD )
+Seat 2: Riuku71 ( $7.88 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $76 USD )
+Seat 1: tima182 ( $11.11 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 5d ]
+pkrOD folds
+Wally5080 folds
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+Pivas does not show cards.
+Pivas wins $1.10 USD
+ Game #9546951610 starts.
+
+#Game No : 9546951610 
+***** Hand History for Game 9546951610 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:46:35 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $25.04 USD )
+Seat 2: Riuku71 ( $7.63 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $76 USD )
+Seat 1: tima182 ( $11.01 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 6s ]
+Wally5080 folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.15 USD]
+pkrOD raises [$0.75 USD]
+Riuku71 folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #9546952743 starts.
+
+#Game No : 9546952743 
+***** Hand History for Game 9546952743 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:46:54 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $25.04 USD )
+Seat 2: Riuku71 ( $7.38 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $76.25 USD )
+Seat 1: tima182 ( $11.01 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 9c ]
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD calls [$0.65 USD]
+Wally5080 folds
+** Dealing Flop ** [ Kd, As, 3c ]
+pkrOD bets [$1.45 USD]
+Pivas calls [$1.45 USD]
+** Dealing Turn ** [ 8s ]
+pkrOD checks
+Pivas checks
+** Dealing River ** [ Qd ]
+pkrOD checks
+Pivas checks
+pkrOD shows [ Ks, 9c ]a pair of Kings.
+Pivas shows [ Jh, Kc ]a pair of Kings with Jack kicker.
+Pivas wins $4.42 USD from the main pot with a pair of Kings with Jack kicker.
+ Game #9546955119 starts.
+
+#Game No : 9546955119 
+***** Hand History for Game 9546955119 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:47:32 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $27.26 USD )
+Seat 2: Riuku71 ( $7.38 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $74.05 USD )
+Seat 1: tima182 ( $11.01 USD )
+Wally5080 posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 5h ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.25 USD]
+pkrOD raises [$1 USD]
+Wally5080 folds
+Pivas folds
+Riuku71 calls [$0.75 USD]
+** Dealing Flop ** [ 8s, 3h, Tc ]
+Riuku71 bets [$1.12 USD]
+pkrOD calls [$1.12 USD]
+** Dealing Turn ** [ Jc ]
+Riuku71 bets [$2.18 USD]
+pkrOD folds
+Riuku71 does not show cards.
+Riuku71 wins $6.55 USD
+ Game #9546956953 starts.
+
+#Game No : 9546956953 
+***** Hand History for Game 9546956953 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:48:02 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $27.01 USD )
+Seat 2: Riuku71 ( $9.63 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 3: pkrOD ( $71.93 USD )
+Seat 1: tima182 ( $11.01 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Js ]
+Riuku71 did not respond in time
+Riuku71 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+Pivas calls [$0.90 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.75 USD]
+** Dealing Flop ** [ Ac, 6c, 8c ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD bets [$1.88 USD]
+Pivas calls [$1.88 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$1.88 USD]
+** Dealing Turn ** [ 9s ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD bets [$12 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $20.21 USD
+ Game #9546961295 starts.
+
+#Game No : 9546961295 
+***** Hand History for Game 9546961295 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:49:13 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.13 USD )
+Seat 2: Riuku71 ( $9.63 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $0 USD )
+Seat 3: pkrOD ( $77.26 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 6h ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman has joined the table.
+Pivas calls [$1 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+** Dealing Flop ** [ 9c, 9s, Kh ]
+pkrOD bets [$2.50 USD]
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $4.74 USD
+ Game #9546962530 starts.
+
+#Game No : 9546962530 
+***** Hand History for Game 9546962530 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:49:34 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $23.13 USD )
+Seat 2: Riuku71 ( $9.38 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $10 USD )
+Seat 3: pkrOD ( $78.50 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 8d ]
+Wally5080 folds
+Pivas raises [$1 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 2c, 4h, 2h ]
+pkrOD bets [$2 USD]
+Pivas calls [$2 USD]
+** Dealing Turn ** [ 7s ]
+pkrOD bets [$5 USD]
+Pivas calls [$5 USD]
+** Dealing River ** [ Ad ]
+pkrOD checks
+Pivas bets [$5 USD]
+pkrOD folds
+Pivas does not show cards.
+Pivas wins $20.30 USD
+ Game #9546965551 starts.
+
+#Game No : 9546965551 
+***** Hand History for Game 9546965551 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:50:23 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.43 USD )
+Seat 2: Riuku71 ( $9.28 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $10 USD )
+Seat 3: pkrOD ( $70.50 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 2d ]
+cormacman checks
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 raises [$0.50 USD]
+pkrOD folds
+Wally5080 folds
+cormacman calls [$0.25 USD]
+** Dealing Flop ** [ Qh, 4d, 7c ]
+cormacman checks
+Riuku71 bets [$0.25 USD]
+cormacman calls [$0.25 USD]
+** Dealing Turn ** [ Th ]
+cormacman checks
+Riuku71 bets [$0.25 USD]
+cormacman calls [$0.25 USD]
+** Dealing River ** [ 5h ]
+cormacman checks
+Riuku71 bets [$1.68 USD]
+cormacman folds
+Riuku71 does not show cards.
+Riuku71 wins $3.92 USD
+ Game #9546968489 starts.
+
+#Game No : 9546968489 
+***** Hand History for Game 9546968489 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:51:11 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.43 USD )
+Seat 2: Riuku71 ( $10.52 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $9 USD )
+Seat 3: pkrOD ( $70.40 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 2c ]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD folds
+Wally5080 folds
+cormacman checks
+** Dealing Flop ** [ 6c, 5c, 9s ]
+cormacman bets [$0.25 USD]
+Pivas folds
+cormacman does not show cards.
+cormacman wins $0.82 USD
+ Game #9546970359 starts.
+
+#Game No : 9546970359 
+***** Hand History for Game 9546970359 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:51:41 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.18 USD )
+Seat 2: Riuku71 ( $10.52 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $9.32 USD )
+Seat 3: pkrOD ( $70.40 USD )
+Seat 1: tima182 ( $10 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 8s ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.25 USD]
+pkrOD raises [$1.50 USD]
+Wally5080 folds
+cormacman calls [$1.40 USD]
+Pivas calls [$1.25 USD]
+Riuku71 folds
+** Dealing Flop ** [ 4c, 8h, 4s ]
+cormacman checks
+Pivas bets [$3.25 USD]
+pkrOD raises [$7 USD]
+cormacman folds
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $14.44 USD
+ Game #9546973292 starts.
+
+#Game No : 9546973292 
+***** Hand History for Game 9546973292 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:52:29 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $25.43 USD )
+Seat 2: Riuku71 ( $10.27 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $7.82 USD )
+Seat 3: pkrOD ( $76.34 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 3c ]
+Riuku71 folds
+pkrOD raises [$1.20 USD]
+Wally5080 folds
+cormacman calls [$1.20 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+** Dealing Flop ** [ 8d, Qc, Kd ]
+pkrOD bets [$2 USD]
+cormacman calls [$2 USD]
+** Dealing Turn ** [ Jc ]
+pkrOD checks
+cormacman checks
+** Dealing River ** [ 5h ]
+pkrOD bets [$3 USD]
+cormacman is all-In  [$4.62 USD]
+pkrOD folds
+cormacman does not show cards.
+cormacman wins $13.74 USD
+ Game #9546976410 starts.
+
+#Game No : 9546976410 
+***** Hand History for Game 9546976410 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:53:21 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $25.33 USD )
+Seat 2: Riuku71 ( $10.27 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $13.74 USD )
+Seat 3: pkrOD ( $70.14 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Ah ]
+pkrOD raises [$1.50 USD]
+Wally5080 calls [$1.50 USD]
+cormacman folds
+Pivas calls [$1.50 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+** Dealing Flop ** [ 2d, Qs, 9d ]
+pkrOD bets [$4 USD]
+Wally5080 folds
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $8.61 USD
+ Game #9546978784 starts.
+
+#Game No : 9546978784 
+***** Hand History for Game 9546978784 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:54:00 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $23.83 USD )
+Seat 2: Riuku71 ( $10.02 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $13.74 USD )
+Seat 3: pkrOD ( $73.25 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac Ts ]
+Wally5080 folds
+cormacman did not respond in time
+cormacman folds
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.15 USD]
+pkrOD raises [$0.95 USD]
+Pivas calls [$0.95 USD]
+Riuku71 folds
+** Dealing Flop ** [ Tc, Qh, 5s ]
+pkrOD bets [$2 USD]
+Pivas calls [$2 USD]
+** Dealing Turn ** [ 2d ]
+pkrOD bets [$4 USD]
+Pivas calls [$4 USD]
+** Dealing River ** [ 8s ]
+pkrOD bets [$5 USD]
+Pivas calls [$5 USD]
+pkrOD shows [ Ac, Ts ]a pair of Tens.
+Pivas shows [ Ah, Td ]a pair of Tens.
+pkrOD wins $11.71 USD from the main pot with a pair of Tens.
+Pivas wins $11.71 USD from the main pot with a pair of Tens.
+ Game #9546983380 starts.
+
+#Game No : 9546983380 
+***** Hand History for Game 9546983380 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:55:16 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $23.34 USD )
+Seat 2: Riuku71 ( $9.77 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $13.74 USD )
+Seat 3: pkrOD ( $72.76 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c Jh ]
+cormacman calls [$0.25 USD]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD folds
+Wally5080 checks
+** Dealing Flop ** [ 2h, Ks, 9d ]
+Wally5080 checks
+cormacman checks
+Pivas bets [$0.50 USD]
+Wally5080 folds
+cormacman calls [$0.50 USD]
+** Dealing Turn ** [ 2s ]
+cormacman bets [$0.25 USD]
+Pivas calls [$0.25 USD]
+** Dealing River ** [ Kd ]
+cormacman bets [$1.68 USD]
+Pivas folds
+cormacman does not show cards.
+cormacman wins $3.92 USD
+ Game #9546987592 starts.
+
+#Game No : 9546987592 
+***** Hand History for Game 9546987592 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:56:36 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $22.34 USD )
+Seat 2: Riuku71 ( $9.77 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $14.98 USD )
+Seat 3: pkrOD ( $72.66 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 9c ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$0.25 USD]
+pkrOD raises [$0.70 USD]
+Wally5080 folds
+cormacman calls [$0.45 USD]
+Riuku71 calls [$0.45 USD]
+** Dealing Flop ** [ 2h, 6c, Qs ]
+cormacman checks
+Riuku71 checks
+pkrOD bets [$2 USD]
+cormacman calls [$2 USD]
+Riuku71 folds
+** Dealing Turn ** [ Jh ]
+cormacman checks
+pkrOD checks
+** Dealing River ** [ 3h ]
+cormacman bets [$4.41 USD]
+pkrOD folds
+cormacman does not show cards.
+cormacman wins $10.30 USD
+ Game #9546991353 starts.
+
+#Game No : 9546991353 
+***** Hand History for Game 9546991353 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:57:53 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $22.34 USD )
+Seat 2: Riuku71 ( $9.07 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.17 USD )
+Seat 3: pkrOD ( $69.96 USD )
+Seat 1: tima182 ( $10 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc Kd ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman folds
+Pivas calls [$0.75 USD]
+** Dealing Flop ** [ As, 9d, 5c ]
+Pivas checks
+pkrOD checks
+** Dealing Turn ** [ Ad ]
+Pivas bets [$1 USD]
+pkrOD raises [$2 USD]
+Pivas calls [$1 USD]
+** Dealing River ** [ 8c ]
+Pivas checks
+pkrOD bets [$2.50 USD]
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $8.30 USD
+ Game #9546993991 starts.
+
+#Game No : 9546993991 
+***** Hand History for Game 9546993991 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:58:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $19.34 USD )
+Seat 2: Riuku71 ( $9.07 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.07 USD )
+Seat 3: pkrOD ( $72.76 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 2h ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+Pivas calls [$1 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+** Dealing Flop ** [ 5d, 8s, 4c ]
+pkrOD bets [$6 USD]
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $8.24 USD
+ Game #9546995001 starts.
+
+#Game No : 9546995001 
+***** Hand History for Game 9546995001 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:59:06 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $18.34 USD )
+Seat 2: Riuku71 ( $8.82 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.07 USD )
+Seat 3: pkrOD ( $74 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 6d ]
+Wally5080 folds
+cormacman calls [$0.25 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD checks
+** Dealing Flop ** [ Qc, 3c, 2s ]
+pkrOD bets [$0.50 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $1.07 USD
+ Game #9546996383 starts.
+
+#Game No : 9546996383 
+***** Hand History for Game 9546996383 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 15:59:35 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $18.34 USD )
+Seat 2: Riuku71 ( $8.72 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.82 USD )
+Seat 3: pkrOD ( $74.32 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 2d ]
+cormacman calls [$0.25 USD]
+Pivas folds
+tima182 folds
+Riuku71 raises [$0.50 USD]
+pkrOD raises [$2.40 USD]
+Wally5080 folds
+cormacman folds
+Riuku71 calls [$2 USD]
+** Dealing Flop ** [ 3d, Qc, 2s ]
+pkrOD bets [$4 USD]
+Riuku71 is all-In  [$6.22 USD]
+pkrOD calls [$2.22 USD]
+** Dealing Turn ** [ 6c ]
+** Dealing River ** [ 5h ]
+pkrOD shows [ Ad, 2d ]a pair of Twos.
+Riuku71 shows [ Jd, Qs ]a pair of Queens.
+Riuku71 wins $17.05 USD from the main pot with a pair of Queens.
+ Game #9546998305 starts.
+
+#Game No : 9546998305 
+***** Hand History for Game 9546998305 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:00:14 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $18.34 USD )
+Seat 2: Riuku71 ( $17.05 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.57 USD )
+Seat 3: pkrOD ( $65.60 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 4c ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9547000029 starts.
+
+#Game No : 9547000029 
+***** Hand History for Game 9547000029 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:00:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $18.34 USD )
+Seat 2: Riuku71 ( $17.05 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.32 USD )
+Seat 3: pkrOD ( $65.95 USD )
+Seat 1: tima182 ( $10 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 2c ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman folds
+Pivas calls [$0.75 USD]
+** Dealing Flop ** [ Ks, 5d, 6c ]
+Pivas checks
+pkrOD bets [$2 USD]
+Pivas calls [$2 USD]
+** Dealing Turn ** [ 3c ]
+Pivas checks
+pkrOD bets [$4 USD]
+Pivas raises [$8.50 USD]
+pkrOD folds
+Pivas does not show cards.
+Pivas wins $17.90 USD
+ Game #9547002633 starts.
+
+#Game No : 9547002633 
+***** Hand History for Game 9547002633 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:01:36 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.74 USD )
+Seat 2: Riuku71 ( $17.05 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.22 USD )
+Seat 3: pkrOD ( $58.95 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 2d ]
+Riuku71 folds
+pkrOD folds
+Wally5080 folds
+cormacman raises [$0.50 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+cormacman does not show cards.
+cormacman wins $0.85 USD
+ Game #9547003978 starts.
+
+#Game No : 9547003978 
+***** Hand History for Game 9547003978 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:02:01 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.64 USD )
+Seat 2: Riuku71 ( $17.05 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.57 USD )
+Seat 3: pkrOD ( $58.95 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s 6s ]
+pkrOD calls [$0.25 USD]
+Wally5080 did not respond in time
+Wally5080 folds
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.15 USD]
+Riuku71 checks
+** Dealing Flop ** [ Tc, 3s, 7s ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+Riuku71 checks
+pkrOD bets [$0.70 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD does not show cards.
+pkrOD wins $1.42 USD
+ Game #9547006388 starts.
+
+#Game No : 9547006388 
+***** Hand History for Game 9547006388 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:02:42 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.64 USD )
+Seat 2: Riuku71 ( $16.80 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.57 USD )
+Seat 3: pkrOD ( $59.42 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 8h ]
+Wally5080 folds
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 raises [$0.40 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ 7h, Qd, 7d ]
+Riuku71 checks
+pkrOD bets [$1 USD]
+Riuku71 raises [$2 USD]
+pkrOD folds
+Riuku71 does not show cards.
+Riuku71 wins $3.85 USD
+ Game #9547008396 starts.
+
+#Game No : 9547008396 
+***** Hand History for Game 9547008396 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:03:14 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.64 USD )
+Seat 2: Riuku71 ( $18.15 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.57 USD )
+Seat 3: pkrOD ( $57.92 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 7c ]
+cormacman calls [$0.25 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD folds
+Wally5080 checks
+** Dealing Flop ** [ 5d, Js, Ts ]
+Wally5080 checks
+cormacman checks
+** Dealing Turn ** [ Kh ]
+Wally5080 checks
+cormacman checks
+** Dealing River ** [ Ad ]
+Wally5080 checks
+cormacman bets [$0.25 USD]
+Wally5080 folds
+cormacman does not show cards.
+cormacman wins $0.82 USD
+ Game #9547011181 starts.
+
+#Game No : 9547011181 
+***** Hand History for Game 9547011181 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:03:58 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.64 USD )
+Seat 2: Riuku71 ( $18.15 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.89 USD )
+Seat 3: pkrOD ( $57.82 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 7c ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 folds
+pkrOD raises [$0.50 USD]
+Wally5080 folds
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $0.85 USD
+ Game #9547012439 starts.
+
+#Game No : 9547012439 
+***** Hand History for Game 9547012439 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:04:17 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.64 USD )
+Seat 2: Riuku71 ( $18.15 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $17.64 USD )
+Seat 3: pkrOD ( $58.17 USD )
+Seat 1: tima182 ( $10 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d Tc ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 raises [$0.50 USD]
+pkrOD folds
+Wally5080 folds
+cormacman calls [$0.40 USD]
+Pivas folds
+** Dealing Flop ** [ 9h, 2d, 9s ]
+cormacman bets [$0.89 USD]
+Riuku71 folds
+cormacman does not show cards.
+cormacman wins $2.08 USD
+ Game #9547014622 starts.
+
+#Game No : 9547014622 
+***** Hand History for Game 9547014622 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:04:51 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.39 USD )
+Seat 2: Riuku71 ( $17.65 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.33 USD )
+Seat 3: pkrOD ( $58.17 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 6s ]
+Riuku71 folds
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+cormacman folds
+Pivas calls [$0.15 USD]
+tima182 will be using his time bank for this hand.
+tima182 checks
+** Dealing Flop ** [ 4h, 5s, 2h ]
+Pivas bets [$0.72 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.72 USD]
+pkrOD raises [$1.50 USD]
+Pivas calls [$0.78 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.78 USD]
+** Dealing Turn ** [ Ah ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD bets [$4 USD]
+Pivas calls [$4 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+** Dealing River ** [ 8c ]
+Pivas checks
+pkrOD bets [$8 USD]
+Pivas calls [$8 USD]
+pkrOD shows [ 7d, 6s ]a straight, Four to Eight.
+Pivas doesn't show [ As, 5d ]two pairs, Aces and Fives.
+pkrOD wins $27.79 USD from the main pot with a straight, Four to Eight.
+ Game #9547019737 starts.
+
+#Game No : 9547019737 
+***** Hand History for Game 9547019737 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:06:10 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $10.64 USD )
+Seat 2: Riuku71 ( $17.65 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.33 USD )
+Seat 3: pkrOD ( $72.21 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+Riuku71 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd As ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+pkrOD: gotcha
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+pkrOD: finally
+tima182 folds
+Riuku71 folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+lol
+ Game #9547020601 starts.
+
+#Game No : 9547020601 
+***** Hand History for Game 9547020601 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:06:25 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $10.64 USD )
+Seat 2: Riuku71 ( $17.40 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.33 USD )
+Seat 3: pkrOD ( $72.56 USD )
+Seat 1: tima182 ( $10 USD )
+Riuku71 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Ad ]
+Wally5080 folds
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+Pivas: bad river!!
+tima182 folds
+pkrOD: bad turn too
+Riuku71 folds
+pkrOD does not show cards.
+pkrOD wins $0.35 USD
+ Game #9547021983 starts.
+
+#Game No : 9547021983 
+***** Hand History for Game 9547021983 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:06:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $10.64 USD )
+Seat 2: Riuku71 ( $17.30 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.33 USD )
+Seat 3: pkrOD ( $72.66 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 6c ]
+cormacman calls [$0.25 USD]
+pkrOD: and out of position didnt favor u
+Pivas raises [$0.75 USD]
+tima182 will be using his time bank for this hand.
+pkrOD: gave away that u didnt have the flush
+tima182 folds
+Riuku71 calls [$0.75 USD]
+pkrOD folds
+Wally5080 folds
+cormacman raises [$1 USD]
+Pivas calls [$0.50 USD]
+Riuku71 calls [$0.50 USD]
+** Dealing Flop ** [ 7d, 7s, 4d ]
+pkrOD: and slow playing
+cormacman bets [$3.90 USD]
+Pivas folds
+Riuku71 calls [$3.90 USD]
+** Dealing Turn ** [ Td ]
+cormacman checks
+Riuku71 checks
+** Dealing River ** [ 3s ]
+cormacman bets [$12.25 USD]
+Riuku71 is all-In  [$12.15 USD]
+cormacman shows [ As, Qh ]a pair of Sevens.
+Riuku71 shows [ Jd, Kd ]a flush, King high.
+cormacman wins $0.10 USD from the side pot 1 with a pair of Sevens.
+Riuku71 wins $34.39 USD from the main pot with a flush, King high.
+ Game #9547025961 starts.
+
+#Game No : 9547025961 
+***** Hand History for Game 9547025961 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:07:48 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $9.39 USD )
+Seat 2: Riuku71 ( $34.39 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $1.03 USD )
+Seat 3: pkrOD ( $72.56 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d 9s ]
+Pivas raises [$1 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Riuku71 calls [$1 USD]
+pkrOD folds
+Wally5080 folds
+cormacman calls [$0.75 USD]
+** Dealing Flop ** [ Ac, 3c, 9d ]
+cormacman is all-In  [$0.03 USD]
+Pivas bets [$1 USD]
+Riuku71 folds
+** Dealing Turn ** [ 4d ]
+** Dealing River ** [ 2h ]
+Pivas shows [ Kh, Ad ]a pair of Aces.
+cormacman doesn't show [ 6d, 4c ]a pair of Fours.
+Pivas wins $0.97 USD from the side pot 1 with a pair of Aces.
+Pivas wins $3.01 USD from the main pot with a pair of Aces.
+ Game #9547028844 starts.
+
+#Game No : 9547028844 
+***** Hand History for Game 9547028844 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:08:34 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $11.37 USD )
+Seat 2: Riuku71 ( $33.39 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $8.97 USD )
+Seat 3: pkrOD ( $72.56 USD )
+Seat 1: tima182 ( $10 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 8c ]
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+Riuku71 folds
+pkrOD folds
+Wally5080 folds
+cormacman will be using his time bank for this hand.
+cormacman folds
+Pivas calls [$0.50 USD]
+** Dealing Flop ** [ 5d, Kh, 4s ]
+Pivas checks
+tima182 will be using his time bank for this hand.
+tima182 bets [$0.76 USD]
+Pivas folds
+tima182 does not show cards.
+tima182 wins $2.28 USD
+ Game #9547030477 starts.
+
+#Game No : 9547030477 
+***** Hand History for Game 9547030477 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:08:59 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $10.62 USD )
+Seat 2: Riuku71 ( $33.39 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $8.87 USD )
+Seat 3: pkrOD ( $72.56 USD )
+Seat 1: tima182 ( $10.77 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 4h ]
+Riuku71 folds
+pkrOD raises [$0.70 USD]
+Wally5080 folds
+cormacman raises [$2.30 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD calls [$1.60 USD]
+** Dealing Flop ** [ 5c, Kh, 9c ]
+pkrOD checks
+cormacman checks
+** Dealing Turn ** [ Tc ]
+pkrOD bets [$3 USD]
+cormacman raises [$6 USD]
+pkrOD calls [$3 USD]
+** Dealing River ** [ Ac ]
+pkrOD checks
+cormacman is all-In  [$0.57 USD]
+pkrOD folds
+cormacman does not show cards.
+cormacman wins $16.68 USD
+Riuku71 has left the table.
+ Game #9547035709 starts.
+
+#Game No : 9547035709 
+***** Hand History for Game 9547035709 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:10:24 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $10.52 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $16.68 USD )
+Seat 3: pkrOD ( $64.26 USD )
+Seat 1: tima182 ( $10.52 USD )
+tima182 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd 9h ]
+Wally5080 folds
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+pkrOD: clubs?
+tima182 raises [$0.90 USD]
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 9d, 2d, 4c ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+pkrOD bets [$1.20 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $3.10 USD
+ Game #9547038838 starts.
+
+#Game No : 9547038838 
+***** Hand History for Game 9547038838 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:11:16 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $10.52 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $16.68 USD )
+Seat 3: pkrOD ( $65.16 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 2s ]
+cormacman calls [$0.25 USD]
+Pivas raises [$0.50 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.50 USD]
+pkrOD calls [$0.40 USD]
+Wally5080 calls [$0.25 USD]
+cormacman raises [$2 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD calls [$1.75 USD]
+Wally5080 folds
+** Dealing Flop ** [ 7d, 7h, 9h ]
+pkrOD checks
+cormacman bets [$5.70 USD]
+pkrOD folds
+cormacman does not show cards.
+cormacman wins $11.40 USD
+ Game #9547042326 starts.
+
+#Game No : 9547042326 
+***** Hand History for Game 9547042326 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:12:14 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 6: Pivas ( $10.02 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $20.13 USD )
+Seat 3: pkrOD ( $62.91 USD )
+Seat 1: tima182 ( $10 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 4c ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman calls [$0.75 USD]
+** Dealing Flop ** [ 3h, 8c, Js ]
+fulassss has joined the table.
+cormacman checks
+pkrOD bets [$2 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $4 USD
+ Game #9547044290 starts.
+
+#Game No : 9547044290 
+***** Hand History for Game 9547044290 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:12:49 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $10.02 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $19.13 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $63.91 USD )
+Seat 1: tima182 ( $10 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6c 9c ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman calls [$0.90 USD]
+Pivas folds
+** Dealing Flop ** [ Jh, 7c, 8d ]
+cormacman checks
+pkrOD bets [$2 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $4.14 USD
+ Game #9547046288 starts.
+
+#Game No : 9547046288 
+***** Hand History for Game 9547046288 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:13:22 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $9.77 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $18.13 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $65.05 USD )
+Seat 1: tima182 ( $10 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kh Ts ]
+pkrOD raises [$0.50 USD]
+Wally5080 folds
+cormacman raises [$1.50 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD raises [$17.50 USD]
+cormacman is all-In  [$16.63 USD]
+pkrOD calls [$0.13 USD]
+** Dealing Flop ** [ 9d, 6c, 6h ]
+** Dealing Turn ** [ 5d ]
+** Dealing River ** [ Jc ]
+pkrOD shows [ Kh, Ts ]a pair of Sixes.
+cormacman shows [ Ad, Qs ]a pair of Sixes with Ace kicker.
+cormacman wins $34.78 USD from the main pot with a pair of Sixes with Ace kicker.
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+ Game #9547048671 starts.
+
+#Game No : 9547048671 
+***** Hand History for Game 9547048671 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:14:01 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $9.67 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.78 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $46.92 USD )
+Seat 1: tima182 ( $10 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 6d ]
+pkrOD raises [$0.50 USD]
+Wally5080 calls [$0.50 USD]
+pkrOD: lameeeee
+cormacman: hahahhahaha
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+pkrOD: broke the golden rule
+tima182 folds
+fulassss folds
+** Dealing Flop ** [ Qh, 6h, 3s ]
+pkrOD bets [$3 USD]
+Wally5080 folds
+pkrOD does not show cards.
+pkrOD wins $4.29 USD
+ Game #9547050946 starts.
+
+#Game No : 9547050946 
+***** Hand History for Game 9547050946 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:14:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $9.67 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.78 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $47.71 USD )
+Seat 1: tima182 ( $10 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 3d ]
+Wally5080 folds
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss calls [$0.15 USD]
+cormacman: yea whats that
+pkrOD raises [$0.75 USD]
+fulassss calls [$0.75 USD]
+** Dealing Flop ** [ Qc, Kc, Qh ]
+pkrOD: whats what?
+fulassss checks
+pkrOD bets [$5 USD]
+fulassss calls [$5 USD]
+** Dealing Turn ** [ Td ]
+fulassss checks
+pkrOD bets [$5 USD]
+fulassss is all-In  [$4 USD]
+** Dealing River ** [ 5s ]
+pkrOD shows [ Qd, 3d ]three of a kind, Queens.
+fulassss shows [ Qs, Ks ]a full house, Queens full of Kings.
+pkrOD wins $1 USD from the side pot 1 with three of a kind, Queens.
+fulassss wins $19 USD from the main pot with a full house, Queens full of Kings.
+ Game #9547055146 starts.
+
+#Game No : 9547055146 
+***** Hand History for Game 9547055146 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:15:49 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $9.67 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.78 USD )
+Seat 2: fulassss ( $19 USD )
+Seat 3: pkrOD ( $37.71 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 3s ]
+pkrOD: christ.. some one hates me
+cormacman folds
+Pivas folds
+pkrOD: lol
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+fulassss folds
+pkrOD folds
+Wally5080 folds
+tima182 does not show cards.
+tima182 wins $1.10 USD
+ Game #9547056245 starts.
+
+#Game No : 9547056245 
+***** Hand History for Game 9547056245 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:16:07 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $9.67 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.78 USD )
+Seat 2: fulassss ( $19 USD )
+Seat 3: pkrOD ( $37.61 USD )
+Seat 1: tima182 ( $10.35 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 4s ]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD raises [$1 USD]
+cormacman: god does loseer lol
+Wally5080 folds
+cormacman folds
+Pivas calls [$0.75 USD]
+** Dealing Flop ** [ Jc, 7c, Ac ]
+Pivas checks
+pkrOD bets [$2 USD]
+Pivas folds
+pkrOD does not show cards.
+pkrOD wins $4.24 USD
+ Game #9547058119 starts.
+
+#Game No : 9547058119 
+***** Hand History for Game 9547058119 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:16:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $8.67 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.53 USD )
+Seat 2: fulassss ( $19 USD )
+Seat 3: pkrOD ( $38.85 USD )
+Seat 1: tima182 ( $10.35 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 8h ]
+tima182 will be using his time bank for this hand.
+pkrOD: when u reach $80 let me know :P
+tima182 folds
+fulassss folds
+pkrOD raises [$1 USD]
+Wally5080 calls [$1 USD]
+cormacman calls [$0.90 USD]
+Pivas folds
+** Dealing Flop ** [ 6c, Qh, 6s ]
+cormacman checks
+pkrOD bets [$5 USD]
+Wally5080 folds
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $8.09 USD
+ Game #9547059843 starts.
+
+#Game No : 9547059843 
+***** Hand History for Game 9547059843 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:17:09 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $8.42 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $33.53 USD )
+Seat 2: fulassss ( $19 USD )
+Seat 3: pkrOD ( $40.94 USD )
+Seat 1: tima182 ( $10.35 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 8s ]
+fulassss folds
+pkrOD folds
+Wally5080 folds
+cormacman folds
+Pivas calls [$0.15 USD]
+tima182 will be using his time bank for this hand.
+tima182 checks
+** Dealing Flop ** [ 9h, Ac, Td ]
+Pivas bets [$0.50 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+Pivas does not show cards.
+Pivas wins $0.98 USD
+ Game #9547060997 starts.
+
+#Game No : 9547060997 
+***** Hand History for Game 9547060997 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:17:29 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $8.65 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $33.53 USD )
+Seat 2: fulassss ( $19 USD )
+Seat 3: pkrOD ( $40.94 USD )
+Seat 1: tima182 ( $10.10 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 5s ]
+pkrOD folds
+Wally5080 folds
+cormacman calls [$0.25 USD]
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.15 USD]
+fulassss checks
+** Dealing Flop ** [ 4d, Ah, 6h ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+fulassss checks
+cormacman checks
+Pivas checks
+** Dealing Turn ** [ Ks ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+fulassss checks
+cormacman checks
+Pivas checks
+** Dealing River ** [ Qh ]
+tima182 will be using his time bank for this hand.
+tima182 checks
+fulassss checks
+cormacman bets [$0.47 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+cormacman does not show cards.
+cormacman wins $1.42 USD
+ Game #9547064217 starts.
+
+#Game No : 9547064217 
+***** Hand History for Game 9547064217 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:18:25 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $8.40 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.23 USD )
+Seat 2: fulassss ( $18.75 USD )
+Seat 3: pkrOD ( $40.94 USD )
+Seat 1: tima182 ( $10 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 4s ]
+Wally5080 calls [$0.25 USD]
+cormacman folds
+Pivas calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 8c, Td, 4h ]
+fulassss checks
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD bets [$1 USD]
+Wally5080 calls [$1 USD]
+Pivas calls [$1 USD]
+fulassss folds
+** Dealing Turn ** [ Ks ]
+pkrOD bets [$4 USD]
+Wally5080 calls [$4 USD]
+Pivas is all-In  [$7.15 USD]
+pkrOD calls [$3.15 USD]
+Wally5080 calls [$3.15 USD]
+** Dealing River ** [ 8d ]
+pkrOD checks
+Wally5080 is all-In  [$1.60 USD]
+pkrOD folds
+Wally5080 shows [ 4c, 4d ]a full house, Fours full of Eights.
+Pivas shows [ 8h, 8s ]four of a kind, Eights.
+Wally5080 wins $1.60 USD from the side pot 1 with a full house, Fours full of Eights.
+Pivas wins $24.18 USD from the main pot with four of a kind, Eights.
+ Game #9547068694 starts.
+
+#Game No : 9547068694 
+***** Hand History for Game 9547068694 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:19:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.18 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.23 USD )
+Seat 2: fulassss ( $18.50 USD )
+Seat 3: pkrOD ( $32.54 USD )
+Seat 1: tima182 ( $10 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 6h ]
+pkrOD: pmg
+pkrOD: pml**
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+fulassss folds
+pkrOD raises [$1.15 USD]
+Wally5080 folds
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.50 USD]
+** Dealing Flop ** [ Td, 5d, Qh ]
+pkrOD: why am i the only one betting
+pkrOD bets [$3 USD]
+tima182 will be using his time bank for this hand.
+Wally5080: u kn ow slowplay ;)
+tima182 is all-In  [$8.75 USD]
+pkrOD folds
+tima182 does not show cards.
+tima182 wins $14.07 USD
+ Game #9547070806 starts.
+
+#Game No : 9547070806 
+***** Hand History for Game 9547070806 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:20:23 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.18 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $34.23 USD )
+Seat 2: fulassss ( $18.50 USD )
+Seat 3: pkrOD ( $28.29 USD )
+Seat 1: tima182 ( $14.07 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 4h ]
+Wally5080: but my fh not enought against four of a kind lol
+pkrOD: u guys suckkkkk
+cormacman: u mean d only loosen ha
+Pivas: u always bet
+Pivas folds
+tima182 will be using his time bank for this hand.
+pkrOD: im the only one whos won nething too
+tima182 folds
+fulassss folds
+pkrOD raises [$1 USD]
+pkrOD: dont forget
+Wally5080 folds
+cormacman calls [$0.75 USD]
+** Dealing Flop ** [ Ah, Jc, 5d ]
+cormacman checks
+pkrOD bets [$3 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $5 USD
+seems there is a balance to this game
+ Game #9547073434 starts.
+
+#Game No : 9547073434 
+***** Hand History for Game 9547073434 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:21:10 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $24.18 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $33.23 USD )
+Seat 2: fulassss ( $18.50 USD )
+Seat 3: pkrOD ( $29.29 USD )
+Seat 1: tima182 ( $14.07 USD )
+cormacman posts small blind [$0.10 USD].
+Pivas posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 8h ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman calls [$0.90 USD]
+Pivas folds
+** Dealing Flop ** [ 9s, 4h, Qc ]
+cormacman checks
+pkrOD checks
+** Dealing Turn ** [ Td ]
+cormacman checks
+pkrOD checks
+** Dealing River ** [ 7d ]
+cormacman bets [$2.14 USD]
+pkrOD raises [$6 USD]
+cormacman calls [$3.86 USD]
+pkrOD shows [ Jc, 8h ]a straight, Eight to Queen.
+cormacman doesn't show [ Ac, Qs ]a pair of Queens.
+pkrOD wins $13.54 USD from the main pot with a straight, Eight to Queen.
+boooo
+ Game #9547076379 starts.
+
+#Game No : 9547076379 
+***** Hand History for Game 9547076379 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:22:04 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $23.93 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $26.23 USD )
+Seat 2: fulassss ( $18.50 USD )
+Seat 3: pkrOD ( $35.83 USD )
+Seat 1: tima182 ( $14.07 USD )
+Pivas posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Kh ]
+fulassss folds
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman calls [$1 USD]
+Pivas folds
+tima182 will be using his time bank for this hand.
+pkrOD: u like it when u get whooped
+tima182 folds
+** Dealing Flop ** [ 4s, 4d, Qc ]
+pkrOD checks
+cormacman checks
+** Dealing Turn ** [ Qh ]
+pkrOD checks
+cormacman bets [$1.12 USD]
+pkrOD calls [$1.12 USD]
+** Dealing River ** [ Tc ]
+pkrOD bets [$4 USD]
+cormacman raises [$8 USD]
+pkrOD folds
+cormacman does not show cards.
+cormacman wins $15.97 USD
+ Game #9547079485 starts.
+
+#Game No : 9547079485 
+***** Hand History for Game 9547079485 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:23:00 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $23.83 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $32.08 USD )
+Seat 2: fulassss ( $18.50 USD )
+Seat 3: pkrOD ( $29.71 USD )
+Seat 1: tima182 ( $13.82 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks Kd ]
+pkrOD calls [$0.25 USD]
+Wally5080 folds
+cormacman calls [$0.25 USD]
+Pivas raises [$1.50 USD]
+tima182 will be using his time bank for this hand.
+cormacman: wha
+tima182 folds
+fulassss folds
+pkrOD raises [$2.75 USD]
+cormacman folds
+Pivas calls [$1.50 USD]
+** Dealing Flop ** [ 2h, Th, Jh ]
+pkrOD checks
+Pivas checks
+** Dealing Turn ** [ Js ]
+pkrOD bets [$4 USD]
+Pivas calls [$4 USD]
+** Dealing River ** [ As ]
+pkrOD checks
+Pivas checks
+pkrOD shows [ Ks, Kd ]two pairs, Kings and Jacks.
+Pivas shows [ Ah, Kc ]two pairs, Aces and Jacks.
+Pivas wins $13.87 USD from the main pot with two pairs, Aces and Jacks.
+ Game #9547084683 starts.
+
+#Game No : 9547084683 
+***** Hand History for Game 9547084683 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:24:35 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.70 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $31.83 USD )
+Seat 2: fulassss ( $18.25 USD )
+Seat 3: pkrOD ( $22.71 USD )
+Seat 1: tima182 ( $13.72 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Kd ]
+Wally5080 folds
+pkrOD: lol.. chasing every AK
+pkrOD: gay
+cormacman calls [$0.25 USD]
+Pivas calls [$0.25 USD]
+tima182 folds
+pkrOD: seem to hit every one too
+fulassss folds
+pkrOD raises [$1.25 USD]
+cormacman calls [$1.25 USD]
+Pivas folds
+** Dealing Flop ** [ 5s, 3c, 6c ]
+pkrOD is all-In  [$21.21 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $24.40 USD
+ Game #9547087465 starts.
+
+#Game No : 9547087465 
+***** Hand History for Game 9547087465 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:25:27 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.45 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $30.33 USD )
+Seat 2: fulassss ( $18.15 USD )
+Seat 3: pkrOD ( $24.40 USD )
+Seat 1: tima182 ( $13.72 USD )
+pkrOD posts small blind [$0.10 USD].
+Wally5080 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Jd ]
+cormacman folds
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$0.75 USD]
+fulassss folds
+pkrOD is all-In  [$24.30 USD]
+Wally5080 folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $25.40 USD
+ Game #9547088513 starts.
+
+#Game No : 9547088513 
+***** Hand History for Game 9547088513 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:25:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.45 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $30.33 USD )
+Seat 2: fulassss ( $18.15 USD )
+Seat 3: pkrOD ( $25.40 USD )
+Seat 1: tima182 ( $12.97 USD )
+Wally5080 posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts 3d ]
+Pivas folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD folds
+Wally5080 folds
+cormacman does not show cards.
+cormacman wins $0.35 USD
+ Game #9547089760 starts.
+
+#Game No : 9547089760 
+***** Hand History for Game 9547089760 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:26:09 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Pivas ( $30.45 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $30.43 USD )
+Seat 2: fulassss ( $18.15 USD )
+Seat 3: pkrOD ( $25.40 USD )
+Seat 1: tima182 ( $12.97 USD )
+cormacman posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 2s ]
+fulassss folds
+pkrOD folds
+Pivas has left the table.
+Wally5080 folds
+cormacman calls [$0.15 USD]
+tima182 will be using his time bank for this hand.
+tima182 checks
+** Dealing Flop ** [ 5c, 8d, 9c ]
+Feliciajul has joined the table.
+cormacman checks
+tima182 will be using his time bank for this hand.
+tima182 bets [$0.36 USD]
+cormacman calls [$0.36 USD]
+** Dealing Turn ** [ 2h ]
+cormacman checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+** Dealing River ** [ 3h ]
+cormacman checks
+tima182 will be using his time bank for this hand.
+tima182 checks
+cormacman shows [ Jd, Ks ]high card King.
+tima182 shows [ Jc, 3s ]a pair of Threes.
+tima182 wins $1.16 USD from the main pot with a pair of Threes.
+ Game #9547091904 starts.
+
+#Game No : 9547091904 
+***** Hand History for Game 9547091904 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:26:50 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $5 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $29.82 USD )
+Seat 2: fulassss ( $18.15 USD )
+Seat 3: pkrOD ( $25.40 USD )
+Seat 1: tima182 ( $13.52 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 7h ]
+pkrOD raises [$1 USD]
+Wally5080 folds
+cormacman folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD does not show cards.
+pkrOD wins $1.35 USD
+ Game #9547092675 starts.
+
+#Game No : 9547092675 
+***** Hand History for Game 9547092675 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:27:03 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $5 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $29.82 USD )
+Seat 2: fulassss ( $17.90 USD )
+Seat 3: pkrOD ( $25.75 USD )
+Seat 1: tima182 ( $13.42 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 9c ]
+Wally5080 folds
+cormacman folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss raises [$0.65 USD]
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ Ad, 7d, 6c ]
+fulassss bets [$0.71 USD]
+pkrOD calls [$0.71 USD]
+** Dealing Turn ** [ 4s ]
+fulassss bets [$1.39 USD]
+pkrOD calls [$1.39 USD]
+** Dealing River ** [ 7h ]
+fulassss checks
+pkrOD bets [$8 USD]
+fulassss folds
+pkrOD does not show cards.
+pkrOD wins $13.42 USD
+ Game #9547096203 starts.
+
+#Game No : 9547096203 
+***** Hand History for Game 9547096203 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:28:06 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $5 USD )
+Seat 4: Wally5080 ( $10 USD )
+Seat 5: cormacman ( $29.82 USD )
+Seat 2: fulassss ( $15.05 USD )
+Seat 3: pkrOD ( $28.32 USD )
+Seat 1: tima182 ( $13.42 USD )
+pkrOD posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Jc ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD raises [$0.90 USD]
+Wally5080 has left the table.
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $1.25 USD
+ Game #9547097082 starts.
+
+#Game No : 9547097082 
+***** Hand History for Game 9547097082 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:28:21 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 5/6 
+Seat 6: Feliciajul ( $5 USD )
+Seat 5: cormacman ( $29.57 USD )
+Seat 2: fulassss ( $15.05 USD )
+Seat 3: pkrOD ( $28.57 USD )
+Seat 1: tima182 ( $13.42 USD )
+cormacman posts small blind [$0.10 USD].
+Feliciajul posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Qh ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+ZERATUL has joined the table.
+fulassss folds
+pkrOD raises [$1 USD]
+cormacman raises [$1.65 USD]
+Feliciajul folds
+pkrOD raises [$7 USD]
+cormacman calls [$6.25 USD]
+** Dealing Flop ** [ Td, 2s, 4d ]
+cormacman checks
+pkrOD bets [$18.89 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $34.33 USD
+ Game #9547100026 starts.
+
+#Game No : 9547100026 
+***** Hand History for Game 9547100026 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:29:15 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $4.75 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $21.57 USD )
+Seat 2: fulassss ( $15.05 USD )
+Seat 3: pkrOD ( $36.01 USD )
+Seat 1: tima182 ( $13.42 USD )
+Feliciajul posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s As ]
+fulassss raises [$0.75 USD]
+pkrOD calls [$0.75 USD]
+cormacman raises [$1.25 USD]
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss calls [$0.50 USD]
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ Kc, Qd, 7d ]
+fulassss checks
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD bets [$0.25 USD]
+cormacman calls [$0.25 USD]
+fulassss calls [$0.25 USD]
+** Dealing Turn ** [ Qc ]
+fulassss checks
+pkrOD bets [$5 USD]
+cormacman folds
+fulassss folds
+pkrOD does not show cards.
+pkrOD wins $9.61 USD
+ Game #9547103541 starts.
+
+#Game No : 9547103541 
+***** Hand History for Game 9547103541 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:30:20 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $4.65 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $20.07 USD )
+Seat 2: fulassss ( $13.55 USD )
+Seat 3: pkrOD ( $39.12 USD )
+Seat 1: tima182 ( $13.17 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd 6c ]
+pkrOD folds
+cormacman folds
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss does not show cards.
+fulassss wins $0.35 USD
+ Game #9547104703 starts.
+
+#Game No : 9547104703 
+***** Hand History for Game 9547104703 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:30:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $4.65 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $20.07 USD )
+Seat 2: fulassss ( $13.65 USD )
+Seat 3: pkrOD ( $39.12 USD )
+Seat 1: tima182 ( $13.07 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ks 6c ]
+cormacman calls [$0.25 USD]
+Feliciajul raises [$1.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss raises [$4.40 USD]
+pkrOD folds
+cormacman calls [$4.25 USD]
+Feliciajul is all-In  [$3.40 USD]
+fulassss calls [$0.15 USD]
+cormacman calls [$0.15 USD]
+** Dealing Flop ** [ 5h, 3d, Jc ]
+fulassss is all-In  [$9 USD]
+cormacman calls [$9 USD]
+** Dealing Turn ** [ 8h ]
+** Dealing River ** [ 5c ]
+fulassss shows [ Qd, Ac ]a pair of Fives.
+cormacman shows [ Qh, Ah ]a pair of Fives.
+Feliciajul shows [ Kh, Kd ]two pairs, Kings and Fives.
+fulassss wins $8.55 USD from the side pot 1 with a pair of Fives.
+cormacman wins $8.55 USD from the side pot 1 with a pair of Fives.
+Feliciajul wins $13.49 USD from the main pot with two pairs, Kings and Fives.
+ Game #9547107101 starts.
+
+#Game No : 9547107101 
+***** Hand History for Game 9547107101 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:31:23 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $13.49 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $14.97 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $38.87 USD )
+Seat 1: tima182 ( $13.07 USD )
+pkrOD posts small blind [$0.10 USD].
+ZERATUL posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 8h ]
+cormacman calls [$0.25 USD]
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 calls [$0.25 USD]
+fulassss folds
+pkrOD raises [$1.40 USD]
+ZERATUL folds
+cormacman folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $2.25 USD
+ Game #9547109439 starts.
+
+#Game No : 9547109439 
+***** Hand History for Game 9547109439 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:32:05 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $13.49 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $14.72 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $39.62 USD )
+Seat 1: tima182 ( $12.82 USD )
+ZERATUL posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7h 9c ]
+pkrOD: looks like the chickens have come home to roost :)
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD raises [$0.50 USD]
+ZERATUL folds
+cormacman calls [$0.25 USD]
+** Dealing Flop ** [ 7d, Jh, 5c ]
+cormacman checks
+pkrOD bets [$1 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $2.05 USD
+ Game #9547111384 starts.
+
+#Game No : 9547111384 
+***** Hand History for Game 9547111384 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:32:39 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $13.49 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $14.22 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $40.17 USD )
+Seat 1: tima182 ( $12.82 USD )
+cormacman posts small blind [$0.10 USD].
+Feliciajul posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 2s ]
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss raises [$0.75 USD]
+pkrOD calls [$0.75 USD]
+ZERATUL folds
+cormacman calls [$0.65 USD]
+Feliciajul folds
+** Dealing Flop ** [ 8d, Kc, 9h ]
+cormacman checks
+fulassss bets [$1.19 USD]
+pkrOD folds
+cormacman calls [$1.19 USD]
+** Dealing Turn ** [ 4h ]
+cormacman checks
+fulassss checks
+** Dealing River ** [ Jh ]
+cormacman bets [$4.64 USD]
+fulassss calls [$4.64 USD]
+cormacman shows [ Kd, 7c ]a pair of Kings.
+fulassss doesn't show [ Qc, Qs ]a pair of Queens.
+cormacman wins $13.46 USD from the main pot with a pair of Kings.
+ Game #9547113739 starts.
+
+#Game No : 9547113739 
+***** Hand History for Game 9547113739 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:33:20 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $13.24 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $21.10 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $39.42 USD )
+Seat 1: tima182 ( $12.82 USD )
+Feliciajul posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 8c ]
+fulassss folds
+pkrOD raises [$0.75 USD]
+ZERATUL folds
+cormacman folds
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD does not show cards.
+pkrOD wins $1.10 USD
+ Game #9547115828 starts.
+
+#Game No : 9547115828 
+***** Hand History for Game 9547115828 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:33:55 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $13.14 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $21.10 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $39.77 USD )
+Seat 1: tima182 ( $12.57 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d Ah ]
+pkrOD raises [$0.75 USD]
+ZERATUL calls [$0.75 USD]
+cormacman folds
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+** Dealing Flop ** [ Qd, Td, 4s ]
+pkrOD checks
+ZERATUL bets [$1 USD]
+pkrOD raises [$2.80 USD]
+ZERATUL calls [$1.80 USD]
+** Dealing Turn ** [ 7h ]
+pkrOD bets [$7 USD]
+ZERATUL will be using his time bank for this hand.
+ZERATUL folds
+pkrOD shows [ 9d, Ah ]high card Ace.
+pkrOD wins $14.08 USD from the main pot with high card, Ace.
+ Game #9547119941 starts.
+
+#Game No : 9547119941 
+***** Hand History for Game 9547119941 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:35:08 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $13.14 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $21.10 USD )
+Seat 2: fulassss ( $10 USD )
+Seat 3: pkrOD ( $43.30 USD )
+Seat 1: tima182 ( $12.47 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d Ks ]
+ZERATUL folds
+pkrOD: the mark of a player
+cormacman calls [$0.25 USD]
+Feliciajul calls [$0.25 USD]
+tima182 will be using his time bank for this hand.
+tima182 folds
+pkrOD: clearly u didnt have it beat though
+pkrOD: :P
+fulassss raises [$1.90 USD]
+pkrOD folds
+cormacman folds
+Feliciajul folds
+fulassss does not show cards.
+fulassss wins $2.75 USD
+am i right?... Im not wrong
+ Game #9547122210 starts.
+
+#Game No : 9547122210 
+***** Hand History for Game 9547122210 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:35:46 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.89 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $20.85 USD )
+Seat 2: fulassss ( $10.75 USD )
+Seat 3: pkrOD ( $43.05 USD )
+Seat 1: tima182 ( $12.47 USD )
+pkrOD posts small blind [$0.10 USD].
+ZERATUL posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s Ad ]
+cormacman calls [$0.25 USD]
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 raises [$1 USD]
+fulassss folds
+pkrOD calls [$0.90 USD]
+ZERATUL folds
+cormacman: ur english dats enough
+cormacman calls [$0.75 USD]
+** Dealing Flop ** [ Kc, Kd, 3c ]
+pkrOD: lol
+pkrOD bets [$2.50 USD]
+cormacman folds
+tima182 will be using his time bank for this hand.
+tima182 is all-In  [$11.47 USD]
+pkrOD folds
+tima182 does not show cards.
+tima182 wins $16.81 USD
+ Game #9547125238 starts.
+
+#Game No : 9547125238 
+***** Hand History for Game 9547125238 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:36:40 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.89 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $19.85 USD )
+Seat 2: fulassss ( $10.75 USD )
+Seat 3: pkrOD ( $39.55 USD )
+Seat 1: tima182 ( $16.81 USD )
+ZERATUL posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 9s ]
+Feliciajul folds
+tima182 will be using his time bank for this hand.
+tima182 folds
+fulassss folds
+pkrOD raises [$1.16 USD]
+ZERATUL calls [$1.06 USD]
+cormacman folds
+** Dealing Flop ** [ 8s, Ad, 2s ]
+ZERATUL checks
+pkrOD checks
+** Dealing Turn ** [ 4d ]
+ZERATUL checks
+pkrOD bets [$2.34 USD]
+ZERATUL folds
+pkrOD does not show cards.
+pkrOD wins $4.79 USD
+ Game #9547127079 starts.
+
+#Game No : 9547127079 
+***** Hand History for Game 9547127079 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:37:13 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.89 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $19.60 USD )
+Seat 2: fulassss ( $10.75 USD )
+Seat 3: pkrOD ( $40.84 USD )
+Seat 1: tima182 ( $16.81 USD )
+cormacman posts small blind [$0.10 USD].
+Feliciajul posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 9c ]
+tima182 will be using his time bank for this hand.
+tima182 did not respond in time
+tima182 folds
+fulassss folds
+pkrOD raises [$0.50 USD]
+ZERATUL folds
+cormacman folds
+Feliciajul folds
+pkrOD does not show cards.
+pkrOD wins $0.85 USD
+ Game #9547130482 starts.
+
+#Game No : 9547130482 
+***** Hand History for Game 9547130482 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:38:12 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.64 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $19.50 USD )
+Seat 2: fulassss ( $10.75 USD )
+Seat 3: pkrOD ( $41.19 USD )
+Seat 1: tima182 ( $16.81 USD )
+Feliciajul posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd 9d ]
+fulassss folds
+pkrOD raises [$0.62 USD]
+ZERATUL calls [$0.62 USD]
+cormacman folds
+Feliciajul folds
+tima182 folds
+** Dealing Flop ** [ 9s, Td, 9h ]
+pkrOD bets [$1.44 USD]
+ZERATUL folds
+pkrOD does not show cards.
+pkrOD wins $2.96 USD
+ Game #9547132908 starts.
+
+#Game No : 9547132908 
+***** Hand History for Game 9547132908 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:38:54 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 6 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.54 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $19.50 USD )
+Seat 2: fulassss ( $10.75 USD )
+Seat 3: pkrOD ( $42.09 USD )
+Seat 1: tima182 ( $16.56 USD )
+tima182 posts small blind [$0.10 USD].
+fulassss posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc Tc ]
+pkrOD raises [$1 USD]
+ZERATUL folds
+cormacman raises [$1.75 USD]
+Feliciajul folds
+tima182 folds
+fulassss folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 4c, Kh, 9s ]
+pkrOD bets [$2.50 USD]
+cormacman raises [$5 USD]
+pkrOD raises [$17.50 USD]
+cormacman is all-In  [$12.75 USD]
+** Dealing Turn ** [ 2s ]
+** Dealing River ** [ 5s ]
+pkrOD shows [ Kc, Tc ]a pair of Kings.
+cormacman shows [ Kd, Ac ]a pair of Kings with Ace kicker.
+pkrOD wins $2.25 USD from the side pot 1 with a pair of Kings.
+cormacman wins $37.39 USD from the main pot with a pair of Kings with Ace kicker.
+ Game #9547135580 starts.
+
+#Game No : 9547135580 
+***** Hand History for Game 9547135580 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:39:41 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 1 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.54 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $37.39 USD )
+Seat 2: fulassss ( $10.50 USD )
+Seat 3: pkrOD ( $22.59 USD )
+Seat 1: tima182 ( $16.46 USD )
+fulassss posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d Ks ]
+ZERATUL folds
+pkrOD: should have known
+cormacman calls [$0.25 USD]
+Feliciajul folds
+tima182 folds
+fulassss folds
+pkrOD: u made the same move last time with AQ
+pkrOD checks
+** Dealing Flop ** [ 7d, 3d, Qc ]
+pkrOD checks
+cormacman checks
+** Dealing Turn ** [ 4c ]
+pkrOD bets [$0.25 USD]
+cormacman calls [$0.25 USD]
+** Dealing River ** [ Qd ]
+pkrOD bets [$0.50 USD]
+cormacman folds
+pkrOD does not show cards.
+pkrOD wins $1.55 USD
+ Game #9547138100 starts.
+
+#Game No : 9547138100 
+***** Hand History for Game 9547138100 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:40:24 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 2 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.54 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $36.89 USD )
+Seat 2: fulassss ( $10.40 USD )
+Seat 3: pkrOD ( $23.14 USD )
+Seat 1: tima182 ( $16.46 USD )
+pkrOD posts small blind [$0.10 USD].
+ZERATUL posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 8h ]
+cormacman folds
+Feliciajul folds
+tima182 folds
+fulassss raises [$0.75 USD]
+pkrOD calls [$0.65 USD]
+ZERATUL calls [$0.50 USD]
+** Dealing Flop ** [ 2c, 8s, Qs ]
+pkrOD bets [$1 USD]
+ZERATUL folds
+fulassss calls [$1 USD]
+** Dealing Turn ** [ 6d ]
+pkrOD bets [$3.88 USD]
+fulassss is all-In  [$8.65 USD]
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD folds
+fulassss does not show cards.
+fulassss wins $16.18 USD
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+ Game #9547141482 starts.
+
+#Game No : 9547141482 
+***** Hand History for Game 9547141482 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:41:23 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 3 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.54 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $36.89 USD )
+Seat 2: fulassss ( $16.18 USD )
+Seat 3: pkrOD ( $17.51 USD )
+Seat 1: tima182 ( $16.46 USD )
+ZERATUL posts small blind [$0.10 USD].
+cormacman posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc Ks ]
+pkrOD: KQ JQ?
+Feliciajul folds
+tima182 folds
+pkrOD: QT?
+fulassss raises [$0.75 USD]
+pkrOD raises [$1.25 USD]
+pkrOD: something like that
+ZERATUL folds
+pkrOD: made the same play last time u punk
+pkrOD: :p
+cormacman folds
+fulassss calls [$0.50 USD]
+** Dealing Flop ** [ 9h, Qd, Kd ]
+fulassss checks
+pkrOD is all-In  [$16.26 USD]
+fulassss is all-In  [$14.93 USD]
+** Dealing Turn ** [ 7h ]
+** Dealing River ** [ 5h ]
+fulassss shows [ Jh, Kh ]a flush, King high.
+pkrOD shows [ Jc, Ks ]a pair of Kings.
+pkrOD wins $1.33 USD from the side pot 1 with a pair of Kings.
+fulassss wins $31.08 USD from the main pot with a flush, King high.
+ Game #9547143787 starts.
+
+#Game No : 9547143787 
+***** Hand History for Game 9547143787 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:42:04 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 4 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.54 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $36.64 USD )
+Seat 2: fulassss ( $31.08 USD )
+Seat 3: pkrOD ( $1.33 USD )
+Seat 1: tima182 ( $16.46 USD )
+cormacman posts small blind [$0.10 USD].
+Feliciajul posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd Qc ]
+pkrOD: lame as XXXX
+tima182 folds
+fulassss folds
+pkrOD is all-In  [$1.33 USD]
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+ZERATUL folds
+cormacman folds
+Feliciajul folds
+pkrOD does not show cards.
+pkrOD wins $1.68 USD
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+ Game #9547144725 starts.
+
+#Game No : 9547144725 
+***** Hand History for Game 9547144725 *****
+$10 USD NL Texas Hold'em - Thursday, August 19, 16:42:20 EDT 2010
+Table 20BB Min Speed #1770549 (No DP) (Real Money)
+Seat 5 is the button
+Total number of players : 6/6 
+Seat 6: Feliciajul ( $12.29 USD )
+Seat 4: ZERATUL ( $10 USD )
+Seat 5: cormacman ( $36.54 USD )
+Seat 2: fulassss ( $31.08 USD )
+Seat 3: pkrOD ( $1.68 USD )
+Seat 1: tima182 ( $16.46 USD )
+Feliciajul posts small blind [$0.10 USD].
+tima182 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Kd ]
+pkrOD: laaaaaaaaaaaaameeeee
+fulassss folds
+pkrOD is all-In  [$1.68 USD]
+ZERATUL folds
+cormacman calls [$1.68 USD]
+Feliciajul folds
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+tima182 calls [$1.43 USD]
+** Dealing Flop ** [ 2d, 5s, 5d ]
+tima182 checks
+Chat has been disabled till the end of this hand as one or more players have gone All-in. Chat will be enabled as soon as this hand ends.
+cormacman checks
+** Dealing Turn ** [ 9s ]
+tima182 bets [$2.44 USD]
+cormacman raises [$4.88 USD]
+tima182 folds
+** Dealing River ** [ 8s ]
+cormacman shows [ 5c, 7c ]three of a kind, Fives.
+pkrOD doesn't show [ Js, Kd ]a pair of Fives.
+cormacman wins $7.07 USD from the side pot 1 with three of a kind, Fives.
+cormacman wins $4.89 USD from the main pot with three of a kind, Fives.

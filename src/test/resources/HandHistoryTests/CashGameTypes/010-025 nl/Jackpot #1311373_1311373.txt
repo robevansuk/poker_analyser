@@ -1,0 +1,4777 @@
+Game #7935941097 starts.
+
+#Game No : 7935941097 
+***** Hand History for Game 7935941097 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:41:35 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $32.16 USD )
+Seat 1: LeStat__666 ( $27.39 USD )
+Seat 5: Meyerklein ( $3.34 USD )
+Seat 6: angles1989 ( $18.15 USD )
+Seat 2: pkrOD ( $24.75 USD )
+Seat 3: squerrel333 ( $31.81 USD )
+angles1989 posts small blind [$0.10 USD].
+LeStat__666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 2d ]
+pkrOD folds
+squerrel333 calls [$0.25 USD]
+Fopperstich raises [$1.50 USD]
+Meyerklein folds
+angles1989 folds
+LeStat__666 folds
+squerrel333 folds
+Fopperstich does not show cards.
+The time at which hand ended:Mar 30 2009 21:42 BST
+Fopperstich wins $2.10 USD
+ Game #7935943271 starts.
+
+#Game No : 7935943271 
+***** Hand History for Game 7935943271 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:42:10 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $32.76 USD )
+Seat 1: LeStat__666 ( $27.14 USD )
+Seat 5: Meyerklein ( $3.34 USD )
+Seat 6: angles1989 ( $18.05 USD )
+Seat 2: pkrOD ( $24.75 USD )
+Seat 3: squerrel333 ( $31.56 USD )
+LeStat__666 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 3s ]
+squerrel333 raises [$1 USD]
+Fopperstich raises [$3.25 USD]
+Meyerklein did not respond in time
+Meyerklein folds
+angles1989 folds
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich does not show cards.
+The time at which hand ended:Mar 30 2009 21:42 BST
+Fopperstich wins $4.60 USD
+ Game #7935946436 starts.
+
+#Game No : 7935946436 
+***** Hand History for Game 7935946436 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:42:58 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $34.11 USD )
+Seat 1: LeStat__666 ( $27.04 USD )
+Seat 5: Meyerklein ( $3.34 USD )
+Seat 6: angles1989 ( $18.05 USD )
+Seat 2: pkrOD ( $24.50 USD )
+Seat 3: squerrel333 ( $30.56 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td Ah ]
+Fopperstich folds
+angles1989 folds
+LeStat__666 raises [$0.75 USD]
+pkrOD folds
+squerrel333 will be using his time bank for this hand.
+squerrel333 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 21:43 BST
+LeStat__666 wins $1.10 USD
+ Game #7935950128 starts.
+
+#Game No : 7935950128 
+***** Hand History for Game 7935950128 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:43:56 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $34.11 USD )
+Seat 1: LeStat__666 ( $27.39 USD )
+Seat 5: Meyerklein ( $3.34 USD )
+Seat 6: angles1989 ( $18.05 USD )
+Seat 2: pkrOD ( $24.40 USD )
+Seat 3: squerrel333 ( $30.31 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Qc ]
+Meyerklein calls [$0.25 USD]
+angles1989 folds
+LeStat__666 raises [$2 USD]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+Meyerklein folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 21:44 BST
+LeStat__666 wins $2.60 USD
+ Game #7935953299 starts.
+
+#Game No : 7935953299 
+***** Hand History for Game 7935953299 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:44:46 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $33.86 USD )
+Seat 1: LeStat__666 ( $27.99 USD )
+Seat 5: Meyerklein ( $3.09 USD )
+Seat 6: angles1989 ( $18.05 USD )
+Seat 2: pkrOD ( $24.40 USD )
+Seat 3: squerrel333 ( $30.21 USD )
+Fopperstich posts small blind [$0.10 USD].
+Meyerklein posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3h 9d ]
+angles1989 calls [$0.25 USD]
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+Meyerklein checks
+** Dealing Flop ** [ 2c, 5h, Kd ]
+Meyerklein checks
+angles1989 checks
+** Dealing Turn ** [ Jd ]
+Meyerklein checks
+angles1989 bets [$0.25 USD]
+Meyerklein calls [$0.25 USD]
+** Dealing River ** [ 8c ]
+Meyerklein checks
+angles1989 bets [$1.05 USD]
+Meyerklein folds
+angles1989 does not show cards.
+The time at which hand ended:Mar 30 2009 21:45 BST
+angles1989 wins $2.10 USD
+ Game #7935957359 starts.
+
+#Game No : 7935957359 
+***** Hand History for Game 7935957359 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:45:51 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $33.76 USD )
+Seat 1: LeStat__666 ( $27.99 USD )
+Seat 5: Meyerklein ( $2.59 USD )
+Seat 6: angles1989 ( $18.60 USD )
+Seat 2: pkrOD ( $24.40 USD )
+Seat 3: squerrel333 ( $30.21 USD )
+Meyerklein posts small blind [$0.10 USD].
+angles1989 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 2h ]
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich raises [$1.25 USD]
+Meyerklein folds
+angles1989 folds
+Fopperstich does not show cards.
+The time at which hand ended:Mar 30 2009 21:46 BST
+Fopperstich wins $1.60 USD
+ Game #7935958886 starts.
+
+#Game No : 7935958886 
+***** Hand History for Game 7935958886 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:46:15 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $34.11 USD )
+Seat 1: LeStat__666 ( $27.99 USD )
+Seat 5: Meyerklein ( $2.49 USD )
+Seat 6: angles1989 ( $18.35 USD )
+Seat 2: pkrOD ( $24.40 USD )
+Seat 3: squerrel333 ( $30.21 USD )
+angles1989 posts small blind [$0.10 USD].
+LeStat__666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h Ts ]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+Meyerklein calls [$0.25 USD]
+angles1989 calls [$0.15 USD]
+LeStat__666 raises [$1 USD]
+Meyerklein folds
+angles1989 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 21:46 BST
+LeStat__666 wins $1.75 USD
+ Game #7935961582 starts.
+
+#Game No : 7935961582 
+***** Hand History for Game 7935961582 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:46:58 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $34.11 USD )
+Seat 1: LeStat__666 ( $28.49 USD )
+Seat 5: Meyerklein ( $2.24 USD )
+Seat 6: angles1989 ( $18.10 USD )
+Seat 2: pkrOD ( $24.40 USD )
+Seat 3: squerrel333 ( $30.21 USD )
+LeStat__666 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 7s ]
+squerrel333 folds
+Fopperstich raises [$1 USD]
+Meyerklein is all-In  [$2.24 USD]
+angles1989 calls [$2.24 USD]
+LeStat__666 folds
+pkrOD calls [$1.99 USD]
+Fopperstich calls [$1.24 USD]
+** Dealing Flop ** [ 3h, 2h, Kh ]
+pkrOD checks
+Fopperstich checks
+angles1989 bets [$4.30 USD]
+pkrOD folds
+Fopperstich folds
+** Dealing Turn ** [ 6c ]
+** Dealing River ** [ As ]
+angles1989 shows [ Qc, Qd ]a pair of Queens.
+Meyerklein doesn't show [ Jc, Js ]a pair of Jacks.
+The time at which hand ended:Mar 30 2009 21:47 BST
+angles1989 wins $4.30 USD from the side pot 1 with a pair of Queens.
+angles1989 wins $8.11 USD from the main pot with a pair of Queens.
+ Game #7935965255 starts.
+
+#Game No : 7935965255 
+***** Hand History for Game 7935965255 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:47:58 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.87 USD )
+Seat 1: LeStat__666 ( $28.39 USD )
+Seat 5: Meyerklein ( $0 USD )
+Seat 6: angles1989 ( $23.97 USD )
+Seat 2: pkrOD ( $22.16 USD )
+Seat 3: squerrel333 ( $30.21 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s Qh ]
+Fopperstich folds
+angles1989 folds
+Meyerklein has left the table.
+LeStat__666 raises [$1.25 USD]
+pkrOD folds
+squerrel333 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 21:48 BST
+LeStat__666 wins $1.60 USD
+ Game #7935966948 starts.
+
+#Game No : 7935966948 
+***** Hand History for Game 7935966948 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:48:25 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 4: Fopperstich ( $31.87 USD )
+Seat 1: LeStat__666 ( $28.74 USD )
+Seat 6: angles1989 ( $23.97 USD )
+Seat 2: pkrOD ( $22.06 USD )
+Seat 3: squerrel333 ( $29.96 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh Kh ]
+angles1989 folds
+LeStat__666 calls [$0.25 USD]
+pkrOD raises [$1 USD]
+squerrel333 folds
+Fopperstich folds
+LeStat__666 calls [$0.75 USD]
+** Dealing Flop ** [ Qc, Tc, Jh ]
+LeStat__666 bets [$1.50 USD]
+pkrOD is all-In  [$21.06 USD]
+bradbo26 has joined the table.
+LeStat__666 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 21:49 BST
+pkrOD wins $24.15 USD
+ Game #7935970235 starts.
+
+#Game No : 7935970235 
+***** Hand History for Game 7935970235 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:49:17 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.62 USD )
+Seat 1: LeStat__666 ( $26.24 USD )
+Seat 6: angles1989 ( $23.97 USD )
+Seat 5: bradbo26 ( $25 USD )
+Seat 2: pkrOD ( $24.15 USD )
+Seat 3: squerrel333 ( $29.86 USD )
+Fopperstich posts small blind [$0.10 USD].
+bradbo26 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c Ac ]
+angles1989 folds
+LeStat__666 folds
+pkrOD raises [$1 USD]
+squerrel333 folds
+Fopperstich folds
+bradbo26 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 21:49 BST
+pkrOD wins $1.35 USD
+ Game #7935971525 starts.
+
+#Game No : 7935971525 
+***** Hand History for Game 7935971525 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:49:39 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $26.24 USD )
+Seat 6: angles1989 ( $23.97 USD )
+Seat 5: bradbo26 ( $24.75 USD )
+Seat 2: pkrOD ( $24.50 USD )
+Seat 3: squerrel333 ( $29.86 USD )
+bradbo26 posts small blind [$0.10 USD].
+angles1989 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 5h ]
+LeStat__666 calls [$0.25 USD]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.15 USD]
+angles1989 checks
+** Dealing Flop ** [ 8s, 5d, 4d ]
+bradbo26 checks
+angles1989 bets [$0.25 USD]
+LeStat__666 raises [$1 USD]
+bradbo26 folds
+angles1989 calls [$0.75 USD]
+** Dealing Turn ** [ 6s ]
+angles1989 checks
+LeStat__666 bets [$1.75 USD]
+angles1989 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 21:50 BST
+LeStat__666 wins $4.37 USD
+ Game #7935975209 starts.
+
+#Game No : 7935975209 
+***** Hand History for Game 7935975209 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:50:40 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $27.61 USD )
+Seat 6: angles1989 ( $22.72 USD )
+Seat 5: bradbo26 ( $24.50 USD )
+Seat 2: pkrOD ( $24.50 USD )
+Seat 3: squerrel333 ( $29.86 USD )
+angles1989 posts small blind [$0.10 USD].
+LeStat__666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 3c ]
+pkrOD folds
+squerrel333 raises [$1 USD]
+Fopperstich folds
+bradbo26 calls [$1 USD]
+angles1989 folds
+LeStat__666 calls [$0.75 USD]
+** Dealing Flop ** [ 2d, 8c, 4h ]
+LeStat__666 checks
+squerrel333 checks
+bradbo26 bets [$0.50 USD]
+LeStat__666 calls [$0.50 USD]
+squerrel333 folds
+** Dealing Turn ** [ 9d ]
+LeStat__666 checks
+bradbo26 bets [$1.25 USD]
+LeStat__666 calls [$1.25 USD]
+** Dealing River ** [ 5h ]
+LeStat__666 checks
+bradbo26 checks
+LeStat__666 shows [ 4c, 3d ]a pair of Fours.
+bradbo26 shows [ 5c, Kc ]a pair of Fives.
+The time at which hand ended:Mar 30 2009 21:51 BST
+bradbo26 wins $5.77 USD from the main pot with a pair of Fives.
+ Game #7935979283 starts.
+
+#Game No : 7935979283 
+***** Hand History for Game 7935979283 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:51:50 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $24.86 USD )
+Seat 6: angles1989 ( $22.62 USD )
+Seat 5: bradbo26 ( $27.52 USD )
+Seat 2: pkrOD ( $24.50 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+LeStat__666 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 6s ]
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.25 USD]
+angles1989 folds
+LeStat__666 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Ts, 8h, Ah ]
+LeStat__666 bets [$0.50 USD]
+pkrOD folds
+bradbo26 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 21:52 BST
+LeStat__666 wins $1.22 USD
+ Game #7935981630 starts.
+
+#Game No : 7935981630 
+***** Hand History for Game 7935981630 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:52:30 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $25.33 USD )
+Seat 6: angles1989 ( $22.62 USD )
+Seat 5: bradbo26 ( $27.27 USD )
+Seat 2: pkrOD ( $24.25 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 9h ]
+Fopperstich folds
+bradbo26 folds
+angles1989 folds
+LeStat__666 folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 21:52 BST
+squerrel333 wins $0.35 USD
+ Game #7935983047 starts.
+
+#Game No : 7935983047 
+***** Hand History for Game 7935983047 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:52:54 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $25.33 USD )
+Seat 6: angles1989 ( $22.62 USD )
+Seat 5: bradbo26 ( $27.27 USD )
+Seat 2: pkrOD ( $24.15 USD )
+Seat 3: squerrel333 ( $28.96 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 5s ]
+bradbo26 folds
+angles1989 calls [$0.25 USD]
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich checks
+** Dealing Flop ** [ Js, 2s, Jc ]
+Fopperstich checks
+angles1989 checks
+** Dealing Turn ** [ 4h ]
+Fopperstich checks
+angles1989 checks
+** Dealing River ** [ Ac ]
+Fopperstich checks
+angles1989 bets [$2.75 USD]
+Fopperstich folds
+angles1989 does not show cards.
+The time at which hand ended:Mar 30 2009 21:53 BST
+angles1989 wins $3.32 USD
+ Game #7935986686 starts.
+
+#Game No : 7935986686 
+***** Hand History for Game 7935986686 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:53:56 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.27 USD )
+Seat 1: LeStat__666 ( $25.33 USD )
+Seat 6: angles1989 ( $22.94 USD )
+Seat 5: bradbo26 ( $27.27 USD )
+Seat 2: pkrOD ( $24.15 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+Fopperstich posts small blind [$0.10 USD].
+bradbo26 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 8s ]
+angles1989 folds
+LeStat__666 folds
+pkrOD calls [$0.25 USD]
+squerrel333 folds
+Fopperstich folds
+bradbo26 checks
+** Dealing Flop ** [ 4c, Ad, Ks ]
+bradbo26 bets [$0.25 USD]
+pkrOD raises [$0.95 USD]
+bradbo26 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 21:54 BST
+pkrOD wins $1.75 USD
+ Game #7935989006 starts.
+
+#Game No : 7935989006 
+***** Hand History for Game 7935989006 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:54:35 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.17 USD )
+Seat 1: LeStat__666 ( $25.33 USD )
+Seat 6: angles1989 ( $22.94 USD )
+Seat 5: bradbo26 ( $26.77 USD )
+Seat 2: pkrOD ( $24.70 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+bradbo26 posts small blind [$0.10 USD].
+angles1989 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8c Kh ]
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich raises [$1.25 USD]
+bradbo26 folds
+angles1989 folds
+Fopperstich does not show cards.
+The time at which hand ended:Mar 30 2009 21:54 BST
+Fopperstich wins $1.60 USD
+ Game #7935990135 starts.
+
+#Game No : 7935990135 
+***** Hand History for Game 7935990135 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:54:55 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $25.33 USD )
+Seat 6: angles1989 ( $22.69 USD )
+Seat 5: bradbo26 ( $26.67 USD )
+Seat 2: pkrOD ( $24.70 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+angles1989 posts small blind [$0.10 USD].
+LeStat__666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 2c ]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.25 USD]
+angles1989 calls [$0.15 USD]
+LeStat__666 raises [$1 USD]
+bradbo26 calls [$1 USD]
+angles1989 calls [$1 USD]
+** Dealing Flop ** [ 8c, 7h, 4c ]
+angles1989 bets [$1.78 USD]
+LeStat__666 calls [$1.78 USD]
+bradbo26 calls [$1.78 USD]
+** Dealing Turn ** [ 4d ]
+angles1989 checks
+LeStat__666 bets [$3 USD]
+bradbo26 calls [$3 USD]
+angles1989 calls [$3 USD]
+** Dealing River ** [ 7d ]
+angles1989 checks
+LeStat__666 checks
+bradbo26 checks
+angles1989 shows [ Ac, Qc ]two pairs, Sevens and Fours.
+LeStat__666 doesn't show [ 9d, 3s ]two pairs, Sevens and Fours.
+bradbo26 shows [ 8d, Ah ]two pairs, Eights and Sevens.
+The time at which hand ended:Mar 30 2009 21:56 BST
+bradbo26 wins $16.69 USD from the main pot with two pairs, Eights and Sevens.
+ Game #7935995719 starts.
+
+#Game No : 7935995719 
+***** Hand History for Game 7935995719 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:56:27 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $19.30 USD )
+Seat 6: angles1989 ( $16.66 USD )
+Seat 5: bradbo26 ( $37.33 USD )
+Seat 2: pkrOD ( $24.70 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+LeStat__666 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad Tc ]
+squerrel333 folds
+Fopperstich folds
+bradbo26 folds
+angles1989 folds
+LeStat__666 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 6s, Ah, 7d ]
+LeStat__666 bets [$0.25 USD]
+pkrOD calls [$0.25 USD]
+** Dealing Turn ** [ Th ]
+LeStat__666 bets [$0.50 USD]
+pkrOD calls [$0.50 USD]
+** Dealing River ** [ 3h ]
+LeStat__666 bets [$1.75 USD]
+pkrOD raises [$3.50 USD]
+LeStat__666 calls [$1.75 USD]
+pkrOD shows [ Ad, Tc ]two pairs, Aces and Tens.
+LeStat__666 shows [ 9h, 6h ]a flush, Ace high.
+The time at which hand ended:Mar 30 2009 21:57 BST
+LeStat__666 wins $8.05 USD from the main pot with a flush, Ace high.
+ Game #7935999709 starts.
+
+#Game No : 7935999709 
+***** Hand History for Game 7935999709 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:57:33 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $22.85 USD )
+Seat 6: angles1989 ( $16.66 USD )
+Seat 5: bradbo26 ( $37.33 USD )
+Seat 2: pkrOD ( $20.20 USD )
+Seat 3: squerrel333 ( $28.86 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ac 6s ]
+pkrOD: lol lame
+Fopperstich folds
+bradbo26 calls [$0.25 USD]
+angles1989 calls [$0.25 USD]
+LeStat__666 folds
+pkrOD calls [$0.15 USD]
+squerrel333 checks
+** Dealing Flop ** [ 3h, Jc, 9d ]
+pkrOD checks
+squerrel333 bets [$0.75 USD]
+bradbo26 calls [$0.75 USD]
+angles1989 folds
+pkrOD folds
+** Dealing Turn ** [ 3s ]
+squerrel333 checks
+bradbo26 bets [$1 USD]
+squerrel333 calls [$1 USD]
+** Dealing River ** [ Qd ]
+squerrel333 checks
+bradbo26 checks
+squerrel333 shows [ Js, 2h ]two pairs, Jacks and Threes.
+bradbo26 doesn't show [ Ks, 9c ]two pairs, Nines and Threes.
+The time at which hand ended:Mar 30 2009 21:58 BST
+squerrel333 wins $4.28 USD from the main pot with two pairs, Jacks and Threes.
+ Game #7936003915 starts.
+
+#Game No : 7936003915 
+***** Hand History for Game 7936003915 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:58:43 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.52 USD )
+Seat 1: LeStat__666 ( $22.85 USD )
+Seat 6: angles1989 ( $16.41 USD )
+Seat 5: bradbo26 ( $35.33 USD )
+Seat 2: pkrOD ( $19.95 USD )
+Seat 3: squerrel333 ( $31.14 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9d 8d ]
+bradbo26 calls [$0.25 USD]
+angles1989 folds
+LeStat__666 folds
+pkrOD calls [$0.25 USD]
+squerrel333 folds
+Fopperstich checks
+** Dealing Flop ** [ 6s, 6c, Kc ]
+Fopperstich checks
+bradbo26 checks
+pkrOD bets [$0.75 USD]
+Fopperstich folds
+bradbo26 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 21:59 BST
+pkrOD wins $1.56 USD
+ Game #7936007142 starts.
+
+#Game No : 7936007142 
+***** Hand History for Game 7936007142 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:59:36 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.27 USD )
+Seat 1: LeStat__666 ( $22.85 USD )
+Seat 6: angles1989 ( $16.41 USD )
+Seat 5: bradbo26 ( $35.08 USD )
+Seat 2: pkrOD ( $20.51 USD )
+Seat 3: squerrel333 ( $31.04 USD )
+Fopperstich posts small blind [$0.10 USD].
+bradbo26 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s Jh ]
+angles1989 folds
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 does not show cards.
+The time at which hand ended:Mar 30 2009 21:59 BST
+bradbo26 wins $0.35 USD
+ Game #7936008457 starts.
+
+#Game No : 7936008457 
+***** Hand History for Game 7936008457 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 21:59:59 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.17 USD )
+Seat 1: LeStat__666 ( $22.85 USD )
+Seat 6: angles1989 ( $16.41 USD )
+Seat 5: bradbo26 ( $35.18 USD )
+Seat 2: pkrOD ( $20.51 USD )
+Seat 3: squerrel333 ( $31.04 USD )
+bradbo26 posts small blind [$0.10 USD].
+angles1989 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 9d ]
+LeStat__666 raises [$1 USD]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 folds
+angles1989 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 22:00 BST
+LeStat__666 wins $1.35 USD
+ Game #7936009809 starts.
+
+#Game No : 7936009809 
+***** Hand History for Game 7936009809 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:00:22 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.17 USD )
+Seat 1: LeStat__666 ( $23.20 USD )
+Seat 6: angles1989 ( $16.16 USD )
+Seat 5: bradbo26 ( $35.08 USD )
+Seat 2: pkrOD ( $20.51 USD )
+Seat 3: squerrel333 ( $31.04 USD )
+angles1989 posts small blind [$0.10 USD].
+LeStat__666 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 9d ]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.25 USD]
+angles1989 calls [$0.15 USD]
+LeStat__666 checks
+** Dealing Flop ** [ Ts, Ad, Kd ]
+angles1989 checks
+LeStat__666 bets [$0.50 USD]
+bradbo26 folds
+angles1989 folds
+LeStat__666 does not show cards.
+The time at which hand ended:Mar 30 2009 22:01 BST
+LeStat__666 wins $1.22 USD
+ Game #7936012664 starts.
+
+#Game No : 7936012664 
+***** Hand History for Game 7936012664 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:01:10 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.17 USD )
+Seat 1: LeStat__666 ( $23.67 USD )
+Seat 6: angles1989 ( $15.91 USD )
+Seat 5: bradbo26 ( $34.83 USD )
+Seat 2: pkrOD ( $20.51 USD )
+Seat 3: squerrel333 ( $31.04 USD )
+LeStat__666 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd 9s ]
+squerrel333 raises [$0.50 USD]
+Fopperstich folds
+bradbo26 folds
+angles1989 folds
+LeStat__666 folds
+pkrOD calls [$0.25 USD]
+** Dealing Flop ** [ Kh, Ac, Js ]
+pkrOD checks
+squerrel333 bets [$0.75 USD]
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:01 BST
+squerrel333 wins $1.80 USD
+ Game #7936015294 starts.
+
+#Game No : 7936015294 
+***** Hand History for Game 7936015294 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:01:53 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.17 USD )
+Seat 1: LeStat__666 ( $23.57 USD )
+Seat 6: angles1989 ( $15.91 USD )
+Seat 5: bradbo26 ( $34.83 USD )
+Seat 2: pkrOD ( $20.01 USD )
+Seat 3: squerrel333 ( $31.59 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 9d ]
+Fopperstich folds
+bradbo26 calls [$0.25 USD]
+angles1989 calls [$0.25 USD]
+LeStat__666 calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+squerrel333 checks
+** Dealing Flop ** [ Qc, Ks, Td ]
+pkrOD checks
+squerrel333 checks
+bradbo26 checks
+angles1989 checks
+LeStat__666 bets [$1 USD]
+pkrOD calls [$1 USD]
+squerrel333 calls [$1 USD]
+bradbo26 folds
+angles1989 folds
+** Dealing Turn ** [ 2s ]
+pkrOD bets [$2.75 USD]
+squerrel333 folds
+LeStat__666 raises [$5.50 USD]
+pkrOD calls [$2.75 USD]
+** Dealing River ** [ 4s ]
+pkrOD checks
+LeStat__666 bets [$5 USD]
+pkrOD calls [$5 USD]
+LeStat__666 shows [ 7s, Jc ]high card King.
+pkrOD shows [ Kc, 9d ]a pair of Kings.
+The time at which hand ended:Mar 30 2009 22:03 BST
+pkrOD wins $23.49 USD from the main pot with a pair of Kings.
+ Game #7936022426 starts.
+
+#Game No : 7936022426 
+***** Hand History for Game 7936022426 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:03:57 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $31.17 USD )
+Seat 1: LeStat__666 ( $11.82 USD )
+Seat 6: angles1989 ( $15.66 USD )
+Seat 5: bradbo26 ( $34.58 USD )
+Seat 2: pkrOD ( $31.75 USD )
+Seat 3: squerrel333 ( $30.34 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h Kd ]
+pkrOD: wallllllllllll - E
+bradbo26 folds
+angles1989 folds
+LeStat__666 folds
+pkrOD folds
+squerrel333 raises [$0.40 USD]
+Fopperstich folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:04 BST
+squerrel333 wins $0.75 USD
+?
+ Game #7936025430 starts.
+
+#Game No : 7936025430 
+***** Hand History for Game 7936025430 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:04:48 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $30.92 USD )
+Seat 1: LeStat__666 ( $11.82 USD )
+Seat 6: angles1989 ( $15.66 USD )
+Seat 5: bradbo26 ( $34.58 USD )
+Seat 2: pkrOD ( $31.75 USD )
+Seat 3: squerrel333 ( $30.59 USD )
+Fopperstich posts small blind [$0.10 USD].
+bradbo26 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2c 6d ]
+angles1989 folds
+LeStat__666 folds
+pkrOD folds
+squerrel333 raises [$0.75 USD]
+Fopperstich folds
+bradbo26 calls [$0.50 USD]
+** Dealing Flop ** [ 5s, 2d, 6c ]
+bradbo26 checks
+squerrel333 bets [$1 USD]
+bradbo26 calls [$1 USD]
+** Dealing Turn ** [ 7h ]
+bradbo26 bets [$1.50 USD]
+squerrel333 folds
+bradbo26 does not show cards.
+The time at which hand ended:Mar 30 2009 22:05 BST
+bradbo26 wins $4.92 USD
+ Game #7936029583 starts.
+
+#Game No : 7936029583 
+***** Hand History for Game 7936029583 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:05:58 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $30.82 USD )
+Seat 1: LeStat__666 ( $11.82 USD )
+Seat 6: angles1989 ( $15.66 USD )
+Seat 5: bradbo26 ( $36.25 USD )
+Seat 2: pkrOD ( $31.75 USD )
+Seat 3: squerrel333 ( $28.84 USD )
+bradbo26 posts small blind [$0.10 USD].
+angles1989 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d Ks ]
+LeStat__666 folds
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.15 USD]
+angles1989 checks
+** Dealing Flop ** [ Ac, Kh, 4d ]
+bradbo26 checks
+angles1989 bets [$0.48 USD]
+bradbo26 calls [$0.48 USD]
+** Dealing Turn ** [ 6d ]
+bradbo26 bets [$0.50 USD]
+angles1989 folds
+bradbo26 does not show cards.
+The time at which hand ended:Mar 30 2009 22:06 BST
+bradbo26 wins $1.89 USD
+LeStat__666 has left the table.
+ Game #7936031954 starts.
+
+#Game No : 7936031954 
+***** Hand History for Game 7936031954 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:06:39 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 4: Fopperstich ( $30.82 USD )
+Seat 6: angles1989 ( $14.93 USD )
+Seat 5: bradbo26 ( $36.91 USD )
+Seat 2: pkrOD ( $31.75 USD )
+Seat 3: squerrel333 ( $28.84 USD )
+angles1989 posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 3h ]
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.25 USD]
+alaspucha has joined the table.
+angles1989 calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ 7h, Qd, 6h ]
+angles1989 checks
+pkrOD bets [$0.70 USD]
+bradbo26 folds
+angles1989 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:07 BST
+pkrOD wins $1.42 USD
+ Game #7936033628 starts.
+
+#Game No : 7936033628 
+***** Hand History for Game 7936033628 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:07:09 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $30.82 USD )
+Seat 1: alaspucha ( $25 USD )
+Seat 6: angles1989 ( $14.68 USD )
+Seat 5: bradbo26 ( $36.66 USD )
+Seat 2: pkrOD ( $32.22 USD )
+Seat 3: squerrel333 ( $28.84 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 3d ]
+Fopperstich folds
+bradbo26 folds
+angles1989 calls [$0.25 USD]
+pkrOD folds
+squerrel333 checks
+** Dealing Flop ** [ 5c, 7h, 5s ]
+squerrel333 bets [$0.50 USD]
+angles1989 calls [$0.50 USD]
+** Dealing Turn ** [ 2h ]
+squerrel333 bets [$0.75 USD]
+angles1989 folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:07 BST
+squerrel333 wins $2.27 USD
+angles1989 has left the table.
+ Game #7936036546 starts.
+
+#Game No : 7936036546 
+***** Hand History for Game 7936036546 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:08:00 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 4: Fopperstich ( $30.82 USD )
+Seat 1: alaspucha ( $25 USD )
+Seat 5: bradbo26 ( $36.66 USD )
+Seat 2: pkrOD ( $32.12 USD )
+Seat 3: squerrel333 ( $29.61 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 3d ]
+cebfpoker has joined the table.
+bradbo26 calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+squerrel333 calls [$0.15 USD]
+Fopperstich checks
+** Dealing Flop ** [ 7c, Tc, 9s ]
+squerrel333 checks
+Fopperstich bets [$0.71 USD]
+bradbo26 calls [$0.71 USD]
+pkrOD folds
+squerrel333 folds
+** Dealing Turn ** [ Qs ]
+Fopperstich checks
+bradbo26 bets [$0.50 USD]
+Fopperstich calls [$0.50 USD]
+** Dealing River ** [ Ks ]
+Fopperstich checks
+bradbo26 checks
+Fopperstich shows [ 9d, 6h ]a pair of Nines.
+bradbo26 shows [ 5s, Kc ]a pair of Kings.
+The time at which hand ended:Mar 30 2009 22:09 BST
+bradbo26 wins $3.25 USD from the main pot with a pair of Kings.
+ Game #7936040902 starts.
+
+#Game No : 7936040902 
+***** Hand History for Game 7936040902 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:09:15 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.36 USD )
+Seat 1: alaspucha ( $25 USD )
+Seat 5: bradbo26 ( $38.45 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $31.87 USD )
+Seat 3: squerrel333 ( $29.36 USD )
+Fopperstich posts small blind [$0.10 USD].
+bradbo26 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qh 7d ]
+pkrOD folds
+squerrel333 raises [$1 USD]
+Fopperstich folds
+bradbo26 calls [$0.75 USD]
+** Dealing Flop ** [ Ks, 3h, 6c ]
+bradbo26 checks
+squerrel333 bets [$1.25 USD]
+bradbo26 folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:09 BST
+squerrel333 wins $3.25 USD
+ Game #7936043188 starts.
+
+#Game No : 7936043188 
+***** Hand History for Game 7936043188 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:09:55 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: alaspucha ( $25 USD )
+Seat 5: bradbo26 ( $37.45 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $31.87 USD )
+Seat 3: squerrel333 ( $30.36 USD )
+bradbo26 posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 9s ]
+pkrOD folds
+squerrel333 folds
+Fopperstich folds
+bradbo26 calls [$0.15 USD]
+cebfpoker raises [$0.75 USD]
+bradbo26 folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:10 BST
+cebfpoker wins $1.25 USD
+ Game #7936044750 starts.
+
+#Game No : 7936044750 
+***** Hand History for Game 7936044750 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:10:23 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: alaspucha ( $25 USD )
+Seat 5: bradbo26 ( $37.20 USD )
+Seat 6: cebfpoker ( $25.25 USD )
+Seat 2: pkrOD ( $31.87 USD )
+Seat 3: squerrel333 ( $30.36 USD )
+cebfpoker posts small blind [$0.10 USD].
+alaspucha posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td As ]
+pkrOD calls [$0.25 USD]
+squerrel333 raises [$1.50 USD]
+Fopperstich folds
+bradbo26 folds
+cebfpoker folds
+alaspucha folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:11 BST
+squerrel333 wins $2.10 USD
+ Game #7936048396 starts.
+
+#Game No : 7936048396 
+***** Hand History for Game 7936048396 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:11:25 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: alaspucha ( $25 USD )
+Seat 5: bradbo26 ( $37.20 USD )
+Seat 6: cebfpoker ( $25.15 USD )
+Seat 2: pkrOD ( $31.62 USD )
+Seat 3: squerrel333 ( $30.96 USD )
+alaspucha posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc 6h ]
+squerrel333 folds
+Fopperstich could not respond in time.(disconnected)
+Fopperstich folds
+bradbo26 folds
+cebfpoker folds
+alaspucha raises [$0.65 USD]
+pkrOD folds
+alaspucha does not show cards.
+The time at which hand ended:Mar 30 2009 22:12 BST
+alaspucha wins $1 USD
+bradbo26 has left the table.
+ Game #7936051572 starts.
+
+#Game No : 7936051572 
+***** Hand History for Game 7936051572 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:12:19 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 5 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: alaspucha ( $25.25 USD )
+Seat 6: cebfpoker ( $25.15 USD )
+Seat 2: pkrOD ( $31.37 USD )
+Seat 3: squerrel333 ( $30.96 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 5s ]
+cebfpoker folds
+alaspucha folds
+YS0Seri0us has joined the table.
+pkrOD raises [$0.90 USD]
+squerrel333 calls [$0.75 USD]
+** Dealing Flop ** [ 5h, 8d, 2d ]
+pkrOD bets [$2.50 USD]
+squerrel333 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:12 BST
+pkrOD wins $4.40 USD
+ Game #7936053951 starts.
+
+#Game No : 7936053951 
+***** Hand History for Game 7936053951 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:13:00 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 1: alaspucha ( $25.25 USD )
+Seat 6: cebfpoker ( $25.15 USD )
+Seat 2: pkrOD ( $32.27 USD )
+Seat 3: squerrel333 ( $29.96 USD )
+squerrel333 posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d Js ]
+cebfpoker folds
+alaspucha folds
+pkrOD calls [$0.25 USD]
+squerrel333 calls [$0.15 USD]
+YS0Seri0us checks
+** Dealing Flop ** [ 9s, 8c, Qh ]
+squerrel333 checks
+YS0Seri0us checks
+pkrOD bets [$0.50 USD]
+squerrel333 folds
+YS0Seri0us folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:13 BST
+pkrOD wins $1.22 USD
+ Game #7936056835 starts.
+
+#Game No : 7936056835 
+***** Hand History for Game 7936056835 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:13:49 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 1: alaspucha ( $25.25 USD )
+Seat 6: cebfpoker ( $25.15 USD )
+Seat 2: pkrOD ( $32.74 USD )
+Seat 3: squerrel333 ( $29.71 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc 8h ]
+alaspucha raises [$1 USD]
+pkrOD folds
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker folds
+alaspucha does not show cards.
+The time at which hand ended:Mar 30 2009 22:14 BST
+alaspucha wins $1.35 USD
+ Game #7936058131 starts.
+
+#Game No : 7936058131 
+***** Hand History for Game 7936058131 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:14:11 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 1: alaspucha ( $25.60 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $32.74 USD )
+Seat 3: squerrel333 ( $29.71 USD )
+cebfpoker posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 3d ]
+alaspucha has left the table.
+squerrel333 raises [$1.25 USD]
+YS0Seri0us folds
+cebfpoker folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:14 BST
+squerrel333 wins $1.60 USD
+ Game #7936060328 starts.
+
+#Game No : 7936060328 
+***** Hand History for Game 7936060328 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:14:48 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $32.49 USD )
+Seat 3: squerrel333 ( $30.06 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 4d ]
+YS0Seri0us folds
+cebfpoker folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:15 BST
+squerrel333 wins $0.35 USD
+ Game #7936061486 starts.
+
+#Game No : 7936061486 
+***** Hand History for Game 7936061486 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:15:08 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $32.39 USD )
+Seat 3: squerrel333 ( $30.16 USD )
+squerrel333 posts small blind [$0.10 USD].
+Fopperstich is sitting out
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 3h ]
+cebfpoker raises [$1 USD]
+pkrOD folds
+squerrel333 calls [$0.90 USD]
+YS0Seri0us folds
+** Dealing Flop ** [ 6s, Jd, Kc ]
+Russian_Rckt has joined the table.
+squerrel333 checks
+cebfpoker bets [$1.50 USD]
+squerrel333 calls [$1.50 USD]
+** Dealing Turn ** [ 3c ]
+squerrel333 checks
+cebfpoker bets [$3.50 USD]
+squerrel333 folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:16 BST
+cebfpoker wins $7.99 USD
+ Game #7936065087 starts.
+
+#Game No : 7936065087 
+***** Hand History for Game 7936065087 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:16:09 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $12.50 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $26.99 USD )
+Seat 2: pkrOD ( $32.39 USD )
+Seat 3: squerrel333 ( $27.66 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 7s ]
+Russian_Rckt checks
+pkrOD folds
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker checks
+** Dealing Flop ** [ Tc, Td, Ad ]
+cebfpoker bets [$0.50 USD]
+Russian_Rckt folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:17 BST
+cebfpoker wins $1.07 USD
+ Game #7936068357 starts.
+
+#Game No : 7936068357 
+***** Hand History for Game 7936068357 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:17:04 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $12.25 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $27.31 USD )
+Seat 2: pkrOD ( $32.39 USD )
+Seat 3: squerrel333 ( $27.66 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As Jd ]
+pkrOD calls [$0.25 USD]
+squerrel333 calls [$0.25 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt checks
+** Dealing Flop ** [ Qd, 4h, Ks ]
+Russian_Rckt checks
+pkrOD checks
+squerrel333 checks
+** Dealing Turn ** [ 8s ]
+Russian_Rckt checks
+pkrOD checks
+squerrel333 checks
+** Dealing River ** [ 2d ]
+Russian_Rckt bets [$0.25 USD]
+pkrOD folds
+squerrel333 folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:17 BST
+Russian_Rckt wins $1.06 USD
+ Game #7936071072 starts.
+
+#Game No : 7936071072 
+***** Hand History for Game 7936071072 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:17:50 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $12.81 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $27.21 USD )
+Seat 2: pkrOD ( $32.14 USD )
+Seat 3: squerrel333 ( $27.41 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d Kd ]
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Kh, 7s, Jh ]
+Russian_Rckt checks
+pkrOD bets [$0.50 USD]
+Russian_Rckt folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:18 BST
+pkrOD wins $0.98 USD
+ Game #7936073023 starts.
+
+#Game No : 7936073023 
+***** Hand History for Game 7936073023 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:18:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $12.56 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $27.21 USD )
+Seat 2: pkrOD ( $32.37 USD )
+Seat 3: squerrel333 ( $27.41 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Ts ]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD raises [$0.90 USD]
+squerrel333 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:18 BST
+pkrOD wins $1.25 USD
+ Game #7936075220 starts.
+
+#Game No : 7936075220 
+***** Hand History for Game 7936075220 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:19:02 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $12.56 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $27.21 USD )
+Seat 2: pkrOD ( $32.62 USD )
+Seat 3: squerrel333 ( $27.16 USD )
+squerrel333 posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 4c ]
+cebfpoker folds
+Russian_Rckt folds
+pkrOD raises [$1 USD]
+squerrel333 folds
+YS0Seri0us raises [$3.25 USD]
+pkrOD folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:19 BST
+YS0Seri0us wins $4.60 USD
+ Game #7936077683 starts.
+
+#Game No : 7936077683 
+***** Hand History for Game 7936077683 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:19:44 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $12.56 USD )
+Seat 5: YS0Seri0us ( $26.10 USD )
+Seat 6: cebfpoker ( $27.21 USD )
+Seat 2: pkrOD ( $31.62 USD )
+Seat 3: squerrel333 ( $27.06 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 4c ]
+Russian_Rckt calls [$0.25 USD]
+pkrOD folds
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker checks
+** Dealing Flop ** [ Ad, Qh, Jc ]
+cebfpoker checks
+Russian_Rckt checks
+** Dealing Turn ** [ 2s ]
+cebfpoker bets [$0.50 USD]
+Russian_Rckt calls [$0.50 USD]
+** Dealing River ** [ Ts ]
+cebfpoker bets [$0.75 USD]
+Russian_Rckt raises [$5 USD]
+cebfpoker folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:20 BST
+Russian_Rckt wins $7.20 USD
+ Game #7936081198 starts.
+
+#Game No : 7936081198 
+***** Hand History for Game 7936081198 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:20:46 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.01 USD )
+Seat 5: YS0Seri0us ( $26 USD )
+Seat 6: cebfpoker ( $25.71 USD )
+Seat 2: pkrOD ( $31.62 USD )
+Seat 3: squerrel333 ( $27.06 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 8c ]
+pkrOD folds
+squerrel333 did not respond in time
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:21 BST
+Russian_Rckt wins $0.35 USD
+ Game #7936084127 starts.
+
+#Game No : 7936084127 
+***** Hand History for Game 7936084127 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:21:18 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.11 USD )
+Seat 5: YS0Seri0us ( $26 USD )
+Seat 6: cebfpoker ( $25.61 USD )
+Seat 2: pkrOD ( $31.62 USD )
+Seat 3: squerrel333 ( $27.06 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 4h ]
+YS0Seri0us folds
+cebfpoker raises [$1 USD]
+Russian_Rckt folds
+pkrOD folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:21 BST
+cebfpoker wins $1.35 USD
+ Game #7936086134 starts.
+
+#Game No : 7936086134 
+***** Hand History for Game 7936086134 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:21:53 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.01 USD )
+Seat 5: YS0Seri0us ( $26 USD )
+Seat 6: cebfpoker ( $25.96 USD )
+Seat 2: pkrOD ( $31.37 USD )
+Seat 3: squerrel333 ( $27.06 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 5s ]
+YS0Seri0us folds
+cebfpoker raises [$1 USD]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:22 BST
+cebfpoker wins $1.35 USD
+ Game #7936087428 starts.
+
+#Game No : 7936087428 
+***** Hand History for Game 7936087428 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:22:17 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.01 USD )
+Seat 5: YS0Seri0us ( $26 USD )
+Seat 6: cebfpoker ( $26.31 USD )
+Seat 2: pkrOD ( $31.27 USD )
+Seat 3: squerrel333 ( $26.81 USD )
+squerrel333 posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 5c ]
+cebfpoker folds
+Russian_Rckt calls [$0.25 USD]
+pkrOD folds
+squerrel333 folds
+YS0Seri0us checks
+** Dealing Flop ** [ 9c, 6h, 3s ]
+YS0Seri0us bets [$0.42 USD]
+Russian_Rckt folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:23 BST
+YS0Seri0us wins $0.99 USD
+ Game #7936090362 starts.
+
+#Game No : 7936090362 
+***** Hand History for Game 7936090362 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:23:06 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $13.76 USD )
+Seat 5: YS0Seri0us ( $26.32 USD )
+Seat 6: cebfpoker ( $26.31 USD )
+Seat 2: pkrOD ( $31.27 USD )
+Seat 3: squerrel333 ( $26.71 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs Jd ]
+Russian_Rckt folds
+pkrOD calls [$0.25 USD]
+squerrel333 raises [$1.50 USD]
+YS0Seri0us calls [$1.40 USD]
+cebfpoker folds
+pkrOD calls [$1.25 USD]
+** Dealing Flop ** [ 7h, 7d, 6s ]
+YS0Seri0us checks
+pkrOD checks
+squerrel333 checks
+** Dealing Turn ** [ Ad ]
+YS0Seri0us checks
+pkrOD checks
+squerrel333 checks
+** Dealing River ** [ 8s ]
+YS0Seri0us checks
+pkrOD checks
+squerrel333 checks
+YS0Seri0us shows [ Tc, Jc ]a pair of Sevens.
+pkrOD shows [ Qs, Jd ]a pair of Sevens with Queen kicker.
+squerrel333 shows [ Kh, Js ]a pair of Sevens with King kicker.
+The time at which hand ended:Mar 30 2009 22:24 BST
+squerrel333 wins $4.52 USD from the main pot with a pair of Sevens with King kicker.
+ Game #7936095976 starts.
+
+#Game No : 7936095976 
+***** Hand History for Game 7936095976 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:24:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $13.76 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $26.06 USD )
+Seat 2: pkrOD ( $29.77 USD )
+Seat 3: squerrel333 ( $29.73 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 9h ]
+pkrOD calls [$0.25 USD]
+squerrel333 calls [$0.25 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt raises [$0.75 USD]
+pkrOD calls [$0.75 USD]
+squerrel333 calls [$0.75 USD]
+** Dealing Flop ** [ 5d, 2s, Th ]
+Russian_Rckt bets [$2 USD]
+pkrOD folds
+squerrel333 folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:25 BST
+Russian_Rckt wins $4.95 USD
+ Game #7936098934 starts.
+
+#Game No : 7936098934 
+***** Hand History for Game 7936098934 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:25:08 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $15.71 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25.96 USD )
+Seat 2: pkrOD ( $28.77 USD )
+Seat 3: squerrel333 ( $28.73 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 8d ]
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker raises [$1 USD]
+Russian_Rckt calls [$0.90 USD]
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 7c, 7d, 4d ]
+Russian_Rckt checks
+pkrOD bets [$8 USD]
+cebfpoker folds
+Russian_Rckt folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:26 BST
+pkrOD wins $10.85 USD
+ Game #7936103172 starts.
+
+#Game No : 7936103172 
+***** Hand History for Game 7936103172 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:26:09 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.71 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $30.62 USD )
+Seat 3: squerrel333 ( $28.73 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah 9h ]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD calls [$0.15 USD]
+squerrel333 checks
+** Dealing Flop ** [ Ac, 2c, Jc ]
+pkrOD bets [$0.25 USD]
+squerrel333 calls [$0.25 USD]
+** Dealing Turn ** [ 9d ]
+pkrOD bets [$1 USD]
+squerrel333 calls [$1 USD]
+** Dealing River ** [ Tc ]
+pkrOD bets [$1.50 USD]
+squerrel333 calls [$1.50 USD]
+pkrOD shows [ Ah, 9h ]two pairs, Aces and Nines.
+squerrel333 shows [ 9c, Js ]a flush, Ace high.
+The time at which hand ended:Mar 30 2009 22:26 BST
+squerrel333 wins $5.20 USD from the main pot with a flush, Ace high.
+ Game #7936106826 starts.
+
+#Game No : 7936106826 
+***** Hand History for Game 7936106826 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:27:01 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.71 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $27.62 USD )
+Seat 3: squerrel333 ( $30.93 USD )
+squerrel333 posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js 6s ]
+cebfpoker folds
+Russian_Rckt raises [$1 USD]
+pkrOD folds
+squerrel333 folds
+YS0Seri0us folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:27 BST
+Russian_Rckt wins $1.35 USD
+ Game #7936108257 starts.
+
+#Game No : 7936108257 
+***** Hand History for Game 7936108257 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:27:22 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $15.06 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $27.62 USD )
+Seat 3: squerrel333 ( $30.83 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 2d ]
+pkrOD calls [$0.25 USD]
+squerrel333 folds
+YS0Seri0us raises [$1.15 USD]
+Russian_Rckt folds
+pkrOD calls [$1 USD]
+** Dealing Flop ** [ Ks, Ad, 2h ]
+YS0Seri0us bets [$2 USD]
+pkrOD raises [$7 USD]
+YS0Seri0us folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:28 BST
+pkrOD wins $10.92 USD
+ Game #7936112977 starts.
+
+#Game No : 7936112977 
+***** Hand History for Game 7936112977 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:28:29 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $14.81 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $30.29 USD )
+Seat 3: squerrel333 ( $30.83 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Td 3c ]
+squerrel333 folds
+YS0Seri0us folds
+Russian_Rckt raises [$0.90 USD]
+pkrOD folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:28 BST
+Russian_Rckt wins $1.25 USD
+ Game #7936114876 starts.
+
+#Game No : 7936114876 
+***** Hand History for Game 7936114876 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:28:57 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $15.06 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $30.04 USD )
+Seat 3: squerrel333 ( $30.83 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 6s ]
+YS0Seri0us raises [$1 USD]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:29 BST
+YS0Seri0us wins $1.35 USD
+ Game #7936116349 starts.
+
+#Game No : 7936116349 
+***** Hand History for Game 7936116349 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:29:19 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Fopperstich ( $29.26 USD )
+Seat 1: Russian_Rckt ( $15.06 USD )
+Seat 5: YS0Seri0us ( $25.35 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $29.94 USD )
+Seat 3: squerrel333 ( $30.58 USD )
+squerrel333 posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 4s ]
+Russian_Rckt raises [$1 USD]
+pkrOD raises [$4 USD]
+squerrel333 folds
+YS0Seri0us folds
+Russian_Rckt calls [$3 USD]
+** Dealing Flop ** [ 5h, Qd, 3d ]
+Russian_Rckt is all-In  [$11.06 USD]
+pkrOD calls [$11.06 USD]
+** Dealing Turn ** [ 7h ]
+** Dealing River ** [ Tc ]
+Russian_Rckt shows [ Ac, Th ]a pair of Tens.
+pkrOD shows [ 4c, 4s ]a pair of Fours.
+The time at which hand ended:Mar 30 2009 22:30 BST
+Russian_Rckt wins $28.45 USD from the main pot with a pair of Tens.
+douche
+Fopperstich has left the table.
+ Game #7936119623 starts.
+
+#Game No : 7936119623 
+***** Hand History for Game 7936119623 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:30:08 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $28.45 USD )
+Seat 5: YS0Seri0us ( $25.10 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $14.88 USD )
+Seat 3: squerrel333 ( $30.48 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h Ac ]
+pkrOD folds
+squerrel333 folds
+YS0Seri0us folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:30 BST
+Russian_Rckt wins $0.35 USD
+how stupid can i get
+lol
+ Game #7936121040 starts.
+
+#Game No : 7936121040 
+***** Hand History for Game 7936121040 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:30:28 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $28.55 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $14.88 USD )
+Seat 3: squerrel333 ( $30.48 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 3c ]
+squerrel333 raises [$1 USD]
+pkrOD: thinking a pair was good against a high
+YS0Seri0us folds
+pkrOD: stupid me!
+Russian_Rckt folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:30 BST
+squerrel333 wins $1.35 USD
+ Game #7936123130 starts.
+
+#Game No : 7936123130 
+***** Hand History for Game 7936123130 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:31:00 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $28.45 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $14.63 USD )
+Seat 3: squerrel333 ( $30.83 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7d 6s ]
+YS0Seri0us folds
+Russian_Rckt calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+squerrel333 checks
+** Dealing Flop ** [ Tc, 4d, Jd ]
+pkrOD checks
+Russian_Rckt: reraising with low pocket pair??
+squerrel333 checks
+Russian_Rckt checks
+** Dealing Turn ** [ 8c ]
+pkrOD bets [$0.50 USD]
+squerrel333 calls [$0.50 USD]
+Russian_Rckt folds
+** Dealing River ** [ 8d ]
+evgenkul has joined the table.
+pkrOD bets [$3 USD]
+squerrel333 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:32 BST
+pkrOD wins $4.67 USD
+ Game #7936128180 starts.
+
+#Game No : 7936128180 
+***** Hand History for Game 7936128180 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:32:17 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $28.20 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $5 USD )
+Seat 2: pkrOD ( $15.55 USD )
+Seat 3: squerrel333 ( $30.08 USD )
+squerrel333 posts small blind [$0.10 USD].
+pkrOD: I RR as i knew he had nothing good
+evgenkul posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 9d ]
+YS0Seri0us folds
+pkrOD: i knew my pair was ahead.. thats why i called
+pkrOD: stupid donkey gambled
+Russian_Rckt: ace 1o is nothing good?
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+evgenkul does not show cards.
+The time at which hand ended:Mar 30 2009 22:33 BST
+evgenkul wins $0.35 USD
+AT missed and u went all in ?!
+ Game #7936131574 starts.
+
+#Game No : 7936131574 
+***** Hand History for Game 7936131574 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:33:08 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $28.20 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $5.10 USD )
+Seat 2: pkrOD ( $15.55 USD )
+Seat 3: squerrel333 ( $29.98 USD )
+evgenkul posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd Jc ]
+Russian_Rckt folds
+pkrOD: i called and u hit the river like a total donk
+pkrOD calls [$0.25 USD]
+pkrOD: no offence but its a joke
+Russian_Rckt: its called a bluff kid
+squerrel333 raises [$1.75 USD]
+evgenkul folds
+YS0Seri0us folds
+pkrOD is all-In  [$15.30 USD]
+Russian_Rckt: bad rr by u
+squerrel333 calls [$13.80 USD]
+** Dealing Flop ** [ 3c, Js, 9s ]
+** Dealing Turn ** [ 8d ]
+** Dealing River ** [ 8h ]
+pkrOD: fed up of u donks trying to XXXX about ill RR any of u now
+squerrel333 shows [ Ad, Qd ]a pair of Eights.
+pkrOD shows [ Kd, Jc ]two pairs, Jacks and Eights.
+The time at which hand ended:Mar 30 2009 22:33 BST
+pkrOD wins $29.38 USD from the main pot with two pairs, Jacks and Eights.
+ Game #7936135074 starts.
+
+#Game No : 7936135074 
+***** Hand History for Game 7936135074 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:34:01 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $28.20 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $5 USD )
+Seat 2: pkrOD ( $29.38 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h Qd ]
+Russian_Rckt folds
+pkrOD folds
+Russian_Rckt: dont rr with squat kid
+squerrel333: moron
+squerrel333 folds
+evgenkul folds
+pkrOD: hurts doesnt it squirrel
+YS0Seri0us folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:34 BST
+cebfpoker wins $0.35 USD
+ Game #7936137772 starts.
+
+#Game No : 7936137772 
+***** Hand History for Game 7936137772 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:34:44 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $28.20 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25.10 USD )
+Seat 4: evgenkul ( $5 USD )
+Seat 2: pkrOD ( $29.38 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Kc ]
+pkrOD: i didnt have nothing on the flop and bet everything knowing i had XXXX all tho
+pkrOD calls [$0.25 USD]
+pkrOD: that was dumb as XXXX
+pkrOD: total donkey play
+Russian_Rckt: u rr pre flop with small pp... that is stupid poker
+squerrel333 folds
+evgenkul folds
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: cos i was AHEAD!?
+Russian_Rckt checks
+** Dealing Flop ** [ Kh, 7h, 2s ]
+Russian_Rckt checks
+squerrel333: shut up u fcukhead
+pkrOD: i was winning all the way until u got unbelievable luck on the river
+pkrOD bets [$0.75 USD]
+Russian_Rckt: lol keep playing like that, youll lose your whole stack kid
+Russian_Rckt folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:35 BST
+pkrOD wins $1.32 USD
+and caught a river.. otherwise ud be broke
+ Game #7936142033 starts.
+
+#Game No : 7936142033 
+***** Hand History for Game 7936142033 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:35:49 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $27.95 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $5 USD )
+Seat 2: pkrOD ( $29.70 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad Qd ]
+squerrel333 folds
+Russian_Rckt: u dont rr preflop with small pp its common sense kid
+evgenkul folds
+YS0Seri0us raises [$1 USD]
+squerrel333: he is a total wank er
+pkrOD: u do when a donkey is raising with any two cards
+cebfpoker folds
+Russian_Rckt calls [$0.90 USD]
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 6h, Qs, 5c ]
+Russian_Rckt: remind me again how a10 is any 2 cards??
+Russian_Rckt checks
+squerrel333: pkr, shut up y moron
+Russian_Rckt: think before you speak
+pkrOD: cos the flop was J 5 3
+Your time bank will be activated in 6 secs. If you do not want it to be used, please act now.
+pkrOD checks
+so AT is any two cards
+YS0Seri0us bets [$2.13 USD]
+pre flop u rr donk
+Russian_Rckt folds
+u might as well of had 93 os
+so is aa then i guess u idiot
+pkrOD calls [$2.13 USD]
+** Dealing Turn ** [ 2c ]
+pkrOD checks
+YS0Seri0us checks
+** Dealing River ** [ 6s ]
+pkrOD bets [$0.25 USD]
+omg ur a total idiot
+if u think that was good play
+like i said keep playing like that, youll lose it all sooner or later
+against my 44
+YS0Seri0us calls [$0.25 USD]
+pkrOD shows [ Ad, Qd ]two pairs, Queens and Sixes.
+YS0Seri0us doesn't show [ 7d, 7c ]two pairs, Sevens and Sixes.
+The time at which hand ended:Mar 30 2009 22:38 BST
+pkrOD wins $6.88 USD from the main pot with two pairs, Queens and Sixes.
+ Game #7936151134 starts.
+
+#Game No : 7936151134 
+***** Hand History for Game 7936151134 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:38:09 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $26.95 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $5 USD )
+Seat 2: pkrOD ( $33.20 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h 5c ]
+evgenkul folds
+pkrOD: i RR u .. i cud just as easily had AA
+pkrOD: with my RR preflop
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD: and u still pushed all in with XXXX all out of position with crap cards
+pkrOD folds
+Russian_Rckt: but ur a donk and i knew that
+squerrel333: pkr, gay
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:38 BST
+squerrel333 wins $0.35 USD
+ Game #7936153383 starts.
+
+#Game No : 7936153383 
+***** Hand History for Game 7936153383 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:38:47 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $26.95 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $5 USD )
+Seat 2: pkrOD ( $33.10 USD )
+Seat 3: squerrel333 ( $14.53 USD )
+squerrel333 posts small blind [$0.10 USD].
+evgenkul posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s As ]
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: im a donk who calls when hes winning ok
+Russian_Rckt folds
+pkrOD raises [$1 USD]
+pkrOD: ur right.. thats why i lose
+squerrel333: shut up
+pkrOD: and u win so much haha
+squerrel333 folds
+pkrOD: retardo
+evgenkul folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:39 BST
+pkrOD wins $1.35 USD
+ Game #7936155825 starts.
+
+#Game No : 7936155825 
+***** Hand History for Game 7936155825 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:39:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $26.95 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $4.75 USD )
+Seat 2: pkrOD ( $33.45 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+evgenkul posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 9d ]
+cebfpoker folds
+pkrOD: dont talk to me
+squerrel333: u are the retard
+pkrOD: u r
+squerrel333: excuse me???
+Russian_Rckt: u win so much, thats why ur on .10 .25 tables
+squerrel333: i wil rip ur head off moron
+Russian_Rckt folds
+pkrOD: ive won more cash than uve ever earnt
+pkrOD raises [$1 USD]
+squerrel333 folds
+evgenkul is all-In  [$4.65 USD]
+YS0Seri0us folds
+pkrOD calls [$3.75 USD]
+** Dealing Flop ** [ Ks, Ts, 3h ]
+** Dealing Turn ** [ 6d ]
+** Dealing River ** [ 3d ]
+pkrOD shows [ 8d, 9d ]a pair of Threes.
+evgenkul shows [ Kd, Kh ]a full house, Kings full of Threes.
+The time at which hand ended:Mar 30 2009 22:40 BST
+evgenkul wins $8.77 USD from the main pot with a full house, Kings full of Threes.
+lol this kid is classic, are you all reading this lol classic
+ Game #7936159651 starts.
+
+#Game No : 7936159651 
+***** Hand History for Game 7936159651 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:40:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $26.95 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $8.77 USD )
+Seat 2: pkrOD ( $28.70 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s Td ]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+evgenkul folds
+YS0Seri0us raises [$0.65 USD]
+pkrOD: well if u cud check my stats ive won well over 10k on here
+cebfpoker folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:40 BST
+YS0Seri0us wins $1 USD
+ Game #7936161839 starts.
+
+#Game No : 7936161839 
+***** Hand History for Game 7936161839 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:40:58 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $26.95 USD )
+Seat 5: YS0Seri0us ( $25.25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $8.77 USD )
+Seat 2: pkrOD ( $28.70 USD )
+Seat 3: squerrel333 ( $14.43 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 3h ]
+pkrOD: probably more than u earn in a year
+pkrOD calls [$0.25 USD]
+pkrOD: lol
+squerrel333 raises [$1.50 USD]
+evgenkul folds
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt: lol wow this is entertaining haha
+Russian_Rckt calls [$1.25 USD]
+YS0Seri0us: lol
+pkrOD calls [$1.25 USD]
+** Dealing Flop ** [ 8c, Qc, 5c ]
+evgenkul: fish
+pkrOD: fish ur mum
+Russian_Rckt checks
+pkrOD checks
+Russian_Rckt: well he doesnt have small pp or he would have rr
+Russian_Rckt: lol donk
+squerrel333 checks
+** Dealing Turn ** [ 8h ]
+pkrOD: what do u reckon this joker has
+Russian_Rckt checks
+pkrOD checks
+squerrel333 checks
+** Dealing River ** [ 7h ]
+Russian_Rckt checks
+pkrOD checks
+squerrel333 checks
+Russian_Rckt shows [ 4d, 4c ]two pairs, Eights and Fours.
+pkrOD doesn't show [ 3c, 3h ]two pairs, Eights and Threes.
+squerrel333 doesn't show [ Jh, Ah ]a pair of Eights.
+The time at which hand ended:Mar 30 2009 22:42 BST
+Russian_Rckt wins $4.37 USD from the main pot with two pairs, Eights and Fours.
+ Game #7936167270 starts.
+
+#Game No : 7936167270 
+***** Hand History for Game 7936167270 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:42:23 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $29.82 USD )
+Seat 5: YS0Seri0us ( $25.25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $8.77 USD )
+Seat 2: pkrOD ( $27.20 USD )
+Seat 3: squerrel333 ( $12.93 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 7c ]
+Russian_Rckt: guess i should have rr huh donk?
+squerrel333 raises [$0.75 USD]
+evgenkul folds
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: u cud have.. wud have won more
+Russian_Rckt calls [$0.65 USD]
+pkrOD: just as i wud have if u didnt get freakishly lucky
+pkrOD calls [$0.50 USD]
+** Dealing Flop ** [ Qc, 6s, Ad ]
+Russian_Rckt: ya only 10% of the time
+Russian_Rckt checks
+pkrOD: any 2 random cards
+pkrOD checks
+Russian_Rckt: 90% i would lose donk
+squerrel333 bets [$1.25 USD]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:43 BST
+squerrel333 wins $3.39 USD
+ Game #7936171346 starts.
+
+#Game No : 7936171346 
+***** Hand History for Game 7936171346 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:43:28 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 1: Russian_Rckt ( $29.07 USD )
+Seat 5: YS0Seri0us ( $25.25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 4: evgenkul ( $8.77 USD )
+Seat 2: pkrOD ( $26.45 USD )
+Seat 3: squerrel333 ( $14.32 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Tc Kc ]
+evgenkul folds
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD raises [$0.90 USD]
+squerrel333 folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:43 BST
+pkrOD wins $1.25 USD
+evgenkul has left the table.
+ Game #7936172869 starts.
+
+#Game No : 7936172869 
+***** Hand History for Game 7936172869 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:43:52 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $29.07 USD )
+Seat 5: YS0Seri0us ( $25.25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.70 USD )
+Seat 3: squerrel333 ( $14.07 USD )
+squerrel333 posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s 2c ]
+cebfpoker folds
+Russian_Rckt calls [$0.25 USD]
+pkrOD folds
+squerrel333 calls [$0.15 USD]
+YS0Seri0us checks
+** Dealing Flop ** [ 7h, 4d, Ac ]
+squerrel333 checks
+pkrOD: so why is it that the only time i call u happen to hit
+YS0Seri0us checks
+pkrOD: thats just homo sexual
+Russian_Rckt checks
+** Dealing Turn ** [ Qh ]
+squerrel333 bets [$0.75 USD]
+YS0Seri0us raises [$2.22 USD]
+squerrel333: u are
+pkrOD: and not only that but i lose like $15
+Russian_Rckt: keep talking donk, just making a fool of yourself
+Russian_Rckt folds
+pkrOD: which is retarded
+pkrOD: u played it retarded
+squerrel333 raises [$6.75 USD]
+pkrOD: bluff all in with A high on J 53
+YS0Seri0us raises [$12.78 USD]
+squerrel333 is all-In  [$6.32 USD]
+** Dealing River ** [ Kh ]
+YS0Seri0us shows [ Ad, 7c ]two pairs, Aces and Sevens.
+squerrel333 shows [ 7d, Ah ]two pairs, Aces and Sevens.
+The time at which hand ended:Mar 30 2009 22:45 BST
+YS0Seri0us wins $1.18 USD from the side pot 1 with two pairs, Aces and Sevens.
+squerrel333 wins $13.24 USD from the main pot with two pairs, Aces and Sevens.
+YS0Seri0us wins $13.24 USD from the main pot with two pairs, Aces and Sevens.
+ Game #7936178428 starts.
+
+#Game No : 7936178428 
+***** Hand History for Game 7936178428 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:45:19 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $28.82 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.70 USD )
+Seat 3: squerrel333 ( $13.24 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 2c ]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+Russian_Rckt: against the king of all donks, sure
+YS0Seri0us folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:45 BST
+cebfpoker wins $0.35 USD
+ Game #7936180394 starts.
+
+#Game No : 7936180394 
+***** Hand History for Game 7936180394 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:45:51 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $28.82 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25.10 USD )
+Seat 2: pkrOD ( $26.70 USD )
+Seat 3: squerrel333 ( $13.24 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8s 3c ]
+pkrOD folds
+squerrel333 raises [$1.75 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:46 BST
+squerrel333 wins $2.10 USD
+ Game #7936182401 starts.
+
+#Game No : 7936182401 
+***** Hand History for Game 7936182401 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:46:22 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 1: Russian_Rckt ( $28.57 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.70 USD )
+Seat 3: squerrel333 ( $13.59 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s Kd ]
+squerrel333 folds
+YS0Seri0us folds
+cebfpoker raises [$1 USD]
+Pradanna has joined the table.
+Russian_Rckt raises [$2.90 USD]
+pkrOD folds
+cebfpoker folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:46 BST
+Russian_Rckt wins $4.25 USD
+ Game #7936184371 starts.
+
+#Game No : 7936184371 
+***** Hand History for Game 7936184371 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:46:53 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $29.82 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.45 USD )
+Seat 3: squerrel333 ( $13.59 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h Ts ]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:47 BST
+squerrel333 wins $0.35 USD
+ Game #7936185494 starts.
+
+#Game No : 7936185494 
+***** Hand History for Game 7936185494 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:47:11 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $29.82 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.35 USD )
+Seat 3: squerrel333 ( $13.69 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 6c ]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD folds
+squerrel333 raises [$0.40 USD]
+Pradanna folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:47 BST
+squerrel333 wins $0.75 USD
+ Game #7936187103 starts.
+
+#Game No : 7936187103 
+***** Hand History for Game 7936187103 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:47:36 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $29.82 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.35 USD )
+Seat 3: squerrel333 ( $13.94 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c Qc ]
+cebfpoker folds
+Russian_Rckt folds
+pkrOD calls [$0.25 USD]
+squerrel333 folds
+Pradanna calls [$0.15 USD]
+YS0Seri0us checks
+** Dealing Flop ** [ 6c, Qh, 5s ]
+Pradanna checks
+YS0Seri0us checks
+pkrOD bets [$0.55 USD]
+Pradanna folds
+YS0Seri0us folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 22:48 BST
+pkrOD wins $1.27 USD
+silence!!! finally
+ Game #7936190328 starts.
+
+#Game No : 7936190328 
+***** Hand History for Game 7936190328 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:48:28 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $29.82 USD )
+Seat 5: YS0Seri0us ( $25 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.82 USD )
+Seat 3: squerrel333 ( $13.94 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h 6d ]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+Pradanna folds
+YS0Seri0us raises [$0.65 USD]
+cebfpoker calls [$0.50 USD]
+** Dealing Flop ** [ Th, Qs, 6h ]
+YS0Seri0us bets [$1 USD]
+cebfpoker folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:49 BST
+YS0Seri0us wins $2.43 USD
+ Game #7936193833 starts.
+
+#Game No : 7936193833 
+***** Hand History for Game 7936193833 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:49:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $29.82 USD )
+Seat 5: YS0Seri0us ( $25.68 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $26.82 USD )
+Seat 3: squerrel333 ( $13.94 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5c 8c ]
+pkrOD raises [$1.20 USD]
+squerrel333 calls [$1.20 USD]
+Pradanna raises [$4.50 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD calls [$3.30 USD]
+Russian_Rckt: must have 3s
+squerrel333 folds
+** Dealing Flop ** [ 3d, Qd, 8h ]
+pkrOD checks
+Pradanna bets [$6 USD]
+pkrOD calls [$6 USD]
+** Dealing Turn ** [ Td ]
+pkrOD checks
+Russian_Rckt: what a flop for 3S
+Pradanna checks
+** Dealing River ** [ 9h ]
+pkrOD checks
+Pradanna checks
+pkrOD shows [ 5c, 8c ]a pair of Eights.
+Pradanna shows [ Qs, Ah ]a pair of Queens.
+The time at which hand ended:Mar 30 2009 22:50 BST
+Pradanna wins $20.93 USD from the main pot with a pair of Queens.
+ Game #7936199010 starts.
+
+#Game No : 7936199010 
+***** Hand History for Game 7936199010 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:50:46 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $35.43 USD )
+Seat 1: Russian_Rckt ( $29.57 USD )
+Seat 5: YS0Seri0us ( $25.68 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $16.32 USD )
+Seat 3: squerrel333 ( $12.74 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jc 6d ]
+squerrel333 folds
+pkrOD: nice
+Russian_Rckt: 85 LOL HAHAHAHAHA
+Pradanna folds
+pkrOD: playing for implied odds.. something u know nothing about
+YS0Seri0us raises [$1 USD]
+cebfpoker folds
+Russian_Rckt calls [$0.90 USD]
+pkrOD folds
+** Dealing Flop ** [ Js, 2c, Qs ]
+Russian_Rckt: lol ok kid
+Russian_Rckt bets [$1.50 USD]
+YS0Seri0us raises [$4 USD]
+Russian_Rckt calls [$2.50 USD]
+** Dealing Turn ** [ 5c ]
+Russian_Rckt checks
+YS0Seri0us bets [$6 USD]
+Russian_Rckt calls [$6 USD]
+** Dealing River ** [ 3c ]
+Russian_Rckt checks
+YS0Seri0us is all-In  [$14.68 USD]
+Russian_Rckt folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:52 BST
+YS0Seri0us wins $35.32 USD
+ Game #7936204064 starts.
+
+#Game No : 7936204064 
+***** Hand History for Game 7936204064 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:52:06 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $35.43 USD )
+Seat 1: Russian_Rckt ( $18.57 USD )
+Seat 5: YS0Seri0us ( $35.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $16.07 USD )
+Seat 3: squerrel333 ( $12.74 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts 7c ]
+Pradanna folds
+YS0Seri0us folds
+cebfpoker raises [$1 USD]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 folds
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 22:52 BST
+cebfpoker wins $1.35 USD
+ Game #7936206360 starts.
+
+#Game No : 7936206360 
+***** Hand History for Game 7936206360 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:52:43 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $35.43 USD )
+Seat 1: Russian_Rckt ( $18.57 USD )
+Seat 5: YS0Seri0us ( $35.32 USD )
+Seat 6: cebfpoker ( $25.35 USD )
+Seat 2: pkrOD ( $15.97 USD )
+Seat 3: squerrel333 ( $12.49 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 4d ]
+YS0Seri0us raises [$1 USD]
+cebfpoker folds
+Russian_Rckt calls [$1 USD]
+pkrOD calls [$1 USD]
+pkrOD: lol russian ur not exactly doing much better u tard.. ppl in glass houses
+squerrel333 folds
+Pradanna raises [$5.25 USD]
+pkrOD: total XXXX-wit
+YS0Seri0us folds
+Russian_Rckt calls [$4.50 USD]
+pkrOD calls [$4.50 USD]
+** Dealing Flop ** [ 2c, 8c, 3c ]
+pkrOD: all in russian
+pkrOD: lol
+Pradanna bets [$13.50 USD]
+Russian_Rckt folds
+pkrOD: watch me lose
+pkrOD is all-In  [$10.47 USD]
+** Dealing Turn ** [ 7h ]
+** Dealing River ** [ 4s ]
+Pradanna shows [ Ah, Kc ]high card Ace.
+pkrOD shows [ 3d, 4d ]two pairs, Fours and Threes.
+The time at which hand ended:Mar 30 2009 22:54 BST
+Pradanna wins $3.03 USD from the side pot 1 with high card, Ace.
+pkrOD wins $36.12 USD from the main pot with two pairs, Fours and Threes.
+ Game #7936211727 starts.
+
+#Game No : 7936211727 
+***** Hand History for Game 7936211727 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:54:10 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $13.07 USD )
+Seat 5: YS0Seri0us ( $34.32 USD )
+Seat 6: cebfpoker ( $25.35 USD )
+Seat 2: pkrOD ( $36.12 USD )
+Seat 3: squerrel333 ( $12.39 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2s 8s ]
+cebfpoker folds
+pkrOD: see.. calling when ur AHEAD
+pkrOD: dumbasses
+Russian_Rckt folds
+squerrel333: moron
+pkrOD folds
+pkrOD: i had the best hand
+Russian_Rckt: now everyone sees how bad u r
+squerrel333 folds
+Pradanna folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:54 BST
+YS0Seri0us wins $0.35 USD
+ Game #7936214027 starts.
+
+#Game No : 7936214027 
+***** Hand History for Game 7936214027 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:54:48 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $13.07 USD )
+Seat 5: YS0Seri0us ( $34.42 USD )
+Seat 6: cebfpoker ( $25.35 USD )
+Seat 2: pkrOD ( $36.12 USD )
+Seat 3: squerrel333 ( $12.39 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9s Tc ]
+Russian_Rckt raises [$1 USD]
+pkrOD: now everyone sees that i read the situation perfectly like i did last time and that it was a great call
+pkrOD calls [$1 USD]
+squerrel333 folds
+Pradanna folds
+YS0Seri0us folds
+cebfpoker folds
+** Dealing Flop ** [ 8s, 9c, 7s ]
+Russian_Rckt: lol luck kis
+Russian_Rckt: kid
+pkrOD: so shut ur whiney little mouth n look whos winning
+Russian_Rckt bets [$1.75 USD]
+pkrOD raises [$3.50 USD]
+Russian_Rckt calls [$1.75 USD]
+** Dealing Turn ** [ 7h ]
+Russian_Rckt is all-In  [$8.57 USD]
+pkrOD calls [$8.57 USD]
+** Dealing River ** [ Qd ]
+Russian_Rckt shows [ Qs, Kd ]two pairs, Queens and Sevens.
+pkrOD shows [ 9s, Tc ]two pairs, Nines and Sevens.
+The time at which hand ended:Mar 30 2009 22:55 BST
+Russian_Rckt wins $24.67 USD from the main pot with two pairs, Queens and Sevens.
+ Game #7936217585 starts.
+
+#Game No : 7936217585 
+***** Hand History for Game 7936217585 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:55:46 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $24.67 USD )
+Seat 5: YS0Seri0us ( $34.32 USD )
+Seat 6: cebfpoker ( $25.10 USD )
+Seat 2: pkrOD ( $23.05 USD )
+Seat 3: squerrel333 ( $12.39 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 2h ]
+pkrOD raises [$0.50 USD]
+pkrOD: HAHAHA
+Russian_Rckt: ;)
+squerrel333 calls [$0.50 USD]
+pkrOD: u XXXXING TARD
+pkrOD: what a douche bag
+Pradanna folds
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: bet with nothing call with nothing... all in AGAIN with nothing!!
+pkrOD: XXXXing moron
+pkrOD: so lucky it hurts
+Russian_Rckt: keep it up kid, no one believes u when u play garbage all the tim
+Russian_Rckt: time
+Russian_Rckt calls [$0.25 USD]
+** Dealing Flop ** [ Ad, Qh, 8c ]
+pkrOD: it hurts my bum hole cos im getting raped
+Russian_Rckt checks
+pkrOD checks
+squerrel333 checks
+** Dealing Turn ** [ Qd ]
+Russian_Rckt checks
+pkrOD bets [$1.25 USD]
+squerrel333 calls [$1.25 USD]
+Russian_Rckt calls [$1.25 USD]
+** Dealing River ** [ Jd ]
+Russian_Rckt checks
+pkrOD checks
+squerrel333 bets [$2.75 USD]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 22:57 BST
+squerrel333 wins $7.34 USD
+all know u got A/Q
+ Game #7936223867 starts.
+
+#Game No : 7936223867 
+***** Hand History for Game 7936223867 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:57:29 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $25 USD )
+Seat 1: Russian_Rckt ( $22.92 USD )
+Seat 5: YS0Seri0us ( $34.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $21.30 USD )
+Seat 3: squerrel333 ( $15.23 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 9d ]
+squerrel333 folds
+Pradanna raises [$1 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt calls [$0.90 USD]
+pkrOD folds
+** Dealing Flop ** [ Ah, Kd, 7c ]
+Russian_Rckt checks
+Pradanna bets [$1.40 USD]
+Russian_Rckt calls [$1.40 USD]
+** Dealing Turn ** [ 5h ]
+Russian_Rckt checks
+Pradanna checks
+** Dealing River ** [ 4h ]
+Russian_Rckt checks
+Pradanna bets [$3 USD]
+Russian_Rckt calls [$3 USD]
+Pradanna shows [ 4c, 4s ]three of a kind, Fours.
+Russian_Rckt doesn't show [ 9s, Ks ]a pair of Kings.
+The time at which hand ended:Mar 30 2009 22:58 BST
+Pradanna wins $10 USD from the main pot with three of a kind, Fours.
+ Game #7936226421 starts.
+
+#Game No : 7936226421 
+***** Hand History for Game 7936226421 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:58:11 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $17.52 USD )
+Seat 5: YS0Seri0us ( $34.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $21.05 USD )
+Seat 3: squerrel333 ( $15.23 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2d 5c ]
+pkrOD: shame
+Pradanna folds
+pkrOD: cun.t
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt raises [$1 USD]
+pkrOD folds
+pkrOD: look how ur losing
+squerrel333 folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 22:58 BST
+Russian_Rckt wins $1.35 USD
+ Game #7936227930 starts.
+
+#Game No : 7936227930 
+***** Hand History for Game 7936227930 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:58:37 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $17.87 USD )
+Seat 5: YS0Seri0us ( $34.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $20.95 USD )
+Seat 3: squerrel333 ( $14.98 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5d 5h ]
+pkrOD: play like a nob
+YS0Seri0us raises [$1 USD]
+pkrOD: thats why
+cebfpoker folds
+Russian_Rckt folds
+pkrOD calls [$1 USD]
+squerrel333 folds
+Pradanna folds
+** Dealing Flop ** [ 8h, Jc, 9d ]
+YS0Seri0us bets [$1.68 USD]
+Russian_Rckt: lol keep making a fool of yourself kid
+pkrOD calls [$1.68 USD]
+** Dealing Turn ** [ Ks ]
+YS0Seri0us bets [$4.07 USD]
+pkrOD folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 22:59 BST
+YS0Seri0us wins $9 USD
+ Game #7936230352 starts.
+
+#Game No : 7936230352 
+***** Hand History for Game 7936230352 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 22:59:17 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.35 USD )
+Seat 1: Russian_Rckt ( $17.87 USD )
+Seat 5: YS0Seri0us ( $36.57 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $18.27 USD )
+Seat 3: squerrel333 ( $14.88 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 8c ]
+pkrOD: what ever
+cebfpoker folds
+pkrOD: like im gonna take lessons from u "pro"
+Russian_Rckt folds
+pkrOD raises [$1 USD]
+squerrel333 folds
+Pradanna folds
+YS0Seri0us calls [$0.75 USD]
+** Dealing Flop ** [ 9s, 3c, Qh ]
+YS0Seri0us checks
+pkrOD checks
+** Dealing Turn ** [ 6c ]
+YS0Seri0us bets [$1.50 USD]
+pkrOD calls [$1.50 USD]
+** Dealing River ** [ Tc ]
+YS0Seri0us bets [$2.42 USD]
+pkrOD folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 23:00 BST
+YS0Seri0us wins $6.77 USD
+ Game #7936234734 starts.
+
+#Game No : 7936234734 
+***** Hand History for Game 7936234734 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:00:31 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.25 USD )
+Seat 1: Russian_Rckt ( $17.87 USD )
+Seat 5: YS0Seri0us ( $38.42 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.77 USD )
+Seat 3: squerrel333 ( $14.88 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s 7d ]
+Russian_Rckt folds
+pkrOD folds
+Russian_Rckt: down goes the donk
+squerrel333 raises [$0.75 USD]
+Pradanna folds
+YS0Seri0us folds
+cebfpoker folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 23:00 BST
+squerrel333 wins $1.10 USD
+ Game #7936236226 starts.
+
+#Game No : 7936236226 
+***** Hand History for Game 7936236226 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:00:56 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.25 USD )
+Seat 1: Russian_Rckt ( $17.87 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.77 USD )
+Seat 3: squerrel333 ( $15.23 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 2h ]
+pkrOD folds
+squerrel333 folds
+Pradanna raises [$0.85 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:01 BST
+Pradanna wins $1.20 USD
+ Game #7936237160 starts.
+
+#Game No : 7936237160 
+***** Hand History for Game 7936237160 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:01:13 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $17.62 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.77 USD )
+Seat 3: squerrel333 ( $15.23 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8h 2c ]
+squerrel333 folds
+Pradanna raises [$0.85 USD]
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:01 BST
+Pradanna wins $1.20 USD
+ Game #7936238548 starts.
+
+#Game No : 7936238548 
+***** Hand History for Game 7936238548 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:01:35 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.95 USD )
+Seat 1: Russian_Rckt ( $17.52 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.52 USD )
+Seat 3: squerrel333 ( $15.23 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 4s ]
+pkrOD: ive been higher than ull ever go
+Pradanna folds
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 23:01 BST
+squerrel333 wins $0.35 USD
+and ill last longer than ull ever last
+ Game #7936240062 starts.
+
+#Game No : 7936240062 
+***** Hand History for Game 7936240062 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:02:01 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.95 USD )
+Seat 1: Russian_Rckt ( $17.52 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.42 USD )
+Seat 3: squerrel333 ( $15.33 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 4c ]
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: so shut ur pie hole
+Russian_Rckt folds
+pkrOD folds
+squerrel333 raises [$0.40 USD]
+Pradanna folds
+Russian_Rckt: lol ok kid
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 23:02 BST
+squerrel333 wins $0.75 USD
+ Game #7936241580 starts.
+
+#Game No : 7936241580 
+***** Hand History for Game 7936241580 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:02:26 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.70 USD )
+Seat 1: Russian_Rckt ( $17.52 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.42 USD )
+Seat 3: squerrel333 ( $15.58 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  2h Js ]
+cebfpoker raises [$1 USD]
+Russian_Rckt calls [$1 USD]
+pkrOD folds
+squerrel333 folds
+Pradanna folds
+YS0Seri0us folds
+** Dealing Flop ** [ 8c, 3h, 9c ]
+cebfpoker bets [$1.50 USD]
+Russian_Rckt raises [$4.50 USD]
+cebfpoker folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:03 BST
+Russian_Rckt wins $7.59 USD
+ Game #7936244244 starts.
+
+#Game No : 7936244244 
+***** Hand History for Game 7936244244 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:03:13 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $19.61 USD )
+Seat 5: YS0Seri0us ( $38.07 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.42 USD )
+Seat 3: squerrel333 ( $15.58 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4d 6h ]
+Russian_Rckt folds
+pkrOD folds
+squerrel333 raises [$0.50 USD]
+pkrOD: XXXX me
+Pradanna folds
+pkrOD: with XXXX all
+YS0Seri0us folds
+pkrOD: does my head in
+cebfpoker folds
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 23:03 BST
+squerrel333 wins $0.85 USD
+where do they all come from lol
+ Game #7936246210 starts.
+
+#Game No : 7936246210 
+***** Hand History for Game 7936246210 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:03:48 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $19.61 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $25 USD )
+Seat 2: pkrOD ( $15.42 USD )
+Seat 3: squerrel333 ( $15.93 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4h 2c ]
+pkrOD folds
+squerrel333 raises [$0.75 USD]
+Pradanna folds
+YS0Seri0us folds
+pkrOD: i have 666 on my other table and the AT donk calls again (with nothing) and I lose to back door flush
+squerrel333: u are such a laugh
+pkrOD: total bull sh1t
+cebfpoker calls [$0.65 USD]
+Russian_Rckt folds
+** Dealing Flop ** [ Ks, Jd, 6d ]
+pkrOD: 666
+pkrOD: flop
+cebfpoker checks
+squerrel333 bets [$1 USD]
+pkrOD: all in for $5
+pkrOD: on a $5 pot
+cebfpoker calls [$1 USD]
+** Dealing Turn ** [ Ts ]
+cebfpoker checks
+squerrel333 checks
+** Dealing River ** [ 9d ]
+pkrOD: and that XXXX backdoors a 22 to 1 runner runner flush
+cebfpoker bets [$2 USD]
+squerrel333 calls [$2 USD]
+cebfpoker shows [ Qc, Kd ]a straight Nine to King.
+pkrOD: with nothing on the flop... once again
+squerrel333 doesn't show [ Jh, As ]a pair of Jacks.
+The time at which hand ended:Mar 30 2009 23:05 BST
+cebfpoker wins $6.87 USD from the main pot with a straight, Nine to King.
+what are you rambling on about now
+ Game #7936250629 starts.
+
+#Game No : 7936250629 
+***** Hand History for Game 7936250629 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:05:04 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $19.36 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $28.12 USD )
+Seat 2: pkrOD ( $15.42 USD )
+Seat 3: squerrel333 ( $12.18 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7s 9c ]
+pkrOD: lol
+pkrOD: u cun.ts who call with XXXX all
+pkrOD: raise with XXXX all
+squerrel333: u are such a big laugh
+pkrOD: and then make stupid calls and win!?
+squerrel333 folds
+pkrOD: XXXXing re-donk u lous
+Pradanna folds
+YS0Seri0us folds
+Russian_Rckt: isnt this clown entertaining lol
+cebfpoker raises [$1 USD]
+Russian_Rckt folds
+pkrOD is all-In  [$15.17 USD]
+squerrel333: total moron
+cebfpoker folds
+Russian_Rckt: XXXX
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 23:06 BST
+pkrOD wins $16.52 USD
+call ull probably win
+lol
+ Game #7936254473 starts.
+
+#Game No : 7936254473 
+***** Hand History for Game 7936254473 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:06:07 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $19.26 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $27.12 USD )
+Seat 2: pkrOD ( $16.52 USD )
+Seat 3: squerrel333 ( $12.18 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9c Qh ]
+pkrOD: AA
+Russian_Rckt: T I L T
+Pradanna folds
+pkrOD: pr1ck
+Russian_Rckt: lol thats how bad u r
+YS0Seri0us raises [$1 USD]
+cebfpoker folds
+Russian_Rckt folds
+Russian_Rckt: all in pre with aces
+pkrOD folds
+squerrel333 folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 23:06 BST
+YS0Seri0us wins $1.35 USD
+i had 97os
+ Game #7936255881 starts.
+
+#Game No : 7936255881 
+***** Hand History for Game 7936255881 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:06:32 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.60 USD )
+Seat 1: Russian_Rckt ( $19.26 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $27.12 USD )
+Seat 2: pkrOD ( $16.42 USD )
+Seat 3: squerrel333 ( $11.93 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 9h ]
+squerrel333: u are the pri ck
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: c u n t keeps raising
+Russian_Rckt: no u had aces
+Russian_Rckt folds
+pkrOD calls [$0.25 USD]
+pkrOD: i had 97 os
+squerrel333 folds
+Pradanna checks
+** Dealing Flop ** [ Jh, Qd, 8d ]
+pkrOD: im sick of u all now tho
+Pradanna bets [$0.50 USD]
+pkrOD folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:07 BST
+Pradanna wins $1.07 USD
+ Game #7936257889 starts.
+
+#Game No : 7936257889 
+***** Hand History for Game 7936257889 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:07:07 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.92 USD )
+Seat 1: Russian_Rckt ( $19.26 USD )
+Seat 5: YS0Seri0us ( $38.32 USD )
+Seat 6: cebfpoker ( $27.12 USD )
+Seat 2: pkrOD ( $16.17 USD )
+Seat 3: squerrel333 ( $11.83 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 8s ]
+pkrOD: ur all jizzers
+cebfpoker folds
+pkrOD: i am the master
+squerrel333: whahahahahahaha
+pkrOD: lol
+Russian_Rckt raises [$1 USD]
+Russian_Rckt: this kid goes all in pre with aces lol classic
+pkrOD folds
+squerrel333 calls [$1 USD]
+Pradanna folds
+YS0Seri0us folds
+** Dealing Flop ** [ Td, 8d, 7h ]
+Russian_Rckt bets [$2 USD]
+pkrOD: lol if i had aces i wudda let him bluff his money off
+pkrOD: XXXXX
+squerrel333 folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:07 BST
+Russian_Rckt wins $4.24 USD
+what u got? KJ?
+ Game #7936261068 starts.
+
+#Game No : 7936261068 
+***** Hand History for Game 7936261068 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:08:01 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.82 USD )
+Seat 1: Russian_Rckt ( $20.50 USD )
+Seat 5: YS0Seri0us ( $38.07 USD )
+Seat 6: cebfpoker ( $27.12 USD )
+Seat 2: pkrOD ( $16.17 USD )
+Seat 3: squerrel333 ( $10.83 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Ac ]
+Russian_Rckt: u said u had aces, dont try to back out now donk
+Russian_Rckt folds
+pkrOD raises [$1.25 USD]
+squerrel333 folds
+Pradanna folds
+pkrOD: ok .. i had aces
+YS0Seri0us folds
+pkrOD: ur right
+cebfpoker folds
+pkrOD: im wrong
+pkrOD shows [ Jd, Ac ]high card Ace.
+The time at which hand ended:Mar 30 2009 23:08 BST
+pkrOD wins $1.60 USD from the main pot with high card, Ace.
+yet again
+ Game #7936262961 starts.
+
+#Game No : 7936262961 
+***** Hand History for Game 7936262961 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:08:32 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.82 USD )
+Seat 1: Russian_Rckt ( $20.50 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $26.87 USD )
+Seat 2: pkrOD ( $16.52 USD )
+Seat 3: squerrel333 ( $10.83 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3d 7c ]
+Russian_Rckt: what a donk, all in pre with aces
+pkrOD folds
+pkrOD: haha
+squerrel333 folds
+Pradanna raises [$1 USD]
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: i know
+Russian_Rckt folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:08 BST
+Pradanna wins $1.35 USD
+ Game #7936263928 starts.
+
+#Game No : 7936263928 
+***** Hand History for Game 7936263928 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:08:48 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.17 USD )
+Seat 1: Russian_Rckt ( $20.25 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $16.52 USD )
+Seat 3: squerrel333 ( $10.83 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ts Tc ]
+pkrOD: what idiot plays aces like that
+pkrOD: cool.. aces again
+squerrel333 raises [$0.75 USD]
+Pradanna folds
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: u know what that means
+Russian_Rckt folds
+pkrOD is all-In  [$16.27 USD]
+pkrOD: all in
+squerrel333 folds
+Russian_Rckt: T I L T
+pkrOD shows [ Ts, Tc ]a pair of Tens.
+The time at which hand ended:Mar 30 2009 23:09 BST
+pkrOD wins $17.37 USD from the main pot with a pair of Tens.
+yeah baby call against my TT
+ 
+Game #7936266242 starts.
+#Game No : 7936266242 
+Connection Lost due to some reason
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+
+ Game #7936271471 starts.
+
+#Game No : 7936271471 
+***** Hand History for Game 7936271471 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:10:55 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.17 USD )
+Seat 1: Russian_Rckt ( $18.90 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $17.12 USD )
+Seat 3: squerrel333 ( $11.45 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c Jh ]
+pkrOD: u trash talking piece of ape sh1t
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt calls [$0.25 USD]
+pkrOD folds
+squerrel333 calls [$0.15 USD]
+pkrOD: u suck as bad as i do
+Pradanna checks
+** Dealing Flop ** [ Ks, 4h, Ts ]
+pkrOD: whose got all the chips
+squerrel333 checks
+Russian_Rckt: no i dont think anyone is that bad
+Pradanna checks
+Russian_Rckt checks
+** Dealing Turn ** [ Ad ]
+pkrOD: see yso is sitting there nice n quiet just stealing all the chips
+squerrel333 bets [$0.50 USD]
+Pradanna folds
+Russian_Rckt folds
+pkrOD: well clearly they are
+squerrel333 does not show cards.
+The time at which hand ended:Mar 30 2009 23:11 BST
+squerrel333 wins $1.22 USD
+ Game #7936274536 starts.
+
+#Game No : 7936274536 
+***** Hand History for Game 7936274536 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:11:47 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.92 USD )
+Seat 1: Russian_Rckt ( $18.65 USD )
+Seat 5: YS0Seri0us ( $37.97 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $17.12 USD )
+Seat 3: squerrel333 ( $11.92 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 8d ]
+cebfpoker folds
+pkrOD: squerrel is on less than everyone
+Russian_Rckt folds
+pkrOD raises [$1.20 USD]
+squerrel333 folds
+Pradanna folds
+YS0Seri0us folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 23:12 BST
+pkrOD wins $1.55 USD
+ Game #7936275649 starts.
+
+#Game No : 7936275649 
+***** Hand History for Game 7936275649 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:12:07 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.82 USD )
+Seat 1: Russian_Rckt ( $18.65 USD )
+Seat 5: YS0Seri0us ( $37.72 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $17.47 USD )
+Seat 3: squerrel333 ( $11.92 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+cebfpoker posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jh 8c ]
+Russian_Rckt: that doesnt matter, u r the worst at the table that is clear
+Russian_Rckt folds
+pkrOD folds
+pkrOD: dont cry about it
+squerrel333 folds
+Pradanna folds
+YS0Seri0us folds
+squerrel333: ppffffff
+pkrOD: or well have to put u in a nappy like the baby u are
+cebfpoker does not show cards.
+The time at which hand ended:Mar 30 2009 23:12 BST
+cebfpoker wins $0.35 USD
+ Game #7936277294 starts.
+
+#Game No : 7936277294 
+***** Hand History for Game 7936277294 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:12:35 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.82 USD )
+Seat 1: Russian_Rckt ( $18.65 USD )
+Seat 5: YS0Seri0us ( $37.62 USD )
+Seat 6: cebfpoker ( $26.87 USD )
+Seat 2: pkrOD ( $17.47 USD )
+Seat 3: squerrel333 ( $11.92 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Js Ts ]
+pkrOD calls [$0.25 USD]
+squerrel333 folds
+Russian_Rckt: dont cry that youre the worst? that doesnt even make sense
+pkrOD: to soak up all the tears
+Pradanna raises [$1.25 USD]
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: u shud use that johnsons no tears
+Russian_Rckt folds
+squerrel333: u are such a big laugh
+pkrOD folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:13 BST
+Pradanna wins $1.85 USD
+ Game #7936278997 starts.
+
+#Game No : 7936278997 
+***** Hand History for Game 7936278997 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:13:05 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.42 USD )
+Seat 1: Russian_Rckt ( $18.40 USD )
+Seat 5: YS0Seri0us ( $37.62 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $17.22 USD )
+Seat 3: squerrel333 ( $11.92 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 2c ]
+pkrOD: yeah ur dad is
+squerrel333 raises [$1 USD]
+Pradanna folds
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt calls [$0.90 USD]
+pkrOD: look what a joke he was having when he shagged ur mum
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ 7s, Th, 8s ]
+Russian_Rckt checks
+pkrOD: well seeing as its u two .. im in
+pkrOD checks
+squerrel333 bets [$1.50 USD]
+pkrOD: ill let u bluff it all away too
+Russian_Rckt calls [$1.50 USD]
+pkrOD folds
+** Dealing Turn ** [ Qd ]
+Russian_Rckt checks
+squerrel333 checks
+** Dealing River ** [ 4h ]
+pkrOD: bet
+pkrOD: AK/ AJ
+Russian_Rckt checks
+pkrOD: 2.5
+squerrel333 checks
+Russian_Rckt shows [ As, Jd ]high card Ace.
+squerrel333 shows [ Kd, Ac ]high card Ace with King kicker.
+The time at which hand ended:Mar 30 2009 23:14 BST
+squerrel333 wins $5.20 USD from the main pot with high card, Ace with King kicker.
+told u
+ Game #7936282789 starts.
+
+#Game No : 7936282789 
+***** Hand History for Game 7936282789 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:14:12 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.42 USD )
+Seat 1: Russian_Rckt ( $15.90 USD )
+Seat 5: YS0Seri0us ( $37.62 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $16.22 USD )
+Seat 3: squerrel333 ( $14.62 USD )
+pkrOD posts small blind [$0.10 USD].
+squerrel333 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 9s ]
+Pradanna folds
+pkrOD: haha
+pkrOD: no all in!?
+YS0Seri0us folds
+cebfpoker folds
+pkrOD: that was a winner for sure
+pkrOD: 2nd to last now russian
+Russian_Rckt raises [$1 USD]
+Russian_Rckt: told u what?
+pkrOD folds
+squerrel333 folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:14 BST
+Russian_Rckt wins $1.35 USD
+ Game #7936284729 starts.
+
+#Game No : 7936284729 
+***** Hand History for Game 7936284729 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:14:47 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.42 USD )
+Seat 1: Russian_Rckt ( $16.25 USD )
+Seat 5: YS0Seri0us ( $37.62 USD )
+Seat 6: cebfpoker ( $26.77 USD )
+Seat 2: pkrOD ( $16.12 USD )
+Seat 3: squerrel333 ( $14.37 USD )
+squerrel333 posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 2h ]
+pkrOD: u r worse than us all
+YS0Seri0us raises [$1 USD]
+cebfpoker folds
+Russian_Rckt calls [$1 USD]
+pkrOD folds
+squerrel333 folds
+Pradanna folds
+** Dealing Flop ** [ 9d, 5c, 5h ]
+squerrel333: no u are
+pkrOD: ur back to sq1
+Russian_Rckt: no, you clearly have that title
+YS0Seri0us bets [$1.68 USD]
+Russian_Rckt raises [$7 USD]
+pkrOD: im gonna ejaculate in ur face!
+pkrOD: pml
+squerrel333: pkr, sitting alone behind u computer
+Russian_Rckt: thats disgusting
+YS0Seri0us folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:15 BST
+Russian_Rckt wins $10.25 USD
+probably wanking
+ 
+Game #7936287843 starts.
+#Game No : 7936287843 
+Connection Lost due to some reason
+The hand history for this hand number is not available here.Please use Instant Hand History in the "Game Rules & Options"  menu to have this hand history delivered to the email address you have registered with us.
+
+ Game #7936295731 starts.
+
+#Game No : 7936295731 
+***** Hand History for Game 7936295731 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:18:08 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $30.42 USD )
+Seat 1: Russian_Rckt ( $18.50 USD )
+Seat 5: YS0Seri0us ( $48.71 USD )
+Seat 6: cebfpoker ( $26.52 USD )
+Seat 2: pkrOD ( $14.62 USD )
+cebfpoker posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6s 2h ]
+pkrOD: told u hes taking all the chips off
+pkrOD folds
+Pradanna folds
+pkrOD: dunno why ur mad at me
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:18 BST
+Russian_Rckt wins $0.35 USD
+ Game #7936297277 starts.
+
+#Game No : 7936297277 
+***** Hand History for Game 7936297277 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:18:46 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $30.42 USD )
+Seat 1: Russian_Rckt ( $18.60 USD )
+Seat 5: YS0Seri0us ( $48.71 USD )
+Seat 6: cebfpoker ( $26.42 USD )
+Seat 2: pkrOD ( $14.62 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  8d 8h ]
+pkrOD: ur probably a ho.moseual... its the only explanation
+Pradanna raises [$1 USD]
+Stalkergs has joined the table.
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD calls [$0.75 USD]
+** Dealing Flop ** [ Qs, 5s, Ks ]
+pkrOD bets [$2 USD]
+Pradanna folds
+pkrOD shows [ 8d, 8h ]a pair of Eights.
+The time at which hand ended:Mar 30 2009 23:19 BST
+pkrOD wins $4 USD from the main pot with a pair of Eights.
+now youre just making no sense
+ Game #7936299405 starts.
+
+#Game No : 7936299405 
+***** Hand History for Game 7936299405 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:19:16 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.42 USD )
+Seat 1: Russian_Rckt ( $18.50 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $48.71 USD )
+Seat 6: cebfpoker ( $26.42 USD )
+Seat 2: pkrOD ( $15.62 USD )
+pkrOD posts small blind [$0.10 USD].
+Russian_Rckt: stop embarressing yourself
+pkrOD: haha
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3c 2h ]
+pkrOD: thats called READING
+Pradanna folds
+pkrOD: ur tight opponents
+YS0Seri0us folds
+cebfpoker folds
+Russian_Rckt folds
+pkrOD folds
+Stalkergs does not show cards.
+The time at which hand ended:Mar 30 2009 23:19 BST
+Stalkergs wins $0.35 USD
+who CAN be bluffed
+ Game #7936300796 starts.
+
+#Game No : 7936300796 
+***** Hand History for Game 7936300796 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:19:42 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.42 USD )
+Seat 1: Russian_Rckt ( $18.50 USD )
+Seat 3: Stalkergs ( $25.10 USD )
+Seat 5: YS0Seri0us ( $48.71 USD )
+Seat 6: cebfpoker ( $26.42 USD )
+Seat 2: pkrOD ( $15.52 USD )
+Stalkergs posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4s Tc ]
+pkrOD: and who can fold a crap hand
+YS0Seri0us raises [$1 USD]
+cebfpoker folds
+Russian_Rckt folds
+pkrOD folds
+Stalkergs folds
+Pradanna folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 23:19 BST
+YS0Seri0us wins $1.35 USD
+not like u MR AT KQ
+ Game #7936301653 starts.
+
+#Game No : 7936301653 
+***** Hand History for Game 7936301653 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:19:58 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $29.17 USD )
+Seat 1: Russian_Rckt ( $18.50 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $49.06 USD )
+Seat 6: cebfpoker ( $26.42 USD )
+Seat 2: pkrOD ( $15.52 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ah Ts ]
+cebfpoker folds
+Russian_Rckt calls [$0.25 USD]
+pkrOD raises [$1 USD]
+Stalkergs folds
+Pradanna folds
+pkrOD: god ur a homo
+YS0Seri0us calls [$0.75 USD]
+pkrOD: call me now .. i have 45678
+Russian_Rckt calls [$0.75 USD]
+** Dealing Flop ** [ 6c, 3h, 3d ]
+YS0Seri0us checks
+Russian_Rckt checks
+pkrOD checks
+** Dealing Turn ** [ 7h ]
+pkrOD: watch me now pro
+YS0Seri0us checks
+Russian_Rckt checks
+pkrOD: ill teach u to play poke
+pkrOD bets [$1.50 USD]
+YS0Seri0us folds
+Russian_Rckt calls [$1.50 USD]
+** Dealing River ** [ 7d ]
+pkrOD: woooooooo hooooooooo
+Russian_Rckt checks
+pkrOD checks
+Russian_Rckt shows [ 2s, 4s ]two pairs, Sevens and Threes.
+pkrOD shows [ Ah, Ts ]two pairs, Sevens and Threes with Ace kicker.
+The time at which hand ended:Mar 30 2009 23:21 BST
+pkrOD wins $5.30 USD from the main pot with two pairs, Sevens and Threes with Ace kicker.
+cebfpoker has left the table.
+ Game #7936305872 starts.
+
+#Game No : 7936305872 
+***** Hand History for Game 7936305872 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:21:19 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $29.07 USD )
+Seat 1: Russian_Rckt ( $16 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $48.06 USD )
+Seat 2: pkrOD ( $18.32 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6h 4c ]
+pkrOD: pml
+pkrOD calls [$0.25 USD]
+Stalkergs folds
+Pradanna raises [$1.25 USD]
+YS0Seri0us folds
+pkrOD: told u i had 4567
+YS0Seri0us: omg
+Russian_Rckt folds
+pkrOD calls [$1 USD]
+** Dealing Flop ** [ 3c, Th, 5d ]
+pkrOD bets [$5 USD]
+Pradanna folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 23:21 BST
+pkrOD wins $7.71 USD
+ Game #7936307895 starts.
+
+#Game No : 7936307895 
+***** Hand History for Game 7936307895 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:21:57 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $27.82 USD )
+Seat 1: Russian_Rckt ( $15.75 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $47.96 USD )
+Seat 2: pkrOD ( $19.78 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As Kc ]
+pkrOD: was all in there
+Stalkergs folds
+Pradanna folds
+Russian_Rckt: wow youre a first class idiot
+YS0Seri0us folds
+pkrOD: wanna know how to lose?
+Russian_Rckt calls [$0.15 USD]
+pkrOD is all-In  [$19.53 USD]
+Russian_Rckt folds
+pkrOD shows [ As, Kc ]high card Ace.
+The time at which hand ended:Mar 30 2009 23:22 BST
+pkrOD wins $20.03 USD from the main pot with high card, Ace.
+pml
+ Game #7936309195 starts.
+
+#Game No : 7936309195 
+***** Hand History for Game 7936309195 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:22:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $27.82 USD )
+Seat 1: Russian_Rckt ( $15.50 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $47.96 USD )
+Seat 2: pkrOD ( $20.03 USD )
+pkrOD posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Ad 7c ]
+Pradanna folds
+YS0Seri0us folds
+Russian_Rckt: pml?? what the hell is that gibberish
+pkrOD: better have a hand next time
+Russian_Rckt calls [$0.25 USD]
+pkrOD calls [$0.15 USD]
+Stalkergs checks
+** Dealing Flop ** [ 5c, 7s, 4s ]
+pkrOD bets [$0.25 USD]
+Stalkergs folds
+Russian_Rckt calls [$0.25 USD]
+** Dealing Turn ** [ 4c ]
+pkrOD: like 24
+pkrOD bets [$0.25 USD]
+Russian_Rckt calls [$0.25 USD]
+** Dealing River ** [ 8d ]
+pkrOD bets [$0.50 USD]
+pkrOD: 24 is a great hand
+Russian_Rckt calls [$0.50 USD]
+pkrOD shows [ Ad, 7c ]two pairs, Sevens and Fours.
+Russian_Rckt doesn't show [ Ac, Td ]a pair of Fours.
+The time at which hand ended:Mar 30 2009 23:23 BST
+pkrOD wins $2.62 USD from the main pot with two pairs, Sevens and Fours.
+dont u think
+ Game #7936311890 starts.
+
+#Game No : 7936311890 
+***** Hand History for Game 7936311890 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:23:20 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $27.82 USD )
+Seat 1: Russian_Rckt ( $14.25 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $47.96 USD )
+Seat 2: pkrOD ( $21.40 USD )
+Stalkergs posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5s Jd ]
+YS0Seri0us folds
+Russian_Rckt folds
+pkrOD folds
+pkrOD: o man ur too good at this game
+Stalkergs folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:23 BST
+Pradanna wins $0.35 USD
+usually i fold if i miss a flop
+ Game #7936312563 starts.
+
+#Game No : 7936312563 
+***** Hand History for Game 7936312563 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:23:35 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $27.92 USD )
+Seat 1: Russian_Rckt ( $14.25 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $47.96 USD )
+Seat 2: pkrOD ( $21.40 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qc Ts ]
+Russian_Rckt calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+Stalkergs folds
+Pradanna folds
+YS0Seri0us checks
+** Dealing Flop ** [ Ah, 8d, 3s ]
+pkrOD: but u .. ur something else
+YS0Seri0us checks
+Russian_Rckt checks
+pkrOD checks
+** Dealing Turn ** [ 6d ]
+pkrOD: ur a genius probably
+YS0Seri0us checks
+Russian_Rckt checks
+pkrOD checks
+** Dealing River ** [ 6s ]
+pkrOD: dont u think
+YS0Seri0us checks
+Russian_Rckt checks
+pkrOD bets [$1 USD]
+YS0Seri0us folds
+Russian_Rckt is all-In  [$14 USD]
+pkrOD folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:24 BST
+Russian_Rckt wins $15.71 USD
+lol
+ Game #7936315391 starts.
+
+#Game No : 7936315391 
+***** Hand History for Game 7936315391 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:24:35 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 5 
+Seat 4: Pradanna ( $27.82 USD )
+Seat 1: Russian_Rckt ( $15.71 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $47.71 USD )
+Seat 2: pkrOD ( $20.15 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  4c 6d ]
+pkrOD: wp
+pkrOD: u won $1
+pkrOD folds
+Stalkergs folds
+Pradanna raises [$1 USD]
+YS0Seri0us calls [$0.90 USD]
+Russian_Rckt calls [$0.75 USD]
+** Dealing Flop ** [ 9s, 7h, 5d ]
+pkrOD: probably with JQ or some rubbish
+YS0Seri0us checks
+Russian_Rckt checks
+Pradanna checks
+** Dealing Turn ** [ 2h ]
+YS0Seri0us bets [$2.13 USD]
+Russian_Rckt calls [$2.13 USD]
+pkrOD: am i right?
+Pradanna folds
+** Dealing River ** [ 3c ]
+mamast5911 has joined the table.
+pkrOD: i usually am
+YS0Seri0us bets [$5.17 USD]
+Russian_Rckt folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 23:25 BST
+YS0Seri0us wins $11.57 USD
+folded the nuts this hand
+ Game #7936317810 starts.
+
+#Game No : 7936317810 
+***** Hand History for Game 7936317810 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:25:26 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $26.82 USD )
+Seat 1: Russian_Rckt ( $12.58 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $50.98 USD )
+Seat 6: mamast5911 ( $25 USD )
+Seat 2: pkrOD ( $20.15 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  As 6c ]
+pkrOD: well almost
+Russian_Rckt: sorry kid youre not
+Stalkergs folds
+Pradanna folds
+pkrOD: ur winning now russian
+YS0Seri0us folds
+Russian_Rckt calls [$0.15 USD]
+pkrOD checks
+** Dealing Flop ** [ Ad, 3s, 2h ]
+Russian_Rckt checks
+pkrOD bets [$0.25 USD]
+pkrOD: ur almost the best at the table
+Russian_Rckt calls [$0.25 USD]
+** Dealing Turn ** [ Ac ]
+Russian_Rckt checks
+pkrOD checks
+** Dealing River ** [ 4s ]
+Russian_Rckt checks
+pkrOD bets [$1 USD]
+Russian_Rckt folds
+pkrOD shows [ As, 6c ]three of a kind, Aces.
+The time at which hand ended:Mar 30 2009 23:26 BST
+pkrOD wins $1.95 USD from the main pot with three of a kind, Aces.
+ Game #7936319602 starts.
+
+#Game No : 7936319602 
+***** Hand History for Game 7936319602 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:26:04 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $26.82 USD )
+Seat 1: Russian_Rckt ( $12.08 USD )
+Seat 3: Stalkergs ( $25 USD )
+Seat 5: YS0Seri0us ( $50.98 USD )
+Seat 6: mamast5911 ( $25 USD )
+Seat 2: pkrOD ( $20.60 USD )
+pkrOD posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  6d 6h ]
+pkrOD: nice try
+Pradanna folds
+pkrOD: u almost won
+YS0Seri0us folds
+Russian_Rckt folds
+pkrOD calls [$0.15 USD]
+Stalkergs checks
+** Dealing Flop ** [ As, Ks, Jc ]
+pkrOD checks
+Stalkergs bets [$0.50 USD]
+pkrOD raises [$2 USD]
+Stalkergs raises [$5.25 USD]
+pkrOD: oo .. he really thinks his K/J is good?
+Russian_Rckt: lol classic
+pkrOD folds
+Stalkergs does not show cards.
+The time at which hand ended:Mar 30 2009 23:27 BST
+Stalkergs wins $8.03 USD
+caught in a bluff
+ Game #7936323139 starts.
+
+#Game No : 7936323139 
+***** Hand History for Game 7936323139 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:27:12 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $26.82 USD )
+Seat 1: Russian_Rckt ( $12.08 USD )
+Seat 3: Stalkergs ( $27.03 USD )
+Seat 5: YS0Seri0us ( $50.98 USD )
+Seat 6: mamast5911 ( $25 USD )
+Seat 2: pkrOD ( $18.35 USD )
+Stalkergs posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  7c 6d ]
+pkrOD: better let him have it
+pkrOD: not a bluff
+YS0Seri0us folds
+Russian_Rckt folds
+pkrOD calls [$0.25 USD]
+Stalkergs calls [$0.15 USD]
+Pradanna checks
+** Dealing Flop ** [ Qd, 3c, 8d ]
+pkrOD: but u wudnt understand
+pkrOD: its called "reading"
+Stalkergs: A5o
+Stalkergs checks
+Pradanna checks
+pkrOD bets [$0.75 USD]
+Stalkergs folds
+pkrOD: i had 66
+Pradanna folds
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 23:27 BST
+pkrOD wins $1.47 USD
+ Game #7936325413 starts.
+
+#Game No : 7936325413 
+***** Hand History for Game 7936325413 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:27:54 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $26.57 USD )
+Seat 1: Russian_Rckt ( $21.87 USD )
+Seat 3: Stalkergs ( $26.78 USD )
+Seat 5: YS0Seri0us ( $50.98 USD )
+Seat 6: mamast5911 ( $25 USD )
+Seat 2: pkrOD ( $18.82 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Th 8c ]
+pkrOD: cudda been a bluff
+Russian_Rckt: lol this guy is classic, everyone... pkrOD can read anyones cards at any time
+Russian_Rckt folds
+pkrOD raises [$1 USD]
+Stalkergs folds
+Pradanna folds
+pkrOD: gotta test u out tho
+YS0Seri0us folds
+pkrOD: cos ur good sh1t
+pkrOD does not show cards.
+The time at which hand ended:Mar 30 2009 23:28 BST
+pkrOD wins $1.35 USD
+well call him GENIE
+ Game #7936327112 starts.
+
+#Game No : 7936327112 
+***** Hand History for Game 7936327112 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:28:27 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $26.47 USD )
+Seat 1: Russian_Rckt ( $21.87 USD )
+Seat 3: Stalkergs ( $26.78 USD )
+Seat 5: YS0Seri0us ( $50.73 USD )
+Seat 6: mamast5911 ( $25 USD )
+Seat 2: pkrOD ( $19.17 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+mamast5911 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd Qs ]
+Russian_Rckt calls [$0.25 USD]
+pkrOD calls [$0.25 USD]
+Stalkergs folds
+Pradanna folds
+Russian_Rckt: WHAT NOW GENIE?
+pkrOD: russian is the genius.. dont let him fool u
+YS0Seri0us calls [$0.15 USD]
+pkrOD: im just an amateur
+pkrOD: russian is a pro
+mamast5911 checks
+** Dealing Flop ** [ 3s, 7c, Ad ]
+pkrOD: he can predict the future with his AT KQ
+YS0Seri0us bets [$0.71 USD]
+mamast5911 folds
+Russian_Rckt calls [$0.71 USD]
+pkrOD folds
+** Dealing Turn ** [ 7d ]
+YS0Seri0us bets [$1.72 USD]
+Russian_Rckt folds
+YS0Seri0us does not show cards.
+The time at which hand ended:Mar 30 2009 23:29 BST
+YS0Seri0us wins $4.02 USD
+hell bet all in with nothing, call all the way thru the river with nothing
+ Game #7936330695 starts.
+
+#Game No : 7936330695 
+***** Hand History for Game 7936330695 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:29:36 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $26.47 USD )
+Seat 1: Russian_Rckt ( $20.91 USD )
+Seat 3: Stalkergs ( $26.78 USD )
+Seat 5: YS0Seri0us ( $52.07 USD )
+Seat 6: mamast5911 ( $24.75 USD )
+Seat 2: pkrOD ( $18.92 USD )
+mamast5911 posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  3s 6h ]
+pkrOD folds
+Stalkergs folds
+pkrOD: and hell still  win
+Pradanna raises [$0.85 USD]
+Russian_Rckt: its called skills kid, get some
+pkrOD: hes my hero
+YS0Seri0us folds
+pkrOD: and hes gay too which i like
+mamast5911 calls [$0.75 USD]
+pkrOD: no shame
+Russian_Rckt calls [$0.60 USD]
+** Dealing Flop ** [ 7h, Qs, 4s ]
+mamast5911 checks
+Russian_Rckt checks
+Stalkergs: ;-)
+Pradanna bets [$2 USD]
+mamast5911 folds
+Russian_Rckt raises [$4 USD]
+Pradanna calls [$2 USD]
+** Dealing Turn ** [ 9d ]
+pkrOD: ur winning now russian
+Russian_Rckt checks
+pkrOD: lemme guess Q9,,  7s8s
+Pradanna bets [$7 USD]
+pkrOD: what other crap wud u have
+pkrOD: Q8
+pkrOD: fold ur rubbish
+pkrOD: ur embarrasing ur self
+Russian_Rckt folds
+Pradanna does not show cards.
+The time at which hand ended:Mar 30 2009 23:31 BST
+Pradanna wins $16.53 USD
+ Game #7936336165 starts.
+
+#Game No : 7936336165 
+***** Hand History for Game 7936336165 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:31:24 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $31.15 USD )
+Seat 1: Russian_Rckt ( $16.06 USD )
+Seat 3: Stalkergs ( $26.78 USD )
+Seat 5: YS0Seri0us ( $52.07 USD )
+Seat 6: mamast5911 ( $23.90 USD )
+Seat 2: pkrOD ( $18.92 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  5h 8s ]
+Stalkergs folds
+Pradanna folds
+YS0Seri0us folds
+mamast5911 raises [$0.75 USD]
+Russian_Rckt calls [$0.65 USD]
+pkrOD folds
+** Dealing Flop ** [ 4c, 3h, Qd ]
+pkrOD: call and ill fold
+Russian_Rckt checks
+mamast5911 bets [$1 USD]
+Russian_Rckt folds
+mamast5911 does not show cards.
+The time at which hand ended:Mar 30 2009 23:31 BST
+mamast5911 wins $2.67 USD
+u can have him 1 on 1... then ull get better odds
+ Game #7936338185 starts.
+
+#Game No : 7936338185 
+***** Hand History for Game 7936338185 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:32:03 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 1 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $31.15 USD )
+Seat 1: Russian_Rckt ( $15.31 USD )
+Seat 3: Stalkergs ( $26.78 USD )
+Seat 5: YS0Seri0us ( $52.07 USD )
+Seat 6: mamast5911 ( $24.82 USD )
+Seat 2: pkrOD ( $18.67 USD )
+pkrOD posts small blind [$0.10 USD].
+Stalkergs posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  9h Kh ]
+Pradanna folds
+YS0Seri0us raises [$1 USD]
+mamast5911 calls [$1 USD]
+Russian_Rckt folds
+pkrOD calls [$0.90 USD]
+Stalkergs folds
+** Dealing Flop ** [ Jh, 9c, Jc ]
+pkrOD checks
+YS0Seri0us bets [$2.31 USD]
+mamast5911 folds
+pkrOD calls [$2.31 USD]
+** Dealing Turn ** [ 3c ]
+pkrOD checks
+YS0Seri0us bets [$4 USD]
+pkrOD calls [$4 USD]
+** Dealing River ** [ 9s ]
+pkrOD checks
+YS0Seri0us checks
+pkrOD shows [ 9h, Kh ]a full house, Nines full of Jacks.
+YS0Seri0us doesn't show [ Th, Tc ]two pairs, Jacks and Tens.
+The time at which hand ended:Mar 30 2009 23:33 BST
+pkrOD wins $14.58 USD from the main pot with a full house, Nines full of Jacks.
+ Game #7936341260 starts.
+
+#Game No : 7936341260 
+***** Hand History for Game 7936341260 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:33:04 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 2 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $31.15 USD )
+Seat 1: Russian_Rckt ( $15.31 USD )
+Seat 3: Stalkergs ( $26.53 USD )
+Seat 5: YS0Seri0us ( $44.76 USD )
+Seat 6: mamast5911 ( $23.82 USD )
+Seat 2: pkrOD ( $25.94 USD )
+Stalkergs posts small blind [$0.10 USD].
+Pradanna posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qs As ]
+pkrOD: u see.. better odds
+YS0Seri0us folds
+pkrOD: how to read
+Russian_Rckt: what a luck box this kid is
+mamast5911 calls [$0.25 USD]
+Russian_Rckt calls [$0.25 USD]
+YS0Seri0us: :-)
+pkrOD raises [$1.55 USD]
+Stalkergs folds
+Pradanna folds
+pkrOD: lol
+mamast5911 calls [$1.30 USD]
+Russian_Rckt calls [$1.30 USD]
+** Dealing Flop ** [ 9h, 7h, 6c ]
+pkrOD: i knew he had Ac K
+pkrOD: or something
+mamast5911 checks
+Russian_Rckt checks
+pkrOD checks
+** Dealing Turn ** [ Kc ]
+mamast5911 checks
+Russian_Rckt checks
+pkrOD: when he bet the turn
+YS0Seri0us: u had 2 outs
+pkrOD bets [$4 USD]
+mamast5911 folds
+YS0Seri0us: come on
+Russian_Rckt is all-In  [$13.76 USD]
+pkrOD: i had the best hand
+pkrOD folds
+Russian_Rckt does not show cards.
+The time at which hand ended:Mar 30 2009 23:33 BST
+Russian_Rckt wins $21.61 USD
+as usual
+lol?
+ Game #7936344145 starts.
+
+#Game No : 7936344145 
+***** Hand History for Game 7936344145 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:34:03 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 3 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.90 USD )
+Seat 1: Russian_Rckt ( $21.61 USD )
+Seat 3: Stalkergs ( $26.43 USD )
+Seat 5: YS0Seri0us ( $44.76 USD )
+Seat 6: mamast5911 ( $22.27 USD )
+Seat 2: pkrOD ( $20.39 USD )
+Pradanna posts small blind [$0.10 USD].
+YS0Seri0us posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Jd As ]
+mamast5911 folds
+Russian_Rckt: its called reading your opponent
+pkrOD: thats why i won.. do u remember that bit
+Russian_Rckt folds
+pkrOD raises [$1.50 USD]
+Stalkergs folds
+Pradanna folds
+pkrOD: i won?
+pkrOD: with K9s
+YS0Seri0us folds
+pkrOD shows [ Jd, As ]high card Ace.
+The time at which hand ended:Mar 30 2009 23:34 BST
+pkrOD wins $1.85 USD from the main pot with high card, Ace.
+ Game #7936345593 starts.
+
+#Game No : 7936345593 
+***** Hand History for Game 7936345593 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:34:32 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 4 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.80 USD )
+Seat 1: Russian_Rckt ( $21.61 USD )
+Seat 3: Stalkergs ( $26.43 USD )
+Seat 5: YS0Seri0us ( $44.51 USD )
+Seat 6: mamast5911 ( $22.27 USD )
+Seat 2: pkrOD ( $20.74 USD )
+YS0Seri0us posts small blind [$0.10 USD].
+mamast5911 posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Qd 6h ]
+YS0Seri0us: year check river max value nh
+Russian_Rckt: pkrOD is a second class poker player, deal with it
+Russian_Rckt folds
+pkrOD: well i may have had a loser
+pkrOD folds
+Stalkergs folds
+Pradanna folds
+pkrOD: i go on my reads
+YS0Seri0us folds
+mamast5911 does not show cards.
+The time at which hand ended:Mar 30 2009 23:35 BST
+mamast5911 wins $0.35 USD
+ Game #7936347129 starts.
+
+#Game No : 7936347129 
+***** Hand History for Game 7936347129 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:35:03 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 5 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.80 USD )
+Seat 1: Russian_Rckt ( $21.61 USD )
+Seat 3: Stalkergs ( $26.43 USD )
+Seat 5: YS0Seri0us ( $44.41 USD )
+Seat 6: mamast5911 ( $22.37 USD )
+Seat 2: pkrOD ( $20.74 USD )
+mamast5911 posts small blind [$0.10 USD].
+Russian_Rckt posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kc 3c ]
+pkrOD: u go read how ur books tell u to play
+pkrOD calls [$0.25 USD]
+Stalkergs folds
+Pradanna folds
+YS0Seri0us folds
+mamast5911 calls [$0.15 USD]
+YS0Seri0us: i thought u knew u had teh best hand?
+Russian_Rckt: THE GENIE'S MANY READS.... WATCH OUT KIDS
+pkrOD: or poker tracker or whatever it is u use
+Russian_Rckt checks
+** Dealing Flop ** [ Qs, 4d, 6s ]
+mamast5911 checks
+Russian_Rckt checks
+pkrOD: well i didnt that time
+pkrOD checks
+** Dealing Turn ** [ 5s ]
+mamast5911 checks
+Russian_Rckt checks
+pkrOD: but its called controlling the pot
+pkrOD checks
+** Dealing River ** [ 2d ]
+mamast5911 checks
+Russian_Rckt checks
+pkrOD: and letting him bluff his money off with nothing
+pkrOD bets [$0.25 USD]
+mamast5911 folds
+Russian_Rckt raises [$1 USD]
+pkrOD calls [$0.75 USD]
+Russian_Rckt shows [ 3s, Th ]a straight Two to Six.
+pkrOD shows [ Kc, 3c ]a straight Two to Six.
+The time at which hand ended:Mar 30 2009 23:36 BST
+Russian_Rckt wins $1.31 USD from the main pot with a straight, Two to Six.
+pkrOD wins $1.31 USD from the main pot with a straight, Two to Six.
+ Game #7936350733 starts.
+
+#Game No : 7936350733 
+***** Hand History for Game 7936350733 *****
+$25 USD NL Texas Hold'em - Monday, March 30, 23:36:17 BST 2009
+Table Jackpot #1311373 (Real Money)
+Seat 6 is the button
+Total number of players : 6 
+Seat 4: Pradanna ( $30.80 USD )
+Seat 1: Russian_Rckt ( $21.67 USD )
+Seat 3: Stalkergs ( $26.43 USD )
+Seat 5: YS0Seri0us ( $44.41 USD )
+Seat 6: mamast5911 ( $22.12 USD )
+Seat 2: pkrOD ( $20.80 USD )
+Russian_Rckt posts small blind [$0.10 USD].
+pkrOD posts big blind [$0.25 USD].
+** Dealing down cards **
+Dealt to pkrOD [  Kd Ad ]
+Stalkergs folds
+Pradanna folds
+YS0Seri0us raises [$1 USD]
+mamast5911 folds
+pkrOD: o man.. ur too good lol
+Russian_Rckt folds
+pkrOD raises [$3.25 USD]
+Russian_Rckt: BAD READ GENIE
+pkrOD: o really
+YS0Seri0us raises [$21 USD]
+pkrOD: he shudda read that
+Russian_Rckt: ALL IN SERIOUS THE KIDS GOT JUNK
+pkrOD is all-In  [$17.30 USD]
+** Dealing Flop ** [ 6h, 3s, 3c ]
+** Dealing Turn ** [ 2d ]
+** Dealing River ** [ Js ]
+YS0Seri0us shows [ 9h, 9d ]two pairs, Nines and Threes.
+pkrOD: AKs
+pkrOD shows [ Kd, Ad ]a pair of Threes.
+The time at which hand ended:Mar 30 2009 23:37 BST
+YS0Seri0us wins $1.20 USD from the side pot 1 with two pairs, Nines and Threes.
+YS0Seri0us wins $39.12 USD from the main pot with two pairs, Nines and Threes.
