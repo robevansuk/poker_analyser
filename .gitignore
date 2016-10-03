@@ -6,3 +6,4 @@ lib/
 .idea/
 .settings/
 .gradle/
+config.props

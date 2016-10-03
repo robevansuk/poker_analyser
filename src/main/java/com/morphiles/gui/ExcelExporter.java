@@ -323,7 +323,7 @@ public class ExcelExporter {
 
                 // Open the dir that is the first
                 // command line parameter
-                FileOutputStream out = new FileOutputStream(new File(dir.getPath()+"\\"+fileName+".xls"));
+                FileOutputStream out = new FileOutputStream(new File(dir.getPath()+File.separator+fileName+".xls"));
                 workbook.write(out);
                 out.close();
 

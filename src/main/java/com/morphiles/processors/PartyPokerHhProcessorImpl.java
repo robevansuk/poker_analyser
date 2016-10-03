@@ -5,13 +5,15 @@ import com.morphiles.game.Player;
 import com.morphiles.views.DataTable;
 import com.morphiles.models.PokerDataModel;
 
+import java.math.BigDecimal;
+
 /**
- * Copyright (c) 2002-2013 EAN.com, L.P. All rights reserved.
  *
  * @author robevans
  */
 public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
 
+    // TODO export this all to a config file, then its easier to change without re-compile later on.
     private static final String PREFLOP_STR = "** Dealing down cards **";
     private static final String FLOP_STR = "** Dealing Flop **";
     private static final String TURN_STR = "** Dealing Turn ** ";
@@ -102,9 +104,6 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
     public void addData(String data, int handId, String gameId)
     {
         try{
-//            if(handId==80){
-//                System.out.println(handId + "");
-//            }
             // SET THE ROUND
             if (data.contains(getHH_FIRST_LINE_STARTS())){
                 setROUND(getSETUP());
@@ -133,7 +132,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
             if (data.contains(getHH_FIRST_LINE_STARTS()) || data.contains("\u0000")
                     && !getDisconnected())
             {
-                if (getPlayers().size() > 0 && !getDisconnected())
+                if (players.size() > 0 && !getDisconnected())
                 {
                     printData(handId);
                     setPrinted(true);
@@ -177,7 +176,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                 // Get player data and add to array
                 String playerId = getPlayerId(data);
                 String currency = getCurrency(data);
-                Float  stack    = getStack(data);
+                BigDecimal  stack    = getStack(data);
                 int    seatId   = getSeatId(data);
 
                 // players are put into the players array at index: SeatID-1
@@ -324,9 +323,9 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                 getPlayers().get(getPlayerIndex().get(playerId)-1).updateActions(0, data);
 
                 getPlayers().get(getPlayerIndex().get(playerId)-1).setSmallBlind(true);
-                setSb_amount(getBetAmount(data) + "");
+                setSb_amount(getBetAmount(data).toString());
                 if (!getModel().isFreeroll()) {
-                    setStakesLevel(Float.toString(getBetAmount(data)), "SB");
+                    setStakesLevel(getBetAmount(data).toString(), "SB");
                 }
             }
             else if (data.contains(getBIG_BLIND0()))
@@ -336,16 +335,20 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                     getPlayers().get(getPlayerIndex().get(playerId)-1).updateContributions(0, getBetAmount(data));
                     getPlayers().get(getPlayerIndex().get(playerId) - 1).updateActions(0, data);
                     getPlayers().get(getPlayerIndex().get(playerId)-1).setBigBlind(true);
-                    setBb_amount(getBetAmount(data) + "");
+                    setBb_amount(getBetAmount(data).toString());
                 } else {
                     getNewJoiners().put(playerId, new Boolean(true));
                 }
                 if (!getModel().isFreeroll()) {
-                    setStakesLevel(Float.toString(getBetAmount(data)), "BB");
+                    setStakesLevel(getBetAmount(data).toString(), "BB");
                 }
 
             }
-            else if(data.contains(getBIG_BLIND1()) || data.contains(getBIG_BLIND2())
+            else if (data.contains(getBIG_BLIND1()) && !data.contains(" ")) {
+
+            }
+            else if((data.contains(getBIG_BLIND1()) && data.contains(" "))
+                    || data.contains(getBIG_BLIND2())
                     || data.contains(getBIG_BLIND3()) || data.contains(getBIG_BLIND4())
                     || data.contains(getBIG_BLIND5())){ // USED FOR DEAD BLINDS etc.
                 String playerId = getPlayerId(data);
@@ -371,7 +374,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                     setBb_amount(blinds[1].replace(",", ""));
                 }
                 if (data.contains(getBIG_BLIND3()) || data.contains(getBIG_BLIND4())){
-                    setBb_amount(getBetAmount(data)+"");
+                    setBb_amount(getBetAmount(data).toString());
                 }
                 if (data.contains(getBIG_BLIND5())){
                     String ante = data.substring(data.indexOf("(")+1);
@@ -412,15 +415,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                 if (getPlayers().get(getPlayerIndex().get(playerId)-1).getPlayerId() != null &&
                         !getPlayers().get(getPlayerIndex().get(playerId)-1).getPlayerId().equals(""))
                 {
-                    int start = data.indexOf(getWINS())+getWINS().length();
-                    if (!data.contains(" chips "))
-                    {
-                        start += 1;
-                    }
-
-                    String temp = data.substring(start).replace(",", "");
-                    temp = temp.substring(0, temp.indexOf(" "));
-                    float potWon = new Float(temp).floatValue();
+                    BigDecimal potWon = getBetAmount(data);
                     getPlayers().get(getPlayerIndex().get(playerId)-1).updateProfitAmount(potWon);
                     getPlayers().get(getPlayerIndex().get(playerId)-1).setWinner(true);
 
@@ -449,6 +444,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                 //System.out.println("HandId " + (handId+1) + " Line: "  + data);
             }
         } catch (Exception e){
+            e.printStackTrace();
             String msg = "CANNOT PARSE [" + gameId + ", " + handId + ", " + data + "]";
             System.out.println(msg);
             //JOptionPane.showMessageDialog(null, msg, "Line cannot be parsed.", JOptionPane.WARNING_MESSAGE);
@@ -535,7 +531,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
         return new Integer(temp).intValue();
     }
 
-    public float getStack(String data){
+    public BigDecimal getStack(String data){
 
         String temp = data.substring(data.indexOf("(")+2, data.indexOf(")")-1).replace(",","");
         if (temp.contains("$") || temp.contains("€") || temp.contains("£"))
@@ -543,7 +539,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
             temp = temp.substring(1, temp.indexOf(" "));
         }
 
-        float stack = new Float(temp).floatValue();
+        BigDecimal stack = new BigDecimal(temp);
         return stack;
     }
 
@@ -568,10 +564,6 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
         return new Integer(temp).intValue();
     }
 
-
-
-
-
     public Card[] getHoleCards(String data)
     {
         String temp = "";
@@ -595,13 +587,13 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
         return holeCards;
     }
 
-    public float getBetAmount(String data)
+    public BigDecimal getBetAmount(String data)
     {
-        float betAmount = 0.0f;
+        BigDecimal betAmount = new BigDecimal(0.0);
         String temp = "";
         if (data.contains(getCHECK()) || data.contains(getFOLD()))
         {
-            betAmount = 0.0f;
+            // no-op - TODO - can this be removed - create a test
         }
         else if (data.contains(getBETS()) || data.contains(getRAISE()) ||
                 data.contains(getCALL()) || data.contains(getALLIN()) ||
@@ -617,7 +609,6 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                         temp = temp.substring(0, temp.indexOf(" "));
                     }
                 }
-                betAmount = new Float(temp).floatValue();
             }
             else
             {
@@ -625,14 +616,29 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                         data.indexOf("]")).replace(",","").trim();
                 if (data.contains("$") || data.contains("£") || data.contains("€")){
                     temp = temp.substring(1);
-                    if (temp.contains(" ")){
+                    if (temp.contains(" ")) {
                         temp = temp.substring(0, temp.indexOf(" "));
                     }
                 }
-                betAmount = new Float(temp).floatValue();
             }
-        }
+            betAmount = new BigDecimal(temp);
+        } else if (data.contains(getWINS()) && ! data.contains(":")) {
+            int start = data.indexOf(getWINS()) + getWINS().length()-1;
+            String[] dataArray = data.split(" ");
+            int i = 0;
+            for (String datum : dataArray) {
+                if (datum.equals(getWINS())) {
+                    break;
+                }
+                i++;
+            }
+            if (dataArray[i+1].equals("chips")) {
+//                start += 2;
+            }
 
+            temp = temp.substring(0, temp.indexOf(" "));
+            betAmount = new BigDecimal(temp);
+        }
 
         return betAmount;
     }
@@ -649,8 +655,4 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
             printData(handId);
         }
     }
-
-
-
-
 }
