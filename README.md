@@ -71,3 +71,6 @@ Features I'd like to see:
 * I was in the process of moving to an MVC model for the application to decouple the models and controllers from the GUI. This needs a large amount of analysis to removed dead code.
 * The Gui is a multithreaded application and aims to keep the Gui interactive whilst the data is being processed. There are some issues with here that need fixing and which are intermittent.
 * The tabs for the hand histories have a fairly poor close button implemented. This should be improved.
+* The profit column is not correct for won pots - need tests 
+* Excel exporter seems to be exporting everything minus one hand history (off by one error somewhere?)
+

@@ -6,6 +6,8 @@ import com.morphiles.game.Player;
 import com.morphiles.views.DataTable;
 import com.morphiles.models.PokerDataModel;
 
+import java.math.BigDecimal;
+
 /**
  * Copyright (c) 2002-2013 morphiles.com, L.P. All rights reserved.
  *
@@ -182,7 +184,7 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
             totalPlayerCount++;
 
             // players are put into the players array at index: SeatID-1
-            getPlayers().set(seatId-1, new Player(playerId, stack, seatId, currency));
+            getPlayers().set(seatId-1, new Player(playerId, new BigDecimal(stack), seatId, currency));
 
 
             // also put player indexes into hashtable so they can be accessed by name.
@@ -271,7 +273,7 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
             getPlayers().get(getPlayerIndex().get(playerId)-1).updateContributions(0, getBetAmount(data));
             getPlayers().get(getPlayerIndex().get(playerId)-1).updateActions(0, data);
             getPlayers().get(getPlayerIndex().get(playerId)-1).setSmallBlind(true);
-            setStakesLevel(Float.toString(getBetAmount(data)), "SB");
+            setStakesLevel(getBetAmount(data).toString(), "SB");
         }
         else if (data.contains(getBIG_BLIND0()))
         {
@@ -279,7 +281,7 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
             getPlayers().get(getPlayerIndex().get(playerId)-1).updateContributions(0, getBetAmount(data));
             getPlayers().get(getPlayerIndex().get(playerId) - 1).updateActions(0, data);
             getPlayers().get(getPlayerIndex().get(playerId)-1).setBigBlind(true);
-            setStakesLevel(Float.toString(getBetAmount(data)), "BB");
+            setStakesLevel(getBetAmount(data).toString(), "BB");
         }
         else if (getPlayerIndex().get(getPlayerId(data)) != null
                 && (data.contains(getCALL())
@@ -320,7 +322,7 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
                     temp = temp.substring(0, temp.indexOf(" "));
                 }
 
-                float potWon = new Float(temp).floatValue();
+                BigDecimal potWon = new BigDecimal(temp);
                 getPlayers().get(getPlayerIndex().get(playerId)-1).updateProfitAmount(potWon);
                 getPlayers().get(getPlayerIndex().get(playerId)-1).setWinner(true);
 
@@ -517,13 +519,13 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
         return holeCards;
     }
 
-    public float getBetAmount(String data)
+    public BigDecimal getBetAmount(String data)
     {
-        float betAmount = 0.0f;
+        BigDecimal betAmount = new BigDecimal(0.0);
         String temp = "";
         if (data.contains(getCHECK()) || data.contains(getFOLD()))
         {
-            betAmount = 0.0f;
+            betAmount = new BigDecimal(0.0);
         }
         else if (data.contains(getALLIN()))
         {
@@ -532,12 +534,11 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
                 temp = temp.substring(0, temp.lastIndexOf(" "));
                 temp = temp.substring(0, temp.lastIndexOf(" "));
                 temp = temp.substring(temp.lastIndexOf(" "));
-                betAmount = new Float(temp).floatValue();
             } else {
                 temp = data.substring(0, data.indexOf(" and is all-in"));
                 temp = temp.substring(temp.lastIndexOf(" ")+1);
-                betAmount = new Float(temp).floatValue();
             }
+            betAmount = new BigDecimal(temp);
         }
         else if (data.contains(getBETS())
                || data.contains(getRAISE()) || data.contains(getCALL())
@@ -545,8 +546,7 @@ public class PokerStarsHhProcessorImpl extends HandHistoryProcessor {
                || data.contains(getBIG_BLIND1()) || data.contains(getBIG_BLIND2()))
         {
             temp = data.substring(data.lastIndexOf(" ")+1).replace(",","").trim();
-            betAmount = new Float(temp).floatValue();
-
+            betAmount = new BigDecimal(temp);
         }
 
         return betAmount;

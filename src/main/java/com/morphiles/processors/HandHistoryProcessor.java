@@ -7,6 +7,7 @@ import com.morphiles.views.DataTable;
 import com.morphiles.models.PokerDataModel;
 
 import javax.swing.table.TableColumnModel;
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
@@ -35,7 +36,7 @@ public abstract class HandHistoryProcessor {
     protected final static int RIVER = 3;
     protected final static int SHOWDOWN = 4;
 
-    private ArrayList<Player> players = new ArrayList<Player>();
+    protected ArrayList<Player> players = new ArrayList<>();
 
     private String gameType; //
     private boolean isReal; // is real money
@@ -298,10 +299,10 @@ public abstract class HandHistoryProcessor {
     }
 
     // TODO should be BigDecimal data type for the monetary value passed in here.
-    public String getMoney(float value)
+    public String getMoney(BigDecimal value)
     {
         // Print stack with relevant ".00" or extra 0.
-        String stackString = value + "";
+        String stackString = value.toString();
 
         if (stackString.indexOf(".")>0 && getGameType().equals(getRING_GAME()))
         {
@@ -419,8 +420,6 @@ public abstract class HandHistoryProcessor {
     public Hashtable<String, Boolean> getNewJoiners() {
         return newJoiners;
     }
-
-
 
     public static int getROUND() {
         return ROUND;
@@ -815,7 +814,7 @@ public abstract class HandHistoryProcessor {
     public void setStakesLevel(String stakes, String blind){
         if (getModel().getStakesLevel()==null && blind.equals("SB")) {
             getModel().setStakesLevel(stakes);
-        } else if ( blind.equals("BB") && !getModel().getStakesLevel().contains("/")){
+        } else if (blind.equals("BB") && !getModel().getStakesLevel().contains("/")){
             getModel().setStakesLevel(stakes + "/" + getModel().getStakesLevel());
         }
     }

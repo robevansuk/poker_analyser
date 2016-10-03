@@ -1094,8 +1094,9 @@ public class Hand {
                         outs.addRankAsOut(highestPossibleStraight-5);
                     }
                 } else {
-                    outs.addRankAsOut(possibleOutsForAStraight.get(0));
-                    outs.addRankAsOut(possibleOutsForAStraight.get(1));
+                    for (int x=0; x<possibleOutsForAStraight.size(); x++) {
+                        outs.addRankAsOut(possibleOutsForAStraight.get(x));
+                    }
                 }
 
             // check for a gutshot draw if no open end draw available - +4 outs

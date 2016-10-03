@@ -79,7 +79,7 @@ public class FileImporter {
                 // **********************************************************
                 while (line != null )   {
                     // Print the content on the console
-                    if (!line.equals("")){
+                    if (!line.equals("") && !line.startsWith(">")){
                         histories.append(tabName, line);
                     }
                     line = reader.readLine(); // one line gap between hands for most hand histories

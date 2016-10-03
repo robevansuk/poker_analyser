@@ -1,11 +1,12 @@
 package com.morphiles.game;
 
+import java.math.BigDecimal;
 import java.util.ArrayList;
 
 public class Player {
 	
 	private String playerId;
-	private float stack;
+	private BigDecimal stack;
 	private int seatId;
 	private Card[] holeCards;
 	private Hand hand;
@@ -20,9 +21,9 @@ public class Player {
     private static String time;
     private static String limitType;
 
-	private float[] contributions;
+	private BigDecimal[] contributions;
 	private String[] actions;
-	private float profitAmount;
+	private BigDecimal profitAmount;
 	
 	private static int[] playersPerRound;
 	private static int tablePlayerCount;
@@ -42,8 +43,8 @@ public class Player {
 	
 	// the variables below belong to all players so are staic.
 	// this makes updating them easier.
-	private static float[] totalPot;
-	private float[] myPot;
+	private static BigDecimal[] totalPot;
+	private BigDecimal[] myPot;
 	
 	// belong to all players hands.
 	private static ArrayList<Card> communityCards;
@@ -56,7 +57,7 @@ public class Player {
 	public Player(int seatId){
 		this.seatId = seatId;
 		playerId = "";
-		stack = 0.0f;
+		stack = new BigDecimal(0.0);
 		currency="";
 		communityCards = new ArrayList<Card>();
 		
@@ -64,7 +65,7 @@ public class Player {
 	}
 	
 	// not really used except in the games.
-	public Player(String name, float stack, int seatId, String currency){
+	public Player(String name, BigDecimal stack, int seatId, String currency){
 		this.playerId = name;
 		this.stack = stack;
 		this.seatId = seatId;
@@ -100,16 +101,16 @@ public class Player {
 	{
 		return playerId;
 	}
-	
+
 	public void setPlayerId(String playerId)
 	{
 		this.playerId = playerId;
 	}
-	public float getStack()
+	public BigDecimal getStack()
 	{
 		return stack;
 	}
-	public void setStack(float stack)
+	public void setStack(BigDecimal stack)
 	{
 		this.stack = stack;
 	}
@@ -132,31 +133,31 @@ public class Player {
 		this.currency = curr;
 	}
 	
-	public void updateContributions(int round, float amount)
+	public void updateContributions(int round, BigDecimal amount)
 	{
 		// Contributions is calculated per round.
-		contributions[round] = contributions[round] + amount;
+		contributions[round] = contributions[round].add(amount);
 		
-		// total pot is the pot total after each round and includes
+		// Total pot is a static variable so any additional bets are added to the
+		// pot for all players.
+		// Total pot is the pot total after each round and includes
 		// bets from all previous rounds
-		if (totalPot[round] == 0.0f && round != 0)
+		if (totalPot[round].equals(new BigDecimal(0.0)) && round != 0)
 		{
-			totalPot[round] = totalPot[round-1] + amount;
-		}
-		else
-		{
-			totalPot[round] = totalPot[round] + amount;
+			totalPot[round] = totalPot[round-1].add(amount);
+		} else {
+			totalPot[round] = totalPot[round].add(amount);
 		}
 		
 		// profitAmount is a total of all contributions to a pot
 		// and will be used at the end to calculate any overall profit
-		profitAmount = profitAmount - amount;
+		profitAmount = profitAmount.subtract(amount);
 		
 		myPot[round] = totalPot[round];
 
 	}
 	
-	public float getContributions(int round)
+	public BigDecimal getContributions(int round)
 	{
 		return contributions[round];
 	}
@@ -194,7 +195,7 @@ public class Player {
 		return actions[round];
 	}
 	
-	public float getTotalPot(int round)
+	public BigDecimal getTotalPot(int round)
 	{
 		if (round==0)
 		{
@@ -206,7 +207,7 @@ public class Player {
 				}
 				else
 				{
-					return 0.0f;
+					return new BigDecimal(0.0);
 				}
 			}
 		}
@@ -227,7 +228,7 @@ public class Player {
 		// 0 output goes out.
 		if (actions[round].contains("fold") || actions[round].equals(""))
 		{
-			return 0.0f;
+			return new BigDecimal(0.0);
 		} 
 		else
 		{
@@ -461,12 +462,12 @@ public class Player {
 		return isSmallBlind;
 	}
 	
-	public void updateProfitAmount(float amount){
-		profitAmount = profitAmount + amount;
+	public void updateProfitAmount(BigDecimal amount){
+		profitAmount = profitAmount.add(amount);
 	}
 	
 	
-	public float getProfit(){
+	public BigDecimal getProfit(){
 		return profitAmount;
 	}
 	
@@ -565,11 +566,12 @@ public class Player {
 	
 	public void initTotals()
 	{
-		contributions = new float[4];
+		contributions = new BigDecimal[4];
 		actions = new String[4];
-		totalPot = new float[4];
-		myPot = new float[4];
+		totalPot = new BigDecimal[4];
+		myPot = new BigDecimal[4];
 		playersPerRound = new int[4];
+		profitAmount = new BigDecimal(0);
 				
 		reset();
 	}
@@ -589,11 +591,12 @@ public class Player {
 		
 		for (int i=0; i<4; i++)
 		{
-			contributions[i] = 0.0f;
+			contributions[i] = new BigDecimal(0);
 			actions[i] = "";
-			totalPot[i] = 0.0f;
-			myPot[i] = 0.0f;
+			totalPot[i] = new BigDecimal(0);
+			myPot[i] = new BigDecimal(0);
 			playersPerRound[i] = 0;
+			profitAmount = new BigDecimal(0);
 		}	
 	}
 
