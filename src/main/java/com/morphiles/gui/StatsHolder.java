@@ -271,7 +271,7 @@ public class StatsHolder extends JPanel {
 
 
     public void localStore(int arrayID, Card card1, Card card2){
-        StringBuilder lookupString = new StringBuilder(card1.getStringRank() + card2.getStringRank());
+        StringBuilder lookupString = new StringBuilder(card1.getNamedRank() + card2.getNamedRank());
 
         if (card1.getSuit().equals(card2.getSuit())){
             lookupString.append("s");

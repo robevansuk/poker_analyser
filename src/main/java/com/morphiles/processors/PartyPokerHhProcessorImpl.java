@@ -418,7 +418,6 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                     BigDecimal potWon = getBetAmount(data);
                     getPlayers().get(getPlayerIndex().get(playerId)-1).updateProfitAmount(potWon);
                     getPlayers().get(getPlayerIndex().get(playerId)-1).setWinner(true);
-
                 }
             }
             else if (data.contains(getJOINED_TABLE())

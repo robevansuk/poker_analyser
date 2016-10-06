@@ -778,35 +778,35 @@ public class Hand {
     public static String getPreflopHandType(Card[] cards){
 
         if (cards[0].getRank() == cards[1].getRank()){
-            return "Pair-" + cards[0].getStringRank() + cards[1].getStringRank();
-        } else if (cards[0].getStringRank().equals("A")){
-            if (cards[1].getStringRank().equals("K")){
+            return "Pair-" + cards[0].getNamedRank() + cards[1].getNamedRank();
+        } else if (cards[0].getNamedRank().equals("A")){
+            if (cards[1].getNamedRank().equals("K")){
                 return "AK" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
-            } else if (cards[1].getStringRank().equals("Q")) {
+            } else if (cards[1].getNamedRank().equals("Q")) {
                 return "AQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else {
                 return "AX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             }
-        } else if (cards[1].getStringRank().equals("A")) {
-            if (cards[0].getStringRank().equals("K")){
+        } else if (cards[1].getNamedRank().equals("A")) {
+            if (cards[0].getNamedRank().equals("K")){
                 return "AK" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
-            } else if (cards[0].getStringRank().equals("Q")) {
+            } else if (cards[0].getNamedRank().equals("Q")) {
                 return "AQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else {
                 return "AX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             }
-        } else if (cards[0].getStringRank().equals("K")){
-           if (cards[1].getStringRank().equals("Q")) {
+        } else if (cards[0].getNamedRank().equals("K")){
+           if (cards[1].getNamedRank().equals("Q")) {
                return "KQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
-            } else if (cards[1].getStringRank().equals("J")) {
+            } else if (cards[1].getNamedRank().equals("J")) {
                 return "KJ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else {
                 return "KX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             }
-        } else if (cards[1].getStringRank().equals("K")){
-            if (cards[0].getStringRank().equals("Q")) {
+        } else if (cards[1].getNamedRank().equals("K")){
+            if (cards[0].getNamedRank().equals("Q")) {
                 return "KQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
-            } else if (cards[0].getStringRank().equals("J")) {
+            } else if (cards[0].getNamedRank().equals("J")) {
                 return "KJ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else {
                 return "KX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
@@ -823,8 +823,8 @@ public class Hand {
             return "Conns-" + Math.abs(cards[0].getRank()-cards[1].getRank());
         } else {
             return "JUNK-" + (cards[0].getRank()>cards[1].getRank() ?
-                    cards[0].getStringRank() + cards[1].getStringRank() :
-                    cards[1].getStringRank() + cards[0].getStringRank());
+                    cards[0].getNamedRank() + cards[1].getNamedRank() :
+                    cards[1].getNamedRank() + cards[0].getNamedRank());
         }
     }
 
@@ -1020,11 +1020,11 @@ public class Hand {
             if (hasSet) {
                 if (isConcealedSet) {
                     for (Card c : community) {
-                        outs.addRankAsOut(c.getStringRank());
+                        outs.addRankAsOut(c.getNamedRank());
                     }
                 } else {
                     for (Card c : hole) {
-                        outs.addRankAsOut(c.getStringRank());
+                        outs.addRankAsOut(c.getNamedRank());
                     }
                 }
             } else if (hasTwoPair) {
