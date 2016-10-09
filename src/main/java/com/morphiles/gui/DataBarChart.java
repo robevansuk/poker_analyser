@@ -6,18 +6,19 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Graphics;
+import java.math.BigDecimal;
 
 import javax.swing.JPanel;
 
 public class DataBarChart extends JPanel {
 
-	private Double[] values;
+	private BigDecimal[] values;
 	private String[] names;
 	private String title;
 	
 	public DataBarChart(){
 		title = "Profit//Loss for Pairs";
-		values = new Double[25];
+		values = new BigDecimal[25];
 		names = new String[25];
 		
 		
@@ -48,9 +49,9 @@ public class DataBarChart extends JPanel {
 		names[24] = "AA+";
 		for (int i = 0; i<=24; i++){
 			if (i % 2 ==0){
-				values[i] = Math.random() * 100;
+				values[i] = new BigDecimal(Math.random() * 100);
 			} else {
-				values[i] = (-1) *  Math.random() * 100;
+				values[i] = new BigDecimal(-1 *  Math.random() * 100);
 			}
 		}
 	}
@@ -60,8 +61,8 @@ public class DataBarChart extends JPanel {
 		if (values==null || values.length == 0)
 			return;
 		
-		double minVal=0;
-		double maxVal=0;
+		BigDecimal minVal = new BigDecimal(0);
+		BigDecimal maxVal = new BigDecimal(0);
 		
 		int halfHeight = (int) getSize().getHeight();
 		
@@ -70,11 +71,12 @@ public class DataBarChart extends JPanel {
 		// Work out the minimum and maximum scale that needs to be represented  
 		for (int i = 0; i < values.length; i++) {
 			System.out.println(i+"");
-			if (minVal > values[i])
+			if (minVal.compareTo(values[i]) >0)
 				minVal = values[i];
-			if (maxVal < values[i])
+			if (maxVal.compareTo(values[i]) < 1)
 				maxVal = values[i];    
 		}
+
 		Dimension d = getSize();
 		
 		int clientWidth = d.width;    
@@ -89,8 +91,7 @@ public class DataBarChart extends JPanel {
 		
 		Font valFont = new Font("SansSerif", Font.PLAIN, 9);    
 		FontMetrics valFontMetrics = g.getFontMetrics(valFont);
-		
-		
+
 		int titleWidth = titleFontMetrics.stringWidth(title);    
 		int y = titleFontMetrics.getAscent();    
 		int x = (clientWidth - titleWidth) / 2;
@@ -101,10 +102,11 @@ public class DataBarChart extends JPanel {
 		int top = titleFontMetrics.getHeight();    
 		int bottom = labelFontMetrics.getHeight();
 		
-		if (maxVal == minVal)      
+		if (maxVal.equals(minVal))
 			return;
 		
-		double scale = (clientHeight - top - bottom) / (maxVal - minVal);
+		BigDecimal scale = new BigDecimal(clientHeight - top - bottom);
+		scale = scale.divide(maxVal.subtract(minVal));
 		
 		y = clientHeight - labelFontMetrics.getDescent();
 		g.setFont(labelFont);
@@ -113,11 +115,11 @@ public class DataBarChart extends JPanel {
 			g.setFont(labelFont);
 			int valueX = i * barWidth + 1; 
 			int valueY = top;      
-			int height = (int) (values[i] * scale);
-			if (values[i] >= 0)        
-				valueY += (int) ((maxVal - values[i]) * scale);
+			int height = values[i].multiply(scale).intValue();
+			if (values[i].compareTo(new BigDecimal(0)) >= 0)
+				valueY = valueY + (maxVal.subtract(values[i])).multiply(scale).intValue();
 			else {        
-				valueY += (int) (maxVal * scale);
+				valueY = valueY + (maxVal.multiply(scale).intValue());
 				height = -height;
 			} 
 			if (i % 2 == 1){
@@ -144,10 +146,6 @@ public class DataBarChart extends JPanel {
 			val = val.substring(0,val.indexOf(".")+3);
 			
 			g.drawString("$" + val + "", x-5, valueY);
-			
 		}
 	}
-	
-	
-	
 }

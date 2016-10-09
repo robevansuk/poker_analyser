@@ -30,8 +30,7 @@ public class DataPresentationTabs extends JPanel {
 		this.setLayout(new BorderLayout());
 		
 		tabs = new JTabbedPane();
-        tabs.addChangeListener(new ChangeListener()
-        {
+        tabs.addChangeListener(new ChangeListener() {
             public void stateChanged(ChangeEvent e)
             {
                 if(tabs!=null && tabs.getTabCount()>0){

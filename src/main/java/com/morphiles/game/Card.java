@@ -75,9 +75,8 @@ public class Card {
 		return namedRank;
 	}
 	
-	public String toString(){
+	public String toString() {
 		return namedRank + suit;
 	}
-	
 	
 }

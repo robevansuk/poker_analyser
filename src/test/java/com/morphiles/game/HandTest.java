@@ -1015,4 +1015,6 @@ public class HandTest extends TestCase {
         assertEquals("SET Failure TURN: " + handTurn.getHand(), "QUADS", handTurn.getHand()); // underpair doesn't count here since any 2 makes the full.
         assertEquals("SET Failure RIVER: " + handRiver.getHand(), "QUADS", handRiver.getHand());
     }
+
+
 }

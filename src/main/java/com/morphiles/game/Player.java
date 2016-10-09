@@ -2,6 +2,8 @@ package com.morphiles.game;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 public class Player {
 	
@@ -13,11 +15,11 @@ public class Player {
 
 	private static String currency;
 
-    private static String BB_amount;
-    private static String SB_amount;
-    private static String ante;
+    private static BigDecimal BB_amount;
+    private static BigDecimal SB_amount;
+    private static BigDecimal ante;
 
-    private static String date;
+    private static Date date; // not thread safe - get joda time to avoid issues later on.
     private static String time;
     private static String limitType;
 
@@ -47,7 +49,7 @@ public class Player {
 	private BigDecimal[] myPot;
 	
 	// belong to all players hands.
-	private static ArrayList<Card> communityCards;
+	private static List<Card> communityCards;
 	
 	// this array stores the nut hand for each round.
 	// only shows for the flop the turn and the river.
@@ -281,33 +283,30 @@ public class Player {
 			}
 		}
         if (data.contains("posts big blind + dead ")){
-            thisAction = data.substring(data.lastIndexOf(" ")).replace("[","").replace("].","").replace("]","").trim();
-            if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-            {
-                thisAction = thisAction.substring(1);
-                thisAction = thisAction.substring(0);
-                if (thisAction.contains(" ")){
-                    thisAction = thisAction.substring(0, thisAction.indexOf(" "));
-                }
-            }
+			String[] tempArray1 = data.split("\\[");
+			String temp =  tempArray1[1];
+			String[] tempArray2 = temp.split("\\]");
+			temp = tempArray2[0].replace(",", "");
+			String[] tempArray3 = temp.split(" ");
+			thisAction = tempArray3[0];
             thisAction = "BB+DB " + thisAction;
         } else if (data.contains("posts big blind")){
-			thisAction = data.substring(data.indexOf(" posts big blind ")+17).replace("[","").replace("].","").replace("]","").trim();
-			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-			{
-                thisAction = thisAction.substring(1, thisAction.indexOf(" "));
-				if(thisAction.contains(" ")){
-                    thisAction = thisAction.substring(0, thisAction.indexOf(" "));
-                }
-			}
+
+			String[] tempArray1 = data.split("\\[");
+			String temp =  tempArray1[1];
+			String[] tempArray2 = temp.split("\\]");
+			temp = tempArray2[0].replace(",", "");
+			String[] tempArray3 = temp.split(" ");
+			thisAction = tempArray3[0];
 			thisAction = "BB " + thisAction; 
 		}
 		if (data.contains("posts small blind")){
-			thisAction = data.substring(data.lastIndexOf(" ")+1).replace("[","").replace("]","").trim();
-			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-			{
-				thisAction = thisAction.substring(0, thisAction.length()-5);
-			}
+			String[] tempArray1 = data.split("\\[");
+			String temp =  tempArray1[1];
+			String[] tempArray2 = temp.split("\\]");
+			temp = tempArray2[0].replace(",", "");
+			String[] tempArray3 = temp.split(" ");
+			thisAction = tempArray3[0];
 			thisAction = "SB " + thisAction;
 		}
 		

@@ -34,7 +34,7 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
     private static final String BIG_BLIND1 = "Blinds(";
     private static final String BIG_BLIND2 = "Stakes(";
     private static final String BIG_BLIND3 = " posts big blind ["; // redundant since if BB0 is found this won't be
-    private static final String BIG_BLIND4 = " posts big blind + dead [";
+    private static final String BIG_BLIND4 = " posts big blind + dead ["; // for this to work the check must be done prior to BB3/0
     private static final String BIG_BLIND5 = "Blinds-Antes(";
     private static final String SMALL_BLIND = " posts small blind";
 
@@ -328,12 +328,19 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                     setStakesLevel(getBetAmount(data).toString(), "SB");
                 }
             }
+            else if (data.contains(getBIG_BLIND4())) { // If player posts a dead blind....
+                String playerId = getPlayerId(data);
+                if (getPlayerIndex().containsKey(playerId)){
+                    getPlayers().get(getPlayerIndex().get(playerId)-1).updateContributions(PREFLOP, getBetAmount(data));
+                    getPlayers().get(getPlayerIndex().get(playerId) - 1).updateActions(PREFLOP, data);
+                }
+            }
             else if (data.contains(getBIG_BLIND0()))
             {
                 String playerId = getPlayerId(data);
                 if (getPlayerIndex().containsKey(playerId)){
-                    getPlayers().get(getPlayerIndex().get(playerId)-1).updateContributions(0, getBetAmount(data));
-                    getPlayers().get(getPlayerIndex().get(playerId) - 1).updateActions(0, data);
+                    getPlayers().get(getPlayerIndex().get(playerId)-1).updateContributions(PREFLOP, getBetAmount(data));
+                    getPlayers().get(getPlayerIndex().get(playerId) - 1).updateActions(PREFLOP, data);
                     getPlayers().get(getPlayerIndex().get(playerId)-1).setBigBlind(true);
                     setBb_amount(getBetAmount(data).toString());
                 } else {
@@ -342,15 +349,12 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
                 if (!getModel().isFreeroll()) {
                     setStakesLevel(getBetAmount(data).toString(), "BB");
                 }
-
-            }
-            else if (data.contains(getBIG_BLIND1()) && !data.contains(" ")) {
-
             }
             else if((data.contains(getBIG_BLIND1()) && data.contains(" "))
                     || data.contains(getBIG_BLIND2())
-                    || data.contains(getBIG_BLIND3()) || data.contains(getBIG_BLIND4())
-                    || data.contains(getBIG_BLIND5())){ // USED FOR DEAD BLINDS etc.
+                    || data.contains(getBIG_BLIND3())
+                    || data.contains(getBIG_BLIND5())){
+
                 String playerId = getPlayerId(data);
                 if (playerId.equals("")){
                     int buttonSeat = super.getButtonSeat();
@@ -600,8 +604,18 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
         {
             if (getGameType().equals(getRING_GAME()))
             {
-                temp = data.substring(data.indexOf("[")+1,
-                        data.indexOf("]")).replace(",","").trim();
+                int i = 0;
+                String[] tempArray1 = data.split("\\[");
+
+                temp = tempArray1[1].replace(",","");
+                String[] tempArray2;
+                if (temp.contains(" ")) {
+                    tempArray2 = temp.split(" ");
+                } else {
+                    tempArray2 = temp.split("\\]");
+                }
+                temp = tempArray2[0];
+
                 if (data.contains("$") || data.contains("£") || data.contains("€")){
                     temp = temp.substring(1);
                     if (temp.contains(" ")){
@@ -611,31 +625,32 @@ public class PartyPokerHhProcessorImpl extends HandHistoryProcessor {
             }
             else
             {
-                temp = data.substring(data.indexOf("[")+1,
-                        data.indexOf("]")).replace(",","").trim();
+                String[] tempArray1 = data.split("\\[");
+                temp = tempArray1[1].replace(",","");
+                String[] tempArray2 = temp.split("\\]");
+                temp = tempArray2[0];
                 if (data.contains("$") || data.contains("£") || data.contains("€")){
-                    temp = temp.substring(1);
-                    if (temp.contains(" ")) {
-                        temp = temp.substring(0, temp.indexOf(" "));
-                    }
+                    temp = temp.substring(1, temp.length());
                 }
             }
             betAmount = new BigDecimal(temp);
         } else if (data.contains(getWINS()) && ! data.contains(":")) {
-            int start = data.indexOf(getWINS()) + getWINS().length()-1;
+            //int start = data.indexOf(getWINS()) + getWINS().length()-1;
             String[] dataArray = data.split(" ");
             int i = 0;
             for (String datum : dataArray) {
-                if (datum.equals(getWINS())) {
+                if (datum.equals("wins")) {
                     break;
                 }
                 i++;
             }
-            if (dataArray[i+1].equals("chips")) {
-//                start += 2;
+            i++;
+            int start = 0;
+            if (!dataArray[i+1].equals("chips")) {
+                start = 1;
             }
 
-            temp = temp.substring(0, temp.indexOf(" "));
+            temp = dataArray[i].substring(start, dataArray[i].length()).replace(",", "");
             betAmount = new BigDecimal(temp);
         }
 

@@ -148,18 +148,21 @@ public class Hand {
 
 	}
 
+    /**
+     * populates the arrays with initial values
+     */
     private void initArrays(){
 
-        tableRanks = new ArrayList<Integer>();
-        tableSuits = new ArrayList<String>();
+        tableRanks = new ArrayList<>();
+        tableSuits = new ArrayList<>();
 
-        holeRanks = new ArrayList<Integer>();
-        holeSuits = new ArrayList<String>();
+        holeRanks = new ArrayList<>();
+        holeSuits = new ArrayList<>();
 
-        holeMatches = new ArrayList<Integer>();
+        holeMatches = new ArrayList<>();
 
-        matches = new ArrayList<Integer>();
-        suited = new ArrayList<List<Integer>>();
+        matches = new ArrayList<>();
+        suited = new ArrayList<>();
 
         // prime the array lists for storing aggregated data
         for (int i = 0; i<15; i++)
@@ -168,10 +171,10 @@ public class Hand {
             matches.add(new Integer(0));
         }
 
-        hearts = new ArrayList<Integer>();
-        diamonds = new ArrayList<Integer>();
-        spades = new ArrayList<Integer>();
-        clubs = new ArrayList<Integer>();
+        hearts = new ArrayList<>();
+        diamonds = new ArrayList<>();
+        spades = new ArrayList<>();
+        clubs = new ArrayList<>();
 
         suited.add(hearts);
         suited.add(diamonds);
@@ -196,6 +199,14 @@ public class Hand {
         }
     }
 
+    /**
+     * for each of the cards in the card array,
+     * ensure the ranks and suits are logged in the
+     * hole card rank logger array and
+     * hole card suit logger array
+     * This eases tracking for the cards
+     * @param cards
+     */
     private void populateHoleRanks(Card[] cards){
         // prime the holeRanks/holeSuits array with aggregated data
         for (Card c : cards)
@@ -599,15 +610,11 @@ public class Hand {
 							suited.get(i).get(k-3).intValue() > 0 &&
 							suited.get(i).get(k-4).intValue() > 0)
 					{
-						if (k==14)
-						{
+						if (k==14) {
 							hasRoyalFlush = true;	
 							break;
-						}
-						else
-						{
+						} else {
 							hasStraightFlush = true;
-							
 							break;
 						}
 					}
@@ -658,7 +665,6 @@ public class Hand {
 	
 	public String getHand(){
         String handType = "";
-
 
         if (hasRoyalFlush)
         {
@@ -779,8 +785,8 @@ public class Hand {
 
         if (cards[0].getRank() == cards[1].getRank()){
             return "Pair-" + cards[0].getNamedRank() + cards[1].getNamedRank();
-        } else if (cards[0].getNamedRank().equals("A")){
-            if (cards[1].getNamedRank().equals("K")){
+        } else if (cards[0].getNamedRank().equals("A")) {
+            if (cards[1].getNamedRank().equals("K")) {
                 return "AK" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else if (cards[1].getNamedRank().equals("Q")) {
                 return "AQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
@@ -788,14 +794,14 @@ public class Hand {
                 return "AX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             }
         } else if (cards[1].getNamedRank().equals("A")) {
-            if (cards[0].getNamedRank().equals("K")){
+            if (cards[0].getNamedRank().equals("K")) {
                 return "AK" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else if (cards[0].getNamedRank().equals("Q")) {
                 return "AQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else {
                 return "AX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             }
-        } else if (cards[0].getNamedRank().equals("K")){
+        } else if (cards[0].getNamedRank().equals("K")) {
            if (cards[1].getNamedRank().equals("Q")) {
                return "KQ" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             } else if (cards[1].getNamedRank().equals("J")) {
@@ -811,13 +817,13 @@ public class Hand {
             } else {
                 return "KX" + (cards[0].getSuit().equals(cards[1].getSuit()) ? "s" : "");
             }
-        } else if(Math.abs(cards[0].getRank()-cards[1].getRank())<4){
-            if(cards[0].getSuit().equals(cards[1].getSuit())){
+        } else if(Math.abs(cards[0].getRank()-cards[1].getRank())<4) {
+            if(cards[0].getSuit().equals(cards[1].getSuit())) {
                 return "SConns-" + Math.abs(cards[0].getRank()-cards[1].getRank());
             } else {
                 return "Conns-" + Math.abs(cards[0].getRank()-cards[1].getRank());
             }
-        } else if (cards[0].getSuit().equals(cards[1].getSuit())){
+        } else if (cards[0].getSuit().equals(cards[1].getSuit())) {
             return "Suited";
         } else if(Math.abs(cards[0].getRank()-cards[1].getRank())<4) {
             return "Conns-" + Math.abs(cards[0].getRank()-cards[1].getRank());
@@ -836,6 +842,7 @@ public class Hand {
         }
         return true;
     }
+
     public void getOutsForAnyOverCards() {
         // Check for over cards as outs
         if (isOverCardToCommunityCards(hole[0].getRank())) {
@@ -869,11 +876,11 @@ public class Hand {
 
     }
 
-    public int getHighestTablePair(){
+    public int getHighestTablePair() {
         int result = 0;
-        if (tablePairCount>0){
-            for (Integer r : tableRanks){
-                if (r==2){
+        if (tablePairCount>0) {
+            for (Integer r : tableRanks) {
+                if (r==2) {
                     result = r;
                     break;
                 }
@@ -882,12 +889,12 @@ public class Hand {
         return result;
     }
 
-    public static int getNumberOfMatchedRanksOnDisplay(ArrayList<Integer> ranks){
+    public static int getNumberOfMatchedRanksOnDisplay(List<Integer> ranks) {
         int totalMatchedRanks = 0;
-        for (int i=14; i<ranks.size(); i--){
+        for (int i=14; i<ranks.size(); i--) {
             // work in reverse order to find out the boards highest ranked
             // matching card(s)
-            if(ranks.get(i)>1){
+            if(ranks.get(i)>1) {
               totalMatchedRanks++;
             }
         }
@@ -896,20 +903,20 @@ public class Hand {
 
     public static int roundsBetweenPairedRanks(Card[] cards, int highestMatchingRank) {
 
-        if (cards.length==5){
-            if (cards[5].getRank()==highestMatchingRank){ //river matches
-                if(cards[4].getRank()==highestMatchingRank){ // turn
+        if (cards.length==5) {
+            if (cards[5].getRank()==highestMatchingRank) { //river matches
+                if(cards[4].getRank()==highestMatchingRank) { // turn
                     return 1;
                 } else {
                     return 2; // else flop.
                 }
-            } else if (cards[4].getRank()==highestMatchingRank){ //turn
+            } else if (cards[4].getRank()==highestMatchingRank) { //turn
                 return 1; // matches flop
             } else {
                 return 0; // both cards must be on the flop
             }
-        } else if (cards.length==4){
-            if (cards[4].getRank()==highestMatchingRank){ //turn
+        } else if (cards.length==4) {
+            if (cards[4].getRank()==highestMatchingRank) { //turn
                 return 1; // matches flop
             } else {
                 return 0; // both cards must be on the flop
@@ -919,8 +926,8 @@ public class Hand {
         }
     }
 
-    public static ArrayList<Integer> getRanksInArray(Card[] cards){
-        ArrayList<Integer> rs = new ArrayList<Integer>(); // ranks
+    public static ArrayList<Integer> getRanksInArray(Card[] cards) {
+        ArrayList<Integer> rs = new ArrayList<>(); // ranks
 
         for(int i=0; i<15; i++){
             rs.add(0);
@@ -939,7 +946,7 @@ public class Hand {
     }
 
     public static ArrayList<Integer> getSuitsInArray(Card[] cards){
-        ArrayList<Integer> ss = new ArrayList<Integer>(); // suits
+        ArrayList<Integer> ss = new ArrayList<>(); // suits
 
         for(int i=0; i<4; i++){
             ss.add(0);
@@ -960,7 +967,7 @@ public class Hand {
         return ss;
     }
 
-    public static int getSequentialCardsOnShow(ArrayList<Integer> ranks){
+    public static int getSequentialCardsOnShow(List<Integer> ranks){
         int maxConsec = 0;
         for(int i=14; i>1; i--){
             maxConsec = 0;
@@ -977,7 +984,7 @@ public class Hand {
         return maxConsec;
     }
 
-    public static int getHighestPossibleStraight(ArrayList<Integer> ranks){
+    public static int getHighestPossibleStraight(List<Integer> ranks){
         int maxConsec = 0;
         for(int i=14; i>1; i--){
             maxConsec = 0;

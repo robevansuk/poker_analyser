@@ -3,7 +3,7 @@ package com.morphiles.game
 import spock.lang.Specification
 
 /**
- * Created by ren7881
+ * some basic unit testing for the Card object using Spock.
  */
 class CardTest extends Specification {
 
@@ -53,5 +53,16 @@ class CardTest extends Specification {
         12   | "Q"
         13   | "K"
         14   | "A"
+    }
+
+    def "when I get a card of a particular suit then the suit is set correctly"(){
+        when:
+        Card testObject = new Card( 14, expectedSuit)
+
+        then:
+        testObject.getSuit() == expectedSuit
+
+        where:
+        expectedSuit << "h, s, d, c".toList()
     }
 }

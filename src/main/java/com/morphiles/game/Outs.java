@@ -24,18 +24,17 @@ public class Outs {
     Map<String, Card> outs;
 
     public Outs(){
-        deck = new Hashtable<String, Card>();
-        outs = new Hashtable<String, Card>();
+        deck = new Hashtable<>();
+        outs = new Hashtable<>();
 
         for (Card card : Deck.getDeck()){
             deck.put(card.toString(), card);
         }
     }
 
-
     public Outs(Card[] hole, Card[] community){
-        deck = new Hashtable<String, Card>();
-        outs = new Hashtable<String, Card>();
+        deck = new Hashtable<>();
+        outs = new Hashtable<>();
 
         for (Card card : Deck.getDeck()){
             deck.put(card.toString().substring(0,1) + card.toString().substring(1,2).toLowerCase(), card);

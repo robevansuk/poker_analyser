@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
+import java.math.BigDecimal;
 import java.util.ArrayList;
+import java.util.List;
 
 import com.morphiles.game.Card;
 import com.morphiles.game.Hand;
@@ -20,36 +22,35 @@ public class BasicAnalysis {
 	private FileOutputStream fos;
 	private OutputStreamWriter out;
 
-	//private static final String filePath = "\\\\DLDNC056PN2.LDN.SWISSBANK.COM\\_evansroa$\\My Documents\\Excel Analyser\\20120913\\";
     private static final String filePath =  "C:\\Users\\rob\\Desktop\\";
 
-    private ArrayList<String> files;
-	private ArrayList<File> fs;
+    private List<String> files;
+	private List<File> fs;
 
 	private int typeOfGame;
 	private final static int CASH = 0;
 	private final static int TRNY = 1;
 
 	private Card[] holeCards;
-	private ArrayList<Card> communityCards;
+	private List<Card> communityCards;
 
 	private String playerID;
-	private Float playerStack;
-	private float bigBlind;
+	private BigDecimal playerStack;
+	private BigDecimal bigBlind;
 	private String BB_temp;
-	private Float currentBet;
-	private Float totalBetSoFar;
-	private Float preflopLoss;
-	private Float flopLoss;
-	private Float turnLoss;
-	private Float ante;
+	private BigDecimal currentBet;
+	private BigDecimal totalBetSoFar;
+	private BigDecimal preflopLoss;
+	private BigDecimal flopLoss;
+	private BigDecimal turnLoss;
+	private BigDecimal ante;
 	private String hole;
 	private String flop;
 	private String turn;
 	private String river;
-	private Float totalWon;
-	private ArrayList<Double> wins;
-	private ArrayList<Double> losses;
+	private BigDecimal totalWon;
+	private List<BigDecimal> wins;
+	private List<BigDecimal> losses;
 
 	private static String BASE_URL;
 	private boolean start;
@@ -76,10 +77,10 @@ public class BasicAnalysis {
 	//private HashMap guiHandLocation<Integer, Integer>;
 
 	private String currency;
-	private ArrayList<Double> profit;
-	private ArrayList<Double> loss;
+	private List<BigDecimal> profit;
+	private List<BigDecimal> loss;
 	private Hand hand;
-	private ArrayList<String> stacks;
+	private List<String> stacks;
 
 	private Hand flopHand;
 	private Hand turnHand;
@@ -97,11 +98,8 @@ public class BasicAnalysis {
 	{
 		files = new ArrayList<String>();
 		fs = new ArrayList<File>();
-		
-		
-		
+
 		File fileList = new File(getBaseURL());
-		
 		
 
 		for (File f : fileList.listFiles()) {
@@ -109,13 +107,13 @@ public class BasicAnalysis {
 			files.add(f.getPath());
 			System.out.println(files.get(files.size()-1));	
 		}
+
 		holeCards = new Card[2];
-		communityCards = new ArrayList<Card>();
+		communityCards = new ArrayList<>();
+		wins = new ArrayList<>();
+		stacks = new ArrayList<>();
 
-		wins = new ArrayList<Double>();
-		stacks = new ArrayList<String>();
-
-		totalBetSoFar = new Float(0);
+		totalBetSoFar = new BigDecimal(0);
 
 		process();
 		try {
@@ -186,7 +184,7 @@ public class BasicAnalysis {
 								if (strLine.indexOf(playerID) >=0 && strLine.indexOf(":") < 0)
 								{
 									currentBet = bigBlind;
-									totalBetSoFar += bigBlind;
+									totalBetSoFar = totalBetSoFar.add(bigBlind);
 								}
 							}
 						} 
@@ -200,7 +198,6 @@ public class BasicAnalysis {
 							typeOfGame = TRNY;
 							bigBlind = getBigBlind(strLine);
 							ante = getAnte(strLine);
-
 						}
 						if (strLine.indexOf(DEALT_TO) >= 0)
 						{
@@ -212,7 +209,7 @@ public class BasicAnalysis {
 						if (strLine.indexOf(FLOP) >= 0)
 						{
 							setFlop(strLine);
-							if (flop != "")
+							if (!flop.equals(""))
 							{
 								Card[] tableCards = new Card[communityCards.size()];
 
@@ -232,7 +229,7 @@ public class BasicAnalysis {
 						if (strLine.indexOf(TURN) >= 0)
 						{
 							setTurn(strLine);
-							if (turn != "")
+							if (!turn.equals(""))
 							{
 								Card[] tableCards = new Card[communityCards.size()];
 
@@ -242,13 +239,13 @@ public class BasicAnalysis {
 									tableCards[i] = communityCards.get(i);
 								}
 								turnHand = new Hand(holeCards, tableCards);
-								flopLoss = totalBetSoFar - preflopLoss;
+								flopLoss = totalBetSoFar.subtract(preflopLoss);
 							}
 						}
 						if (strLine.indexOf(RIVER) >= 0)
 						{
 							setRiver(strLine);
-							turnLoss = totalBetSoFar - flopLoss - preflopLoss;
+							turnLoss = totalBetSoFar.subtract(flopLoss).subtract(preflopLoss);
 						}
 						if (strLine.indexOf(SHOW1) >= 0 || strLine.indexOf(SHOW2) >= 0)
 						{
@@ -269,7 +266,7 @@ public class BasicAnalysis {
 							{
 								if (strLine.indexOf(playerID) >=0)
 								{
-									totalBetSoFar = totalBetSoFar + getCurrentBet(strLine);
+									totalBetSoFar = totalBetSoFar.add(getCurrentBet(strLine));
 								}
 							}
 						}
@@ -341,7 +338,7 @@ public class BasicAnalysis {
 		holeCards[0] = new Card(line.substring(line.indexOf("[ ")+ 3, line.indexOf("[ ")+ 5));
 		holeCards[1] = new Card(line.substring(line.indexOf("[") + 6, line.indexOf("[") + 8));
 
-		hole = holeCards[0] +" " + holeCards[1];
+		hole = holeCards[0] + " " + holeCards[1];
 	}
 
 	/**
@@ -355,7 +352,7 @@ public class BasicAnalysis {
 		communityCards.add(new Card(flop.substring(0,2)));
 		communityCards.add(new Card(flop.substring(4,6)));
 		communityCards.add(new Card(flop.substring(8,10)));
-		currentBet = new Float(0.0);
+		currentBet = new BigDecimal(0.0);
 	}
 
 	/**
@@ -366,7 +363,7 @@ public class BasicAnalysis {
 	{
 		turn = line.substring(TURN.length(), TURN.length() + 2);
 		communityCards.add(new Card(turn));
-		currentBet = new Float(0.0);
+		currentBet = new BigDecimal(0.0);
 	}
 
 	/**
@@ -377,7 +374,7 @@ public class BasicAnalysis {
 	{
 		river = line.substring(RIVER.length(), RIVER.length() + 2);
 		communityCards.add(new Card(river));
-		currentBet = new Float(0.0);
+		currentBet = new BigDecimal(0.0);
 	}
 
 	/**
@@ -418,7 +415,7 @@ public class BasicAnalysis {
 						value = value.substring(1,value.length());
 					}
 				}
-				totalWon = totalWon + new Float(value);
+				totalWon = totalWon.add(new BigDecimal(value));
 			}
 		}
 	}
@@ -448,14 +445,14 @@ public class BasicAnalysis {
 	 * @param line
 	 * @return
 	 */
-	public Float getBigBlind(String line)
+	public BigDecimal getBigBlind(String line)
 	{
-		Float bigBlind = new Float(0.0);
+		BigDecimal bigBlind = new BigDecimal(0.0);
 
 		if (typeOfGame == CASH)
 		{
 			currency = getCurrency(line);
-			bigBlind = new Float(line.substring(
+			bigBlind = new BigDecimal(line.substring(
 					line.indexOf(currency)+1,
 					line.indexOf(" ", line.indexOf(currency))).replace(",", ""));
 		}
@@ -487,10 +484,8 @@ public class BasicAnalysis {
 			{
 				BB_temp = BB_temp.replace(",","");
 			}
-			bigBlind = new Float(BB_temp);
+			bigBlind = new BigDecimal(BB_temp);
 		}
-
-
 		//System.out.println("BB: " + line + " - *" + bigBlind + "*");
 
 		return bigBlind;
@@ -499,15 +494,15 @@ public class BasicAnalysis {
 	/**
 	 * gets the Ante
 	 */
-	public Float getAnte(String line)
+	public BigDecimal getAnte(String line)
 	{
-		Float theAnte = null;
+		BigDecimal theAnte;
 		//System.out.println(line);
 		if ( line.substring(
 				line.indexOf("-", line.indexOf("-Ante")+1)+1,
 				line.indexOf(")")).indexOf(",") >= 0)
 		{
-			theAnte = new Float(
+			theAnte = new BigDecimal(
 					line.substring(
 							line.indexOf("-", line.indexOf("-Ante")+1)+1,
 							line.indexOf(")")
@@ -515,7 +510,7 @@ public class BasicAnalysis {
 		}
 		else
 		{
-			theAnte = new Float(
+			theAnte = new BigDecimal(
 					line.substring(
 							line.indexOf("-", line.indexOf("-Ante")+1)+1,
 							line.indexOf(")")
@@ -530,7 +525,7 @@ public class BasicAnalysis {
 	 * @param line
 	 * @return
 	 */
-	public Float getCurrentBet(String line){
+	public BigDecimal getCurrentBet(String line){
 		if (typeOfGame == CASH)
 		{
 			String currency = getCurrency(line);
@@ -538,7 +533,7 @@ public class BasicAnalysis {
 			//System.out.println(line.substring(
 			//				line.indexOf(currency)+1,
 			//				line.indexOf(" ", line.indexOf(currency))).replace(",", ""));
-			return new Float(
+			return new BigDecimal(
 					line.substring(
 							line.indexOf(currency)+1,
 							line.indexOf(" ", line.indexOf(currency))).replace(",", "")
@@ -546,7 +541,7 @@ public class BasicAnalysis {
 		}
 		else if (line.indexOf("[") >=0)
 		{
-			return new Float(
+			return new BigDecimal(
 					line.substring(
 							line.indexOf("[")+1,
 							line.indexOf("]")).replace(",", "")
@@ -554,7 +549,7 @@ public class BasicAnalysis {
 		}
 		else if (line.indexOf(WINS) >= 0)
 		{
-			return new Float(
+			return new BigDecimal(
 					line.substring(
 							line.indexOf(WINS) + 7, 
 							line.indexOf(" ", line.indexOf(WINS) + 7)).replace(",", "")
@@ -563,7 +558,7 @@ public class BasicAnalysis {
 		else
 		{
 			System.out.println("ERROR: " + line);
-			return new Float(0); // should never be returned.
+			return new BigDecimal(0); // should never be returned.
 		}
 
 	}
@@ -575,13 +570,13 @@ public class BasicAnalysis {
 		{
 			currency = "$";
 		}
-		else if (line.indexOf("�")>=0)
+		else if (line.indexOf("£")>=0)
 		{
-			currency = "�";
+			currency = "£";
 		}
-		else if (line.indexOf("�")>=0)
+		else if (line.indexOf("€")>=0)
 		{
-			currency = "�";
+			currency = "€";
 		}
 		return currency;
 	}
@@ -600,12 +595,12 @@ public class BasicAnalysis {
 			if (line.indexOf(playerID)>=0 && line.indexOf(":") <0)
 			{
 				currentBet = getCurrentBet(line);
-				totalBetSoFar += currentBet;
+				totalBetSoFar = totalBetSoFar.add(currentBet);
 			}
 		}
 	}
 	
-	public Float getPlayerStack(String playerID)
+	public BigDecimal getPlayerStack(String playerID)
 	{
 		String stackTemp = "";
 		int i = 0;
@@ -631,9 +626,7 @@ public class BasicAnalysis {
 		
 		//System.out.println("*" + stackTemp + "*");
 		
-		return new Float(stackTemp);
-			
-				
+		return new BigDecimal(stackTemp);
 	}
 
 	/**
@@ -641,7 +634,8 @@ public class BasicAnalysis {
 	 * @throws IOException 
 	 */
 	public void resetHandVariables() throws IOException{
-		
+
+		// print header for first hand.
 		if (handID == 1){
 			out.write("HandID,GameType,Stack,Player,BigBlind,Ante,Hole,HoleType," +
 					"BetToCall,F,F,F,CurrBet,Hand,Turn,CurrBet,Hand,River," +
@@ -674,7 +668,7 @@ public class BasicAnalysis {
 
 				if (ante != null)
 				{
-					if (ante.toString().equals("0.0"))
+					if (ante.equals(new BigDecimal(0)))
 					{
 						out.write(",");
 					}
@@ -689,7 +683,7 @@ public class BasicAnalysis {
 				}
 				
 				
-				if (hole != "")
+				if (!hole.equals(""))
 				{
 					out.write("," + hole);
 					if (hole != null)
@@ -715,9 +709,8 @@ public class BasicAnalysis {
 				}
 				
 				
-				if (preflopLoss.toString().equals("0.0"))
+				if (preflopLoss.equals(new BigDecimal(0)))
 				{
-					
 					out.write(",");
 				}
 				else
@@ -726,12 +719,12 @@ public class BasicAnalysis {
 				}
 				
 				// FLOP HAND
-				if (flop != "")
+				if (!flop.equals(""))
 				{
 					out.write("," + flop);
 					
 					// Cost of the flop (if > 0.0)
-					if (flopLoss.toString().equals("0.0"))
+					if (flopLoss.equals(new BigDecimal(0)))
 					{
 						out.write(",");
 					}
@@ -754,12 +747,12 @@ public class BasicAnalysis {
 				}
 
 				
-				if (turn != "")
+				if (!turn.equals(""))
 				{
 					out.write("," + turn);
 					
 					// Cost of turn if > 0
-					if (turnLoss.toString().equals("0.0"))
+					if (turnLoss.equals(new BigDecimal(0)))
 					{
 						out.write(",");
 					}
@@ -781,18 +774,18 @@ public class BasicAnalysis {
 					out.write(",,,");
 				}
 				
-				if (river != "")
+				if (!river.equals(""))
 				{
 					out.write("," + river);
 					
 					// Cost of River
-					if (totalBetSoFar.toString().equals("0.0"))
+					if (totalBetSoFar.equals(new BigDecimal(0)))
 					{
 						out.write(",");
 					}
 					else
 					{
-						out.write("," + (totalBetSoFar - turnLoss));
+						out.write("," + (totalBetSoFar.subtract(turnLoss)));
 					}
 					
 					// Hand made
@@ -812,11 +805,11 @@ public class BasicAnalysis {
 
 				
 				
-				if (totalWon.toString().equals("0.0"))
+				if (totalWon.equals(new BigDecimal(0)))
 				{
-					if (!totalBetSoFar.toString().equals("0.0"))
+					if (!totalBetSoFar.equals(new BigDecimal(0)))
 					{
-						out.write(",," + (totalBetSoFar * -1) + "\n");
+						out.write(",," + (totalBetSoFar.multiply(new BigDecimal(-1))) + "\n");
 					}
 					else{
 						out.write(",,\n");
@@ -831,26 +824,25 @@ public class BasicAnalysis {
 			}
 		}
 		playerID = "";
-		playerStack = new Float(0);
-		bigBlind = 0;
-		ante = new Float(0);
+		playerStack = new BigDecimal(0);
+		bigBlind = new BigDecimal(0);
+		ante = new BigDecimal(0);
 		BB_temp = "";
-		currentBet = new Float(0);
-		totalBetSoFar = new Float(0);
-		preflopLoss = new Float(0);
-		flopLoss = new Float(0);
-		turnLoss = new Float(0);
+		currentBet = new BigDecimal(0);
+		totalBetSoFar = new BigDecimal(0);
+		preflopLoss = new BigDecimal(0);
+		flopLoss = new BigDecimal(0);
+		turnLoss = new BigDecimal(0);
 		hole = "";
 		flop = "";
 		turn = "";
 		river = "";
-		totalWon = new Float(0);
+		totalWon = new BigDecimal(0);
 		flopHand = null;
 		turnHand = null;
 		hand = null;
 		handShown = "";
 		stacks.clear();
-		
 		communityCards.clear();
 	}
 
@@ -896,19 +888,19 @@ public class BasicAnalysis {
 		this.out = out;
 	}
 
-	public ArrayList<String> getFiles() {
+	public List<String> getFiles() {
 		return files;
 	}
 
-	public void setFiles(ArrayList<String> files) {
+	public void setFiles(List<String> files) {
 		this.files = files;
 	}
 
-	public ArrayList<File> getFs() {
+	public List<File> getFs() {
 		return fs;
 	}
 
-	public void setFs(ArrayList<File> fs) {
+	public void setFs(List<File> fs) {
 		this.fs = fs;
 	}
 
@@ -928,27 +920,27 @@ public class BasicAnalysis {
 		this.holeCards = holeCards;
 	}
 
-	public ArrayList<Card> getCommunityCards() {
+	public List<Card> getCommunityCards() {
 		return communityCards;
 	}
 
-	public void setCommunityCards(ArrayList<Card> communityCards) {
+	public void setCommunityCards(List<Card> communityCards) {
 		this.communityCards = communityCards;
 	}
 
-	public Float getPlayerStack() {
+	public BigDecimal getPlayerStack() {
 		return playerStack;
 	}
 
-	public void setPlayerStack(Float playerStack) {
+	public void setPlayerStack(BigDecimal playerStack) {
 		this.playerStack = playerStack;
 	}
 
-	public float getBigBlind() {
+	public BigDecimal getBigBlind() {
 		return bigBlind;
 	}
 
-	public void setBigBlind(float bigBlind) {
+	public void setBigBlind(BigDecimal bigBlind) {
 		this.bigBlind = bigBlind;
 	}
 
@@ -960,51 +952,51 @@ public class BasicAnalysis {
 		BB_temp = bB_temp;
 	}
 
-	public Float getCurrentBet() {
+	public BigDecimal getCurrentBet() {
 		return currentBet;
 	}
 
-	public void setCurrentBet(Float currentBet) {
+	public void setCurrentBet(BigDecimal currentBet) {
 		this.currentBet = currentBet;
 	}
 
-	public Float getTotalBetSoFar() {
+	public BigDecimal getTotalBetSoFar() {
 		return totalBetSoFar;
 	}
 
-	public void setTotalBetSoFar(Float totalBetSoFar) {
+	public void setTotalBetSoFar(BigDecimal totalBetSoFar) {
 		this.totalBetSoFar = totalBetSoFar;
 	}
 
-	public Float getPreflopLoss() {
+	public BigDecimal getPreflopLoss() {
 		return preflopLoss;
 	}
 
-	public void setPreflopLoss(Float preflopLoss) {
+	public void setPreflopLoss(BigDecimal preflopLoss) {
 		this.preflopLoss = preflopLoss;
 	}
 
-	public Float getFlopLoss() {
+	public BigDecimal getFlopLoss() {
 		return flopLoss;
 	}
 
-	public void setFlopLoss(Float flopLoss) {
+	public void setFlopLoss(BigDecimal flopLoss) {
 		this.flopLoss = flopLoss;
 	}
 
-	public Float getTurnLoss() {
+	public BigDecimal getTurnLoss() {
 		return turnLoss;
 	}
 
-	public void setTurnLoss(Float turnLoss) {
+	public void setTurnLoss(BigDecimal turnLoss) {
 		this.turnLoss = turnLoss;
 	}
 
-	public Float getAnte() {
+	public BigDecimal getAnte() {
 		return ante;
 	}
 
-	public void setAnte(Float ante) {
+	public void setAnte(BigDecimal ante) {
 		this.ante = ante;
 	}
 
@@ -1016,27 +1008,27 @@ public class BasicAnalysis {
 		this.hole = hole;
 	}
 
-	public Float getTotalWon() {
+	public BigDecimal getTotalWon() {
 		return totalWon;
 	}
 
-	public void setTotalWon(Float totalWon) {
+	public void setTotalWon(BigDecimal totalWon) {
 		this.totalWon = totalWon;
 	}
 
-	public ArrayList<Double> getWins() {
+	public List<BigDecimal> getWins() {
 		return wins;
 	}
 
-	public void setWins(ArrayList<Double> wins) {
+	public void setWins(List<BigDecimal> wins) {
 		this.wins = wins;
 	}
 
-	public ArrayList<Double> getLosses() {
+	public List<BigDecimal> getLosses() {
 		return losses;
 	}
 
-	public void setLosses(ArrayList<Double> losses) {
+	public void setLosses(List<BigDecimal> losses) {
 		this.losses = losses;
 	}
 
@@ -1080,19 +1072,19 @@ public class BasicAnalysis {
 		this.currency = currency;
 	}
 
-	public ArrayList<Double> getProfit() {
+	public List<BigDecimal> getProfit() {
 		return profit;
 	}
 
-	public void setProfit(ArrayList<Double> profit) {
+	public void setProfit(List<BigDecimal> profit) {
 		this.profit = profit;
 	}
 
-	public ArrayList<Double> getLoss() {
+	public List<BigDecimal> getLoss() {
 		return loss;
 	}
 
-	public void setLoss(ArrayList<Double> loss) {
+	public void setLoss(List<BigDecimal> loss) {
 		this.loss = loss;
 	}
 
@@ -1104,11 +1096,11 @@ public class BasicAnalysis {
 		this.hand = hand;
 	}
 
-	public ArrayList<String> getStacks() {
+	public List<String> getStacks() {
 		return stacks;
 	}
 
-	public void setStacks(ArrayList<String> stacks) {
+	public void setStacks(List<String> stacks) {
 		this.stacks = stacks;
 	}
 

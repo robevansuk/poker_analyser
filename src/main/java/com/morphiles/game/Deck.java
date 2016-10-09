@@ -1,5 +1,7 @@
 package com.morphiles.game;
 
+import java.util.Collections;
+
 public class Deck {
 	
 	static Card[] deck = new Card[52];
@@ -23,14 +25,16 @@ public class Deck {
 						deck[index] = new Card(j, "S");
 						break;
 				}
-				
-				// For testing: 
-				//System.out.println("Card[" + index + "]: " + deck[index]);
 				index++;
 			}
 		}
 	}
-	
+
+	/**
+	 * basic shuffle algorithm
+	 * TODO use Collections.shuffle()
+	 * pretty sure the analyser doesn't use this... Remove?
+	 */
 	public static void shuffle(){
 		Card temp;
 		int j;

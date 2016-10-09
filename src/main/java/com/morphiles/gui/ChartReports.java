@@ -22,8 +22,7 @@ import java.util.ArrayList;
 
 
 /**
- * User: Rob Evans
- * Date: 15/06/13
+ *
  */
 public class ChartReports extends JPanel {
 
@@ -43,7 +42,7 @@ public class ChartReports extends JPanel {
         this.setLayout(new BorderLayout());
         this.setEnabled(true);
         this.setVisible(true);
-        tabbedPane= new JTabbedPane();
+        tabbedPane = new JTabbedPane();
         tabbedPane.addTab("blank", new JPanel());
         this.add(tabbedPane, BorderLayout.CENTER);
         this.setPreferredSize(new Dimension(getWidth(), 300));
@@ -59,7 +58,7 @@ public class ChartReports extends JPanel {
     public void initChartPanel(boolean isReady, String tabName){
         // This method will invoke a new set of tabs for the poker data model
         // when a new one is created
-        if(isReady){
+        if(isReady) {
             createLiveCharts(tabName);
         }
     }
@@ -69,18 +68,17 @@ public class ChartReports extends JPanel {
         PokerDataModel model = table.getModel();
 
         reports.add(new BetSuccessReport("BetSuccess", model));
-        reports.add(new BetBetSuccessReport("BetBetSuccess", model));
-        reports.add(new BetBetBetSuccessReport("BetBetBetSuccess", model));
-        reports.add(new RiverBluffSuccessReport("RiverBluffSuccess",model));
-        reports.add(new WinLoseReport("Win/Lose (Other Players)", model));
-        reports.add(new WinLoseThisPlayerOnlyReport("Win/Lose (This Player Only)", model));
-        reports.add(new WinLoseOtherPlayersOnlyReport("Win/Lose (Other Players Only)", model));
-        reports.add(new PlayerBetFlopHandTypeSuccessReport("Stats for hands bet on the flop", model));
-        reports.add(new PlayerAllInFlopHandTypeSuccessReport("Stats for hands all-In'd on the flop", model));
-        reports.add(new PlayerBetFlopDetailedHandTypeSuccessReport("Win/Lose stats, BET from flop (all players & hands)", model));
-        reports.add(new PlayerCheckFlopDetailedHandTypeSuccessReport("Win/Lose stats, Check/Call from flop (all players & hands)", model));
+//        reports.add(new BetBetSuccessReport("BetBetSuccess", model));
+//        reports.add(new BetBetBetSuccessReport("BetBetBetSuccess", model));
+//        reports.add(new RiverBluffSuccessReport("RiverBluffSuccess",model));
+//        reports.add(new WinLoseReport("Win/Lose (Other Players)", model));
+//        reports.add(new WinLoseThisPlayerOnlyReport("Win/Lose (This Player Only)", model));
+//        reports.add(new WinLoseOtherPlayersOnlyReport("Win/Lose (Other Players Only)", model));
+//        reports.add(new PlayerBetFlopHandTypeSuccessReport("Stats for hands bet on the flop", model));
+//        reports.add(new PlayerAllInFlopHandTypeSuccessReport("Stats for hands all-In'd on the flop", model));
+//        reports.add(new PlayerBetFlopDetailedHandTypeSuccessReport("Win/Lose stats, BET from flop (all players & hands)", model));
+//        reports.add(new PlayerCheckFlopDetailedHandTypeSuccessReport("Win/Lose stats, Check/Call from flop (all players & hands)", model));
         //reports.add(new PlayerFlopMovePieChartsReport("Player move stats (all hands)", model));
-
 
         for (int i=0; i<reports.size(); i++) {
             tabbedPane.addTab(reports.get(i).getReportName(), reports.get(i));
