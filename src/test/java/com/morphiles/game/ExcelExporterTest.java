@@ -1,8 +1,7 @@
 package com.morphiles.game;
 
-import com.morphiles.gui.ExcelExporter;
+import com.morphiles.export.ExcelExporter;
 import junit.framework.TestCase;
-import org.junit.Before;
 import org.junit.Ignore;
 
 //TODO tests not currently implemented here.

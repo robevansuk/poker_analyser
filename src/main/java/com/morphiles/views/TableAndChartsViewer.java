@@ -47,8 +47,7 @@ public class TableAndChartsViewer extends JPanel {
     }
 
     public DataTable getSelectedTable(){
-        String tableName = getSelectedTableName();
-        return tables.get(tableName);
+        return tables.get(getSelectedTableName());
     }
 	
 	/**

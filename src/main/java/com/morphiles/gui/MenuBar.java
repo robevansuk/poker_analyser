@@ -1,5 +1,6 @@
 package com.morphiles.gui;
 
+import com.morphiles.export.ExcelExporter;
 import com.morphiles.models.reports.Report;
 import com.morphiles.models.reports.SummaryReport;
 import com.morphiles.views.DataTable;
