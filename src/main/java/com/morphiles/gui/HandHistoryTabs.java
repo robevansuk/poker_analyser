@@ -20,7 +20,6 @@ public class HandHistoryTabs extends JPanel {
 
     private int handId;
 
-	
 	/**
 	 * Creates a new hand history tab.
 	 */
@@ -30,19 +29,13 @@ public class HandHistoryTabs extends JPanel {
 
         tabs = new JTabbedPane();
         tabs.setTabLayoutPolicy(JTabbedPane.SCROLL_TAB_LAYOUT);
-        tabs.addChangeListener(new ChangeListener()
-        {
-            public void stateChanged(ChangeEvent e)
-            {
-                if(tabs!=null && tabs.getTabCount()>0){
-                    if (e.getSource() instanceof JTabbedPane){
-                        String label = ((JTabbedPane)e.getSource()).getSelectedComponent().getName();
+        tabs.addChangeListener(event ->
+                {
+                    if (event.getSource() instanceof JTabbedPane) {
+                        String label = ((JTabbedPane)event.getSource()).getSelectedComponent().getName();
                         processTabChange(label);
                     }
-                }
-
-            }
-        });
+                });
 
         addTabbedHistoryListPane(name);
 		this.add(tabs, BorderLayout.CENTER);

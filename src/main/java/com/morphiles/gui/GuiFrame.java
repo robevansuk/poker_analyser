@@ -32,7 +32,6 @@ public enum GuiFrame {
     private String label;
 
     public void init(){
-
         frame = new JFrame("PokerAnalyser");
         setupDisplay();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -52,24 +51,6 @@ public enum GuiFrame {
         addNavigationTree(BorderLayout.WEST);
 
         addMenuBar(); // MenuBar sits on this Jframe
-    }
-
-    public void addNavigationTree(String position){
-        TreeNavigator.INSTANCE.init();
-        frame.add(TreeNavigator.INSTANCE.getNavigationScrollPane(), position);
-    }
-
-    public void addStatusBar(String position){
-        statusBar = new JStatusBar("Poker Analyser", "File > Open > Select a file/folder of hand histories to get started!");
-        frame.add(statusBar, position);
-    }
-
-    /**
-     * Adds the menu bar to the GUI
-     */
-    public void addMenuBar(){
-        menubar = new MenuBar(hhTabs);
-        frame.setJMenuBar(menubar);
     }
 
     public void addSplitPanes(String position){
@@ -96,6 +77,24 @@ public enum GuiFrame {
         // New HandHisory Obj
         hhTabs = new HandHistoryTabs(name);
         return hhTabs;
+    }
+
+    public void addNavigationTree(String position){
+        TreeNavigator.INSTANCE.init();
+        frame.add(TreeNavigator.INSTANCE.getNavigationScrollPane(), position);
+    }
+
+    public void addStatusBar(String position){
+        statusBar = new JStatusBar("Poker Analyser", "File > Open > Select a file/folder of hand histories to get started!");
+        frame.add(statusBar, position);
+    }
+
+    /**
+     * Adds the menu bar to the GUI
+     */
+    public void addMenuBar(){
+        menubar = new MenuBar(hhTabs);
+        frame.setJMenuBar(menubar);
     }
 
     /**

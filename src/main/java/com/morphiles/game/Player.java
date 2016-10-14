@@ -283,34 +283,23 @@ public class Player {
 			}
 		}
         if (data.contains("posts big blind + dead ")){
-			String[] tempArray1 = data.split("\\[");
-			String temp =  tempArray1[1];
-			String[] tempArray2 = temp.split("\\]");
-			temp = tempArray2[0].replace(",", "");
-			String[] tempArray3 = temp.split(" ");
-			thisAction = tempArray3[0];
-            thisAction = "BB+DB " + thisAction;
+            thisAction = "BB+DB " + getBetAmount(data);
         } else if (data.contains("posts big blind")){
-
-			String[] tempArray1 = data.split("\\[");
-			String temp =  tempArray1[1];
-			String[] tempArray2 = temp.split("\\]");
-			temp = tempArray2[0].replace(",", "");
-			String[] tempArray3 = temp.split(" ");
-			thisAction = tempArray3[0];
-			thisAction = "BB " + thisAction; 
-		}
-		if (data.contains("posts small blind")){
-			String[] tempArray1 = data.split("\\[");
-			String temp =  tempArray1[1];
-			String[] tempArray2 = temp.split("\\]");
-			temp = tempArray2[0].replace(",", "");
-			String[] tempArray3 = temp.split(" ");
-			thisAction = tempArray3[0];
-			thisAction = "SB " + thisAction;
+			thisAction = "BB " + getBetAmount(data);
+		} else if (data.contains("posts small blind")){
+			thisAction = "SB " + getBetAmount(data);
 		}
 		
 		return thisAction;
+	}
+
+	public String getBetAmount(String data) {
+		String[] tempArray1 = data.split("\\[");
+		String temp =  tempArray1[1];
+		String[] tempArray2 = temp.split("\\]");
+		temp = tempArray2[0].replace(",", "");
+		String[] tempArray3 = temp.split(" ");
+		return tempArray3[0];
 	}
 	
 	public void setCommunityCards(int round, String data)
@@ -598,9 +587,4 @@ public class Player {
 			profitAmount = new BigDecimal(0);
 		}	
 	}
-
-
-
-
-
 }

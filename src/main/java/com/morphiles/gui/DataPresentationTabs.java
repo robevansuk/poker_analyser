@@ -11,7 +11,6 @@ public class DataPresentationTabs extends JPanel {
 	
     private boolean DEBUG = false;
 	
-	private MainGui gui;
 	private HashMap<String, com.morphiles.views.DataTable> tables= new HashMap<>();
 	private HashMap<String, DataBarChart> charts = new HashMap<>();
 	private HashMap<String, HandHistoryTab> histories = new HashMap<>();
@@ -20,29 +19,20 @@ public class DataPresentationTabs extends JPanel {
 	/**
 	 * set up DataPresentation tabs and ensure these
 	 * have an interface to the hand history
-	 * @param gui
 	 */
-	public DataPresentationTabs(MainGui gui){
+	public DataPresentationTabs(){
 		super();
-		
-		this.gui = gui;
-		
 		this.setLayout(new BorderLayout());
 		
 		tabs = new JTabbedPane();
-        tabs.addChangeListener(new ChangeListener() {
-            public void stateChanged(ChangeEvent e)
-            {
-                if(tabs!=null && tabs.getTabCount()>0){
-                    if (e.getSource() instanceof JTabbedPane){
-                        String label = ((JTabbedPane)e.getSource()).getSelectedComponent().getName();
-                        processTabChange(label);
-                    }
-                }
+        tabs.addChangeListener(event ->
+			{
+				if (event.getSource() instanceof JTabbedPane){
+					String label = ((JTabbedPane)event.getSource()).getSelectedComponent().getName();
+					processTabChange(label);
+				}
+			});
 
-            }
-        });
-				
 		this.add(tabs, BorderLayout.CENTER);
 	}
 
@@ -132,36 +122,13 @@ public class DataPresentationTabs extends JPanel {
 		 * Don't need to implement this method unless your table's          * 
 		 * data can change.          */        
 		public void setValueAt(Object value, int row, int col) {
-			if (DEBUG) {
-				System.out.println("Setting value at " + row + "," + col
-						+ " to " + value
-						+ " (an instance of "
-						+ value.getClass() + ")");
-				}              
 			data[row][col] = value;
 			fireTableCellUpdated(row, col);
-			if (DEBUG) {
-				System.out.println("New value of data:");
-				printDebugData();
-			}
-		}
-		private void printDebugData() {
-			int numRows = getRowCount();
-			int numCols = getColumnCount();
-			for (int i=0; i < numRows; i++) {
-				System.out.print("    row " + i + ":");
-				for (int j=0; j < numCols; j++) {
-					System.out.print("  " + data[i][j]);
-				}                 
-				System.out.println();
-			}             
-			System.out.println("--------------------------");
-
 		}
 	}
 
     public void removeTabsFor(String label){
-        gui.removeTabsFor(label);
+        GuiFrame.SINGLETON.removeTabsFor(label);
     }
 
     public void removeTab(String label){
@@ -177,7 +144,7 @@ public class DataPresentationTabs extends JPanel {
     }
 
     public void processTabChange(String label){
-        gui.setActiveTab(label);
+        GuiFrame.SINGLETON.setActiveTab(label);
     }
 
     public void setActiveTab(String label){

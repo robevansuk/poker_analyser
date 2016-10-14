@@ -14,7 +14,6 @@ public class DataTable extends JPanel {
 	
 	private JTable table;
     private PokerDataModel model;
-    private MainGui gui;
 	
 	private JScrollPane scrollpane;
 
@@ -29,15 +28,14 @@ public class DataTable extends JPanel {
 	 * Builds independent table model 
 	 * and the JTable
 	 * @param h
+     * @param name
 	 */
-	public DataTable(HandHistoryTab h, String name, MainGui gui){
+	public DataTable(HandHistoryTab h, String name){
 		super();
 		this.setLayout(new BorderLayout());
 		this.setSize(400,475);
 
         this.h = h;
-
-        this.gui = gui;
 
         model = new PokerDataModel();
         table = new JTable(model);
@@ -62,7 +60,7 @@ public class DataTable extends JPanel {
 	    this.add(scrollpane, BorderLayout.CENTER);
 	    this.add(table.getTableHeader(), BorderLayout.NORTH);
 
-        addTableOptionsMenu(name, gui);
+        addTableOptionsMenu(name);
 
 
 	    resizeColumns();
@@ -94,8 +92,8 @@ public class DataTable extends JPanel {
 //        table.setModel(historyProcessor.getModel());
 //    }
 
-    private void addTableOptionsMenu(String name, MainGui gui){
-        optionsMenuBar.put(name, new TableOptionsMenuBar(this, gui));
+    private void addTableOptionsMenu(String name){
+        optionsMenuBar.put(name, new TableOptionsMenuBar(this));
         this.add(optionsMenuBar.get(name), BorderLayout.SOUTH);
     }
 

@@ -3,10 +3,11 @@ package com.morphiles.gui;
 import org.jfree.chart.ChartPanel;
 
 import javax.swing.*;
-import java.awt.*;
+import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
@@ -15,8 +16,7 @@ import java.util.ArrayList;
  */
 public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
 
-    private ArrayList<JCheckBox> buttons = new ArrayList<JCheckBox>();
-    private MainGui gui;
+    private List<JCheckBox> buttons = new ArrayList<>();
 
     private JComboBox playerNameSelection;
 
@@ -39,23 +39,17 @@ public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
 
     ArrayList<String> valuesToHighlight;
 
-
-    public TableOptionsMenuBar(DataTable table, MainGui gui){
+    public TableOptionsMenuBar(DataTable table){
         super(JSplitPane.VERTICAL_SPLIT);
 
-        this.gui = gui;
-
-        this.gui = gui;
         this.table = table;
 
         menuPanel = new JPanel();
 
         initMenuPanel();
-        initChartPanel(false, "", gui);
+        initChartPanel(false, "");
         this.setResizeWeight(0.03);
         this.setVisible(true);
-
-
     }
 
     private void initMenuPanel(){
@@ -66,16 +60,14 @@ public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
         menuPanel.add(startButton);
     }
 
-    public void initChartPanel(boolean isReady, String tabName, MainGui gui){
-
-
+    public void initChartPanel(boolean isReady, String tabName){
         if(!isReady){
             chart = new JPanel();
             chart.setSize(400,300);
 
         } else {
             this.remove(chart);
-            StatsHolder stats = new StatsHolder(gui);
+            StatsHolder stats = new StatsHolder();
             stats.runWinLossReport(GuiFrame.SINGLETON.getDataTabs().getTables().get(tabName).getModel());
             chart = new ChartPanel(stats.createChart());
             chart.setLayout(new GridBagLayout());
@@ -107,30 +99,20 @@ public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
     }
 
     public void addPlayerNameToSelectionBox(String name){
-        boolean found = false;
         for (int i=0; i<playerNameSelection.getItemCount(); i++){
             if (playerNameSelection.getItemAt(i).equals(name)){
-                found = true;
+                playerNameSelection.addItem(name);
                 break;
             }
-        }
-        if (!found){
-            playerNameSelection.addItem(name);
         }
     }
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        String FOLDS = "fold";
-        String CHECKS = "check";
-        String CALLS = "calls";
-        String BETS = "bets";
-        String RAISES = "raises";
-        String ALLIN = "all-In";
 
         if(e.getSource() instanceof JButton){
             if(((JButton)e.getSource()).getActionCommand().equals(START)){
-                valuesToHighlight = new ArrayList<String>();
+                valuesToHighlight = new ArrayList<>();
 
                 for(JCheckBox item : buttons){
                       if(item.isSelected()){

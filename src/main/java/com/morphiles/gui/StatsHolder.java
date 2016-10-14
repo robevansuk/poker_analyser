@@ -22,8 +22,12 @@ import java.util.Hashtable;
 
 
 public class StatsHolder extends JPanel {
-	
-	private MainGui gui;
+
+    private static int index = 1;
+    private static ArrayList<String> labels = new ArrayList<String>();
+    private static ArrayList<String> newLabels = new ArrayList<String>();
+    private static Hashtable<String, Integer> indexes = new Hashtable<String, Integer>();
+
 	private JFreeChart line_chart;
 
     private ArrayList<String> players = new ArrayList<String>();
@@ -32,14 +36,6 @@ public class StatsHolder extends JPanel {
     private ArrayList<Hashtable<String, Integer>> hitsOverall = new ArrayList<Hashtable<String, Integer>>();
     private ArrayList<Hashtable<String, Integer>> hitsAndWins = new ArrayList<Hashtable<String, Integer>>();
     private ArrayList<Hashtable<String, Integer>> missAndWins = new ArrayList<Hashtable<String, Integer>>();
-
-    private static Hashtable<String, Integer> indexes = new Hashtable<String, Integer>();
-    private static int index = 1;
-    private static ArrayList<String> labels = new ArrayList<String>();
-
-    private static ArrayList<String> newLabels = new ArrayList<String>();
-
-
 
     static{
         labels.add("PAIR");
@@ -108,10 +104,9 @@ public class StatsHolder extends JPanel {
     }
 
 
-	public StatsHolder(MainGui gui){
+	public StatsHolder(){
 		super();
-		this.gui = gui;
-		
+
 		this.setLayout(new BorderLayout());
 		this.setSize(400,475);
 		
