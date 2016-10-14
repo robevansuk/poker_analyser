@@ -46,7 +46,7 @@ public class Player {
 	// the variables below belong to all players so are staic.
 	// this makes updating them easier.
 	private static BigDecimal[] totalPot;
-	private BigDecimal[] myPot;
+	private BigDecimal[] myPot; // TODO - not sure this is actually used by anything yet. Intention was to ensure a player's maximum put was limited to only the amount they could contribute to the pot.
 	
 	// belong to all players hands.
 	private static List<Card> communityCards;
@@ -56,23 +56,23 @@ public class Player {
 	public static String[] nutsForRound;
 	
 	
-	public Player(int seatId){
+	public Player(int seatId) {
 		this.seatId = seatId;
 		playerId = "";
 		stack = new BigDecimal(0.0);
 		currency="";
-		communityCards = new ArrayList<Card>();
+		communityCards = new ArrayList<>();
 		
 		initTotals();
 	}
 	
 	// not really used except in the games.
-	public Player(String name, BigDecimal stack, int seatId, String currency){
+	public Player(String name, BigDecimal stack, int seatId, String currency) {
 		this.playerId = name;
 		this.stack = stack;
 		this.seatId = seatId;
 		this.currency = currency;
-		communityCards = new ArrayList<Card>();
+		communityCards = new ArrayList<>();
 		
 		initTotals();
 	}
@@ -82,10 +82,9 @@ public class Player {
 		return holeCards;
 	}
 	
-	public String getHoleCardsAsString()
-	{
+	public String getHoleCardsAsString() {
 		String temp = "";
-		if (holeCards!=null){
+		if (holeCards!=null) {
 			temp = holeCards[0].toString() + " " + holeCards[1].toString();
 		} else {
 			temp = "";
@@ -93,8 +92,7 @@ public class Player {
 		return temp;
 	}
 
-	public void setHoleCards(Card[] holeCards)
-	{
+	public void setHoleCards(Card[] holeCards) {
 		this.holeCards = holeCards;
         this.preflopHand = Hand.getPreflopHandType(holeCards);
 	}
@@ -135,8 +133,7 @@ public class Player {
 		this.currency = curr;
 	}
 	
-	public void updateContributions(int round, BigDecimal amount)
-	{
+	public void updateContributions(int round, BigDecimal amount) {
 		// Contributions is calculated per round.
 		contributions[round] = contributions[round].add(amount);
 
@@ -144,55 +141,50 @@ public class Player {
 		// TODO rather than at a player level as this gets very confusing.
 		// Total pot is a static variable so any additional bets are added to the
 		// pot for all players.
-		// Total pot is the pot total after each round and includes
-		// bets from all previous rounds
-//		if (totalPot[round].equals(new BigDecimal(0.0)) && round != 0) {
-//			totalPot[round] = totalPot[round-1].add(amount);
-//		} else {
-		totalPot[round] = totalPot[round].add(amount);
-//		}
+
+		if (totalPot[round].equals(new BigDecimal(0.0)) && round != 0) {
+			totalPot[round] = totalPot[round-1].add(amount);
+			// Once a player puts in money beyond the first round, the total amount from
+			// the previous round's pot total must be carried forward -
+			// that's what this check is about...
+			// it carries the bets from the previous rounds forward
+			// so that the total for each round is cumulative.
+		} else {
+		    totalPot[round] = totalPot[round].add(amount);
+		}
 		
 		// profitAmount is a total of all contributions to a pot
 		// and will be used at the end to calculate any overall profit
 		profitAmount = profitAmount.subtract(amount);
 		
 		myPot[round] = totalPot[round];
-
 	}
 	
-	public BigDecimal getContributions(int round)
-	{
+	public BigDecimal getContributions(int round) {
 		return contributions[round];
 	}
 	
-	public void updateActions(int round, String data)
-	{
-		if (actions[round] == "")
-		{
+	public void updateActions(int round, String data) {
+		if (actions[round].equals("")) {
 			actions[round] = getAction(round, data).replace(",","");
-		}
-		else 
-		{
+		} else {
 			actions[round] = actions[round] + "-" + getAction(round, data).replace(",","");
 		}
 	}
 	
-	public String getActions(int round)
-	{
-		for (int i=0; i<round; i++){
-			if (actions[i].contains("all-In"))
-			{
+	public String getActions(int round) {
+		for (int i=0; i<round; i++) {
+			if (actions[i].contains("all-In")) {
 				// all in will be the last move so just take
 				// substring from position of 'all-in' to end
 				if (playersPerRound[round]>=2){
 					return actions[i].substring(actions[i].indexOf("all-In"));
-				}
-				else {
+				} else {
 					return "";
 				}
 			}
 		}
-		if (actions[round] == null){
+		if (actions[round] == null) {
 			return "";
 		}
 		return actions[round];
@@ -206,28 +198,18 @@ public class Player {
 	 * @param round
 	 * @return
 	 */
-	public BigDecimal getTotalPot(int round)
-	{
-		if (round==0)
-		{
-			if (actions[round].contains("all-In"))
-			{
-				if (playersPerRound[round]>=2)
-				{
+	public BigDecimal getTotalPot(int round) {
+		if (round==0) {
+			if (actions[round].contains("all-In")) {
+				if (playersPerRound[round]>=2) {
 					return myPot[round];
-				}
-				else
-				{
+				} else {
 					return new BigDecimal(0.0);
 				}
 			}
-		}
-		else
-		{
-			for (int i=0; i<=round; i++)
-			{
-				if (actions[i].contains("all-In") && playersPerRound[round]>=2)
-				{
+		} else {
+			for (int i=0; i<=round; i++) {
+				if (actions[i].contains("all-In") && playersPerRound[round]>=2) {
 					// all in will be the last move so just take
 					// substring from position of 'all-in' to end
 					return myPot[i];
@@ -237,65 +219,56 @@ public class Player {
 		
 		// If there's no all in continue to process data so 
 		// 0 output goes out.
-		if (actions[round].contains("fold") || actions[round].equals(""))
-		{
+		if (actions[round].contains("fold") || actions[round].equals("")) {
 			return new BigDecimal(0.0);
-		} 
-		else
-		{
+		} else {
 			return totalPot[round];
 		}
+	}
+
+	public BigDecimal getTotalPotAmount(int round) {
+		return totalPot[round];
 	}
 	
 	public String getAction(int round, String data)
 	{
 		String thisAction= "";
-		if (data.contains(" folds"))
-		{
+		if (data.contains(" folds")) {
 			thisAction = "fold";
 			updatePlayerCount(round);
 		}
-		if (data.contains(" checks"))
-		{
+		if (data.contains(" checks")) {
 			thisAction = "check";
 		}
-		if (data.contains(" calls "))
-		{
+		if (data.contains(" calls ")) {
 			thisAction = data.substring(data.indexOf(" ")+1).replace("[","").replace("]","");
-			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-			{
+			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€")) {
 				thisAction = thisAction.substring(0, thisAction.length()-4);
 			}
 		}
-		if (data.contains(" bets "))
-		{
+		if (data.contains(" bets ")) {
 			thisAction = data.substring(data.indexOf(" ")+1).replace("[","").replace("]","");
-			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-			{
+			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€")) {
 				thisAction = thisAction.substring(0, thisAction.length()-4);
 			}
 		}
-		if (data.contains(" raises "))
-		{
+		if (data.contains(" raises ")) {
 			thisAction = data.substring(data.indexOf(" ")+1).replace("[","").replace("]","");
-			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-			{
+			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€")) {
 				thisAction = thisAction.substring(0, thisAction.length()-4);
 			}
 		}
-		if (data.contains(" is all-In "))
-		{
+		if (data.contains(" is all-In ")) {
 			thisAction = data.substring(data.indexOf(" ",  data.indexOf(" ", data.indexOf("is")+2))+1).replace("[","").replace("]","");
-			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€"))
-			{
+			if (thisAction.contains("$") || thisAction.contains("£") || thisAction.contains("€")) {
 				thisAction = thisAction.substring(0, thisAction.length()-4);
 			}
 		}
-        if (data.contains("posts big blind + dead ")){
+        if (data.contains("posts big blind + dead ")) {
             thisAction = "BB+DB " + getBetAmount(data);
-        } else if (data.contains("posts big blind")){
+        } else if (data.contains("posts big blind")) {
 			thisAction = "BB " + getBetAmount(data);
-		} else if (data.contains("posts small blind")){
+		} else if (data.contains("posts small blind")) {
 			thisAction = "SB " + getBetAmount(data);
 		}
 		
@@ -311,10 +284,8 @@ public class Player {
 		return tempArray3[0];
 	}
 	
-	public void setCommunityCards(int round, String data)
-	{
-		if (round == 1)
-		{
+	public void setCommunityCards(int round, String data) {
+		if (round == 1) {
 			String tempFlop = data.substring(data.indexOf("[")+1, data.indexOf("]")).replace(",","").trim();
 			
 			communityCards.add(new Card(tempFlop.substring(0, tempFlop.indexOf(" "))));
@@ -328,38 +299,28 @@ public class Player {
 		}
 	}
 	
-	public String getCommunityCards(int round)
-	{
-		String cardString = "";
-		
+	public String getCommunityCards(int round) {
 		switch(round){
 			case(1):
-				if (communityCards.size()>=3)
-				{
-					cardString = communityCards.get(0) + ", "
+				if (communityCards.size()>=3) {
+					return communityCards.get(0) + ", "
 							+ communityCards.get(1) + ", "
 							+ communityCards.get(2);
 				}
-				break;
 			case(2):
-				if (communityCards.size()>=4)
-				{
-					cardString = communityCards.get(3) + "";
+				if (communityCards.size()>=4) {
+					return communityCards.get(3) + "";
 				}
-				break;
-			case(3):
-				if (communityCards.size()>=5)
-				{
-					cardString = communityCards.get(4) + "";
+			default:
+				if (communityCards.size()>=5) {
+					return communityCards.get(4) + "";
 				}
-				break;
 		}
-		
-		return cardString;
+		//noop - this will never be returned.
+		return "";
 	}
 	
-	public void setTotalPlayerCount(int value)
-	{
+	public void setTotalPlayerCount(int value) {
 		playersPerRound[0] = value;
 		playersPerRound[1] = value;
 		playersPerRound[2] = value;
@@ -372,19 +333,15 @@ public class Player {
 		// by 1 player each time a player folds.
 	}
 	
-	public static void updatePlayerCount(int round)
-	{
-		for (int i=3; i>=round; i--)
-		{
+	public static void updatePlayerCount(int round) {
+		for (int i=3; i>=round; i--) {
 			playersPerRound[i] -= 1;
 		}
 	}
 	
-	public String getPlayerCountForRound(int round)
-	{
-		for (int i=0; i<round; i++)
-		{
-			if (playersPerRound[i]<=1){
+	public String getPlayerCountForRound(int round) {
+		for (int i=0; i<round; i++) {
+			if (playersPerRound[i]<=1) {
 				return "";
 			}
 		}
@@ -396,24 +353,16 @@ public class Player {
 		return tablePlayerCount;
 	}
 	
-	public String getSeatPosition(int seat)
-	{
+	public String getSeatPosition(int seat) {
 		//TODO double check this is correct
 		String position = "-1";
-		if (seat == buttonSeat)
-		{
+		if (seat == buttonSeat) {
 			position = "BTN";
-		}
-		else if (isBigBlind)
-		{
+		} else if (isBigBlind) {
 			position = "BB";
-		}
-		else if (isSmallBlind)
-		{
+		} else if (isSmallBlind) {
 			position = "SB";
-		}
-		else
-		{
+		} else {
 			position = "" + (seat%(tablePlayerCount+1));
 		}
 		return position;
@@ -473,26 +422,18 @@ public class Player {
 		isWinner = win;
 	}
 	
-	public void updateTimeBank(int round)
-	{
-		if (actions[round].equals(""))
-		{
+	public void updateTimeBank(int round) {
+		if (actions[round].equals("")) {
 			actions[round] = "(T)";
-		}
-		else
-		{
+		} else {
 			actions[round] = actions[round] + "-(T)";
 		}
 	}
 	
-	public String getWinner()
-	{
-		if (isWinner)
-		{
+	public String getWinner() {
+		if (isWinner) {
 			return "Win";
-		} 
-		else
-		{
+		} else {
 			return "";
 		}
 	}
@@ -508,17 +449,12 @@ public class Player {
 	}
 	
 	
-	public String getLeftTable()
-	{
-		if (hasLeft)
-		{
+	public String getLeftTable() {
+		if (hasLeft) {
 			return "Left";
-		}
-		else if (hasJoined){
+		} else if (hasJoined) {
 			return "Joined";
-		}
-		else
-		{
+		} else {
 			return "";
 		}
 	}
@@ -526,8 +462,7 @@ public class Player {
 	
 	public Card[] getCardsUpto(int round){
 		Card[] cs = {};
-		switch(round)
-		{
+		switch(round) {
 			case(1):
 				cs = new Card[3];
 				break;
@@ -539,16 +474,14 @@ public class Player {
 				break;
 		}		
 		
-		for (int i=0; i<cs.length; i++)
-		{
+		for (int i=0; i<cs.length; i++) {
 			cs[i] = communityCards.get(i);
 		}
 		
 		return cs;
 	}
 	
-	public Card[] getCardsUptoTurn()
-	{
+	public Card[] getCardsUptoTurn() {
 		Card[] t = new Card[4];
 		t[0] = communityCards.get(0);
 		t[1] = communityCards.get(1);
@@ -561,8 +494,7 @@ public class Player {
         return preflopHand;
     }
 	
-	public void initTotals()
-	{
+	public void initTotals() {
 		contributions = new BigDecimal[4];
 		actions = new String[4];
 		totalPot = new BigDecimal[4];
@@ -573,8 +505,7 @@ public class Player {
 		reset();
 	}
 	
-	public void reset() 
-	{
+	public void reset() {
 		communityCards.clear();
 		buttonSeat = -1;
 		tablePlayerCount = -1;
@@ -585,8 +516,7 @@ public class Player {
 		hasLeft = false;
         preflopHand = "";
 
-		for (int i=0; i<4; i++)
-		{
+		for (int i=0; i<4; i++) {
 			contributions[i] = new BigDecimal(0);
 			actions[i] = "";
 			totalPot[i] = new BigDecimal(0);
