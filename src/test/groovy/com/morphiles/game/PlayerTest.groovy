@@ -1,22 +1,30 @@
 package com.morphiles.game
 
+import spock.lang.Shared
 import spock.lang.Specification
-
+import spock.lang.Unroll
 /**
- * Created by ren7881 on 10/7/16.
+ * Created on 10/7/16.
  */
 class PlayerTest extends Specification {
 
+  @Shared
+  Player testObject
+
+  def setupSpec() {
+    testObject = new Player("pkrOD", new BigDecimal(15.11), 4, '$')
+  }
+
   def "when a player object is created with a seat ID"() {
     when:
-    Player testObject = new Player(1);
+    testObject = new Player(1);
 
     then:
     with(testObject) {
       getSeatId() == 1
       playerId == ""
       stack == new BigDecimal(0.0)
-      currencyType == ""
+      currency == ""
 
       contributions.size() == 4
       actions.size() == 4
@@ -37,9 +45,10 @@ class PlayerTest extends Specification {
     }
   }
 
-  def "when a player is instantiated with multiple variables then they are set accordingly" () {
+  @Unroll
+  def "when a player is instantiated with multiple variables then they are set accordingly"() {
     when:
-    Player testObject = new Player(screenName, stackAmount, seatId, currencyType)
+    testObject = new Player(screenName, stackAmount, seatId, currencyType)
 
     then:
     with(testObject) {
@@ -79,4 +88,27 @@ class PlayerTest extends Specification {
     "anything" | new BigDecimal(3.68)    | 2      | '$'
   }
 
+  // Do not use @Unroll here as this treats each tuple of parameterised
+  // test input as a single test but we want the tests to share the state of the
+  // testObject between those tests.
+  def "when a player makes contributions to the pot then the potContributions is updated correctly"() {
+    when:
+    testObject.updateContributions(roundId, new BigDecimal(potContribution))
+
+    then:
+    testObject.getContributions(roundId) == new BigDecimal(cumulativeTotal)
+    testObject.getTotalPot(roundId) == new BigDecimal(cumulativePotTotal)
+
+    where:
+    potContribution | roundId | cumulativeTotal | cumulativePotTotal
+    1.0             | 0       | 1.0             | 1.0
+    0.0             | 0       | 1.0             | 1.0
+    3.55            | 0       | 4.55            | 4.55
+    11.20           | 1       | 11.20           | 15.75
+    11.30           | 1       | 22.50           | 38.20
+  }
+
+//  def "when  then "() {
+//
+//  }
 }

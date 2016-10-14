@@ -139,17 +139,18 @@ public class Player {
 	{
 		// Contributions is calculated per round.
 		contributions[round] = contributions[round].add(amount);
-		
+
+		// TODO the scope of totalPot is wrong - it should be set at a table/game level
+		// TODO rather than at a player level as this gets very confusing.
 		// Total pot is a static variable so any additional bets are added to the
 		// pot for all players.
 		// Total pot is the pot total after each round and includes
 		// bets from all previous rounds
-		if (totalPot[round].equals(new BigDecimal(0.0)) && round != 0)
-		{
-			totalPot[round] = totalPot[round-1].add(amount);
-		} else {
-			totalPot[round] = totalPot[round].add(amount);
-		}
+//		if (totalPot[round].equals(new BigDecimal(0.0)) && round != 0) {
+//			totalPot[round] = totalPot[round-1].add(amount);
+//		} else {
+		totalPot[round] = totalPot[round].add(amount);
+//		}
 		
 		// profitAmount is a total of all contributions to a pot
 		// and will be used at the end to calculate any overall profit
@@ -196,7 +197,15 @@ public class Player {
 		}
 		return actions[round];
 	}
-	
+
+	/**
+	 * WARNING: This doesnt do what you think..
+	 * It gets the total pot for a given move... if the
+	 * player's move for this round was all-In then
+	 * the value returned will be something besides: totalPot[round]
+	 * @param round
+	 * @return
+	 */
 	public BigDecimal getTotalPot(int round)
 	{
 		if (round==0)
@@ -575,8 +584,7 @@ public class Player {
 		isWinner = false;
 		hasLeft = false;
         preflopHand = "";
-		
-		
+
 		for (int i=0; i<4; i++)
 		{
 			contributions[i] = new BigDecimal(0);
@@ -585,6 +593,6 @@ public class Player {
 			myPot[i] = new BigDecimal(0);
 			playersPerRound[i] = 0;
 			profitAmount = new BigDecimal(0);
-		}	
+		}
 	}
 }

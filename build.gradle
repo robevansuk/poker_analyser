@@ -1,8 +1,8 @@
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
-apply plugin: 'application'
 apply plugin: 'groovy'
+apply plugin: 'application'
 
 repositories {
     mavenCentral()
@@ -12,10 +12,11 @@ ext {
     emailNotification = "rwevans1984@gmail.com"
 }
 
+// This codebase actually uses java 8 syntax now so do not revert.
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-mainClassName = "com.morphiles.gui.MainGui"
+mainClassName = "com.morphiles.Application"
 
 project.buildDir = 'bin'
 
