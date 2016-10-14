@@ -19,7 +19,11 @@ public class HandHistoryTabs extends JPanel {
     private int handId;
 
 	/**
-	 * Creates a new hand history tab.
+	 * A hand Tabbed hand history panel that displays
+     * the hand histories as a list rather than a document
+     * this means individual players actions can be highlighted as
+     * right/wrong at some point in the future
+     * TODO add highlighting to show good/bad actions - i.e. bet when ahead, check when behind.
 	 */
 	public HandHistoryTabs(String name){
 		super();

@@ -3,17 +3,17 @@ package com.morphiles.gui;
 import com.morphiles.models.PokerDataModel;
 import com.morphiles.processors.BlankHandHistory;
 import com.morphiles.processors.HandHistoryProcessor;
-
-import javax.swing.JPanel;
-import javax.swing.JScrollPane;
-import javax.swing.JTable;
-import javax.swing.table.DefaultTableCellRenderer;
+import com.morphiles.views.DataTable;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.Dimension;
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.List;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableCellRenderer;
 
 public class AllDataTable extends JPanel {
 	
@@ -45,7 +45,7 @@ public class AllDataTable extends JPanel {
         model = new PokerDataModel();
         table = new JTable(model);
 
-        historyProcessor = new BlankHandHistory(new com.morphiles.views.DataTable(name,
+        historyProcessor = new BlankHandHistory(new DataTable(name,
                 GuiFrame.SINGLETON.getHandHistoryTabs(name).get(name)), model);
 
         table.setDefaultRenderer(String.class, CustomRenderer.getInstance(null, null, historyProcessor.getColumns().get("Player")));

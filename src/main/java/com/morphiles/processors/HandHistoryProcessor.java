@@ -276,7 +276,7 @@ public abstract class HandHistoryProcessor {
                 getModel().setValueAt(getMoney(getPlayers().get(i).getStack()), rowOut, getColumns().get("Stack"));
 
                 //  Print currency in relevant positions
-                getModel().setValueAt(getPlayers().get(i).getCurrency(), rowOut, getColumns().get("Currency"));
+                getModel().setValueAt(getPlayers().get(i).currencyType(), rowOut, getColumns().get("Currency"));
 
                 //  Print currency in relevant positions
                 getModel().setValueAt(getPlayers().get(i).getHoleCardsAsString(), rowOut, getColumns().get("Cards"));

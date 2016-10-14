@@ -7,14 +7,17 @@ import com.morphiles.processors.BlankHandHistory;
 import com.morphiles.processors.HandHistoryProcessor;
 import com.morphiles.processors.PartyPokerHhProcessorImpl;
 import com.morphiles.processors.PokerStarsHhProcessorImpl;
-
-import javax.swing.*;
-import javax.swing.table.DefaultTableCellRenderer;
-import java.awt.*;
+import java.awt.BorderLayout;
+import java.awt.Component;
+import java.awt.Dimension;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Hashtable;
-import java.util.Set;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JSplitPane;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableCellRenderer;
 
 public class DataTable extends JPanel {
 
@@ -51,7 +54,7 @@ public class DataTable extends JPanel {
 	public DataTable(String name, HandHistoryListTabs h){
 		super();
 		this.setLayout(new BorderLayout());
-		this.setPreferredSize(new Dimension(400,475));
+		this.setPreferredSize(new Dimension(400,300));
 
         this.h = h;
 

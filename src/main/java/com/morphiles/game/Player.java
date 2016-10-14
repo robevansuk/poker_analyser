@@ -125,7 +125,7 @@ public class Player {
 		this.seatId = seatId;
 	}
 	
-	public String getCurrency()
+	public String currencyType()
 	{
 		return currency;
 	}

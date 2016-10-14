@@ -1,13 +1,19 @@
 package com.morphiles.gui;
 
-import javax.swing.*;
-import java.awt.*;
+import java.awt.BorderLayout;
+import java.awt.Dimension;
 import java.util.Hashtable;
+import java.util.Map;
+import javax.swing.DefaultListModel;
+import javax.swing.JList;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.ListModel;
 
 public class HandHistoryListTabs extends JPanel {
 
-	private Hashtable<String, JList> historyLists = new Hashtable<String, JList>();
-	private Hashtable<String, DefaultListModel> listModels = new Hashtable<String, DefaultListModel>();
+	private Map<String, JList> historyLists = new Hashtable<>();
+	private Map<String, DefaultListModel> listModels = new Hashtable<>();
 	
 	/**
 	 * Creates a new hand History list 
@@ -40,11 +46,10 @@ public class HandHistoryListTabs extends JPanel {
 	 */
 	public void addLine(final String name, final String line){
 			listModels.get(name).add(listModels.get(name).getSize(), line);
-			//historyLists.get(name).repaint();
 	}
 	
 	public ListModel getModel(String name){
-		return (ListModel) historyLists.get(name).getModel();
+		return historyLists.get(name).getModel();
 	}
 	
 	/**

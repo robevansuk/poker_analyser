@@ -2,21 +2,19 @@ package com.morphiles.views;
 
 
 import com.morphiles.gui.GuiFrame;
-
-import javax.swing.*;
+import java.awt.Component;
+import java.awt.Dimension;
+import java.util.Enumeration;
+import javax.swing.Icon;
+import javax.swing.ImageIcon;
+import javax.swing.JScrollPane;
+import javax.swing.JTree;
 import javax.swing.event.TreeSelectionEvent;
 import javax.swing.event.TreeSelectionListener;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeCellRenderer;
 import javax.swing.tree.DefaultTreeModel;
-import javax.swing.tree.TreeNode;
 import javax.swing.tree.TreePath;
-import java.awt.*;
-import java.util.Collections;
-import java.util.Enumeration;
-import java.util.Vector;
-
-import static java.util.Collections.*;
 
 /**
  * @author robevans
@@ -127,6 +125,11 @@ public enum TreeNavigator {
                 model.insertNodeInto(nodeToAdd,theNode,theNode.getChildCount());
                 expandParentNode(nodeToAdd);
             }
+        }
+
+        if (scrollPane != null){
+            scrollPane.getHorizontalScrollBar().setValue(0);
+            scrollPane.getVerticalScrollBar().setValue(scrollPane.getVerticalScrollBar().getValue());
         }
     }
 

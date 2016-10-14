@@ -4,12 +4,12 @@ import com.morphiles.gui.GuiFrame;
 import com.morphiles.gui.HandHistoryListTabs;
 import com.morphiles.gui.TabCloseButton;
 import com.morphiles.models.PokerDataModel;
-
-import javax.swing.*;
-import java.awt.*;
+import java.awt.BorderLayout;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
 
 public class TableAndChartsViewer extends JPanel {
 	

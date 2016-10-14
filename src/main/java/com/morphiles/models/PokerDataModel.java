@@ -74,7 +74,7 @@ public class PokerDataModel implements TableModel, TableModelListener {
             "Total Plyr Cnt"
     };
 
-    private static ArrayList<String> BLANK_ROW = new ArrayList<String>();
+    private static ArrayList<String> BLANK_ROW = new ArrayList<>();
     private boolean isFreeroll;
     private String playerID;
     private String gameType;
@@ -180,9 +180,7 @@ public class PokerDataModel implements TableModel, TableModelListener {
     }
 
     public Object getValueAt (int rowIndex, int columnIndex) {
-        //System.out.println("Row: " + rowIndex + ", columnIndex: " + columnIndex);
         return delegatedModel.getValueAt(getDelegatedRow(rowIndex), columnIndex);
-        //return getValueAt (getDelegatedRow(rowIndex), columnIndex);
     }
 
     public boolean isCellEditable (int rowIndex, int columnIndex) {
@@ -191,19 +189,11 @@ public class PokerDataModel implements TableModel, TableModelListener {
 
     public void setValueAt (Object aValue, int rowIndex, int columnIndex) {
 
-        if (rowIndex>=getRowCount()){
-            //data.add(new Vector());
-            //data.get(rowIndex).addAll(BLANK_ROW);
-            //((Vector)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).addAll(BLANK_ROW);
-            ((DefaultTableModel)delegatedModel).getDataVector().add(new Vector<String>(BLANK_ROW));
+        if (rowIndex>=getRowCount())
+            ((DefaultTableModel)delegatedModel).getDataVector().add(new Vector<>(BLANK_ROW));
 
-            // delegatedModel.setValueAt(aValue, rowIndex, columnIndex);
-        }
-
-        if (aValue instanceof String){
-//    		//data.get(rowIndex).set(columnIndex, (String) aValue);
-            //((ArrayList<String>)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).set(columnIndex, (String) aValue);
-            ((Vector<String>)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).setElementAt((String) aValue, columnIndex);
+        if (aValue instanceof String) {
+            ((Vector<String>)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).setElementAt(aValue.toString(), columnIndex);
             if(aValue != null && columnNames[columnIndex].equals("Gm Type")){
                 gameType = (String) aValue;
             }

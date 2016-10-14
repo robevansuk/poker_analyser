@@ -10,10 +10,17 @@ import com.morphiles.game.Player
  */
 class BigBlind {
 
+    private static final String[] BIG_BLINDS = [" posts big blind",
+        "Blinds(",
+        "Stakes(",
+        " posts big blind + dead [", // for this to work the check must be done prior to BB3/0
+        " posts big blind [", // redundant since if BB0 is found this won't be
+        "Blinds-Antes("]
+
     BigDecimal amount;
     Player playerId;
 
     public BigBlind(String data) {
-
+        // depending on the big blind value found,
     }
 }

@@ -1,12 +1,11 @@
 package com.morphiles.gui;
 
-import com.morphiles.views.DataTable;
 import com.morphiles.views.JStatusBar;
 import com.morphiles.views.TableAndChartsViewer;
 import com.morphiles.views.TreeNavigator;
-
-import javax.swing.*;
-import java.awt.*;
+import java.awt.BorderLayout;
+import javax.swing.JFrame;
+import javax.swing.JSplitPane;
 
 /**
  * @author robevans
@@ -48,17 +47,16 @@ public enum GuiFrame {
         frame = new JFrame("PokerAnalyser");
         setupDisplay();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
         frame.setSize(GUI_WIDTH, GUI_HEIGHT);
         frame.setVisible(true);
     }
 
     public void addSplitPanes(String position){
         splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
-        splitPane.setDividerSize(6);
-        splitPane.setResizeWeight(0.66);
-        splitPane.add(getTableAndChartsViewer());
-        splitPane.add(getHandHistoryTabs("default"));
+        splitPane.setDividerSize(5);
+        splitPane.setResizeWeight(0.2);
+        splitPane.add(getTableAndChartsViewer()); // HH data table and chart in Center.
+        splitPane.add(getHandHistoryTabs("default")); // HH data as a JList - RHS
         frame.add(splitPane, position);
     }
 
@@ -71,10 +69,12 @@ public enum GuiFrame {
     }
 
     /**
-     * inits a HandHistoryTabs object
+     * inits a HandHistoryTabs which displays the hand history as a JLIST on the
+     * right hand side of the GUI (more for debugging purposes at the moment so we
+     * can compare the data obtained to the original hand history visible in the list.
      */
     public HandHistoryTabs getHandHistoryTabs(String name){
-        // New HandHisory Obj
+        // New HandHistory Obj
         hhTabs = new HandHistoryTabs(name);
         return hhTabs;
     }
@@ -111,13 +111,13 @@ public enum GuiFrame {
     }
 
     public void setActiveTab(String label){
-
-        if(hhTabs!=null){
+        if(hhTabs!=null)
             hhTabs.setActiveTab(label);
-        }
-        if(datTabs!=null){
+
+        if(datTabs!=null)
             datTabs.setActiveTab(label);
-        }
+
+        // TODO set the selected item in the TreeNavigator to be in sync too.
     }
 
     public TableAndChartsViewer getDataTabs(){
