@@ -3,16 +3,21 @@ package com.morphiles.gui;
 import org.jfree.chart.ChartPanel;
 
 import javax.swing.*;
-import java.awt.GridBagLayout;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created with IntelliJ IDEA.
+ * Think this was supposed to be a dynamic view of the data
+ * it is currently not used/implemented and has a name clash with another
+ * class in views which is used far more widely.
+ * TODO Update this thing!
+ *
  * User: Rob Evans
  * Date: 15/06/13
+ * Last updated: 14/10/2016
  */
 public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
 
@@ -32,14 +37,14 @@ public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
                                     "bets",
                                     "raises",
                                     "all-In"};
-    private DataTable table;
+    private AllDataTable table;
 
     private static final String START = "GO";
     private JButton startButton = new JButton(START);
 
-    ArrayList<String> valuesToHighlight;
+    List<String> valuesToHighlight;
 
-    public TableOptionsMenuBar(DataTable table){
+    public TableOptionsMenuBar(AllDataTable table){
         super(JSplitPane.VERTICAL_SPLIT);
 
         this.table = table;

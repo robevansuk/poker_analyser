@@ -23,7 +23,6 @@ public class TableAndChartsViewer extends JPanel {
 	 */
 	public TableAndChartsViewer(){
 		super();
-
 		this.setLayout(new BorderLayout());
 		
 		tabs = new JTabbedPane();
@@ -51,7 +50,7 @@ public class TableAndChartsViewer extends JPanel {
     }
 	
 	/**
-	 * Creates a new HandHistoryTab DataTable
+	 * Creates a new HandHistoryTab AllDataTable
 	 * which is linked directly via a reference
 	 * @param name
 	 * @param h

@@ -50,7 +50,7 @@ public class DataPresentationTabs extends JPanel {
     }
 	
 	/**
-	 * Creates a new HandHistoryTab DataTable
+	 * Creates a new HandHistoryTab AllDataTable
 	 * which is linked directly via a reference
 	 * @param name
 	 * @param h

@@ -1,19 +1,13 @@
 package com.morphiles.gui;
 
-import java.awt.BorderLayout;
-import java.awt.Dimension;
+import javax.swing.*;
+import java.awt.*;
 import java.util.Hashtable;
-
-import javax.swing.DefaultListModel;
-import javax.swing.JPanel;
-import javax.swing.JList;
-import javax.swing.JScrollPane;
-import javax.swing.ListModel;
 
 public class HandHistoryListTabs extends JPanel {
 
 	private Hashtable<String, JList> historyLists = new Hashtable<String, JList>();
-	private Hashtable<String, DefaultListModel> historyModels = new Hashtable<String, DefaultListModel>();
+	private Hashtable<String, DefaultListModel> listModels = new Hashtable<String, DefaultListModel>();
 	
 	/**
 	 * Creates a new hand History list 
@@ -25,8 +19,8 @@ public class HandHistoryListTabs extends JPanel {
 		super();
 		setLayout(new BorderLayout());
 
-        historyModels.put(name, new DefaultListModel()); // TODO - provide own better JList models
-        historyLists.put(name, new JList(historyModels.get(name)));
+        listModels.put(name, new DefaultListModel()); // TODO - provide own better JList models with highlighting
+        historyLists.put(name, new JList(listModels.get(name)));
 
 		add(getHistoryListInScrollPane(name), BorderLayout.CENTER);
 
@@ -45,7 +39,7 @@ public class HandHistoryListTabs extends JPanel {
 	 * @param line
 	 */
 	public void addLine(final String name, final String line){
-			historyModels.get(name).add(historyModels.get(name).getSize(), line);
+			listModels.get(name).add(listModels.get(name).getSize(), line);
 			//historyLists.get(name).repaint();
 	}
 	

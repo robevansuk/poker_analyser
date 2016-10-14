@@ -31,15 +31,6 @@ public enum GuiFrame {
     private final static int GUI_HEIGHT = 700;
     private String label;
 
-    public void init(){
-        frame = new JFrame("PokerAnalyser");
-        setupDisplay();
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setSize(GUI_WIDTH, GUI_HEIGHT);
-        frame.setVisible(true);
-    }
-
     /**
      * Sets up the initial display
      */
@@ -50,7 +41,16 @@ public enum GuiFrame {
         addStatusBar(BorderLayout.SOUTH);
         addNavigationTree(BorderLayout.WEST);
 
-        addMenuBar(); // MenuBar sits on this Jframe
+        addMenuBar(); // MenuBar sits on this JFrame
+    }
+
+    public void init(){
+        frame = new JFrame("PokerAnalyser");
+        setupDisplay();
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.pack();
+        frame.setSize(GUI_WIDTH, GUI_HEIGHT);
+        frame.setVisible(true);
     }
 
     public void addSplitPanes(String position){
@@ -63,7 +63,7 @@ public enum GuiFrame {
     }
 
     /**
-     * inits a DataTable
+     * inits a AllDataTable
      */
     public TableAndChartsViewer getTableAndChartsViewer(){
         datTabs = new TableAndChartsViewer();

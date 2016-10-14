@@ -4,8 +4,6 @@ import com.morphiles.models.PokerDataModel;
 import com.morphiles.views.DataTable;
 
 import javax.swing.*;
-import javax.swing.event.ChangeEvent;
-import javax.swing.event.ChangeListener;
 import java.awt.*;
 import java.util.Collection;
 import java.util.Hashtable;
@@ -15,8 +13,8 @@ public class HandHistoryTabs extends JPanel {
 	private BorderLayout layout = new BorderLayout();
 	
 	private JTabbedPane tabs;
-	private Hashtable<String, HandHistoryListTabs> histories = new Hashtable<String, HandHistoryListTabs>();
-	private Hashtable<String, DataTable> tables = new Hashtable<String, DataTable>();
+	private Hashtable<String, HandHistoryListTabs> histories = new Hashtable<>();
+	private Hashtable<String, DataTable> tables = new Hashtable<>();
 
     private int handId;
 
