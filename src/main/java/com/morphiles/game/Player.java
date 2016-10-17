@@ -192,7 +192,7 @@ public class Player {
 
 	/**
 	 * WARNING: This doesnt do what you think..
-	 * It gets the total pot for a given move... if the
+	 * It gets the total pot for the player based on their action... if the
 	 * player's move for this round was all-In then
 	 * the value returned will be something besides: totalPot[round]
 	 * @param round

@@ -167,24 +167,26 @@ public abstract class HandHistoryProcessor {
     public void printData(int handId){
         int maxRow = getTable().getRowCount();
 
-        // need a counter that is independent to 'i'
+        // need a counter that is independent to the playerIndex that increments only when
+        // a player is sat in the seat - this keeps track of the number of players at a table,
+        // since some seats might be empty.
         int k = 0;
 
-        for (int i=0; i<getPlayers().size(); i++)
+        for (int playerIndex=0; playerIndex<getPlayers().size(); playerIndex++)
         {
-            if (getPlayers().get(i).getActions(0).equals(""))
+            if (getPlayers().get(playerIndex).getActions(PREFLOP).equals(""))
             {
-                if (!getPlayers().get(i).getPlayerId().equals(""))
+                if (!getPlayers().get(playerIndex).getPlayerId().equals(""))
                 {
                     //System.out.println(" no hand action");
-                    Player.updatePlayerCount(0);
+                    Player.updatePlayerCount(PREFLOP);
                 }
             }
         }
 
-        for (int i=0; i<getPlayers().size(); i++)
+        for (int playerIndex=0; playerIndex<getPlayers().size(); playerIndex++)
         {
-            if (getPlayers().get(i).getPlayerId() != ""){
+            if (getPlayers().get(playerIndex).getPlayerId() != ""){
                 int rowOut = maxRow + k;
                 // Print hand data that is the same for every player
                 String hId;
@@ -197,64 +199,24 @@ public abstract class HandHistoryProcessor {
                 }
                 getModel().setValueAt((hId) + "", rowOut, getColumns().get("Id"));
 
+                outputToModelPreflop(PREFLOP, rowOut, playerIndex, "Pf", "Preflop");
 
-
-                getModel().setValueAt(getMoney(getPlayers().get(i).getContributions(0)), rowOut, getColumns().get("Pf Contribution"));
-                getModel().setValueAt(getPlayers().get(i).getActions(0), rowOut, getColumns().get("Pf Mv"));
-                getModel().setValueAt(getMoney(getPlayers().get(i).getTotalPot(0)) + "", rowOut, getColumns().get("Pf Pot"));
-                getModel().setValueAt(getPlayers().get(i).getPlayerCountForRound(0) + "", rowOut, getColumns().get("Pf Plyr Cnt"));
-
-                if (getPlayers().get(i).getHoleCards()!=null && getPlayers().get(i).getHoleCards().length!=0){
-                    getModel().setValueAt(Hand.getPreflopHandType(getPlayers().get(i).getHoleCards()) + "", rowOut, getColumns().get("Pf Hand"));
-                }
-
-
+                // Print out the output for the ....
                 // FLOP
-                if (!getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(1).equals("")){
-                    String prefix = "F ";
-                    getModel().setValueAt(getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(1), rowOut, getColumns().get("Flop"));
-                    getModel().setValueAt(getMoney(getPlayers().get(i).getContributions(1)), rowOut, getColumns().get(prefix + "Contribution"));
-                    getModel().setValueAt(getPlayers().get(i).getActions(1), rowOut, getColumns().get(prefix + "Mv"));
-                    getModel().setValueAt(getMoney(getPlayers().get(i).getTotalPot(1)) + "", rowOut, getColumns().get(prefix + "Pot"));
-                    getModel().setValueAt(getPlayers().get(i).getPlayerCountForRound(1) + "", rowOut, getColumns().get(prefix + "Plyr Cnt"));
-                    if (!getPlayers().get(i).getHoleCardsAsString().equals("")){
-                        Hand hand = getHand(getPlayers().get(i).getHoleCards(), getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCardsUpto(1));
-                        getModel().setValueAt(hand.getHand(), rowOut, getColumns().get(prefix + "Hand"));
-                        getModel().setValueAt(hand.calculateOuts()+"", rowOut, getColumns().get(prefix + "Outs"));
-                    }
+                if (!getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(FLOP).equals("")){
+                   outputToModelFlop(FLOP, rowOut, playerIndex, "F", "Flop");
                 }
                 //TURN
-                if (!getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(2).equals("")){
-                    String prefix = "T ";
-                    getModel().setValueAt(getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(2), rowOut, getColumns().get("Turn"));
-                    getModel().setValueAt(getMoney(getPlayers().get(i).getContributions(2)), rowOut, getColumns().get(prefix + "Contribution"));
-                    getModel().setValueAt(getPlayers().get(i).getActions(2), rowOut, getColumns().get(prefix + "Mv"));
-                    getModel().setValueAt(getMoney(getPlayers().get(i).getTotalPot(2)) + "", rowOut, getColumns().get(prefix + "Pot"));
-                    getModel().setValueAt(getPlayers().get(i).getPlayerCountForRound(2) + "", rowOut, getColumns().get(prefix + "Plyr Cnt"));
-                    if (!getPlayers().get(i).getHoleCardsAsString().equals("")){
-                        Hand hand = getHand(getPlayers().get(i).getHoleCards(), getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCardsUpto(2));
-                        getModel().setValueAt(hand.getHand(), rowOut, getColumns().get(prefix + "Hand"));
-                        getModel().setValueAt(hand.calculateOuts()+"", rowOut, getColumns().get(prefix + "Outs"));
-                    }
+                if (!getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(TURN).equals("")){
+                    outputToModelFlop(TURN, rowOut, playerIndex, "T", "Turn");
                 }
                 // RIVER
-                if (!getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(3).equals("")){
-                    String prefix = "R ";
-                    getModel().setValueAt(getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(3), rowOut, getColumns().get("River"));
-                    getModel().setValueAt(getMoney(getPlayers().get(i).getContributions(3)), rowOut, getColumns().get(prefix + "Contribution"));
-                    getModel().setValueAt(getPlayers().get(i).getActions(3), rowOut, getColumns().get(prefix + "Mv"));
-                    getModel().setValueAt(getMoney(getPlayers().get(i).getTotalPot(3)) + "", rowOut, getColumns().get(prefix + "Pot"));
-                    getModel().setValueAt(getPlayers().get(i).getPlayerCountForRound(3) + "", rowOut, getColumns().get(prefix + "Plyr Cnt"));
-                    if (!getPlayers().get(i).getHoleCardsAsString().equals("")){
-                        Hand hand = getHand(getPlayers().get(i).getHoleCards(), getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCardsUpto(3));
-                        getModel().setValueAt(hand.getHand(), rowOut, getColumns().get(prefix + "Hand"));
-                    }
+                if (!getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(RIVER).equals("")){
+                    outputToModelFlop(RIVER, rowOut, playerIndex, "R", "River");
                 }
-                //  Print currency in relevant positions
-                // 0, 1, 2, 3 - represent preflop, flop, turn river
 
-                getModel().setValueAt(getPlayers().get(i).getTablePlayerCount() + "", rowOut, getColumns().get("Total Plyr Cnt"));
-                getModel().setValueAt(getPlayers().get(i).getSeatPosition(k + 1), rowOut, getColumns().get("Position"));
+                getModel().setValueAt(getPlayers().get(playerIndex).getTablePlayerCount() + "", rowOut, getColumns().get("Total Plyr Cnt"));
+                getModel().setValueAt(getPlayers().get(playerIndex).getSeatPosition(k + 1), rowOut, getColumns().get("Position"));
                 getModel().setValueAt((isReal() ? "Real" : "Play"), rowOut, getColumns().get("Real-Play"));
                 getModel().setValueAt(getGameType(), rowOut, getColumns().get("Gm Type"));
                 getModel().setValueAt(getTableName(), rowOut, getColumns().get("Tbl Id"));
@@ -268,33 +230,58 @@ public abstract class HandHistoryProcessor {
 
 
                 // Print player in relevant positions
-                getModel().setValueAt(getPlayers().get(i).getPlayerId(), rowOut, getColumns().get("Player"));
+                getModel().setValueAt(getPlayers().get(playerIndex).getPlayerId(), rowOut, getColumns().get("Player"));
 
                 // Print seat ID in relevant positions
                 getModel().setValueAt((k + 1) + "", rowOut, getColumns().get("Seat"));
 
-                getModel().setValueAt(getMoney(getPlayers().get(i).getStack()), rowOut, getColumns().get("Stack"));
+                getModel().setValueAt(getMoney(getPlayers().get(playerIndex).getStack()), rowOut, getColumns().get("Stack"));
 
                 //  Print currency in relevant positions
-                getModel().setValueAt(getPlayers().get(i).currencyType(), rowOut, getColumns().get("Currency"));
+                getModel().setValueAt(getPlayers().get(playerIndex).currencyType(), rowOut, getColumns().get("Currency"));
 
                 //  Print currency in relevant positions
-                getModel().setValueAt(getPlayers().get(i).getHoleCardsAsString(), rowOut, getColumns().get("Cards"));
+                getModel().setValueAt(getPlayers().get(playerIndex).getHoleCardsAsString(), rowOut, getColumns().get("Cards"));
 
                 // Print the total of the pot won. (from all pots/side pots etc)
-                getModel().setValueAt(getMoney(getPlayers().get(i).getProfit()), rowOut, getColumns().get("Profit"));
+                getModel().setValueAt(getMoney(getPlayers().get(playerIndex).getProfit()), rowOut, getColumns().get("Profit"));
 
                 // Print out the Winner.
-                getModel().setValueAt(getPlayers().get(i).getWinner() + "", rowOut, getColumns().get("Win"));
+                getModel().setValueAt(getPlayers().get(playerIndex).getWinner() + "", rowOut, getColumns().get("Win"));
 
                 // Print out whether the player just joined or left the table
-                getModel().setValueAt(getPlayers().get(i).getLeftTable() + "", rowOut, getColumns().get("Joined"));
-
-
+                getModel().setValueAt(getPlayers().get(playerIndex).getLeftTable() + "", rowOut, getColumns().get("Joined"));
 
                 // increment the k value only when a player is sitting in the seat
                 k += 1;
             }
+        }
+    }
+
+    public void outputToModelPreflop(int round, int rowOut, int playerId, String prefix, String fullRoundId) {
+        getModel().setValueAt(getMoney(getPlayers().get(playerId).getContributions(round)), rowOut, getColumns().get(prefix + " Contribution"));
+        getModel().setValueAt(getPlayers().get(playerId).getActions(round), rowOut, getColumns().get(prefix + " Mv"));
+        getModel().setValueAt(getMoney(getPlayers().get(playerId).getTotalPot(round)) + "", rowOut, getColumns().get(prefix + " Pot"));
+        getModel().setValueAt(getPlayers().get(playerId).getPlayerCountForRound(round) + "", rowOut, getColumns().get(prefix + " Plyr Cnt"));
+
+        if (getPlayers().get(playerId).getHoleCards()!=null && getPlayers().get(playerId).getHoleCards().length!=0){
+            getModel().setValueAt(Hand.getPreflopHandType(getPlayers().get(playerId).getHoleCards()) + "", rowOut, getColumns().get(prefix + " Hand"));
+        }
+
+    }
+
+    public void outputToModelFlop(int round, int rowOut, int playerId, String prefix, String fullRoundId) {
+        getModel().setValueAt(getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCommunityCards(round), rowOut, getColumns().get(fullRoundId));
+        getModel().setValueAt(getMoney(getPlayers().get(playerId).getContributions(round)), rowOut, getColumns().get(prefix + " Contribution"));
+        getModel().setValueAt(getPlayers().get(playerId).getActions(round), rowOut, getColumns().get(prefix + " Mv"));
+        getModel().setValueAt(getMoney(getPlayers().get(playerId).getTotalPot(round)) + "", rowOut, getColumns().get(prefix + " Pot"));
+        getModel().setValueAt(getPlayers().get(playerId).getPlayerCountForRound(round) + "", rowOut, getColumns().get(prefix + " Plyr Cnt"));
+        if (!getPlayers().get(playerId).getHoleCardsAsString().equals("")){
+            Hand hand = getHand(getPlayers().get(playerId).getHoleCards(), getPlayers().get(getPlayerIndex().get(getWhoAmI()) - 1).getCardsUpto(round));
+            getModel().setValueAt(hand.getHand(), rowOut, getColumns().get(prefix + " Hand"));
+
+            if (!fullRoundId.equals("River"))
+            getModel().setValueAt(hand.calculateOuts()+"", rowOut, getColumns().get(prefix + " Outs"));
         }
     }
 

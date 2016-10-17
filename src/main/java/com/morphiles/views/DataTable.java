@@ -155,7 +155,7 @@ public class DataTable extends JPanel {
 	
 	private void resizeColumns(){
 		int[] widths = {
-				25, 30, 75, 50, 40, 30, 50, // header
+				30, 30, 75, 50, 40, 30, 50, // header
 				70, 60, 100, 50,     // preflop 
 				65, 65, 50, 60, 100, 50, // flop
 				30, 65, 50, 60, 100, 50, // turn
