@@ -85,12 +85,12 @@ public class Hand {
     private int fhPairRank;
     private String fullHouseHandType;
 
-    // Quads analysis
+    // Quads TiltAnalysis
     private int quadRank;
     private int numQuadCardsOnTable;
     private String quadType; // top quads, 2nd rank Quads, etc, lowest ranked Quads
 
-    // used for straight analysis.
+    // used for straight TiltAnalysis.
     private int highestPossibleStraight;
     private int maxConsecutive;
     private boolean isTableStraight;
@@ -98,7 +98,7 @@ public class Hand {
     private List<Integer> possibleOutsForAStraight;
     private Integer possibleOutForAGutshot;
 
-    // Flush analysis
+    // Flush TiltAnalysis
     private int highestFlushRank;
     private boolean isTableFlush;
     private boolean isFourToFlushOnTable;
@@ -117,7 +117,7 @@ public class Hand {
         this.community = community;
         /**
          * init the arrays with 0's so they can be populated
-         * with useful analysis information.
+         * with useful TiltAnalysis information.
          */
         initArrays();
 
@@ -125,7 +125,7 @@ public class Hand {
 
         /**
          * populate the arrays with the hole and community cards
-         * so that analysis can begin
+         * so that TiltAnalysis can begin
          */
         populateHoleRanks(hole);
         populateTableRanks(community);
@@ -490,7 +490,7 @@ public class Hand {
 	 */
 	public void checkConsecutive(){
 		int consCount = 0;
-		int i; // must have full scope so analysis at end can be done if hasStraight
+		int i; // must have full scope so TiltAnalysis at end can be done if hasStraight
 
 		for (i=matches.size()-1; i>4; i--)
 		{

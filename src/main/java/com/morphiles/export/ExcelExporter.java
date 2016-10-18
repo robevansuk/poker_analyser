@@ -280,14 +280,14 @@ public class ExcelExporter {
 
                         int col = 0;
                         addSummaryData(hands[i], row, col++);
-                        addSummaryData("= COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+")", row, col++);
-                        addSummaryData("= COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$F:$F,\"Win\")", row, col++);
+                        addSummaryData("=COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+")", row, col++);
+                        addSummaryData("=COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$F:$F,\"Win\")", row, col++);
                         addSummaryData(hands[k], row, col++);
-                        addSummaryData("= COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+")", row, col++);
-                        addSummaryData("= COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+",AllMyHands!$F:$F,\"Win\")", row, col++);
+                        addSummaryData("=COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+")", row, col++);
+                        addSummaryData("=COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+",AllMyHands!$F:$F,\"Win\")", row, col++);
                         addSummaryData(hands[m], row, col++);
-                        addSummaryData("= COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+",AllMyHands!$W:$W,$G"+totalRows+")", row, col++);
-                        addSummaryData("= COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+",AllMyHands!$W:$W,$G"+totalRows+",AllMyHands!$F:$F,\"Win\")", row, col++);
+                        addSummaryData("=COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+",AllMyHands!$W:$W,$G"+totalRows+")", row, col++);
+                        addSummaryData("=COUNTIFS(AllMyHands!$E:$E,\">\"\"\",AllMyHands!$V:$V,\">\"\"\",AllMyHands!$M:$M,$A"+totalRows+",AllMyHands!$R:$R,$D"+totalRows+",AllMyHands!$W:$W,$G"+totalRows+",AllMyHands!$F:$F,\"Win\")", row, col++);
 
                     }
                 }
