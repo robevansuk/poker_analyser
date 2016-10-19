@@ -191,7 +191,7 @@ public class Player {
 	}
 
 	/**
-	 * WARNING: This doesnt do what you think..
+	 * WARNING: This doesnt do what you think from the name alone...
 	 * It gets the total pot for the player based on their action... if the
 	 * player's move for this round was all-In then
 	 * the value returned will be something besides: totalPot[round]
