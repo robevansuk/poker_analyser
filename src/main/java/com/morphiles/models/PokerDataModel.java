@@ -1,12 +1,11 @@
 package com.morphiles.models;
 
-import com.morphiles.processors.HandHistoryProcessor;
-
 import javax.swing.event.EventListenerList;
 import javax.swing.event.TableModelEvent;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -23,7 +22,9 @@ public class PokerDataModel implements TableModel, TableModelListener {
     int sortColumn;
     Comparator comparator;
     Comparator[] comparators;
+
     // public Vector<Vector> data;
+
     private static String[] columnNames = {
             "Id",
             "Position",
@@ -72,11 +73,12 @@ public class PokerDataModel implements TableModel, TableModelListener {
             "R Plyr Cnt",
             "Total Plyr Cnt"
     };
+
+    private static ArrayList<String> BLANK_ROW = new ArrayList<>();
+    private boolean isFreeroll;
     private String playerID;
-    private static ArrayList<String> BLANK_ROW = new ArrayList<String>();
     private String gameType;
     private String stakesLevel;
-    private boolean isFreeroll;
 
     // initialise the table with a blank row to begin with.
     static {
@@ -178,9 +180,7 @@ public class PokerDataModel implements TableModel, TableModelListener {
     }
 
     public Object getValueAt (int rowIndex, int columnIndex) {
-        //System.out.println("Row: " + rowIndex + ", columnIndex: " + columnIndex);
         return delegatedModel.getValueAt(getDelegatedRow(rowIndex), columnIndex);
-        //return getValueAt (getDelegatedRow(rowIndex), columnIndex);
     }
 
     public boolean isCellEditable (int rowIndex, int columnIndex) {
@@ -189,19 +189,11 @@ public class PokerDataModel implements TableModel, TableModelListener {
 
     public void setValueAt (Object aValue, int rowIndex, int columnIndex) {
 
-        if (rowIndex>=getRowCount()){
-            //data.add(new Vector());
-            //data.get(rowIndex).addAll(BLANK_ROW);
-            //((Vector)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).addAll(BLANK_ROW);
-            ((DefaultTableModel)delegatedModel).getDataVector().add(new Vector<String>(BLANK_ROW));
+        if (rowIndex>=getRowCount())
+            ((DefaultTableModel)delegatedModel).getDataVector().add(new Vector<>(BLANK_ROW));
 
-            // delegatedModel.setValueAt(aValue, rowIndex, columnIndex);
-        }
-
-        if (aValue instanceof String){
-//    		//data.get(rowIndex).set(columnIndex, (String) aValue);
-            //((ArrayList<String>)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).set(columnIndex, (String) aValue);
-            ((Vector<String>)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).setElementAt((String) aValue, columnIndex);
+        if (aValue instanceof String) {
+            ((Vector<String>)((DefaultTableModel)delegatedModel).getDataVector().get(rowIndex)).setElementAt(aValue.toString(), columnIndex);
             if(aValue != null && columnNames[columnIndex].equals("Gm Type")){
                 gameType = (String) aValue;
             }
@@ -318,12 +310,12 @@ public class PokerDataModel implements TableModel, TableModelListener {
             }
             i++;
         }
-        setComparatorForColumn(new MyPotSizeComparator(), i);
+        setComparatorForColumn(new PotSizeComparator(), i);
         setSortColumn(i);
         fireAllChanged();
     }
 
-    class MyPotSizeComparator implements Comparator {
+    class PotSizeComparator implements Comparator {
 
         @Override
         public int compare(Object o1, Object o2){
@@ -331,7 +323,7 @@ public class PokerDataModel implements TableModel, TableModelListener {
                 return 0;
             } else {
                 if (((String)o1).length()>0 && ((String)o2).length()>0){
-                    return (Float.parseFloat((String) o1) < Float.parseFloat((String)o2) ? 1 : -1);
+                    return (new BigDecimal(o1.toString()).compareTo(new BigDecimal(o2.toString())));
                 } else if (((String)o1).length()==0){
                     return 1;
                 } else if (((String)o2).length() == 0){

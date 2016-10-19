@@ -1,12 +1,11 @@
 package com.morphiles.gui;
 
-import com.morphiles.views.DataTable;
 import com.morphiles.views.JStatusBar;
 import com.morphiles.views.TableAndChartsViewer;
 import com.morphiles.views.TreeNavigator;
-
-import javax.swing.*;
-import java.awt.*;
+import java.awt.BorderLayout;
+import javax.swing.JFrame;
+import javax.swing.JSplitPane;
 
 /**
  * @author robevans
@@ -31,16 +30,6 @@ public enum GuiFrame {
     private final static int GUI_HEIGHT = 700;
     private String label;
 
-    public void init(){
-
-        frame = new JFrame("PokerAnalyser");
-        setupDisplay();
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setSize(GUI_WIDTH, GUI_HEIGHT);
-        frame.setVisible(true);
-    }
-
     /**
      * Sets up the initial display
      */
@@ -51,7 +40,43 @@ public enum GuiFrame {
         addStatusBar(BorderLayout.SOUTH);
         addNavigationTree(BorderLayout.WEST);
 
-        addMenuBar(); // MenuBar sits on this Jframe
+        addMenuBar(); // MenuBar sits on this JFrame
+    }
+
+    public void init(){
+        frame = new JFrame("PokerAnalyser");
+        setupDisplay();
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(GUI_WIDTH, GUI_HEIGHT);
+        frame.setVisible(true);
+    }
+
+    public void addSplitPanes(String position){
+        splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
+        splitPane.setDividerSize(5);
+        splitPane.setResizeWeight(0.2);
+        splitPane.add(getTableAndChartsViewer()); // HH data table and chart in Center.
+        splitPane.add(getHandHistoryTabs("default")); // HH data as a JList - RHS
+        frame.add(splitPane, position);
+    }
+
+    /**
+     * inits a AllDataTable
+     */
+    public TableAndChartsViewer getTableAndChartsViewer(){
+        datTabs = new TableAndChartsViewer();
+        return datTabs;
+    }
+
+    /**
+     * inits a HandHistoryTabs which displays the hand history as a JLIST on the
+     * right hand side of the GUI (more for debugging purposes at the moment so we
+     * can compare the data obtained to the original hand history visible in the list.
+     */
+    public HandHistoryTabs getHandHistoryTabs(String name){
+        // New HandHistory Obj
+        hhTabs = new HandHistoryTabs(name);
+        return hhTabs;
     }
 
     public void addNavigationTree(String position){
@@ -72,32 +97,6 @@ public enum GuiFrame {
         frame.setJMenuBar(menubar);
     }
 
-    public void addSplitPanes(String position){
-        splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
-        splitPane.setDividerSize(6);
-        splitPane.setResizeWeight(0.66);
-        splitPane.add(getTableAndChartsViewer());
-        splitPane.add(getHandHistoryTabs("default"));
-        frame.add(splitPane, position);
-    }
-
-    /**
-     * inits a DataTable
-     */
-    public TableAndChartsViewer getTableAndChartsViewer(){
-        datTabs = new TableAndChartsViewer();
-        return datTabs;
-    }
-
-    /**
-     * inits a HandHistoryTabs object
-     */
-    public HandHistoryTabs getHandHistoryTabs(String name){
-        // New HandHisory Obj
-        hhTabs = new HandHistoryTabs(name);
-        return hhTabs;
-    }
-
     /**
      *
      * @param name
@@ -112,13 +111,13 @@ public enum GuiFrame {
     }
 
     public void setActiveTab(String label){
-
-        if(hhTabs!=null){
+        if(hhTabs!=null)
             hhTabs.setActiveTab(label);
-        }
-        if(datTabs!=null){
+
+        if(datTabs!=null)
             datTabs.setActiveTab(label);
-        }
+
+        // TODO set the selected item in the TreeNavigator to be in sync too.
     }
 
     public TableAndChartsViewer getDataTabs(){

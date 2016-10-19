@@ -1,24 +1,15 @@
 package com.morphiles.gui;
 
 import com.morphiles.models.PokerDataModel;
-import com.morphiles.models.reports.BetBetBetSuccessReport;
-import com.morphiles.models.reports.BetBetSuccessReport;
 import com.morphiles.models.reports.BetSuccessReport;
-import com.morphiles.models.reports.PlayerAllInFlopHandTypeSuccessReport;
-import com.morphiles.models.reports.PlayerBetFlopDetailedHandTypeSuccessReport;
-import com.morphiles.models.reports.PlayerBetFlopHandTypeSuccessReport;
-import com.morphiles.models.reports.PlayerCheckFlopDetailedHandTypeSuccessReport;
 import com.morphiles.models.reports.Report;
-import com.morphiles.models.reports.RiverBluffSuccessReport;
-import com.morphiles.models.reports.WinLoseOtherPlayersOnlyReport;
-import com.morphiles.models.reports.WinLoseReport;
-import com.morphiles.models.reports.WinLoseThisPlayerOnlyReport;
 import com.morphiles.views.DataTable;
-
-import javax.swing.*;
-import java.awt.*;
-import java.util.List;
+import java.awt.BorderLayout;
+import java.awt.Dimension;
 import java.util.ArrayList;
+import java.util.List;
+import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
 
 
 /**
@@ -45,7 +36,7 @@ public class ChartReports extends JPanel {
         tabbedPane = new JTabbedPane();
         tabbedPane.addTab("blank", new JPanel());
         this.add(tabbedPane, BorderLayout.CENTER);
-        this.setPreferredSize(new Dimension(getWidth(), 300));
+        this.setPreferredSize(new Dimension(getWidth(), 135));
     }
 
     /**

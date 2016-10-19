@@ -1,5 +1,6 @@
 package com.morphiles.gui;
 
+import com.morphiles.export.ExcelExporter;
 import com.morphiles.models.reports.Report;
 import com.morphiles.models.reports.SummaryReport;
 import com.morphiles.views.DataTable;
@@ -65,7 +66,6 @@ public class MenuBar extends JMenuBar implements ActionListener {
         file.add(save3);
         file.addSeparator();
 
-
         exit = new JMenuItem("Close");
         file.add(exit);
 
@@ -102,10 +102,13 @@ public class MenuBar extends JMenuBar implements ActionListener {
         tools.addActionListener(this);
 
         options.addActionListener(this);
-
     }
 
-
+    /**
+     * loads a properties file from the root directory
+     * this will contain the users preferences such
+     * as previously used hand history directory
+     */
     public void loadProperties(){
         if (props==null) try {
 

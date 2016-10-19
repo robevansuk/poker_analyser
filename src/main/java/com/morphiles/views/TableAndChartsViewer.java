@@ -4,21 +4,17 @@ import com.morphiles.gui.GuiFrame;
 import com.morphiles.gui.HandHistoryListTabs;
 import com.morphiles.gui.TabCloseButton;
 import com.morphiles.models.PokerDataModel;
-import com.morphiles.views.DataTable;
-
-import javax.swing.*;
-import javax.swing.event.ChangeEvent;
-import javax.swing.event.ChangeListener;
-import java.awt.*;
+import java.awt.BorderLayout;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
+import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
 
 public class TableAndChartsViewer extends JPanel {
 	
-    private boolean DEBUG = false;
-	
-	private HashMap<String, DataTable> tables = new HashMap<String, DataTable>();
-	private HashMap<String, HandHistoryListTabs> histories = new HashMap<String, HandHistoryListTabs>();
+	private Map<String, DataTable> tables = new HashMap<>();
+	private Map<String, HandHistoryListTabs> histories = new HashMap<>();
 	private JTabbedPane tabs;
 	
 	/**
@@ -27,28 +23,21 @@ public class TableAndChartsViewer extends JPanel {
 	 */
 	public TableAndChartsViewer(){
 		super();
-
 		this.setLayout(new BorderLayout());
 		
 		tabs = new JTabbedPane();
-        tabs.addChangeListener(new ChangeListener()
+        tabs.addChangeListener(event ->
         {
-            public void stateChanged(ChangeEvent e)
-            {
-                if(tabs!=null && tabs.getTabCount()>0){
-                    if (e.getSource() instanceof JTabbedPane){
-                        String label = ((JTabbedPane)e.getSource()).getSelectedComponent().getName();
-                        processTabChange(label);
-                    }
-                }
-
+            if (event.getSource() instanceof JTabbedPane) {
+                String label = ((JTabbedPane)event.getSource()).getSelectedComponent().getName();
+                processTabChange(label);
             }
         });
 				
 		this.add(tabs, BorderLayout.CENTER);
 	}
 
-    public HashMap<String, DataTable> getTables(){
+    public Map<String, DataTable> getTables(){
         return tables;
     }
 
@@ -57,12 +46,11 @@ public class TableAndChartsViewer extends JPanel {
     }
 
     public DataTable getSelectedTable(){
-        String tableName = getSelectedTableName();
-        return tables.get(tableName);
+        return tables.get(getSelectedTableName());
     }
 	
 	/**
-	 * Creates a new HandHistoryTab DataTable
+	 * Creates a new HandHistoryTab AllDataTable
 	 * which is linked directly via a reference
 	 * @param name
 	 * @param h
@@ -80,9 +68,6 @@ public class TableAndChartsViewer extends JPanel {
 		return tables.get(name);
 	}
 	
-
-
-
     public void removeTabsFor(String label){
         GuiFrame.SINGLETON.removeTabsFor(label);
     }

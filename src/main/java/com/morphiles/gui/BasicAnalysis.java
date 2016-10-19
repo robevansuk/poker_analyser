@@ -19,18 +19,34 @@ import com.morphiles.game.Hand;
 
 public class BasicAnalysis {
 
-	private FileOutputStream fos;
-	private OutputStreamWriter out;
-
-    private static final String filePath =  "C:\\Users\\rob\\Desktop\\";
-
-    private List<String> files;
-	private List<File> fs;
-
-	private int typeOfGame;
+	private static String BASE_URL;
+	private static final String filePath =  "C:\\Users\\rob\\Desktop\\";
 	private final static int CASH = 0;
 	private final static int TRNY = 1;
 
+	private final static String BIG_BLIND1 = "Blinds(";
+	private final static String BIG_BLIND2 = "Stakes(";
+	private final static String BIG_BLIND3 = " posts big blind [";
+	private final static String BIG_BLIND4 = " Blinds-Antes(";
+
+	private final static String DEALT_TO = "Dealt to ";
+	private final static String FLOP = "** Dealing Flop ** [ ";
+	private final static String TURN = "** Dealing Turn ** [ ";
+	private final static String RIVER = "** Dealing River ** [ ";
+	private final static String DISCON1 = "Connection Lost due to some reason";
+	private final static String DISCON2 = "The hand history for this hand number is not available here.";
+	private final static String EOH = "\u0000";
+
+	private final static String SHOW1 = " shows [ ";
+	private final static String SHOW2 = " doesn't show [ ";
+	private final static String WINS = " wins ";
+
+	private FileOutputStream fos;
+	private OutputStreamWriter out;
+	private List<String> files;
+	private List<File> fs;
+
+	private int typeOfGame;
 	private Card[] holeCards;
 	private List<Card> communityCards;
 
@@ -52,29 +68,9 @@ public class BasicAnalysis {
 	private List<BigDecimal> wins;
 	private List<BigDecimal> losses;
 
-	private static String BASE_URL;
 	private boolean start;
 	private boolean stop;
 	private boolean disconnected;
-
-	private final static String BIG_BLIND1 = "Blinds(";
-	private final static String BIG_BLIND2 = "Stakes(";
-	private final static String BIG_BLIND3 = " posts big blind [";
-	private final static String BIG_BLIND4 = " Blinds-Antes(";
-
-	private final static String DEALT_TO = "Dealt to ";
-	private final static String FLOP = "** Dealing Flop ** [ ";
-	private final static String TURN = "** Dealing Turn ** [ ";
-	private final static String RIVER = "** Dealing River ** [ ";
-	private final static String DISCON1 = "Connection Lost due to some reason";
-	private final static String DISCON2 = "The hand history for this hand number is not available here.";
-	private final static String EOH = "\u0000";
-
-	private final static String SHOW1 = " shows [ ";
-	private final static String SHOW2 = " doesn't show [ ";
-	private final static String WINS = " wins ";
-	
-	//private HashMap guiHandLocation<Integer, Integer>;
 
 	private String currency;
 	private List<BigDecimal> profit;
@@ -164,10 +160,8 @@ public class BasicAnalysis {
 					stop = false;
 					disconnected = false;
 
-
 					while ((strLine = br.readLine()) != null)
 					{
-
 						if (strLine.indexOf(BIG_BLIND1) >= 0 || strLine.indexOf(BIG_BLIND2) >= 0)
 						{
 							start = true;

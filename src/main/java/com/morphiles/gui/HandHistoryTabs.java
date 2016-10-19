@@ -4,8 +4,6 @@ import com.morphiles.models.PokerDataModel;
 import com.morphiles.views.DataTable;
 
 import javax.swing.*;
-import javax.swing.event.ChangeEvent;
-import javax.swing.event.ChangeListener;
 import java.awt.*;
 import java.util.Collection;
 import java.util.Hashtable;
@@ -15,14 +13,17 @@ public class HandHistoryTabs extends JPanel {
 	private BorderLayout layout = new BorderLayout();
 	
 	private JTabbedPane tabs;
-	private Hashtable<String, HandHistoryListTabs> histories = new Hashtable<String, HandHistoryListTabs>();
-	private Hashtable<String, DataTable> tables = new Hashtable<String, DataTable>();
+	private Hashtable<String, HandHistoryListTabs> histories = new Hashtable<>();
+	private Hashtable<String, DataTable> tables = new Hashtable<>();
 
     private int handId;
 
-	
 	/**
-	 * Creates a new hand history tab.
+	 * A hand Tabbed hand history panel that displays
+     * the hand histories as a list rather than a document
+     * this means individual players actions can be highlighted as
+     * right/wrong at some point in the future
+     * TODO add highlighting to show good/bad actions - i.e. bet when ahead, check when behind.
 	 */
 	public HandHistoryTabs(String name){
 		super();
@@ -30,19 +31,13 @@ public class HandHistoryTabs extends JPanel {
 
         tabs = new JTabbedPane();
         tabs.setTabLayoutPolicy(JTabbedPane.SCROLL_TAB_LAYOUT);
-        tabs.addChangeListener(new ChangeListener()
-        {
-            public void stateChanged(ChangeEvent e)
-            {
-                if(tabs!=null && tabs.getTabCount()>0){
-                    if (e.getSource() instanceof JTabbedPane){
-                        String label = ((JTabbedPane)e.getSource()).getSelectedComponent().getName();
+        tabs.addChangeListener(event ->
+                {
+                    if (event.getSource() instanceof JTabbedPane) {
+                        String label = ((JTabbedPane)event.getSource()).getSelectedComponent().getName();
                         processTabChange(label);
                     }
-                }
-
-            }
-        });
+                });
 
         addTabbedHistoryListPane(name);
 		this.add(tabs, BorderLayout.CENTER);

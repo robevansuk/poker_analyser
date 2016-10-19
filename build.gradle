@@ -1,6 +1,7 @@
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
+apply plugin: 'groovy'
 apply plugin: 'application'
 
 repositories {
@@ -11,18 +12,20 @@ ext {
     emailNotification = "rwevans1984@gmail.com"
 }
 
+// This codebase actually uses java 8 syntax now so do not revert.
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-mainClassName = "com.morphiles.gui.MainGui"
+mainClassName = "com.morphiles.Application"
 
 project.buildDir = 'bin'
 
 dependencies {
     // The production code uses the SLF4J logging API at compile time
     compile 'org.slf4j:slf4j-api:1.7.21'
-    compile 'org.jfree:jfreechart:1.0.19' // was 1.0.14
-    compile 'org.apache.poi:poi:3.15' // was 3.9
+    compile 'org.jfree:jfreechart:1.0.19'
+    compile 'org.apache.poi:poi:3.15'
+    compile 'org.codehaus.groovy:groovy-all:2.4.7'
 
     testCompile 'junit:junit:4.12'
     testCompile 'org.spockframework:spock-core:1.1-groovy-2.4-rc-2'
