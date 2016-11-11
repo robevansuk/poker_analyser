@@ -26,6 +26,7 @@ dependencies {
     compile 'org.jfree:jfreechart:1.0.19'
     compile 'org.apache.poi:poi:3.15'
     compile 'org.codehaus.groovy:groovy-all:2.4.7'
+    compile 'org.springframework:spring-context:4.3.4.RELEASE'
 
     testCompile 'junit:junit:4.12'
     testCompile 'org.spockframework:spock-core:1.1-groovy-2.4-rc-2'

@@ -15,6 +15,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeCellRenderer;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreePath;
+import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * @author robevans
@@ -32,6 +33,8 @@ public enum TreeNavigator {
     private static String CASH = "Cash/Ring";
     private static String TOURNAMENT = "Tournament";
 
+    @Autowired
+    GuiFrame gui;
 
     public void init(){
         scrollPane = new JScrollPane(getNavigationTree());
@@ -56,7 +59,7 @@ public enum TreeNavigator {
 
                 /* retrieve the node that was selected */
                 String tabName = (String) node.getUserObject();
-                GuiFrame.SINGLETON.setActiveTab(tabName);
+                gui.setActiveTab(tabName);
             }
         });
 

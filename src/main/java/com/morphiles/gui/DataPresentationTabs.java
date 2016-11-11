@@ -1,11 +1,11 @@
 package com.morphiles.gui;
 
-import javax.swing.*;
-import javax.swing.event.ChangeEvent;
-import javax.swing.event.ChangeListener;
-import javax.swing.table.AbstractTableModel;
-import java.awt.*;
+import java.awt.BorderLayout;
 import java.util.HashMap;
+import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
+import javax.swing.table.AbstractTableModel;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class DataPresentationTabs extends JPanel {
 	
@@ -15,6 +15,9 @@ public class DataPresentationTabs extends JPanel {
 	private HashMap<String, DataBarChart> charts = new HashMap<>();
 	private HashMap<String, HandHistoryTab> histories = new HashMap<>();
 	private JTabbedPane tabs;
+
+	@Autowired
+	GuiFrame gui;
 	
 	/**
 	 * set up DataPresentation tabs and ensure these
@@ -58,15 +61,18 @@ public class DataPresentationTabs extends JPanel {
 	 */
 	public com.morphiles.views.DataTable addNewTable(String name, final HandHistoryTab h){
 
-        tables.put(name, new com.morphiles.views.DataTable(name, GuiFrame.SINGLETON.getHandHistoryTabs(name).get(name)));
+		if (gui!=null) {
 
-        tabs.addTab(name, tables.get(name));
-        tabs.getComponentAt(tabs.getTabCount()-1).setName(name);
-        tabs.setTabComponentAt(tables.size()-1, new TabCloseButton(name, tabs));
-        tabs.setTabLayoutPolicy(JTabbedPane.SCROLL_TAB_LAYOUT);
+			tables.put(name, new com.morphiles.views.DataTable(name, gui.getHandHistoryTabs(name).get(name)));
 
-        //charts.put(name + "_bar", new DataBarChart());
-        //tabs.addTab(name + "_bar", charts.get(name+"_bar"));
+			tabs.addTab(name, tables.get(name));
+			tabs.getComponentAt(tabs.getTabCount() - 1).setName(name);
+			tabs.setTabComponentAt(tables.size() - 1, new TabCloseButton(name, tabs));
+			tabs.setTabLayoutPolicy(JTabbedPane.SCROLL_TAB_LAYOUT);
+
+			//charts.put(name + "_bar", new DataBarChart());
+			//tabs.addTab(name + "_bar", charts.get(name+"_bar"));
+		}
 
 		return tables.get(name);
 	}
@@ -128,7 +134,7 @@ public class DataPresentationTabs extends JPanel {
 	}
 
     public void removeTabsFor(String label){
-        GuiFrame.SINGLETON.removeTabsFor(label);
+        gui.removeTabsFor(label);
     }
 
     public void removeTab(String label){
@@ -144,7 +150,7 @@ public class DataPresentationTabs extends JPanel {
     }
 
     public void processTabChange(String label){
-        GuiFrame.SINGLETON.setActiveTab(label);
+        gui.setActiveTab(label);
     }
 
     public void setActiveTab(String label){

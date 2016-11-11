@@ -14,6 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class AllDataTable extends JPanel {
 	
@@ -27,6 +28,9 @@ public class AllDataTable extends JPanel {
     private Hashtable<String, TableOptionsMenuBar> optionsMenuBar = new Hashtable<>();
 
     private HandHistoryTab h;
+
+    @Autowired
+    GuiFrame gui;
 	
 	/**
 	 * Contstructor 
@@ -46,7 +50,7 @@ public class AllDataTable extends JPanel {
         table = new JTable(model);
 
         historyProcessor = new BlankHandHistory(new DataTable(name,
-                GuiFrame.SINGLETON.getHandHistoryTabs(name).get(name)), model);
+                gui.getHandHistoryTabs(name).get(name)), model);
 
         table.setDefaultRenderer(String.class, CustomRenderer.getInstance(null, null, historyProcessor.getColumns().get("Player")));
         table.setAutoCreateRowSorter(true);

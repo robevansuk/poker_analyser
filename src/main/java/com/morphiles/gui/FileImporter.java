@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.Properties;
+import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * This class serves the purpose of
@@ -22,6 +23,9 @@ public class FileImporter {
 	private File file;
 	private HandHistoryTabs histories;
     private Properties props;
+
+    @Autowired
+    GuiFrame gui;
 
 	/**
 	 * creates a new file importer each time a file
@@ -109,8 +113,8 @@ public class FileImporter {
                 }
 
                 // invokes the method that calls the getChart method.
-                if( GuiFrame.SINGLETON.getDataTabs().getTables().get(tabName).getModel().getRowCount()>0){
-                    GuiFrame.SINGLETON.getDataTabs().getTables().get(tabName).getChartReport(tabName).initChartPanel(true, tabName);
+                if( gui.getDataTabs().getTables().get(tabName).getModel().getRowCount()>0){
+                  gui.getDataTabs().getTables().get(tabName).getChartReport(tabName).initChartPanel(true, tabName);
                 }
 
                 // Cleanse the data.
@@ -127,7 +131,7 @@ public class FileImporter {
         }
 
         if(histories.contains("default")){
-            GuiFrame.SINGLETON.removeTabsFor("default");
+            gui.removeTabsFor("default");
         }
 	}
 }

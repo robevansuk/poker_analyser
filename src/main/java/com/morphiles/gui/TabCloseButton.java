@@ -11,6 +11,7 @@ import java.awt.image.WritableRaster;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
+import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * Created with IntelliJ IDEA.
@@ -24,6 +25,9 @@ public class TabCloseButton extends JPanel implements ActionListener {
     private String name;
     private JTabbedPane pane;
     private JButton closeButton;
+
+    @Autowired
+    GuiFrame gui;
 
     public TabCloseButton(String name, JTabbedPane pane){
         super();
@@ -74,7 +78,7 @@ public class TabCloseButton extends JPanel implements ActionListener {
           if (e.getSource().equals(closeButton)){
                 int i = pane.indexOfTabComponent(TabCloseButton.this);
               if (i!=-1){
-                  GuiFrame.SINGLETON.removeTabsFor(name);
+                  gui.removeTabsFor(name);
                   //pane.remove(i);
               }
 

@@ -10,12 +10,16 @@ import java.util.HashMap;
 import java.util.Map;
 import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class TableAndChartsViewer extends JPanel {
 	
 	private Map<String, DataTable> tables = new HashMap<>();
 	private Map<String, HandHistoryListTabs> histories = new HashMap<>();
 	private JTabbedPane tabs;
+
+    @Autowired
+    GuiFrame gui;
 	
 	/**
 	 * set up DataPresentation tabs and ensure these
@@ -69,7 +73,7 @@ public class TableAndChartsViewer extends JPanel {
 	}
 	
     public void removeTabsFor(String label){
-        GuiFrame.SINGLETON.removeTabsFor(label);
+        gui.removeTabsFor(label);
     }
 
     public void removeTab(String label){
@@ -85,7 +89,7 @@ public class TableAndChartsViewer extends JPanel {
     }
 
     public void processTabChange(String label){
-        GuiFrame.SINGLETON.setActiveTab(label);
+        gui.setActiveTab(label);
     }
 
     public void setActiveTab(String label){

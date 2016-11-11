@@ -18,6 +18,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class MenuBar extends JMenuBar implements ActionListener {
 
@@ -44,6 +45,9 @@ public class MenuBar extends JMenuBar implements ActionListener {
     private Properties props;
     private static final String LAST_DIR = "last_dir_accessed";
     private static final String PROPS_FILE = "config.props";
+
+    @Autowired
+    GuiFrame gui;
 
     public MenuBar(HandHistoryTabs histories){
         this.histories = histories;
@@ -139,7 +143,7 @@ public class MenuBar extends JMenuBar implements ActionListener {
 
         } if (e.getSource() == save1) {
             // SAVE ACTIVE TAB
-            TableAndChartsViewer dataTabs = GuiFrame.SINGLETON.getDataTabs();
+            TableAndChartsViewer dataTabs = gui.getDataTabs();
             String tableName = dataTabs.getSelectedTableName();
             DataTable table = dataTabs.getSelectedTable();
 
@@ -147,12 +151,12 @@ public class MenuBar extends JMenuBar implements ActionListener {
 
         } if (e.getSource() == save2) {
             // SAVE ALL TABS
-            TableAndChartsViewer dataTabs = GuiFrame.SINGLETON.getDataTabs();
+            TableAndChartsViewer dataTabs = gui.getDataTabs();
             new ExcelExporter(dataTabs.getDataTables(), "AllPokerData");
 
         } if (e.getSource() == save3) {
             // SAVE My HANDS ONLY
-            TableAndChartsViewer dataTabs = GuiFrame.SINGLETON.getDataTabs();
+            TableAndChartsViewer dataTabs = gui.getDataTabs();
             new ExcelExporter(dataTabs.getDataTables(), "MyPokerData");
 
         } else if (e.getSource() == profitSort) {
@@ -161,7 +165,7 @@ public class MenuBar extends JMenuBar implements ActionListener {
         } else if (e.getSource() == dashBoardView){
             List<Report> reports = new ArrayList<Report>();
 
-            for (DataTable table : GuiFrame.SINGLETON.getDataTabs().getTables().values()){
+            for (DataTable table : gui.getDataTabs().getTables().values()){
                 Iterator it = table.getChartReports().iterator();
                 while (it.hasNext()){
                     for (Report report : ((ChartReports)it.next()).getReports()){
@@ -288,7 +292,7 @@ public class MenuBar extends JMenuBar implements ActionListener {
         } else {
             String msg = "You have already imported this file.\n\nUse the 'monitor' menu item (not implemented yet) to initiate a " +
                     "live monitoring session\nfor the hand history."; // TODO - present them with yes/no option to enable the option here
-            JOptionPane.showMessageDialog(GuiFrame.SINGLETON.getFrame(), msg, "Already exists", JOptionPane.WARNING_MESSAGE);
+            JOptionPane.showMessageDialog(gui.getFrame(), msg, "Already exists", JOptionPane.WARNING_MESSAGE);
         }
     }
 
@@ -321,11 +325,11 @@ public class MenuBar extends JMenuBar implements ActionListener {
                         percentComplete = 0;
                     }
 
-                    GuiFrame.SINGLETON.getStatusBar().getProgressBar().setValue(percentComplete);
+                    gui.getStatusBar().getProgressBar().setValue(percentComplete);
 
                     beginImport(fileList.get(i));
 
-                    //GuiFrame.SINGLETON.getDataTabs().getSelectedTable().getJTable().repaint();
+                    //gui.getDataTabs().getSelectedTable().getJTable().repaint();
 
                     System.out.println("Imported: " + i + "/" + fileListSize +
                             ", " + percentComplete + "% ");
@@ -337,16 +341,16 @@ public class MenuBar extends JMenuBar implements ActionListener {
                     String avgTimeLeft = (avgTimePerFile * (fileList.size() - 1 - i) / 1000) + "";
 
                     String approxTimeLeft = ", approx. " + avgTimeLeft + "s remaining";
-                    GuiFrame.SINGLETON.getStatusBar().timeToProcess(processingTime + approxTimeLeft);
+                    gui.getStatusBar().timeToProcess(processingTime + approxTimeLeft);
                 }
-                GuiFrame.SINGLETON.getStatusBar().timeToProcess("Processing Completed in ("
+                gui.getStatusBar().timeToProcess("Processing Completed in ("
                                    + ((System.currentTimeMillis() - start) / 1000) +"s)");
             }
         }
 
         protected void done()
         {
-            GuiFrame.SINGLETON.getFrame().revalidate();
+            gui.getFrame().revalidate();
         }
     }
 }

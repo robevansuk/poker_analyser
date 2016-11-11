@@ -6,15 +6,13 @@ import com.morphiles.views.TreeNavigator;
 import java.awt.BorderLayout;
 import javax.swing.JFrame;
 import javax.swing.JSplitPane;
+import org.springframework.stereotype.Component;
 
 /**
  * @author robevans
  */
-public enum GuiFrame {
-
-    SINGLETON;
-
-    private JFrame frame;
+@Component
+public class GuiFrame extends JFrame {
 
     private BorderLayout borderLayout = new BorderLayout();
     private JSplitPane splitPane;
@@ -30,11 +28,19 @@ public enum GuiFrame {
     private final static int GUI_HEIGHT = 700;
     private String label;
 
+    public GuiFrame(){
+        super("PokerAnalyser");
+        setupDisplay();
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setSize(GUI_WIDTH, GUI_HEIGHT);
+        this.setVisible(true);
+    }
+
     /**
      * Sets up the initial display
      */
     public void setupDisplay(){
-        frame.setLayout(borderLayout);
+        this.setLayout(borderLayout);
 
         addSplitPanes(BorderLayout.CENTER);
         addStatusBar(BorderLayout.SOUTH);
@@ -43,21 +49,13 @@ public enum GuiFrame {
         addMenuBar(); // MenuBar sits on this JFrame
     }
 
-    public void init(){
-        frame = new JFrame("PokerAnalyser");
-        setupDisplay();
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(GUI_WIDTH, GUI_HEIGHT);
-        frame.setVisible(true);
-    }
-
     public void addSplitPanes(String position){
         splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
         splitPane.setDividerSize(5);
         splitPane.setResizeWeight(0.2);
         splitPane.add(getTableAndChartsViewer()); // HH data table and chart in Center.
         splitPane.add(getHandHistoryTabs("default")); // HH data as a JList - RHS
-        frame.add(splitPane, position);
+        this.add(splitPane, position);
     }
 
     /**
@@ -81,12 +79,12 @@ public enum GuiFrame {
 
     public void addNavigationTree(String position){
         TreeNavigator.INSTANCE.init();
-        frame.add(TreeNavigator.INSTANCE.getNavigationScrollPane(), position);
+        this.add(TreeNavigator.INSTANCE.getNavigationScrollPane(), position);
     }
 
     public void addStatusBar(String position){
         statusBar = new JStatusBar("Poker Analyser", "File > Open > Select a file/folder of hand histories to get started!");
-        frame.add(statusBar, position);
+        this.add(statusBar, position);
     }
 
     /**
@@ -94,7 +92,7 @@ public enum GuiFrame {
      */
     public void addMenuBar(){
         menubar = new MenuBar(hhTabs);
-        frame.setJMenuBar(menubar);
+        this.setJMenuBar(menubar);
     }
 
     /**
@@ -129,7 +127,7 @@ public enum GuiFrame {
     }
 
     public JFrame getFrame(){
-        return frame;
+        return this;
     }
 
 }

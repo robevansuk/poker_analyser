@@ -7,6 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Collection;
 import java.util.Hashtable;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class HandHistoryTabs extends JPanel {
 	
@@ -17,6 +18,9 @@ public class HandHistoryTabs extends JPanel {
 	private Hashtable<String, DataTable> tables = new Hashtable<>();
 
     private int handId;
+
+    @Autowired
+    GuiFrame gui;
 
 	/**
 	 * A hand Tabbed hand history panel that displays
@@ -50,13 +54,15 @@ public class HandHistoryTabs extends JPanel {
 	public void addTabbedHistoryListPane(String name){
 		histories.put(name, new HandHistoryListTabs(name));
 
-		// Send notification to the MainGui to
-		// create a new data table for the hand history
-		tables.put(name,  GuiFrame.SINGLETON.addDataTable(name, histories.get(name)));
+        if (gui!=null) {
+            // Send notification to the MainGui to
+            // create a new data table for the hand history
+            tables.put(name, gui.addDataTable(name, histories.get(name)));
 
-        tabs.add(name, histories.get(name));
-        tabs.getComponentAt(tabs.getTabCount()-1).setName(name);
-        tabs.setTabComponentAt(histories.size()-1, new TabCloseButton(name, tabs));
+            tabs.add(name, histories.get(name));
+            tabs.getComponentAt(tabs.getTabCount() - 1).setName(name);
+            tabs.setTabComponentAt(histories.size() - 1, new TabCloseButton(name, tabs));
+        }
 	}
 	
 	public HandHistoryListTabs get(String name) throws NullPointerException {
@@ -100,7 +106,7 @@ public class HandHistoryTabs extends JPanel {
     }
 
     public void removeTabsFor(String label){
-        GuiFrame.SINGLETON.removeTabsFor(label);
+        gui.removeTabsFor(label);
     }
 
     public void removeTab(String label){
@@ -115,7 +121,7 @@ public class HandHistoryTabs extends JPanel {
     }
 
     public void processTabChange(String label){
-        GuiFrame.SINGLETON.setActiveTab(label);
+        gui.setActiveTab(label);
     }
 
     public void setActiveTab(String label){
