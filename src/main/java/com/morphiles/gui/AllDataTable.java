@@ -16,6 +16,8 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 import org.springframework.beans.factory.annotation.Autowired;
 
+
+@org.springframework.stereotype.Component
 public class AllDataTable extends JPanel {
 	
 	private JTable table;
@@ -27,30 +29,29 @@ public class AllDataTable extends JPanel {
 
     private Hashtable<String, TableOptionsMenuBar> optionsMenuBar = new Hashtable<>();
 
-    private HandHistoryTab h;
+//    @Autowired
+//    HandHistoryTab h;
 
-    @Autowired
-    GuiFrame gui;
+
+    final HandHistoryTabs hhTabs;
 	
 	/**
 	 * Contstructor 
 	 * Builds independent table model 
 	 * and the JTable
-	 * @param h
-     * @param name
 	 */
-	public AllDataTable(HandHistoryTab h, String name){
+    @Autowired
+	public AllDataTable(HandHistoryTabs hhTabs){
 		super();
 		this.setLayout(new BorderLayout());
 		this.setSize(400,475);
-
-        this.h = h;
+		this.hhTabs = hhTabs;
 
         model = new PokerDataModel();
         table = new JTable(model);
 
-        historyProcessor = new BlankHandHistory(new DataTable(name,
-                gui.getHandHistoryTabs(name).get(name)), model);
+        historyProcessor = new BlankHandHistory(new DataTable("default",
+                hhTabs.get("default")), model);
 
         table.setDefaultRenderer(String.class, CustomRenderer.getInstance(null, null, historyProcessor.getColumns().get("Player")));
         table.setAutoCreateRowSorter(true);
@@ -69,7 +70,7 @@ public class AllDataTable extends JPanel {
 	    this.add(scrollpane, BorderLayout.CENTER);
 	    this.add(table.getTableHeader(), BorderLayout.NORTH);
 
-        addTableOptionsMenu(name);
+        addTableOptionsMenu("default");
 
 
 	    resizeColumns();

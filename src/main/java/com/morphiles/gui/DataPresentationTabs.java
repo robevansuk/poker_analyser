@@ -1,7 +1,9 @@
 package com.morphiles.gui;
 
+import com.morphiles.views.DataTable;
 import java.awt.BorderLayout;
 import java.util.HashMap;
+import java.util.Map;
 import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
 import javax.swing.table.AbstractTableModel;
@@ -9,21 +11,20 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 public class DataPresentationTabs extends JPanel {
 	
-    private boolean DEBUG = false;
-	
-	private HashMap<String, com.morphiles.views.DataTable> tables= new HashMap<>();
-	private HashMap<String, DataBarChart> charts = new HashMap<>();
-	private HashMap<String, HandHistoryTab> histories = new HashMap<>();
+	private Map<String, DataTable> tables = new HashMap<>();
+	private Map<String, DataBarChart> charts = new HashMap<>();
+	private Map<String, HandHistoryTab> histories = new HashMap<>();
 	private JTabbedPane tabs;
 
 	@Autowired
-	GuiFrame gui;
+	HandHistoryListTabs hhListTabs;
 	
 	/**
 	 * set up DataPresentation tabs and ensure these
 	 * have an interface to the hand history
 	 */
-	public DataPresentationTabs(){
+	@Autowired
+	public DataPresentationTabs(HandHistoryListTabs hhListTabs){
 		super();
 		this.setLayout(new BorderLayout());
 		
@@ -39,7 +40,7 @@ public class DataPresentationTabs extends JPanel {
 		this.add(tabs, BorderLayout.CENTER);
 	}
 
-    public HashMap<String, com.morphiles.views.DataTable> getTables(){
+    public Map<String, DataTable> getTables(){
         return tables;
     }
 
@@ -47,7 +48,7 @@ public class DataPresentationTabs extends JPanel {
         return tabs.getSelectedComponent().getName();
     }
 
-    public com.morphiles.views.DataTable getSelectedTable(){
+    public DataTable getSelectedTable(){
         String tableName = getSelectedTableName();
         return tables.get(tableName);
     }
@@ -56,14 +57,13 @@ public class DataPresentationTabs extends JPanel {
 	 * Creates a new HandHistoryTab AllDataTable
 	 * which is linked directly via a reference
 	 * @param name
-	 * @param h
 	 * @return
 	 */
-	public com.morphiles.views.DataTable addNewTable(String name, final HandHistoryTab h){
+	public DataTable addNewTable(String name){
 
-		if (gui!=null) {
+		if (hhListTabs !=null) {
 
-			tables.put(name, new com.morphiles.views.DataTable(name, gui.getHandHistoryTabs(name).get(name)));
+			tables.put(name, new DataTable(name, hhListTabs));
 
 			tabs.addTab(name, tables.get(name));
 			tabs.getComponentAt(tabs.getTabCount() - 1).setName(name);
@@ -133,9 +133,9 @@ public class DataPresentationTabs extends JPanel {
 		}
 	}
 
-    public void removeTabsFor(String label){
-        gui.removeTabsFor(label);
-    }
+//    public void removeTabsFor(String label){
+//        gui.removeTabsFor(label);
+//    }
 
     public void removeTab(String label){
         if(tabs!=null && tabs.getTabCount()>0){
@@ -149,8 +149,13 @@ public class DataPresentationTabs extends JPanel {
         }
     }
 
-    public void processTabChange(String label){
-        gui.setActiveTab(label);
+	/**
+	 * this should make the relevant tabs visible in the display
+	 *
+	 * @param label
+	 */
+	public void processTabChange(String label){
+
     }
 
     public void setActiveTab(String label){

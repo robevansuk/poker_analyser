@@ -6,12 +6,11 @@ import com.morphiles.views.TreeNavigator;
 import java.awt.BorderLayout;
 import javax.swing.JFrame;
 import javax.swing.JSplitPane;
-import org.springframework.stereotype.Component;
+import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * @author robevans
  */
-@Component
 public class GuiFrame extends JFrame {
 
     private BorderLayout borderLayout = new BorderLayout();
@@ -21,16 +20,21 @@ public class GuiFrame extends JFrame {
 
     private MenuBar menubar;
 
-    private HandHistoryTabs hhTabs;
-    private TableAndChartsViewer datTabs;
-
     private final static int GUI_WIDTH = 1200;
     private final static int GUI_HEIGHT = 700;
     private String label;
 
+    @Autowired
+    private TreeNavigator treeNavigator;
+
+    @Autowired
+    TableAndChartsViewer datTabs;
+
+    @Autowired
+    HandHistoryTabs hhTabs;
+
     public GuiFrame(){
         super("PokerAnalyser");
-        setupDisplay();
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(GUI_WIDTH, GUI_HEIGHT);
         this.setVisible(true);
@@ -40,46 +44,33 @@ public class GuiFrame extends JFrame {
      * Sets up the initial display
      */
     public void setupDisplay(){
+        this.treeNavigator = new TreeNavigator();
         this.setLayout(borderLayout);
 
-        addSplitPanes(BorderLayout.CENTER);
+        addSplitPanes(datTabs, hhTabs);
         addStatusBar(BorderLayout.SOUTH);
         addNavigationTree(BorderLayout.WEST);
 
         addMenuBar(); // MenuBar sits on this JFrame
     }
 
-    public void addSplitPanes(String position){
+
+    public void addSplitPanes(TableAndChartsViewer datTabs, HandHistoryTabs hhTabs){
         splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
         splitPane.setDividerSize(5);
         splitPane.setResizeWeight(0.2);
-        splitPane.add(getTableAndChartsViewer()); // HH data table and chart in Center.
-        splitPane.add(getHandHistoryTabs("default")); // HH data as a JList - RHS
-        this.add(splitPane, position);
+        splitPane.add(datTabs); // HH data table and chart in Center.
+        splitPane.add(hhTabs); // HH data as a JList - RHS
+        this.add(splitPane, BorderLayout.CENTER);
     }
 
-    /**
-     * inits a AllDataTable
-     */
-    public TableAndChartsViewer getTableAndChartsViewer(){
-        datTabs = new TableAndChartsViewer();
-        return datTabs;
-    }
-
-    /**
-     * inits a HandHistoryTabs which displays the hand history as a JLIST on the
-     * right hand side of the GUI (more for debugging purposes at the moment so we
-     * can compare the data obtained to the original hand history visible in the list.
-     */
-    public HandHistoryTabs getHandHistoryTabs(String name){
-        // New HandHistory Obj
-        hhTabs = new HandHistoryTabs(name);
-        return hhTabs;
-    }
 
     public void addNavigationTree(String position){
-        TreeNavigator.INSTANCE.init();
-        this.add(TreeNavigator.INSTANCE.getNavigationScrollPane(), position);
+        this.add(treeNavigator.getNavigationScrollPane(), position);
+    }
+
+    public void addNodeTo(String parent, String childNode) {
+        treeNavigator.addNodeTo(parent, childNode);
     }
 
     public void addStatusBar(String position){
@@ -91,36 +82,10 @@ public class GuiFrame extends JFrame {
      * Adds the menu bar to the GUI
      */
     public void addMenuBar(){
-        menubar = new MenuBar(hhTabs);
+        menubar = new MenuBar();
         this.setJMenuBar(menubar);
     }
 
-    /**
-     *
-     * @param name
-     */
-    public com.morphiles.views.DataTable addDataTable(String name, HandHistoryListTabs h){
-        return datTabs.addNewTable(name, h);
-    }
-
-    public void removeTabsFor(String name){
-        datTabs.removeTab(name);
-        hhTabs.removeTab(name);
-    }
-
-    public void setActiveTab(String label){
-        if(hhTabs!=null)
-            hhTabs.setActiveTab(label);
-
-        if(datTabs!=null)
-            datTabs.setActiveTab(label);
-
-        // TODO set the selected item in the TreeNavigator to be in sync too.
-    }
-
-    public TableAndChartsViewer getDataTabs(){
-        return datTabs;
-    }
 
     public JStatusBar getStatusBar(){
         return statusBar;

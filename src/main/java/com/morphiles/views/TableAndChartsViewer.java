@@ -1,6 +1,5 @@
 package com.morphiles.views;
 
-import com.morphiles.gui.GuiFrame;
 import com.morphiles.gui.HandHistoryListTabs;
 import com.morphiles.gui.TabCloseButton;
 import com.morphiles.models.PokerDataModel;
@@ -10,17 +9,16 @@ import java.util.HashMap;
 import java.util.Map;
 import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+
+@Component
 public class TableAndChartsViewer extends JPanel {
 	
 	private Map<String, DataTable> tables = new HashMap<>();
 	private Map<String, HandHistoryListTabs> histories = new HashMap<>();
 	private JTabbedPane tabs;
 
-    @Autowired
-    GuiFrame gui;
-	
 	/**
 	 * set up DataPresentation tabs and ensure these
 	 * have an interface to the hand history
@@ -72,9 +70,9 @@ public class TableAndChartsViewer extends JPanel {
 		return tables.get(name);
 	}
 	
-    public void removeTabsFor(String label){
-        gui.removeTabsFor(label);
-    }
+//    public void removeTabsFor(String label){
+//        hhTabs.removeTab(label);
+//    }
 
     public void removeTab(String label){
         if(tabs!=null && tabs.getTabCount()>0){
@@ -88,8 +86,14 @@ public class TableAndChartsViewer extends JPanel {
         }
     }
 
-    public void processTabChange(String label){
-        gui.setActiveTab(label);
+    public void processTabChange(String label) {
+//        if(hhTabs!=null)
+//            hhTabs.setActiveTab(label);
+
+//        if(datTabs!=null)
+//            datTabs.setActiveTab(label);
+
+        // TODO set the selected item in the TreeNavigator to be in sync too.
     }
 
     public void setActiveTab(String label){

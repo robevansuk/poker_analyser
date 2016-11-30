@@ -2,6 +2,7 @@
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
 apply plugin: 'groovy'
+apply plugin: 'java-gradle-plugin'
 apply plugin: 'application'
 
 repositories {
@@ -20,6 +21,25 @@ mainClassName = "com.morphiles.Application"
 
 project.buildDir = 'bin'
 
+
+sourceSets {
+    main {
+        groovy {
+            // because the code from java is dependent upon the code from the groovy sourceSet,
+            // we need to compile the groovy code alongside the java code and so
+            // this is how we achieve that. Otherwise classes will appear to be 'missing' and
+            // exceptions will occur..,/
+            srcDirs = ['src/main/groovy', 'src/main/java']
+        }
+        java {
+            srcDirs = []
+        }
+        resources {
+            srcDirs = ['src/main/resources']
+        }
+    }
+}
+
 dependencies {
     // The production code uses the SLF4J logging API at compile time
     compile 'org.slf4j:slf4j-api:1.7.21'
@@ -35,3 +55,7 @@ dependencies {
 test << {
     testClassesDir = sourceSets.test.output.classesDir
 }
+
+
+
+//println sourceSets['main'].output.allGroovy

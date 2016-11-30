@@ -13,6 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.JSplitPane;
 import org.jfree.chart.ChartPanel;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 /**
  * Think this was supposed to be a dynamic view of the data
@@ -24,6 +25,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * Date: 15/06/13
  * Last updated: 14/10/2016
  */
+@Component
 public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
 
     private List<JCheckBox> buttons = new ArrayList<>();
@@ -50,8 +52,6 @@ public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
     List<String> valuesToHighlight;
 
     @Autowired
-    GuiFrame gui;
-
     public TableOptionsMenuBar(AllDataTable table){
         super(JSplitPane.VERTICAL_SPLIT);
 
@@ -81,7 +81,7 @@ public class TableOptionsMenuBar extends JSplitPane implements ActionListener {
         } else {
             this.remove(chart);
             StatsHolder stats = new StatsHolder();
-            stats.runWinLossReport(gui.getDataTabs().getTables().get(tabName).getModel());
+//            stats.runWinLossReport(gui.getDataTabs().getTables().get(tabName).getModel());
             chart = new ChartPanel(stats.createChart());
             chart.setLayout(new GridBagLayout());
             chart.setSize(10, 10);

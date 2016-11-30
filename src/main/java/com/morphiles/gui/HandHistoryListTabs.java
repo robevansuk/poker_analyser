@@ -9,7 +9,9 @@ import javax.swing.JList;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ListModel;
+import org.springframework.stereotype.Component;
 
+@Component
 public class HandHistoryListTabs extends JPanel {
 
 	private Map<String, JList> historyLists = new Hashtable<>();
@@ -21,8 +23,9 @@ public class HandHistoryListTabs extends JPanel {
 	 * This is then added to using addLine(final String line)
 	 * in a multithreaded manner.
 	 */
-	public HandHistoryListTabs(String name){
+	public HandHistoryListTabs(){
 		super();
+		String name = "default";
 		setLayout(new BorderLayout());
 
         listModels.put(name, new DefaultListModel()); // TODO - provide own better JList models with highlighting
@@ -67,5 +70,4 @@ public class HandHistoryListTabs extends JPanel {
 			System.out.println("Nothing to cleanse!");
 		}
 	}
-	
 }

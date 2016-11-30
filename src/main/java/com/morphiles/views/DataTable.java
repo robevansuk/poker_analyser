@@ -18,6 +18,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JSplitPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class DataTable extends JPanel {
 
@@ -38,7 +39,8 @@ public class DataTable extends JPanel {
 
     private Hashtable<String, ChartReports> chartReports = new Hashtable<String, ChartReports>();
 
-    private HandHistoryListTabs h;
+    @Autowired
+    private HandHistoryListTabs hhListTabs;
 
     // use these params (fileURL and processor) when refreshing the data.
     // This is essentially metaData about the hand history.
@@ -49,14 +51,15 @@ public class DataTable extends JPanel {
 	 * Contstructor 
 	 * Builds independent table model 
 	 * and the JTable
-	 * //@param h
+	 * //@param hhListTabs
 	 */
-	public DataTable(String name, HandHistoryListTabs h){
+	@Autowired
+	public DataTable(String name, HandHistoryListTabs hhListTabs){
 		super();
 		this.setLayout(new BorderLayout());
 		this.setPreferredSize(new Dimension(400,300));
 
-        this.h = h;
+        this.hhListTabs = hhListTabs;
 
         splitPane = new JSplitPane(JSplitPane.VERTICAL_SPLIT);
         splitPane.add(initTable());

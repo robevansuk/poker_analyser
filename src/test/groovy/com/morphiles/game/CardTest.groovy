@@ -9,7 +9,7 @@ class CardTest extends Specification {
 
     def "when I request the rank of a card by string name then I get the corresponding integer value"() {
         when:
-        Card testObject = new Card(expectedResult, "h")
+        Card testObject = new Card(expectedResult, "hhListTabs")
 
         then:
         testObject.getRankFor(rank) == expectedResult
@@ -33,7 +33,7 @@ class CardTest extends Specification {
 
     def "when I request the card's string value then I should get the corresponding rank returned"() {
         when:
-        Card testObject = new Card(rank, "h")
+        Card testObject = new Card(rank, "hhListTabs")
 
         then:
         testObject.getNamedRank() == expectedResult
@@ -63,6 +63,6 @@ class CardTest extends Specification {
         testObject.getSuit() == expectedSuit
 
         where:
-        expectedSuit << "h, s, d, c".toList()
+        expectedSuit << "hhListTabs, s, d, c".toList()
     }
 }

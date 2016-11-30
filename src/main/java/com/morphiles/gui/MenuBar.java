@@ -1,13 +1,9 @@
 package com.morphiles.gui;
 
-import com.morphiles.export.ExcelExporter;
+import com.morphiles.importer.FileImporter;
 import com.morphiles.models.reports.Report;
 import com.morphiles.models.reports.SummaryReport;
-import com.morphiles.views.DataTable;
-import com.morphiles.views.TableAndChartsViewer;
-
-import javax.swing.*;
-import java.awt.*;
+import java.awt.Component;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
@@ -15,11 +11,20 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
+import javax.swing.JFileChooser;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+import javax.swing.SwingWorker;
 import org.springframework.beans.factory.annotation.Autowired;
 
+/**
+ * A menu bar for accessing operational functions for the analyser
+ * e.g. save/export/import, etc.
+ */
+@org.springframework.stereotype.Component
 public class MenuBar extends JMenuBar implements ActionListener {
 
     private JMenu file;
@@ -37,8 +42,6 @@ public class MenuBar extends JMenuBar implements ActionListener {
     private JMenuItem profitSort;
     private boolean isProfitSorted = false;
 
-    private HandHistoryTabs histories;
-
     private JMenu tools;
     private JMenuItem options;
 
@@ -47,10 +50,13 @@ public class MenuBar extends JMenuBar implements ActionListener {
     private static final String PROPS_FILE = "config.props";
 
     @Autowired
-    GuiFrame gui;
+    HandHistoryTabs histories;
 
-    public MenuBar(HandHistoryTabs histories){
-        this.histories = histories;
+    @Autowired
+    FileImporter fileImporter;
+
+    public MenuBar(){
+        super();
         loadProperties();
 
         file = new JMenu("File");
@@ -143,36 +149,36 @@ public class MenuBar extends JMenuBar implements ActionListener {
 
         } if (e.getSource() == save1) {
             // SAVE ACTIVE TAB
-            TableAndChartsViewer dataTabs = gui.getDataTabs();
-            String tableName = dataTabs.getSelectedTableName();
-            DataTable table = dataTabs.getSelectedTable();
+//            TableAndChartsViewer dataTabs = gui.getDataTabs();
+//            String tableName = dataTabs.getSelectedTableName();
+//            DataTable table = dataTabs.getSelectedTable();
 
-            new ExcelExporter(table.getModel(), tableName);
+//            new ExcelExporter(table.getModel(), tableName);
 
         } if (e.getSource() == save2) {
             // SAVE ALL TABS
-            TableAndChartsViewer dataTabs = gui.getDataTabs();
-            new ExcelExporter(dataTabs.getDataTables(), "AllPokerData");
+//            TableAndChartsViewer dataTabs = gui.getDataTabs();
+//            new ExcelExporter(dataTabs.getDataTables(), "AllPokerData");
 
         } if (e.getSource() == save3) {
             // SAVE My HANDS ONLY
-            TableAndChartsViewer dataTabs = gui.getDataTabs();
-            new ExcelExporter(dataTabs.getDataTables(), "MyPokerData");
+//            TableAndChartsViewer dataTabs = gui.getDataTabs();
+//            new ExcelExporter(dataTabs.getDataTables(), "MyPokerData");
 
         } else if (e.getSource() == profitSort) {
             isProfitSorted = ! isProfitSorted;
             histories.getActiveTable().sortByProfit();
         } else if (e.getSource() == dashBoardView){
             List<Report> reports = new ArrayList<Report>();
-
-            for (DataTable table : gui.getDataTabs().getTables().values()){
-                Iterator it = table.getChartReports().iterator();
-                while (it.hasNext()){
-                    for (Report report : ((ChartReports)it.next()).getReports()){
-                        reports.add(report);
-                    }
-                }
-            }
+//
+//            for (DataTable table : gui.getDataTabs().getTables().values()){
+//                Iterator it = table.getChartReports().iterator();
+//                while (it.hasNext()){
+//                    for (Report report : ((ChartReports)it.next()).getReports()){
+//                        reports.add(report);
+//                    }
+//                }
+//            }
 
             new SummaryReport(reports);
         }
@@ -185,38 +191,18 @@ public class MenuBar extends JMenuBar implements ActionListener {
      * @param file
      */
     public void beginImport(File  file){
-        String fileName = getFileName(file);
         try {
-            if(!histories.contains(fileName)){
-                FileImporter f = new FileImporter(file, histories, fileName);
-            }
+            fileImporter.importFile(file);
         } catch (Exception ex) {
             ex.printStackTrace();
         }
         //StatsHolder.outputResults();
     }
 
-    /**
-     * extracts the file name only (minus the '.txt' file extension)
-     * @param file
-     * @return
-     */
-    public String getFileName(File file){
-        //System.out.println(file.getName());
-        String fileName = file.getName();
-        if (fileName.contains(".txt")){
-            fileName = file.getName().substring(0, file.getName().length()-4);
-        }
-        return fileName;
-    }
-
-
-
     public List<File> getFilesToProcess(File file){
         List<File> fileList = getFileList(file, null);
         return fileList;
     }
-
 
     /**
      * recursively populate the fileList variable
@@ -250,7 +236,7 @@ public class MenuBar extends JMenuBar implements ActionListener {
     public void openFile(final Component component){
 
         JFileChooser fc;
-        String last_dir= "C:\\";
+        String last_dir= System.getenv("HOME");
 
         if(props != null){
             last_dir =  props.getProperty(LAST_DIR);
@@ -292,7 +278,7 @@ public class MenuBar extends JMenuBar implements ActionListener {
         } else {
             String msg = "You have already imported this file.\n\nUse the 'monitor' menu item (not implemented yet) to initiate a " +
                     "live monitoring session\nfor the hand history."; // TODO - present them with yes/no option to enable the option here
-            JOptionPane.showMessageDialog(gui.getFrame(), msg, "Already exists", JOptionPane.WARNING_MESSAGE);
+//            JOptionPane.showMessageDialog(gui.getFrame(), msg, "Already exists", JOptionPane.WARNING_MESSAGE);
         }
     }
 
@@ -325,7 +311,7 @@ public class MenuBar extends JMenuBar implements ActionListener {
                         percentComplete = 0;
                     }
 
-                    gui.getStatusBar().getProgressBar().setValue(percentComplete);
+//                    gui.getStatusBar().getProgressBar().setValue(percentComplete);
 
                     beginImport(fileList.get(i));
 
@@ -341,16 +327,16 @@ public class MenuBar extends JMenuBar implements ActionListener {
                     String avgTimeLeft = (avgTimePerFile * (fileList.size() - 1 - i) / 1000) + "";
 
                     String approxTimeLeft = ", approx. " + avgTimeLeft + "s remaining";
-                    gui.getStatusBar().timeToProcess(processingTime + approxTimeLeft);
+//                    gui.getStatusBar().timeToProcess(processingTime + approxTimeLeft);
                 }
-                gui.getStatusBar().timeToProcess("Processing Completed in ("
-                                   + ((System.currentTimeMillis() - start) / 1000) +"s)");
+//                gui.getStatusBar().timeToProcess("Processing Completed in ("
+//                                   + ((System.currentTimeMillis() - start) / 1000) +"s)");
             }
         }
 
         protected void done()
         {
-            gui.getFrame().revalidate();
+//            gui.getFrame().revalidate();
         }
     }
 }

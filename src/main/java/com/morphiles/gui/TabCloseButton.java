@@ -1,17 +1,28 @@
 package com.morphiles.gui;
 
-import javax.imageio.ImageIO;
-import javax.swing.*;
-import javax.swing.plaf.basic.BasicButtonUI;
-import java.awt.*;
-import java.awt.event.*;
+import java.awt.Component;
+import java.awt.Font;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 import java.awt.image.WritableRaster;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
-import org.springframework.beans.factory.annotation.Autowired;
+import javax.imageio.ImageIO;
+import javax.swing.AbstractButton;
+import javax.swing.BorderFactory;
+import javax.swing.Icon;
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
+import javax.swing.plaf.basic.BasicButtonUI;
 
 /**
  * Created with IntelliJ IDEA.
@@ -25,9 +36,6 @@ public class TabCloseButton extends JPanel implements ActionListener {
     private String name;
     private JTabbedPane pane;
     private JButton closeButton;
-
-    @Autowired
-    GuiFrame gui;
 
     public TabCloseButton(String name, JTabbedPane pane){
         super();
@@ -78,7 +86,7 @@ public class TabCloseButton extends JPanel implements ActionListener {
           if (e.getSource().equals(closeButton)){
                 int i = pane.indexOfTabComponent(TabCloseButton.this);
               if (i!=-1){
-                  gui.removeTabsFor(name);
+//                  gui.removeTabsFor(name);
                   //pane.remove(i);
               }
 

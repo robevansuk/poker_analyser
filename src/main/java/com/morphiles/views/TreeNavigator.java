@@ -1,7 +1,5 @@
 package com.morphiles.views;
 
-
-import com.morphiles.gui.GuiFrame;
 import java.awt.Component;
 import java.awt.Dimension;
 import java.util.Enumeration;
@@ -15,14 +13,12 @@ import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeCellRenderer;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreePath;
-import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author robevans
+ * Menu for displaying/navigating the hand histories in a more orderly fashion
  */
-public enum TreeNavigator {
-
-    INSTANCE;
+@org.springframework.stereotype.Component
+public class TreeNavigator {
 
     private JScrollPane scrollPane;
 
@@ -33,10 +29,8 @@ public enum TreeNavigator {
     private static String CASH = "Cash/Ring";
     private static String TOURNAMENT = "Tournament";
 
-    @Autowired
-    GuiFrame gui;
 
-    public void init(){
+    public TreeNavigator(){
         scrollPane = new JScrollPane(getNavigationTree());
         scrollPane.setPreferredSize(new Dimension(300, scrollPane.getHeight()));
 
@@ -59,7 +53,9 @@ public enum TreeNavigator {
 
                 /* retrieve the node that was selected */
                 String tabName = (String) node.getUserObject();
-                gui.setActiveTab(tabName);
+//                if (gui != null) {
+//                    gui.setActiveTab(tabName);
+//                }
             }
         });
 

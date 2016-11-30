@@ -9,7 +9,9 @@ import javax.swing.JPanel;
 import javax.swing.JList;
 import javax.swing.JScrollPane;
 import javax.swing.ListModel;
+import org.springframework.stereotype.Component;
 
+@Component
 public class HandHistoryTab extends JPanel {
 	
 	private BorderLayout main = new BorderLayout();
@@ -22,9 +24,10 @@ public class HandHistoryTab extends JPanel {
 	 * This is then added to using addLine(final String line)
 	 * in a multithreaded manner.
 	 */
-	public HandHistoryTab(String name){
+	public HandHistoryTab(){
 		super();
 		setLayout(main);
+		String name = "default";
 		
 		models = new Hashtable<String, DefaultListModel>();
         models.put(name, new DefaultListModel());

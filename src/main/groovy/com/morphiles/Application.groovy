@@ -1,15 +1,13 @@
 package com.morphiles
 
+import com.morphiles.gui.GuiFrame
 import org.springframework.context.ApplicationContext
 import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.annotation.ComponentScan
-import org.springframework.context.annotation.Configuration
-
 /**
  * Main entry point for the application
  */
-@Configuration
-@ComponentScan
+@ComponentScan("com.morphiles")
 public class Application {
 
   /**
@@ -22,6 +20,8 @@ public class Application {
    */
   public static void main(String[] args) {
     ApplicationContext context =  new AnnotationConfigApplicationContext(Application.class);
+    GuiFrame gui = context.getBean(GuiFrame.class);
+    gui.setupDisplay()
   }
 }
 
