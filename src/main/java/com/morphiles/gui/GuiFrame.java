@@ -16,25 +16,29 @@ public class GuiFrame extends JFrame {
     private BorderLayout borderLayout = new BorderLayout();
     private JSplitPane splitPane;
 
-    private JStatusBar statusBar;
-
-    private MenuBar menubar;
-
     private final static int GUI_WIDTH = 1200;
     private final static int GUI_HEIGHT = 700;
     private String label;
 
-    @Autowired
-    private TreeNavigator treeNavigator;
+    private final TreeNavigator treeNavigator;
+
+    private final TableAndChartsViewer datTabs;
+
+    private final HandHistoryTabs hhTabs;
+
+    private final JStatusBar statusBar;
+
+    private final MenuBar menubar;
 
     @Autowired
-    TableAndChartsViewer datTabs;
-
-    @Autowired
-    HandHistoryTabs hhTabs;
-
-    public GuiFrame(){
+    public GuiFrame(HandHistoryTabs hhTabs, TableAndChartsViewer datTabs, TreeNavigator treeNavigator, JStatusBar statusBar, MenuBar menuBar){
         super("PokerAnalyser");
+        this.hhTabs = hhTabs;
+        this.datTabs = datTabs;
+        this.treeNavigator = treeNavigator;
+        this.statusBar = statusBar;
+        this.menubar = menuBar;
+        setupDisplay();
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(GUI_WIDTH, GUI_HEIGHT);
         this.setVisible(true);
@@ -44,7 +48,6 @@ public class GuiFrame extends JFrame {
      * Sets up the initial display
      */
     public void setupDisplay(){
-        this.treeNavigator = new TreeNavigator();
         this.setLayout(borderLayout);
 
         addSplitPanes(datTabs, hhTabs);
@@ -74,7 +77,6 @@ public class GuiFrame extends JFrame {
     }
 
     public void addStatusBar(String position){
-        statusBar = new JStatusBar("Poker Analyser", "File > Open > Select a file/folder of hand histories to get started!");
         this.add(statusBar, position);
     }
 
@@ -82,17 +84,7 @@ public class GuiFrame extends JFrame {
      * Adds the menu bar to the GUI
      */
     public void addMenuBar(){
-        menubar = new MenuBar();
         this.setJMenuBar(menubar);
-    }
-
-
-    public JStatusBar getStatusBar(){
-        return statusBar;
-    }
-
-    public JFrame getFrame(){
-        return this;
     }
 
 }

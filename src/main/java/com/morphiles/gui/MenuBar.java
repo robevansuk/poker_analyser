@@ -1,8 +1,12 @@
 package com.morphiles.gui;
 
+import com.morphiles.export.ExcelExporter;
 import com.morphiles.importer.FileImporter;
 import com.morphiles.models.reports.Report;
 import com.morphiles.models.reports.SummaryReport;
+import com.morphiles.views.DataTable;
+import com.morphiles.views.JStatusBar;
+import com.morphiles.views.TableAndChartsViewer;
 import java.awt.Component;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -11,6 +15,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 import javax.swing.JFileChooser;
@@ -24,7 +29,6 @@ import org.springframework.beans.factory.annotation.Autowired;
  * A menu bar for accessing operational functions for the analyser
  * e.g. save/export/import, etc.
  */
-@org.springframework.stereotype.Component
 public class MenuBar extends JMenuBar implements ActionListener {
 
     private JMenu file;
@@ -49,14 +53,19 @@ public class MenuBar extends JMenuBar implements ActionListener {
     private static final String LAST_DIR = "last_dir_accessed";
     private static final String PROPS_FILE = "config.props";
 
-    @Autowired
-    HandHistoryTabs histories;
+    private HandHistoryTabs histories;
+    private FileImporter fileImporter;
+    private TableAndChartsViewer datTabs;
+    private JStatusBar statusBar;
 
     @Autowired
-    FileImporter fileImporter;
-
-    public MenuBar(){
+    public MenuBar(HandHistoryTabs histories, TableAndChartsViewer datTabs, JStatusBar statusBar, FileImporter fileImporter){
         super();
+        this.histories = histories;
+        this.datTabs = datTabs;
+        this.statusBar = statusBar;
+        this.fileImporter = fileImporter;
+
         loadProperties();
 
         file = new JMenu("File");
@@ -149,36 +158,33 @@ public class MenuBar extends JMenuBar implements ActionListener {
 
         } if (e.getSource() == save1) {
             // SAVE ACTIVE TAB
-//            TableAndChartsViewer dataTabs = gui.getDataTabs();
-//            String tableName = dataTabs.getSelectedTableName();
-//            DataTable table = dataTabs.getSelectedTable();
+            String tableName = datTabs.getSelectedTableName();
+            DataTable table = datTabs.getSelectedTable();
 
-//            new ExcelExporter(table.getModel(), tableName);
+            new ExcelExporter(table.getModel(), tableName);
 
         } if (e.getSource() == save2) {
             // SAVE ALL TABS
-//            TableAndChartsViewer dataTabs = gui.getDataTabs();
-//            new ExcelExporter(dataTabs.getDataTables(), "AllPokerData");
+            new ExcelExporter(datTabs.getDataTables(), "AllPokerData");
 
         } if (e.getSource() == save3) {
             // SAVE My HANDS ONLY
-//            TableAndChartsViewer dataTabs = gui.getDataTabs();
-//            new ExcelExporter(dataTabs.getDataTables(), "MyPokerData");
+            new ExcelExporter(datTabs.getDataTables(), "MyPokerData");
 
         } else if (e.getSource() == profitSort) {
             isProfitSorted = ! isProfitSorted;
             histories.getActiveTable().sortByProfit();
         } else if (e.getSource() == dashBoardView){
             List<Report> reports = new ArrayList<Report>();
-//
-//            for (DataTable table : gui.getDataTabs().getTables().values()){
-//                Iterator it = table.getChartReports().iterator();
-//                while (it.hasNext()){
-//                    for (Report report : ((ChartReports)it.next()).getReports()){
-//                        reports.add(report);
-//                    }
-//                }
-//            }
+
+            for (DataTable table : datTabs.getTables().values()){
+                Iterator it = table.getChartReports().iterator();
+                while (it.hasNext()){
+                    for (Report report : ((ChartReports)it.next()).getReports()){
+                        reports.add(report);
+                    }
+                }
+            }
 
             new SummaryReport(reports);
         }
@@ -247,7 +253,6 @@ public class MenuBar extends JMenuBar implements ActionListener {
         } else {
             fc = new JFileChooser();
         }
-        // int returnVal = fc.showOpenDialog(this);
         fc.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
         int returnVal = fc.showOpenDialog(component);
 
@@ -311,11 +316,11 @@ public class MenuBar extends JMenuBar implements ActionListener {
                         percentComplete = 0;
                     }
 
-//                    gui.getStatusBar().getProgressBar().setValue(percentComplete);
+                    statusBar.getProgressBar().setValue(percentComplete);
 
                     beginImport(fileList.get(i));
 
-                    //gui.getDataTabs().getSelectedTable().getJTable().repaint();
+                    datTabs.getSelectedTable().getJTable().repaint();
 
                     System.out.println("Imported: " + i + "/" + fileListSize +
                             ", " + percentComplete + "% ");
@@ -327,16 +332,16 @@ public class MenuBar extends JMenuBar implements ActionListener {
                     String avgTimeLeft = (avgTimePerFile * (fileList.size() - 1 - i) / 1000) + "";
 
                     String approxTimeLeft = ", approx. " + avgTimeLeft + "s remaining";
-//                    gui.getStatusBar().timeToProcess(processingTime + approxTimeLeft);
+                    statusBar.timeToProcess(processingTime + approxTimeLeft);
                 }
-//                gui.getStatusBar().timeToProcess("Processing Completed in ("
-//                                   + ((System.currentTimeMillis() - start) / 1000) +"s)");
+                statusBar.timeToProcess("Processing Completed in ("
+                                   + ((System.currentTimeMillis() - start) / 1000) +"s)");
             }
         }
 
         protected void done()
         {
-//            gui.getFrame().revalidate();
+//            getFrame().revalidate();
         }
     }
 }

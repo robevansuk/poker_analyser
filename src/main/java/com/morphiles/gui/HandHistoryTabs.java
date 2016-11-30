@@ -16,9 +16,9 @@ public class HandHistoryTabs extends JPanel {
 	
 	private BorderLayout layout = new BorderLayout();
 	
-	private JTabbedPane tabs;
-	private Hashtable<String, HandHistoryListTabs> histories = new Hashtable<>();
-	private Hashtable<String, DataTable> tables = new Hashtable<>();
+	private final JTabbedPane tabs;
+	private final Hashtable<String, HandHistoryListTabs> histories = new Hashtable<>();
+	private final Hashtable<String, DataTable> tables = new Hashtable<>();
 
     private int handId;
 
@@ -33,10 +33,8 @@ public class HandHistoryTabs extends JPanel {
      * right/wrong at some point in the future
      * TODO add highlighting to show good/bad actions - i.e. bet when ahead, check when behind.
 	 */
-	@Autowired
-	public HandHistoryTabs(TableAndChartsViewer datTabs){
+	public HandHistoryTabs(){
 		super();
-		this.datTabs = datTabs;
 
         String name = "default";
         this.setLayout(layout);
@@ -79,13 +77,13 @@ public class HandHistoryTabs extends JPanel {
         if (histories!=null || histories.size()>0){
 		    return histories.get(name);
         } else {
-            throw new NullPointerException();
+            throw new NullPointerException("HandHistory missing");
         }
 	}
 
     public boolean contains(String name) throws NullPointerException {
         if (histories!=null || histories.size()>0){
-            return (histories.containsKey(name) ? true : false);
+            return histories.containsKey(name);
         } else {
             throw new NullPointerException("Histories is either initialised or empty.");
         }

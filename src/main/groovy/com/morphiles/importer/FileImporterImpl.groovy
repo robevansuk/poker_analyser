@@ -23,8 +23,6 @@ public class FileImporterImpl implements FileImporter {
   FileInputStream fstream
   DataInputStream inputStream
 
-  public FileImporterImpl() { }
-
   /**
    * imports a file's hand history contents
    * @param file

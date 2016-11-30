@@ -2,14 +2,15 @@ package com.morphiles.views;
 
 import com.morphiles.images.ResizeIcon;
 import com.morphiles.images.SeparatorPanel;
-
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Graphics;
-
-import javax.swing.*;
+import javax.swing.JComponent;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JProgressBar;
 
 public class JStatusBar extends JPanel {
 
