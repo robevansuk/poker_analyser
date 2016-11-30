@@ -66,8 +66,8 @@ public class HandHistoryTabs extends JPanel {
             tables.put(name, datTabs.addNewTable(name, histories.get(name)));
 
             tabs.add(name, histories.get(name));
-            tabs.getComponentAt(tabs.getTabCount() - 1).setName(name);
-            tabs.setTabComponentAt(histories.size() - 1, new TabCloseButton(name, tabs));
+            tabs.getComponentAt(tabs.getTabCount()-1).setName(name);
+            tabs.setTabComponentAt(histories.size()-1, new TabCloseButton(name, tabs));
             return tables.get(name);
         }
         return null;
